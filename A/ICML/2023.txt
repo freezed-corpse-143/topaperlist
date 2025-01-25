@@ -1,0 +1,1829 @@
+International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA.
+Data Structures for Density Estimation.
+ClusterFuG: Clustering Fully connected Graphs by Multicut.
+Generalization on the Unseen, Logic Reasoning and Degree Curriculum.
+Toward Large Kernel Models.
+Expertise Trees Resolve Knowledge Limitations in Collective Decision-Making.
+Comparison of meta-learners for estimating multi-valued treatment heterogeneous effects.
+BNN-DP: Robustness Certification of Bayesian Neural Networks via Dynamic Programming.
+SAM operates far from home: eigenvalue regularization as a dynamical phenomenon.
+Second-order regression models exhibit progressive sharpening to the edge of stability.
+Global optimality of Elman-type RNNs in the mean-field regime.
+SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification.
+Adaptive IMLE for Few-shot Pretraining-free Generative Modelling.
+Scaling Laws for Generative Mixed-Modal Language Models.
+Hypothesis Transfer Learning with Surrogate Classification Losses: Generalization Bounds through Algorithmic Stability.
+Constrained Causal Bayesian Optimization.
+Explaining the effects of non-convergent MCMC in the training of Energy-Based Models.
+Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies.
+Interventional Causal Representation Learning.
+Sequential Underspecified Instrument Selection for Cause-Effect Estimation.
+Atari-5: Distilling the Arcade Learning Environment down to Five Games.
+Towards credible visual model interpretation with path attribution.
+Convergence of First-Order Methods for Constrained Nonconvex Optimization with Dependent Data.
+Recasting Self-Attention with Holographic Reduced Representations.
+The Saddle-Point Method in Differential Privacy.
+Nonlinear Advantage: Trained Networks Might Not Be As Complex as You Think.
+A Simple Zero-shot Prompt Weighting Technique to Improve Prompt Ensembling in Text-Image Models.
+On the Privacy-Robustness-Utility Trilemma in Distributed Learning.
+Differentially Private Distributed Bayesian Linear Regression with MCMC.
+Robust and Scalable Bayesian Online Changepoint Detection.
+Neural Wasserstein Gradient Flows for Discrepancies with Riesz Kernels.
+Distributed Contextual Linear Bandits with Minimax Optimal Communication Cost.
+A Kernelized Stein Discrepancy for Biological Sequences.
+The Optimal Approximation Factors in Misspecified Off-Policy Value Function Estimation.
+Meta Optimal Transport.
+Near-Optimal Φ-Regret Learning in Extensive-Form Games.
+A Modern Look at the Relationship between Sharpness and Generalization.
+SGD with Large Step Sizes Learns Sparse Features.
+Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series.
+Paging with Succinct Predictions.
+Mixing Predictions for Online Metric Algorithms.
+Exponential Smoothing for Off-Policy Learning.
+Polynomial Time and Private Learning of Unbounded Gaussian Mixture Models.
+Principled Acceleration of Iterative Numerical Methods Using Machine Learning.
+Faster Rates of Convergence to Stationary Points in Differentially Private Optimization.
+Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning.
+Near-Optimal Algorithms for Private Online Optimization in the Realizable Regime.
+From Robustness to Privacy and Back.
+SGD with AdaGrad Stepsizes: Full Adaptivity with High Probability to Unknown Parameters, Unbounded Gradients and Affine Variance.
+Adversarially Robust PAC Learnability of Real-Valued Functions.
+Infusing Lattice Symmetry Priors in Attention Mechanisms for Sample-Efficient Abstract Geometric Reasoning.
+Learning to Initiate and Reason in Event-Driven Cascading Processes.
+On the convergence of the MLE as an estimator of the learning rate in the Exp3 algorithm.
+Dirichlet Diffusion Score Model for Biological Sequence Generation.
+Gradient Descent Converges Linearly for Logistic Regression on Separable Data.
+Naive imputation implicitly regularizes high-dimensional linear models.
+Half-Hop: A graph upsampling approach for slowing down message passing.
+CLUTR: Curriculum Learning via Unsupervised Task Representation Learning.
+Personalized Subgraph Federated Learning.
+Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language.
+Efficient preconditioned stochastic gradient descent for estimation in latent variable models.
+Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection.
+Answering Complex Logical Queries on Knowledge Graphs via Query Computation Tree Optimization.
+Linear optimal partial transport embedding.
+Implicit Graph Neural Networks: A Monotone Operator Viewpoint.
+Tensor Decompositions Meet Control Theory: Learning General Mixtures of Linear Dynamical Systems.
+Block Subsampled Randomized Hadamard Transform for Nyström Approximation on Distributed Architectures.
+Efficient Online Reinforcement Learning with Offline Data.
+Mirror Sinkhorn: Fast Online Optimization on Transport Polytopes.
+On the Functional Similarity of Robust and Non-Robust Neural Representations.
+Robust Budget Pacing with a Single Sample.
+Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time.
+One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale.
+Optimizing the Collaboration Structure in Cross-Silo Federated Learning.
+MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation.
+Reinforcement Learning with General Utilities: Simpler Variance Reduction and Large State-Action Space.
+Interpretable Neural-Symbolic Concept Reasoning.
+Moccasin: Efficient Tensor Rematerialization for Neural Networks.
+User-level Private Stochastic Convex Optimization with Optimal Rates.
+A Statistical Perspective on Retrieval-Based Models.
+Human-Timescale Adaptation in an Open-Ended Task Space.
+A Kernel Stein Test of Goodness of Fit for Sequential Models.
+Individually Fair Learning with One-Sided Feedback.
+Predicting Ordinary Differential Equations with Transformers.
+Explaining Reinforcement Learning with Shapley Values.
+TIDE: Time Derivative Diffusion for Deep Learning on Graphs.
+Fast as CHITA: Neural Network Pruning with Combinatorial Optimization.
+Continuously Parameterized Mixture Models.
+Controllable Neural Symbolic Regression.
+On Second-Order Scoring Rules for Epistemic Uncertainty Quantification.
+Certified Robust Neural Networks: Generalization and Corruption Resistance.
+Gaussian processes at the Helm(holtz): A more fluid model for ocean currents.
+Optimal Rates and Efficient Algorithms for Online Bayesian Persuasion.
+Constrained Phi-Equilibria.
+Differentiable and Transportable Structure Learning.
+Polyhedral Complex Extraction from ReLU Networks using Edge Subdivision.
+Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks.
+Neural Algorithmic Reasoning with Causal Regularisation.
+Optimally-weighted Estimators of the Maximum Mean Discrepancy for Likelihood-Free Inference.
+Bandit Online Linear Optimization with Hints and Queries.
+Improved Online Conformal Prediction via Strongly Adaptive Online Learning.
+Data-Copying in Generative Models: A Formal Framework.
+Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling.
+StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes.
+Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion.
+In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation.
+Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames.
+Understanding Oversquashing in GNNs through the Lens of Effective Resistance.
+Unit Scaling: Out-of-the-Box Low-Precision Training.
+FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems.
+Not all Strongly Rayleigh Distributions Have Small Probabilistic Generating Circuits.
+Learning the Dynamics of Sparsely Observed Interacting Systems.
+Subset Selection Based On Multiple Rankings in the Presence of Bias: Effectiveness of Fairness Constraints for Multiwinner Voting Score Functions.
+Properties of the Mallows Model Depending on the Number of Alternatives: A Warning for an Experimentalist.
+A Robust Optimisation Perspective on Counterexample-Guided Repair of Neural Networks.
+Beyond the Universal Law of Robustness: Sharper Laws for Random Features and Neural Tangent Kernels.
+Sliced-Wasserstein on Symmetric Positive Definite Matrices for M/EEG Signals.
+Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere.
+The Regret of Exploration and the Control of Bad Episodes in Reinforcement Learning.
+Model-agnostic Measure of Generalization Difficulty.
+Returning The Favour: When Regression Benefits From Probabilistic Causal Knowledge.
+In Search for a Generalizable Method for Source Free Domain Adaptation.
+Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling.
+Diffusion Models as Artists: Are we Closing the Gap between Humans and Machines?
+Settling the Reward Hypothesis.
+ILLUME: Rationalizing Vision-Language Models through Human Interactions.
+Provably Learning Object-Centric Representations.
+Quantifying Human Priors over Social and Navigation Networks.
+Critical Points and Convergence Analysis of Generative Deep Linear Networks Trained with Bures-Wasserstein Loss.
+Emergence of Sparse Representations from Noise.
+Differentially Private Optimization on Large Model at Small Cost.
+Machine Learning Force Fields with Data Cost Aware Training.
+Label differential privacy and private training data release.
+The SSL Interplay: Augmentations, Inductive Bias, and Generalization.
+Online Mechanism Design for Information Acquisition.
+MyoDex: A Generalizable Prior for Dexterous Manipulation.
+What Can Be Learnt With Wide Convolutional Neural Networks?
+Causal Discovery with Latent Confounders Based on Higher-Order Cumulants.
+On the Connection Between MPNN and Graph Transformer.
+Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.
+Extrapolated Random Tree for Regression.
+Cyclic Block Coordinate Descent With Variance Reduction for Composite Nonconvex Optimization.
+Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?
+Doubly Optimal No-Regret Learning in Monotone Games.
+Multi-Agent Learning from Learners.
+Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network.
+Variational Sparse Inverse Cholesky Approximation for Latent Gaussian Processes via Double Kullback-Leibler Minimization.
+Learning Lightweight Object Detectors via Multi-Teacher Progressive Distillation.
+One-sided Matrix Completion from Two Observations Per Row.
+State and parameter learning with PARIS particle Gibbs.
+Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning.
+Stein Variational Goal Generation for adaptive Exploration in Multi-Goal Reinforcement Learning.
+Scalable Safe Policy Improvement via Monte Carlo Tree Search.
+LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning.
+On the Robustness of Text Vectorizers.
+Learning Globally Smooth Functions on Manifolds.
+Tighter Lower Bounds for Shuffling SGD: Random Permutations and Beyond.
+Orthogonality-Enforced Latent Space in Autoencoders: An Approach to Learning Disentangled Representations.
+STEERING : Stein Information Directed Exploration for Model-Based Reinforcement Learning.
+Thompson Sampling for High-Dimensional Sparse Linear Contextual Bandits.
+Representations and Exploration for Deep Reinforcement Learning using Singular Value Decomposition.
+Memory-Based Dual Gaussian Processes for Sequential Learning.
+Muse: Text-To-Image Generation via Masked Generative Transformers.
+On Investigating the Conservative Property of Score-Based Generative Models.
+Robust and private stochastic linear bandits.
+Streaming Submodular Maximization with Differential Privacy.
+Why does Throwing Away Data Improve Worst-Group Error?
+Collaborative Multi-Agent Heterogeneous Multi-Armed Bandits.
+Correcting discount-factor mismatch in on-policy policy gradient methods.
+Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+On the Statistical Benefits of Temporal Difference Learning.
+Multi-Layer Neural Networks as Trainable Ladders of Hilbert Spaces.
+Beyond the Edge of Stability via Two-step Gradient Updates.
+Trompt: Towards a Better Deep Neural Network for Tabular Data.
+Differentially Private Stochastic Convex Optimization under a Quantile Loss Function.
+Restoration-Degradation Beyond Linear Diffusions: A Non-Asymptotic Analysis For DDIM-type Samplers.
+Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation.
+ED-Batch: Efficient Automatic Batching of Dynamic Neural Networks via Learned Finite State Machines.
+Is Learning Summary Statistics Necessary for Likelihood-free Inference?
+Subequivariant Graph Reinforcement Learning in 3D Environments.
+GuardHFL: Privacy Guardian for Heterogeneous Federated Learning.
+Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling.
+Evolving Semantic Prototype Improves Generative Zero-Shot Learning.
+Explore and Exploit the Diverse Knowledge in Model Zoo for Domain Generalization.
+Decentralized Stochastic Bilevel Optimization with Improved per-Iteration Complexity.
+Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data.
+Sample Complexity of Probability Divergences under Group Symmetry.
+Improved Analysis of Score-based Generative Modeling: User-Friendly Bounds under Minimal Smoothness Assumptions.
+Bidirectional Looking with A Novel Double Exponential Moving Average to Adaptive and Non-adaptive Momentum Optimizers.
+HarsanyiNet: Computing Accurate Shapley Values in a Single Forward Propagation.
+Generalized Implicit Follow-The-Regularized-Leader.
+Fisher Information Embedding for Node and Graph Learning.
+Rethinking Visual Reconstruction: Experience-Based Content Completion Guided by Visual Cues.
+Stratified Adversarial Robustness with Rejection.
+Multi-task Hierarchical Adversarial Inverse Reinforcement Learning.
+Model Transferability with Responsive Decision Subjects.
+Layered State Discovery for Incremental Autonomous Exploration.
+Optimistic Online Mirror Descent for Bridging Stochastic and Adversarial Online Convex Optimization.
+Learning to Optimize Differentiable Games.
+Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets.
+Semi-Offline Reinforcement Learning for Optimized Text Generation.
+Lower Bounds for Learning in Revealing POMDPs.
+Implicit Neural Spatial Representations for Time-dependent PDEs.
+BEATs: Audio Pre-Training with Acoustic Tokenizers.
+Learning to Incentivize Information Acquisition: Proper Scoring Rules Meet Principal-Agent Model.
+Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization.
+Efficient Personalized Federated Learning via Sparse Model-Adaptation.
+A Gromov-Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening.
+How to address monotonicity for model risk management?
+Sketched Ridgeless Linear Regression: The Role of Downsampling.
+Context-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning.
+Bidirectional Learning for Offline Model-based Biological Sequence Design.
+Learning to Jump: Thinning and Thickening Latent Counts for Generative Modeling.
+Lifelong Language Pretraining with Distribution-Specialized Experts.
+Generalized-Smooth Nonconvex Optimization is As Efficient As Smooth Nonconvex Optimization.
+Weakly Supervised Regression with Interval Targets.
+PLay: Parametrically Conditioned Layout Generation using Latent Diffusion.
+Identification of the Adversary from a Single Adversarial Example.
+Parallel Online Clustering of Bandits via Hedonic Game.
+Mu2SLAM: Multitask, Multilingual Speech and Language Models.
+Understanding the Role of Feedback in Online Learning with Switching Costs.
+Tighter Bounds on the Expressivity of Transformer Encoders.
+Provably Learning Diverse Features in Multi-View Data with Midpoint Mixup.
+Hiding Data Helps: On the Benefits of Masking for Sparse Coding.
+PINA: Leveraging Side Information in eXtreme Multi-label Classification via Predicted Instance Neighborhood Aggregation.
+Tight Certification of Adversarially Trained Neural Networks via Nonconvex Low-Rank Semidefinite Relaxations.
+Neural Latent Aligner: Cross-trial Alignment for Learning Representations of Complex, Naturalistic Neural Data.
+On the Convergence of Federated Averaging with Cyclic Client Participation.
+GREAD: Graph Neural Reaction-Diffusion Networks.
+Is Overfitting Necessary for Implicit Video Representation?
+Semi-Parametric Contextual Pricing Algorithm using Cox Proportional Hazards Model.
+Restoration based Generative Models.
+Concept-based Explanations for Out-of-Distribution Detectors.
+Active causal structure learning with advice.
+New metrics and search algorithms for weighted causal DAGs.
+Computational Doob h-transforms for Online Filtering of Discretely Observed Diffusions.
+Multi-Epoch Matrix Factorization Mechanisms for Private Machine Learning.
+Taming graph kernels with random features.
+Efficient Graph Field Integrators Meet Point Clouds.
+ContraBAR: Contrastive Bayes-Adaptive Deep RL.
+Forget Unlearning: Towards True Data-Deletion in Machine Learning.
+Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks.
+What do CNNs Learn in the First Layer and Why? A Linear Systems Perspective.
+Unifying Molecular and Textual Representations via Multi-task Language Modelling.
+Wasserstein Barycenter Matching for Graph Size Generalization of Message Passing Neural Networks.
+Shape-Guided Dual-Memory Learning for 3D Anomaly Detection.
+Multiply Robust Off-policy Evaluation and Learning under Truncation by Death.
+InfoOT: Information Maximizing Optimal Transport.
+A Toy Model of Universality: Reverse Engineering how Networks Learn Group Operations.
+Distribution Free Prediction Sets for Node Classification.
+Sequential Strategic Screening.
+Few-Sample Feature Selection via Feature Manifold Learning.
+Spatial Implicit Neural Representations for Global-Scale Species Mapping.
+K-SHAP: Policy Clustering Algorithm for Anonymous Multi-Agent State-Action Pairs.
+Inferring Relational Potentials in Interacting Systems.
+Task-specific experimental design for treatment effect estimation.
+A Mathematical Model for Curriculum Learning for Parities.
+Learning to Maximize Mutual Information for Dynamic Feature Selection.
+Rethinking Weak Supervision in Helping Contrastive Learning.
+Bayes-optimal Learning of Deep Random Networks of Extensive-width.
+A General Representation Learning Framework with Generalization Performance Guarantees.
+IRNeXt: Rethinking Convolutional Network Design for Image Restoration.
+Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory.
+Learning Dynamic Query Combinations for Transformer-based Object Detection and Segmentation.
+Adaptive Identification of Populations with Treatment Benefit in Clinical Trials: Machine Learning Challenges and Solutions.
+In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation.
+Optimal Stochastic Non-smooth Non-convex Optimization through Online-to-Non-convex Conversion.
+Monge, Bregman and Occam: Interpretable Optimal Transport in High-Dimensions with Feature-Sparse Maps.
+From Noisy Fixed-Point Iterations to Private ADMM for Centralized and Federated Learning.
+Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning.
+Refined Regret for Adversarial MDPs with Linear Function Approximation.
+MultiRobustBench: Benchmarking Robustness Against Multiple Attacks.
+Moderately Distributional Exploration for Domain Generalization.
+Trajectory-Aware Eligibility Traces for Off-Policy Reinforcement Learning.
+Efficient displacement convex optimization with particle gradient descent.
+Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation.
+Neural Collapse in Deep Linear Networks: From Balanced to Imbalanced Data.
+Reinforcement Learning Can Be More Efficient with Multiple Rewards.
+Best of Both Worlds Policy Optimization.
+Image generation with shortest path diffusion.
+Efficient List-Decodable Regression using Batches.
+Beyond Uniform Lipschitz Condition in Differentially Private Optimization.
+Understanding Self-Distillation in the Presence of Label Noise.
+Interval Bound Interpolation for Few-shot Learning with Few Tasks.
+Hypervolume Knowledge Gradient: A Lookahead Approach for Multi-Objective Bayesian Optimization with Partial Information.
+Fast Combinatorial Algorithms for Min Max Correlation Clustering.
+Predictive Flows for Faster Ford-Fulkerson.
+The Persistent Laplacian for Data Science: Evaluating Higher-Order Persistent Spectral Representations of Data.
+Mitigating Propagation Failures in Physics-informed Neural Networks using Retain-Resample-Release (R3) Sampling.
+On the Robustness of Randomized Ensembles to Adversarial Perturbations.
+Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute.
+Continuous Spatiotemporal Transformer.
+The Value of Out-of-Distribution Data.
+High Fidelity Image Counterfactuals with Probabilistic Causal Models.
+Learning Noisy OR Bayesian Networks with Max-Product Belief Propagation.
+Learning-Rate-Free Learning by D-Adaptation.
+Scaling Vision Transformers to 22 Billion Parameters.
+Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration.
+Blossom: an Anytime Algorithm for Computing Optimal Decision Trees.
+Optimizing NOTEARS Objectives via Topological Swaps.
+Uncertainty Estimation by Fisher Information-based Evidential Deep Learning.
+Multi-channel Autobidding with Budget and ROI Constraints.
+Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks.
+Confidence and Dispersity Speak: Characterizing Prediction Matrix for Unsupervised Accuracy Estimation.
+Great Models Think Alike: Improving Model Reliability via Inter-Model Latent Agreement.
+Hyperbolic Image-text Representations.
+Hardware-Aware Compression with Random Operation Access Specific Tile (ROAST) Hashing.
+The case for 4-bit precision: k-bit Inference Scaling Laws.
+Fairness in Matching under Uncertainty.
+Efficient Parametric Approximations of Neural Network Function Space Distance.
+A Large-Scale Study of Probabilistic Calibration in Neural Network Regression.
+Nearly Minimax Optimal Regret for Learning Linear Mixture Stochastic Shortest Path.
+On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology.
+Nearly-Linear Time and Streaming Algorithms for Outlier-Robust PCA.
+Near-Optimal Cryptographic Hardness of Agnostically Learning Halfspaces and ReLU Regression under Gaussian Marginals.
+Improving Graph Generation by Restricting Graph Bandwidth.
+Forward-Backward Gaussian Variational Inference via JKO in the Bures-Wasserstein Space.
+Subset-Based Instance Optimality in Private Estimation.
+Pareto Manifold Learning: Tackling multiple tasks via ensembles of single-task models.
+Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models.
+DSGD-CECA: Decentralized SGD with Communication-Optimal Exact Consensus Algorithm.
+Open-Vocabulary Universal Image Segmentation with MaskCLIP.
+Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning.
+PixelAsParam: A Gradient View on Diffusion Sampling with Guidance.
+Second-Order Optimization with Lazy Hessians.
+Polynomial Preconditioning for Gradient Methods.
+On Data Manifolds Entailed by Structural Causal Models.
+Towards Understanding and Reducing Graph Structural Noise for GNNs.
+SpeedDETR: Speed-aware Transformers for End-to-end Object Detection.
+Understand and Modularize Generator Optimization in ELECTRA-style Pretraining.
+Diversity-enhancing Generative Network for Few-shot Hypothesis Adaptation.
+PASTA: Pessimistic Assortment Optimization.
+Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift.
+Does Sparsity Help in Learning Misspecified Linear Bandits?
+Symmetry-Aware Robot Design with Structured Subgroups.
+DoCoFL: Downlink Compression for Cross-Device Federated Learning.
+Meta-Learning the Inductive Bias of Simple Neural Circuits.
+Self-Repellent Random Walks on General Graphs - Achieving Minimal Sampling Variance via Nonlinear Markov Chains.
+Linear Time GPs for Inferring Latent Trajectories from Neural Spike Trains.
+On the Convergence Rate of Gaussianization with Random Rotations.
+PaLM-E: An Embodied Multimodal Language Model.
+Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC.
+Multi-task Representation Learning for Pure Exploration in Linear Bandits.
+Nonparametric Generative Modeling with Conditional Sliced-Wasserstein Flows.
+Subsample Ridge Ensembles: Equivalences and Generalized Cross-Validation.
+On Uni-Modal Feature Learning in Supervised Multi-Modal Learning.
+Guiding Pretraining in Reinforcement Learning with Large Language Models.
+A Flexible Diffusion Model.
+Fast Excess Risk Rates via Offset Rademacher Complexity.
+Are Diffusion Models Vulnerable to Membership Inference Attacks?
+Bayesian Progressive Deep Topic Model with Knowledge Informed Textual Data Coarsening Process.
+Are Equivariant Equilibrium Approximators Beneficial?
+Evaluating Self-Supervised Learning via Risk Decomposition.
+Fully Dynamic Submodular Maximization over Matroids.
+Optimal No-Regret Learning for One-Sided Lipschitz Functions.
+Integrating Prior Knowledge in Contrastive Learning with Kernel.
+Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows.
+Adaptive Whitening in Neural Populations with Gain-modulating Interneurons.
+Generalization Bounds using Data-Dependent Fractal Dimensions.
+Multi-Objective Population Based Training.
+Neural Diffusion Processes.
+FAENet: Frame Averaging Equivariant GNN for Materials Modeling.
+Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces.
+The Computational Complexity of Concise Hypersphere Classification.
+E(n) Equivariant Message Passing Simplicial Networks.
+Performative Recommendation: Diversifying Content via Strategic Incentives.
+Hyperparameters in Reinforcement Learning and How To Tune Them.
+Fairness in Streaming Submodular Maximization over a Matroid Constraint.
+Difference of submodular minimization via DC programming.
+Graph Positional Encoding via Random Feature Propagation.
+Improving Graph Neural Networks with Learnable Propagation Operators.
+Phase Transitions in the Detection of Correlated Databases.
+A new near-linear time algorithm for k-nearest neighbor search using a compressed cover tree.
+Motion Question Answering via Modular Motion Programs.
+Learning Perturbations to Explain Time Series Predictions.
+Regret Minimization and Convergence to Equilibria in General-sum Markov Games.
+Delayed Bandits: When Do Intermediate Observations Help?
+Scaling Spherical CNNs.
+Stochastic Gradient Descent under Markovian Sampling Schemes.
+Continual Learning in Linear Classification on Separable Data.
+A Connection between One-Step RL and Critic Regularization in Reinforcement Learning.
+Neural Status Registers.
+Learning Rate Schedules in the Presence of Distribution Shift.
+Predicting Rare Events by Shrinking Towards Proportional Odds.
+Free-Form Variational Inference for Gaussian Process State-Space Models.
+Optimizing DDPM Sampling with Shortcut Fine-Tuning.
+LSDS++ : Dual Sampling for Accelerated k-means++.
+Smart Initial Basis Selection for Linear Programs.
+General Covariance Data Augmentation for Neural PDE Solvers.
+The Fast Johnson-Lindenstrauss Transform Is Even Faster.
+Regression with Label Permutation in Generalized Linear Model.
+Robust Collaborative Learning with Linear Gradient Overhead.
+Neural FIM for learning Fisher information metrics from point cloud data.
+Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies.
+Parallel Neurosymbolic Integration with Concordia.
+Why Target Networks Stabilise Temporal Difference Methods.
+Weighted Sampling without Replacement for Deep Top-k Classification.
+Improved Online Learning Algorithms for CTR Prediction in Ad Auctions.
+Fractional Denoising for 3D Molecular Pre-training.
+Improved Algorithms for White-Box Adversarial Streams.
+Non-stationary Reinforcement Learning under General Function Approximation.
+Random Matrix Analysis to Balance between Supervised and Unsupervised Learning under the Low Density Separation Assumption.
+SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems.
+Scaling Laws for Multilingual Neural Machine Translation.
+Constant Matters: Fine-grained Error Bound on Differentially Private Continual Observation.
+Adapting to game trees in zero-sum imperfect information games.
+User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems.
+ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging.
+Explainable Data-Driven Optimization: From Context to Decision and Back Again.
+Hardness of Independent Learning and Sparse Equilibrium Computation in Markov Games.
+Disentangled Generative Models for Robust Prediction of System Dynamics.
+Can Forward Gradient Match Backpropagation?
+Last Switch Dependent Bandits with Monotone Payoff Functions.
+A Theoretical Analysis of the Learning Dynamics under Class Imbalance.
+SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot.
+Learning Temporally AbstractWorld Models without Online Experimentation.
+A Coupled Flow Approach to Imitation Learning.
+Simple Hardware-Efficient Long Convolutions for Sequence Modeling.
+MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Poses.
+Go Beyond Imagination: Maximizing Episodic Reachability with World Models.
+Specializing Smaller Language Models towards Multi-Step Reasoning.
+Accelerated Stochastic Optimization Methods under Quasar-convexity.
+Meta-learning Parameterized Skills.
+NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations.
+Hierarchies of Reward Machines.
+Why Random Pruning Is All We Need to Start Sparse.
+Cell-Free Latent Go-Explore.
+Graph Reinforcement Learning for Network Control via Bi-Level Optimization.
+Why Is Public Pretraining Necessary for Private Model Training?
+Do Perceptually Aligned Gradients Imply Robustness?
+Solving Linear Programs with Fast Online Learning Algorithms.
+Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks.
+Generalizing Neural Wave Functions.
+On the Impact of Algorithmic Recourse on Social Segregation.
+DDGR: Continual Learning with Deep Diffusion-based Generative Replay.
+PAL: Program-aided Language Models.
+Out-of-Domain Robustness via Targeted Augmentations.
+Scaling Laws for Reward Model Overoptimization.
+The Unreasonable Effectiveness of Few-shot Learning for Machine Translation.
+RLSbench: Domain Adaptation Under Relaxed Label Shift.
+RankMe: Assessing the Downstream Performance of Pretrained Self-Supervised Representations by Their Rank.
+Self-supervised learning of Split Invariant Equivariant representations.
+Federated Heavy Hitter Recovery under Linear Sketching.
+On the Global Convergence of Fitted Q-Iteration with Two-layer Neural Network Parametrization.
+A Reinforcement Learning Framework for Dynamic Mediation Analysis.
+Compositional Score Modeling for Simulation-Based Inference.
+Cramming: Training a Language Model on a single GPU in one day.
+Transformers Meet Directed Graphs.
+Memory-Based Meta-Learning on Non-Stationary Distributions.
+Towards Reliable Neural Specifications.
+Oracles & Followers: Stackelberg Equilibria in Deep Multi-Agent Reinforcement Learning.
+Approximately Optimal Core Shapes for Tensor Decompositions.
+GAT: Guided Adversarial Training with Pareto-optimal Auxiliary Tasks.
+On User-Level Private Convex Optimization.
+Contextual Reliability: When Different Features Matter in Different Contexts.
+Reinforcement Learning from Passive Data via Latent Intentions.
+Harmonic Neural Networks.
+Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat.
+Looped Transformers as Programmable Computers.
+Generalized Disparate Impact for Configurable Fairness Solutions in ML.
+Multicalibration as Boosting for Regression.
+Adversarial robustness of amortized Bayesian inference.
+Efficient RL via Disentangled Environment and Agent Representations.
+Aligning Language Models with Preferences through f-divergence Minimization.
+Robust Consensus in Ranking Data Analysis: Definitions, Properties and Computational Issues.
+Learning Distributions over Quantum Measurement Outcomes.
+Convergence of Proximal Point and Extragradient-Based Methods Beyond Monotonicity: the Case of Negative Comonotonicity.
+Adaptive Annealed Importance Sampling with Constant Rate Progress.
+Formalizing Preferences Over Runtime Distributions.
+Topological Point Cloud Clustering.
+On Sampling with Approximate Transport Maps.
+Hidden Symmetries of ReLU Networks.
+EF21-P and Friends: Improved Theoretical Communication Complexity for Distributed Optimization with Bidirectional Compression.
+NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion.
+DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design.
+On Excess Mass Behavior in Gaussian Mixture Models with Orlicz-Wasserstein Distances.
+Conformalization of Sparse Generalized Linear Models.
+Privacy-Aware Compression for Federated Learning Through Numerical Mechanism Design.
+Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships.
+FeDXL: Provable Federated Learning for Deep X-Risk Optimization.
+Provably Efficient Representation Learning with Tractable Planning in Low-Rank POMDP.
+Analyzing Privacy Leakage in Machine Learning via Multiple Hypothesis Testing: A Lesson From Fano.
+Linkless Link Prediction via Relational Distillation.
+FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction.
+Hierarchical Grammar-Induced Geometry for Data-Efficient Molecular Property Prediction.
+Graph Neural Networks with Learnable and Optimal Polynomial Bases.
+LongCoder: A Long-Range Pre-trained Language Model for Code Completion.
+Estimating Heterogeneous Treatment Effects: Mutual Information Bounds and Learning Algorithms.
+Identifying Useful Learnwares for Heterogeneous Label Spaces.
+High-dimensional Location Estimation via Norm Concentration for Subgamma Vectors.
+GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets.
+Online Platt Scaling with Calibeating.
+Multi-Task Structural Learning using Local Task Similarity induced Neuron Creation and Removal.
+Conditionally Strongly Log-Concave Generative Models.
+DRew: Dynamically Rewired Message Passing with Delay.
+Kernel Logistic Regression Approximation of an Understandable ReLU Neural Network.
+Conformal Prediction Sets for Graph Neural Networks.
+Social learning spontaneously emerges by searching optimal heuristics with deep reinforcement learning.
+Convex Geometry of ReLU-layers, Injectivity on the Ball and Local Reconstruction.
+Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees.
+Wrapped Cauchy Distributed Angular Softmax for Long-Tailed Visual Recognition.
+On the Impact of Knowledge Distillation for Model Interpretability.
+Alternately Optimized Graph Neural Networks.
+System Identification of Neural Systems: If We Got It Right, Would We Know?
+Total Variation Graph Neural Networks.
+Learning Physical Models that Can Respect Conservation Laws.
+On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline.
+Leveraging Demonstrations to Improve Online Learning: Quality Matters.
+Coupled Variational Autoencoder.
+GNOT: A General Neural Operator Transformer for Operator Learning.
+Algorithmic Collective Action in Machine Learning.
+Gaussian Process Priors for Systems of Linear Partial Differential Equations with Constant Coefficients.
+Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting.
+Global Context Vision Transformers.
+Counterfactual Analysis in Dynamic Latent State Models.
+Sampling-based Nyström Approximation and Kernel Quadrature.
+Width and Depth Limits Commute in Residual Networks.
+A Generalization of ViT/MLP-Mixer to Graphs.
+Domain Adaptation for Time Series Under Feature and Label Shifts.
+Contrastive Learning Meets Homophily: Two Birds with One Stone.
+Nearly Minimax Optimal Reinforcement Learning for Linear Markov Decision Processes.
+CRISP: Curriculum based Sequential neural decoders for Polar code family.
+Sketch-Flip-Merge: Mergeable Sketches for Private Distinct Counting.
+Functional Neural Networks: Shift invariant models for functional data with applications to EEG classification.
+Distance Weighted Supervised Learning for Offline Interaction Data.
+Group Equivariant Fourier Neural Operators for Partial Differential Equations.
+Training-Free Neural Active Learning with Initialization-Robustness Guarantees.
+A Study of Global and Episodic Bonuses for Exploration in Contextual MDPs.
+Robust Camera Pose Refinement for Multi-Resolution Hash Encoding.
+Generalized Teacher Forcing for Learning Chaotic Dynamics.
+Causal Modeling of Policy Interventions From Treatment-Outcome Sequences.
+Monotonicity and Double Descent in Uncertainty Estimation with Gaussian Processes.
+AdaBoost is not an Optimal Weak to Strong Learner.
+Dual Propagation: Accelerating Contrastive Hebbian Learning with Dyadic Neurons.
+Multi-Task Off-Policy Learning from Bandit Feedback.
+Constrained Optimization via Exact Augmented Lagrangian and Randomized Iterative Sketching.
+Revisiting Data-Free Knowledge Distillation with Poisoned Teachers.
+simple diffusion: End-to-end diffusion for high resolution images.
+Causal Strategic Classification: A Tale of Two Shifts.
+Fair and Accurate Decision Making through Group-Aware Learning.
+Approximation Algorithms for Fair Range Clustering.
+Decoding Layer Saliency in Language Transformers.
+PromptBoosting: Black-Box Text Classification with Ten Forward Passes.
+Sparse Learning of Dynamical Systems in RKHS: An Operator-Theoretic Approach.
+Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits.
+Automatic Data Augmentation via Invariance-Constrained Learning.
+Thompson Sampling with Diffusion Generative Prior.
+Tighter Analysis for ProxSkip.
+Omnipredictors for Constrained Optimization.
+GFlowNet-EM for Learning Compositional Latent Variable Models.
+Blockwise Stochastic Variance-Reduced Methods with Parallel Speedup for Multi-Block Bilevel Optimization.
+Language Instructed Reinforcement Learning for Human-AI Coordination.
+Surface Snapping Optimization Layer for Single Image Object Shape Reconstruction.
+Learning to Learn from APIs: Black-Box Data-Free Meta-Learning.
+For Pre-Trained Vision Models in Motor Control, Not All Policy Learning Methods are Created Equal.
+Beyond Lipschitz Smoothness: A Tighter Analysis for Nonconvex Optimization.
+Understanding the Impact of Adversarial Robustness on Accuracy Disparity.
+Reinforcement Learning in Low-rank MDPs with Density Features.
+Composer: Creative and Controllable Image Synthesis with Composable Conditions.
+Model-Aware Contrastive Learning: Towards Escaping the Dilemmas.
+High-dimensional Clustering onto Hamiltonian Cycle.
+Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning.
+Fast Algorithms for Distributed k-Clustering with Outliers.
+Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.
+On Coresets for Clustering in Small Dimensional Euclidean spaces.
+Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.
+The Power of Uniform Sampling for k-Median.
+Reparameterized Policy Learning for Multimodal Trajectory Optimization.
+Theoretical Bounds on the Network Community Profile from Low-rank Semi-definite Programming.
+NeuralStagger: Accelerating Physics-constrained Neural PDE Solver with Spatial-temporal Decomposition.
+Policy Contrastive Imitation Learning.
+Are Large Kernels Better Teachers than Transformers for ConvNets?
+Achieving Linear Speedup in Non-IID Federated Bilevel Learning.
+Federated Linear Contextual Bandits with User-level Differential Privacy.
+Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks.
+Cut your Losses with Squentropy.
+SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series.
+One-Shot Federated Conformal Prediction.
+The Impact of Exploration on Convergence and Performance of Multi-Agent Q-Learning Dynamics.
+Combinatorial Neural Bandits.
+MAGANet: Achieving Combinatorial Generalization by Modeling a Group Action.
+Information-Theoretic State Space Model for Multi-View Reinforcement Learning.
+Under-Counted Tensor Completion with Neural Incorporation of Attributes.
+On the Identifiability and Estimation of Causal Location-Scale Noise Models.
+Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels.
+Differentially Private Hierarchical Clustering with Provable Approximation Guarantees.
+Neural Network Accelerated Implicit Filtering: Integrating Neural Network Surrogates With Provably Convergent Derivative Free Optimization Methods.
+Principled Offline RL in the Presence of Rich Exogenous Information.
+Unveiling the Latent Space Geometry of Push-Forward Generative Models.
+CO-BED: Information-Theoretic Contextual Optimization via Bayesian Experimental Design.
+DoG is SGD's Best Friend: A Parameter-Free Dynamic Step Size Schedule.
+Maximal Initial Learning Rates in Deep ReLU Networks.
+Data-Driven Subgroup Identification for Linear Regression.
+Efficient Training of Language Models using Few-Shot Learning.
+Scalable Adaptive Computation for Iterative Generation.
+Unconstrained Online Learning with Unbounded Losses.
+Multi-Objective GFlowNets.
+The Price of Differential Privacy under Continual Observation.
+Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication.
+Instant Soup: Cheap Pruning Ensembles in A Single Pass Can Draw Lottery Tickets from Large Models.
+Exploring the Benefits of Training Expert Language Models over Instruction Tuning.
+Learning to Boost Training by Periodic Nowcasting Near Future Weights.
+Unscented Autoencoder.
+Curiosity in Hindsight: Intrinsic Exploration in Stochastic Environments.
+BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning.
+Recovering Top-Two Answers and Confusion Probability in Multi-Choice Crowdsourcing.
+Leveraging Label Non-Uniformity for Node Classification in Graph Neural Networks.
+Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions.
+Short-lived High-volume Bandits.
+Smooth Non-stationary Bandits.
+A Unified Optimization Framework of ANN-SNN Conversion: Towards Optimal Mapping from Activation Values to Firing Rates.
+VIMA: Robot Manipulation with Multimodal Prompts.
+Estimating Causal Effects using a Multi-task Deep Ensemble.
+Online Restless Bandits with Unobserved States.
+Detecting Out-of-distribution Data through In-distribution Class Prior.
+Towards Stable and Efficient Adversarial Training against l1Bounded Adversarial Attacks.
+Learning Unnormalized Statistical Models via Compositional Optimization.
+Approximate Causal Effect Identification under Weak Confounding.
+MEWL: Few-shot multimodal word learning with referential uncertainty.
+NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes.
+Effective Structured Prompting by Meta-Learning and Representative Verbalizer.
+Understanding Incremental Learning of Gradient Descent: A Fine-grained Analysis of Matrix Sensing.
+Thompson Sampling with Less Exploration is Fast and Optimal.
+R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents.
+Automatically Auditing Large Language Models via Discrete Optimization.
+On the Expressive Power of Geometric Graph Neural Networks.
+Data-Efficient Contrastive Self-supervised Learning: Most Beneficial Examples for Supervised Learning Contribute the Least.
+Robust Subtask Learning for Compositional Generalization.
+On Bridging the Gap between Mean Field and Finite Width Deep Random Multilayer Perceptron with Batch Normalization.
+FARE: Provably Fair Representation Learning with Practical Certificates.
+Scaling of Class-wise Training Losses for Post-hoc Calibration.
+Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation.
+Estimating Joint Treatment Effects by Combining Multiple Experiments.
+The Catalog Problem: Clustering and Ordering Variable-Sized Sets.
+Equivariance with Learned Canonicalization Functions.
+Biases in Evaluation of Molecular Optimization Methods and Bias Reduction Strategies.
+Statistical Indistinguishability of Learning Algorithms.
+Identifying Interpretable Subspaces in Image Representations.
+Nonlinear Causal Discovery with Latent Confounders.
+Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search.
+One-vs-the-Rest Loss to Focus on Important Samples in Adversarial Training.
+Large Language Models Struggle to Learn Long-Tail Knowledge.
+Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models.
+A Deep Conjugate Direction Method for Iteratively Solving Linear Systems.
+Leveraging Proxy of Training Data for Test-Time Adaptation.
+Beyond Reward: Offline Preference-guided Policy Optimization.
+Poisoning Generative Replay in Continual Learning to Promote Forgetting.
+Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks.
+Understanding Gradient Regularization in Deep Learning: Efficient Finite-Difference Computation and Implicit Bias.
+Langevin Thompson Sampling with Logarithmic Communication: Bandits and Reinforcement Learning.
+On the Relationship Between Explanation and Prediction: A Causal View.
+Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning Using Independent Component Analysis.
+General Sequential Episodic Memory Model.
+Regression with Sensor Data Containing Incomplete Observations.
+Data Representations' Study of Latent Image Manifolds.
+Multi-Modal Classifiers for Open-Vocabulary Object Detection.
+Learning Mixtures of Markov Chains and MDPs.
+Curious Replay for Model-based Adaptation.
+How Does Information Bottleneck Help Deep Learning?
+Instrumental Variable Estimation of Average Partial Causal Effects.
+The Test of Tests: A Framework for Differentially Private Hypothesis Testing.
+Exact Inference in High-order Structured Prediction.
+Neural Wave Machines: Learning Spatiotemporally Structured Representations with Locally Coupled Oscillatory Recurrent Neural Networks.
+Homomorphism AutoEncoder - Learning Group Structured Representations from Observed Transitions.
+Rethinking Backdoor Attacks.
+PAC Prediction Sets for Large Language Models of Code.
+Accelerated Primal-Dual Methods for Convex-Strongly-Concave Saddle Point Problems.
+Loss Balancing for Fair Supervised Learning.
+Linearly Constrained Bilevel Optimization: A Smoothed Implicit Gradient Approach.
+Emergent Asymmetry of Precision and Recall for Measuring Fidelity and Diversity of Generative Models in High Dimensions.
+Learning-augmented private algorithms for multiple quantile release.
+CrossSplit: Mitigating Label Noise Memorization through Data Splitting.
+Trainability, Expressivity and Interpretability in Gated Neural ODEs.
+SAAL: Sharpness-Aware Active Learning.
+Demonstration-free Autonomous Reinforcement Learning via Implicit and Bidirectional Curriculum.
+Improved Algorithms for Multi-period Multi-class Packing Problems with Bandit Feedback.
+Efficient Latency-Aware CNN Depth Compression via Two-Stage Dynamic Programming.
+Probabilistic Concept Bottleneck Models.
+DevFormer: A Symmetric Transformer for Context-Aware Device Placement.
+Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models.
+Robust Non-Linear Feedback Coding via Power-Constrained Deep Learning.
+LESSON: Learning to Integrate Exploration Strategies for Reinforcement Learning via an Option Framework.
+BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models.
+Probabilistic Imputation for Time-series Classification with Missing Data.
+Variational Curriculum Reinforcement Learning for Unsupervised Discovery of Skills.
+Margin-based Neural Network Watermarking.
+Regularizing Towards Soft Equivariance Under Mixed Symmetries.
+Model-based Offline Reinforcement Learning with Count-based Conservatism.
+Transformer-based Stagewise Decomposition for Large-Scale Multistage Stochastic Optimization.
+SurProGenes: Survival Risk-Ordered Representation of Cancer Patients and Genes for the Identification of Prognostic Genes.
+Stable and Consistent Prediction of 3D Characteristic Orientation via Invariant Residual Learning.
+Prefer to Classify: Improving Text Classifiers via Auxiliary Preference Learning.
+An Adaptive Entropy-Regularization Framework for Multi-Agent Reinforcement Learning.
+Practical and Matching Gradient Variance Bounds for Black-Box Variational Bayesian Inference.
+Learnability and Algorithm for Continual Learning.
+Unifying Nesterov's Accelerated Gradient Methods for Convex and Strongly Convex Objective Functions.
+Denoising MCMC for Accelerating Diffusion-Based Generative Models.
+Structure Learning of Latent Factors via Clique Search on Correlation Thresholded Graphs.
+Fair and Robust Estimation of Heterogeneous Treatment Effects for Policy Learning.
+Proper Losses for Discrete Generative Models.
+Controlling Posterior Collapse by an Inverse Lipschitz Constraint on the Decoder Network.
+A Watermark for Large Language Models.
+Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs.
+Training Normalizing Flows from Dependent Data.
+IncDSI: Incrementally Updatable Document Retrieval.
+Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice.
+Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions.
+Deep Laplacian-based Options for Temporally-Extended Exploration.
+Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost.
+Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?
+Online Learning with Feedback Graphs: The True Shape of Regret.
+Grounding Language Models to Images for Multimodal Inputs and Outputs.
+Rigid Body Flows for Sampling Molecular Crystal Structures.
+Enabling First-Order Gradient-Based Learning for Equilibrium Computation in Markets.
+Revisiting Gradient Clipping: Stochastic bias and tight convergence guarantees.
+On Computing Optimal Tree Ensembles.
+GOAT: A Global Transformer on Large-scale Graphs.
+Autoregressive Diffusion Model for Graph Generation.
+End-to-End Full-Atom Antibody Design.
+Covariate balancing using the integral probability metric for causal inference.
+Masked Bayesian Neural Networks : Theoretical Guarantee and its Posterior Inference.
+Parameter-Level Soft-Masking for Continual Learning.
+Pretraining Language Models with Human Preferences.
+Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions.
+Ewald-based Long-Range Message Passing for Molecular Graphs.
+TabDDPM: Modelling Tabular Data with Diffusion Models.
+Randomized Schur Complement Views for Graph Contrastive Learning.
+Benign Overfitting in Two-layer ReLU Convolutional Neural Networks.
+Variational Mixture of HyperGenerators for Learning Distributions over Functions.
+Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond.
+Estimation Beyond Data Reweighting: Kernel Method of Moments.
+Multi-Task Differential Privacy Under Distribution Skew.
+Towards Bridging the Gaps between the Right to Explanation and the Right to be Forgotten.
+Graph Neural Tangent Kernel: Convergence on Large Graphs.
+Diffusion Models for Black-Box Optimization.
+Learning to Design Analog Circuits to Meet Threshold Specifications.
+Variance Control for Distributional Reinforcement Learning.
+Hierarchical Imitation Learning with Vector Quantized Models.
+SinDDM: A Single Image Denoising Diffusion Model.
+Towards Explaining Distribution Shifts.
+Featured Graph Coarsening with Similarity Guarantees.
+Modeling Dynamic Environments with Scene Graph Memory.
+Tied-Augment: Controlling Representation Similarity Improves Data Augmentation.
+Cooperation in the Latent Space: The Benefits of Adding Mixture Components in Variational Autoencoders.
+GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency.
+Rotation and Translation Invariant Representation Learning with Implicit Neural Representations.
+Reward-Mixing MDPs with Few Latent Contexts are Learnable.
+A Fully First-Order Method for Stochastic Bilevel Optimization.
+Complexity of Block Coordinate Descent with Proximal Regularization and Applications to Wasserstein CP-dictionary Learning.
+Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value.
+Emergence of Adaptive Circadian Rhythms in Deep Reinforcement Learning.
+Synergies between Disentanglement and Sparsity: Generalization and Identifiability in Multi-Task Learning.
+Nearly-Optimal Hierarchical Clustering for Well-Clustered Graphs.
+Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection.
+A theory of continuous generative flow networks.
+Automatically marginalized MCMC in probabilistic programming.
+DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation.
+ChiPFormer: Transferable Chip Placement via Offline Decision Transformer.
+FP-Diffusion: Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation.
+Private Statistical Estimation of Many Quantiles.
+Bootstrap in High Dimension with Low Computation.
+LegendreTron: Uprising Proper Multiclass Loss Learning.
+Metagenomic Binning using Connectivity-constrained Variational Autoencoders.
+Delay-Adapted Policy Optimization and Improved Regret for Adversarial MDP with Delayed Bandit Feedback.
+Lottery Tickets in Evolutionary Optimization: On Sparse Backpropagation-Free Trainability.
+On the Occupancy Measure of Non-Markovian Policies in Continuous MDPs.
+Minimalistic Predictions to Schedule Jobs with Online Precedence Constraints.
+Speeding Up Bellman Ford via Minimum Violation Permutations.
+Who Needs to Know? Minimal Knowledge for Optimal Coordination.
+Target-based Surrogates for Stochastic Optimization.
+Cluster Explanation via Polyhedral Descriptions.
+Pre-training for Speech Translation: CTC Meets Optimal Transport.
+Bootstrapped Representations in Reinforcement Learning.
+Strategic Classification with Unknown User Manipulations.
+Learning in POMDPs is Sample-Efficient with Hindsight Observability.
+Towards Deep Attention in Graph Neural Networks: Problems and Remedies.
+InGram: Inductive Knowledge Graph Embedding via Relation Graphs.
+Optimality of Thompson Sampling with Noninformative Priors for Pareto Bandits.
+Conditional Graph Information Bottleneck for Molecular Relational Learning.
+Exploring Chemical Space with Score-based Out-of-distribution Generation.
+Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding.
+FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization.
+CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis.
+Minimizing Trajectory Curvature of ODE-based Generative Models.
+H-Likelihood Approach to Deep Neural Networks with Temporal-Spatial Random Effects for High-Cardinality Categorical Features.
+On the Importance of Feature Decorrelation for Unsupervised Representation Learning in Reinforcement Learning.
+HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption.
+QASA: Advanced Question Answering on Scientific Articles.
+Demystifying Disagreement-on-the-Line in High Dimensions.
+On the Correctness of Automatic Differentiation for Neural Networks with Machine-Representable Parameters.
+Implicit Jacobian regularization weighted with impurity of probability output.
+Unsupervised Skill Discovery for Learning Shared Structures across Changing Environments.
+Generalization Analysis for Contrastive Representation Learning.
+Learning Control by Iterative Inversion.
+Sampling-Based Accuracy Testing of Posterior Estimators for General Inference.
+Fast Inference from Transformers via Speculative Decoding.
+Efficient Rate Optimal Regret for Adversarial Contextual MDPs Using Online Function Approximation.
+GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations.
+TIPS: Topologically Important Path Sampling for Anytime Neural Networks.
+MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations.
+Internet Explorer: Targeted Representation Learning on the Open Web.
+Prototype-oriented unsupervised anomaly detection for multivariate time series.
+Learning Preconditioners for Conjugate Gradient PDE Solvers.
+Parallel Q-Learning: Scaling Off-policy Reinforcement Learning under Massively Parallel Simulation.
+Minimum Width of Leaky-ReLU Neural Networks for Uniform Universal Approximation.
+FAIRER: Fairness as Decision Rationale Alignment.
+RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution.
+Adversarial Collaborative Learning on Non-IID Features.
+Near-optimal Conservative Exploration in Reinforcement Learning under Episode-wise Constraints.
+Transformers as Algorithms: Generalization and Stability in In-context Learning.
+Improving Hyperparameter Learning under Approximate Inference in Gaussian Process Models.
+Local Vertex Colouring Graph Neural Networks.
+Analysis of Error Feedback in Federated Non-Convex Optimization with Biased Compression: Fast Convergence and Partial Participation.
+How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding.
+BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.
+Nearly Optimal Algorithms with Sublinear Computational Complexity for Online Kernel Regression.
+Revisiting Weighted Aggregation in Federated Learning with Neural Networks.
+Distribution-dependent McDiarmid-type Inequalities for Functions of Unbounded Interaction.
+Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
+Reconstructive Neuron Pruning for Backdoor Defense.
+Meta Learning of Interface Conditions for Multi-Domain Physics-Informed Neural Networks.
+Deep Anomaly Detection under Labeling Budget Constraints.
+On the Initialization of Graph Neural Networks.
+Federated Adversarial Learning: A Framework with Convergence Analysis.
+How Powerful are Shallow Neural Networks with Bandlimited Random Weights?
+Efficient Quantum Algorithms for Quantum Optimal Control.
+Low-Switching Policy Gradient with Exploration via Online Sensitivity Sampling.
+Hierarchical Diffusion for Offline Decision Making.
+Divide and Conquer Dynamic Programming: An Almost Linear Time Change Point Detection Methodology in High Dimensions.
+Architecture-Agnostic Masked Image Modeling - From ViT back to CNN.
+Learning Antidote Data to Individual Unfairness.
+Propensity Matters: Measuring and Enhancing Balancing for Recommendation.
+GraphCleaner: Detecting Mislabelled Samples in Popular Graph Learning Benchmarks.
+SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process.
+Horizon-free Learning for Markov Decision Processes and Games: Stochastically Bounded Rewards and Improved Bounds.
+Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving.
+Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees.
+FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models.
+Achieving Hierarchy-Free Approximation for Bilevel Programs with Equilibrium Constraints.
+LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation.
+Nesterov Meets Optimism: Rate-Optimal Separable Minimax Optimization.
+Alternating Local Enumeration (TnALE): Solving Tensor Network Structure Search with Fewer Evaluations.
+Understanding the Complexity Gains of Single-Task RL with a Curriculum.
+Does a Neural Network Really Encode Symbolic Concepts?
+Cooperative Open-ended Learning Framework for Zero-Shot Coordination.
+Offline Reinforcement Learning with Closed-Form Policy Improvement Operators.
+Optimal Arms Identification with Knapsacks.
+Internally Rewarded Reinforcement Learning.
+Trustworthy Policy Learning under the Counterfactual No-Harm Criterion.
+Structured Cooperative Learning with Graphical Model Priors.
+Low Complexity Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Optimization over (Non-)Convex Set.
+Consistency of Multiple Kernel Clustering.
+A Distribution Optimization Framework for Confidence Bounds of Risk Measures.
+Accuracy on the Curve: On the Nonlinear Correlation of ML Performance Between Data Subpopulations.
+AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners.
+Learning Compiler Pass Orders using Coreset and Normalized Value Prediction.
+Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples.
+CLUSTSEG: Clustering for Universal Segmentation.
+Conformal Inference is (almost) Free for Neural Networks Trained with Early Stopping.
+Less is More: Task-aware Layer-wise Distillation for Language Model Compression.
+Statistical Inference and A/B Testing for First-Price Pacing Equilibria.
+Supervised Metric Learning to Rank for Retrieval via Contextual Similarity Optimization.
+Revisiting Domain Randomization via Relaxed State-Adversarial Policy Optimization.
+Variational Open-Domain Question Answering.
+Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds.
+Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning.
+Simplifying Momentum-based Positive-definite Submanifold Optimization with Applications to Deep Learning.
+Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise.
+Self-supervised Neural Factor Analysis for Disentangling Utterance-level Speech Representations.
+Theory on Forgetting and Generalization of Continual Learning.
+Accelerated Cyclic Coordinate Dual Averaging with Extrapolation for Composite Convex Optimization.
+Safe Offline Reinforcement Learning with Real-Time Budget Constraints.
+Probabilistic Unrolling: Scalable, Inverse-Free Maximum Likelihood Estimation for Latent Gaussian Models.
+Fast Online Value-Maximizing Prediction Sets with Conformal Cost Control.
+Unveiling The Mask of Position-Information Pattern Through the Mist of Image Features.
+Fair yet Asymptotically Equal Collaborative Learning.
+Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction.
+Continuation Path Learning for Homotopy Optimization.
+Speed-Oblivious Online Scheduling: Knowing (Precise) Speeds is not Necessary.
+Graph Mixup with Soft Alignments.
+Deep Graph Representation Learning and Optimization for Influence Maximization.
+Emergent Agentic Transformer from Chain of Hindsight Experience.
+Shapley Based Residual Decomposition for Instance Analysis.
+Learning Representations without Compositional Assumptions.
+Byzantine-Robust Learning on Heterogeneous Data via Gradient Splitting.
+Towards Constituting Mathematical Structures for Learning to Optimize.
+AudioLDM: Text-to-Audio Generation with Latent Diffusion Models.
+Identifiability of Label Noise Transition Matrix.
+A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining.
+Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy.
+Cones: Concept Neurons in Diffusion Models for Customized Generation.
+Opponent-Limited Online Search for Imperfect Information Games.
+Towards Robust and Safe Reinforcement Learning with Benign Off-policy Data.
+Constrained Decision Transformer for Offline Safe Reinforcement Learning.
+Understanding and Defending Patched-based Adversarial Attacks for Vision Transformer.
+NUNO: A General Framework for Learning Parametric PDEs with Non-Uniform Data.
+Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs.
+Online Local Differential Private Quantile Inference via Self-normalization.
+GFlowOut: Dropout with Generative Flow Networks.
+2D-Shapley: A Framework for Fragmented Data Valuation.
+Causal Structure Learning for Latent Intervened Non-stationary Data.
+Structural Re-weighting Improves Graph Domain Adaptation.
+Dink-Net: Neural Clustering on Large Graphs.
+Oscillation-free Quantization for Low-bit Vision Transformers.
+Understanding the Distillation Process from Deep Generative Models to Tractable Probabilistic Circuits.
+Averaged Method of Multipliers for Bi-Level Optimization without Lower-Level Strong Convexity.
+Graph Switching Dynamical Systems.
+High Probability Convergence of Stochastic Gradient Methods.
+OMS-DPM: Optimizing the Model Schedule for Diffusion Probabilistic Models.
+Lazy Agents: A New Perspective on Solving Sparse Reward Problem in Multi-agent Reinforcement Learning.
+RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations.
+Algorithms for bounding contribution for histogram estimation under user-level privacy.
+Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning.
+Generating Private Synthetic Data with Genetic Algorithms.
+FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning.
+I2SB: Image-to-Image Schrödinger Bridge.
+What can online reinforcement learning with function approximation benefit from general coverage conditions?
+TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation.
+Global Optimization with Parametric Function Approximation.
+Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time.
+Trapdoor Normalization with Irreversible Ownership Verification.
+Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models.
+Taxonomy-Structured Domain Adaptation.
+Dropout Reduces Underfitting.
+Revisiting Pseudo-Label for Single-Positive Multi-Label Learning.
+Retrosynthetic Planning with Dual Value Networks.
+Online Nonstochastic Control with Adversarial and Static Constraints.
+Optimization for Amortized Inverse Problems.
+Active Policy Improvement from Multiple Black-box Oracles.
+Gradient-based Wang-Landau Algorithm: A Novel Sampler for Output Distribution of Neural Networks over the Input Space.
+VectorMapNet: End-to-end Vectorized HD Map Learning.
+Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing.
+Prometheus: Taming Sample and Communication Complexities in Constrained Decentralized Stochastic Bilevel Learning.
+D2Match: Leveraging Deep Learning and Degeneracy for Subgraph Matching.
+Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression.
+Which Invariance Should We Transfer? A Causal Minimax Learning Approach.
+Unsupervised Out-of-Distribution Detection with Diffusion Inpainting.
+NA2Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning.
+Contextual Combinatorial Bandits with Probabilistically Triggered Arms.
+Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning.
+Multi-Symmetry Ensembles: Improving Diversity and Generalization via Opposing Symmetries.
+The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.
+Dataset Distillation with Convexified Implicit Gradients.
+Reflected Diffusion Models.
+Never mind the metrics - what about the uncertainty? Visualising binary confusion matrix metric distributions to put performance in perspective.
+Bilevel Optimization with Coupled Decision-Dependent Distributions.
+Two-Scale Gradient Descent Ascent Dynamics Finds Mixed Nash Equilibria of Continuous Games: A Mean-Field Perspective.
+STEP: Learning N: M Structured Sparsity Masks from Scratch with Precondition.
+Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning.
+Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning Attacks.
+QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark.
+Learning Dense Correspondences between Photos and Sketches.
+Adversarial Cheap Talk.
+Federated Conformal Predictors for Distributed Uncertainty Quantification.
+Mechanistic Mode Connectivity.
+A Unifying Framework to the Analysis of Interaction Methods using Synergy Functions.
+SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation.
+Image Restoration with Mean-Reverting Stochastic Differential Equations.
+Dimensionality Reduction for General KDE Mode Finding.
+Iterative Approximate Cross-Validation.
+A Closer Look at Few-shot Classification Again.
+HOPE: High-order Graph ODE For Modeling Interacting Dynamics.
+Stabilizing GANs' Training with Brownian Motion Controller.
+OCD: Learning to Overfit with Conditional Diffusion Models.
+DiscoBAX: Discovery of optimal intervention sets in genomic experiment design.
+Understanding Plasticity in Neural Networks.
+Bandits with Knapsacks: Advice on Time-Varying Demands.
+Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions.
+Which Tricks are Important for Learning to Rank?
+Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics.
+LIV: Language-Image Representations and Rewards for Robotic Control.
+Graph Inductive Biases in Transformers without Message Passing.
+Learning Signed Distance Functions from Noisy 3D Point Clouds via Noise to Noise Mapping.
+Learning Intuitive Policies Using Action Features.
+Over-parametrization via Lifting for Low-rank Matrix Sensing: Conversion of Spurious Solutions to Strict Saddle Points.
+Buying Information for Stochastic Optimization.
+Generated Graph Detection.
+Calibrating Multimodal Learning.
+AutoCoreset: An Automatic Practical Coreset Construction Framework.
+Learning GFlowNets From Partial Episodes For Improved Convergence And Stability.
+Applied Online Algorithms with Heterogeneous Predictors.
+CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations.
+Vertical Federated Graph Neural Network for Recommender System.
+Can Neural Network Memorization Be Localized?
+Fundamental Tradeoffs in Learning with Prior Information.
+Additive Causal Bandits with Unknown Graph.
+Weighted Tallying Bandits: Overcoming Intractability via Repeated Exposure Optimality.
+A Kernel-Based View of Language Model Fine-Tuning.
+Performative Reinforcement Learning.
+Differential Privacy has Bounded Impact on Fairness in Classification.
+Random Classification Noise does not defeat All Convex Potential Boosters Irrespective of Model Choice.
+H-Consistency Bounds for Pairwise Misranking Loss Surrogates.
+Cross-Entropy Loss Functions: Theoretical Analysis and Applications.
+Supported Trust Region Optimization for Offline Reinforcement Learning.
+Robust Perception through Equivariance.
+Reliable Measures of Spread in High Dimensional Latent Spaces.
+SRATTA: Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning.
+Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal.
+Evaluating Unsupervised Denoising Requires Unsupervised Metrics.
+Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts.
+Analyzing Diffusion as Serial Reproduction.
+Quantized Distributed Training of Large Models with Convergence Guarantees.
+Efficient Transformed Gaussian Processes for Non-Stationary Dependent Multi-class Classification.
+Computational Asymmetries in Robust Classification.
+Neural Network Approximations of PDEs Beyond Linearity: A Representational Perspective.
+Generative Pretraining for Black-Box Optimization.
+Improved Policy Evaluation for Randomized Trials of Algorithmic Resource Allocation.
+Multi-Fidelity Covariance Estimation in the Log-Euclidean Geometry.
+Communication-Constrained Bandits under Additive Gaussian Noise.
+Nonparametric Density Estimation under Distribution Drift.
+PAC-Bayesian Generalization Bounds for Adversarial Generative Models.
+Robustness in Multimodal Learning under Train-Test Modality Mismatch.
+A Model-free Closeness-of-influence Test for Features in Supervised Learning.
+Stochastic Gradient Succeeds for Bandits.
+Normalizing Flows for Interventional Density Estimation.
+Reprogramming Pretrained Language Models for Antibody Sequence Infilling.
+Superhuman Fairness.
+A Model-Based Method for Minimizing CVaR and Beyond.
+Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning.
+On Preemption and Learning in Stochastic Scheduling.
+Quantile Credit Assignment.
+Is Consensus Acceleration Possible in Decentralized Optimization over Slowly Time-Varying Networks?
+Towards Theoretical Understanding of Inverse Reinforcement Learning.
+Quantum Policy Gradient Algorithm with Optimized Action Decoding.
+Training Deep Surrogate Models with Large Scale Online Learning.
+MANSA: Learning Fast and Slow in Multi-Agent Systems.
+Representation Learning with Multi-Step Inverse Kinematics: An Efficient and Optimal Approach to Rich-Observation RL.
+Single Point-Based Distributed Zeroth-Order Optimization with a Non-Convex Stochastic Objective Function.
+Learning Instance-Specific Augmentations by Capturing Local Invariances.
+Path Neural Networks: Expressive and Accurate Graph Neural Networks.
+Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning.
+Generative Decoding of Visual Stimuli.
+Cooperative Multi-Agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation.
+Directed Chain Generative Adversarial Networks.
+An Information-Theoretic Analysis of Nonstationary Bandit Learning.
+On the Convergence of Gradient Flow on Multi-layer Linear Models.
+Optimal Sets and Solution Paths of ReLU Networks.
+The Numerical Stability of Hyperbolic Representation Learning.
+DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature.
+Diffusion Based Representation Learning.
+Disentangled Multiplex Graph Representation Learning.
+A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition.
+Pruning via Sparsity-indexed ODE: a Continuous Sparsity Viewpoint.
+Text-To-Concept (and Back) via Cross-Model Alignment.
+A Fast, Well-Founded Approximation to the Empirical Neural Tangent Kernel.
+Special Properties of Gradient Descent with Large Learning Rates.
+Neural Inverse Operators for Solving PDE Inverse Problems.
+Input uncertainty propagation through trained neural networks.
+Compressing Tabular Data via Latent Variable Estimation.
+An SDE for Modeling SAM: Theory and Insights.
+Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.
+WL meet VC.
+ReLOAD: Reinforcement Learning with Optimistic Ascent-Descent for Last-Iterate Convergence in Constrained MDPs.
+Optimistic Planning by Regularized Dynamic Programming.
+Neural signature kernels as infinite-width-depth-limits of controlled ResNets.
+Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models.
+PFNs4BO: In-Context Learning for Bayesian Optimization.
+Achieving High Accuracy with PINNs via Energy Natural Gradient Descent.
+Uncertain Evidence in Probabilistic Models and Stochastic Simulators.
+GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Inverse Problems with Denoising Diffusion Restoration.
+DIFF2: Differential Private Optimization via Gradient Differences for Nonconvex Distributed Learning.
+Efficiently predicting high resolution mass spectra with graph neural networks.
+Dynamical Linear Bandits.
+Representation-Driven Reinforcement Learning.
+DADAO: Decoupled Accelerated Decentralized Asynchronous Optimization.
+Multi-User Reinforcement Learning with Low Rank Rewards.
+Statistical Foundations of Prior-Data Fitted Networks.
+Do Machine Learning Models Learn Statistical Rules Inferred from Data?
+Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation.
+Effectively Using Public Data in Privacy Preserving Machine Learning.
+Counterfactual Identifiability of Bijective Causal Models.
+Discovering Object-Centric Generalized Value Functions From Pixels.
+On Many-Actions Policy Gradient.
+Equivariant Architectures for Learning in Deep Weight Spaces.
+Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation.
+Geometric Autoencoders - What You See is What You Decode.
+Action Matching: Learning Stochastic Dynamics from Samples.
+Extending Conformal Prediction to Hidden Markov Models with Exact Validity via de Finetti's Theorem for Markov Chains.
+ClimaX: A foundation model for weather and climate.
+Provable Reset-free Reinforcement Learning by No-Regret Reduction.
+Revisiting Over-smoothing and Over-squashing Using Ollivier-Ricci Curvature.
+Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach.
+Self-Attention Amortized Distributional Projection Optimization for Sliced Wasserstein Point-Cloud Reconstruction.
+Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach.
+Simple Disentanglement of Style and Content in Visual Representations.
+MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL.
+LEVER: Learning to Verify Language-to-Code Generation with Execution.
+Continual Vision-Language Representation Learning with Off-Diagonal Information.
+Attributing Image Generative Models using Latent Fingerprints.
+A Framework for Adapting Offline Algorithms to Solve Combinatorial Multi-Armed Bandit Problems with Bandit Feedback.
+SinFusion: Training Diffusion Models on a Single Image or Video.
+SparseProp: Efficient Sparse Backpropagation for Faster Training of Neural Networks at the Edge.
+Anti-Exploration by Random Network Distillation.
+Input Perturbation Reduces Exposure Bias in Diffusion Models.
+Primal and Dual Analysis of Entropic Fictitious Play for Finite-sum Problems.
+The Statistical Scope of Multicalibration.
+Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling.
+Gradient-Free Structured Pruning with Unlabeled Data.
+CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets.
+Few-bit Backward: Quantized Gradients of Activation Functions for Memory Footprint Reduction.
+Efficient Exploration via Epistemic-Risk-Seeking Policy Optimization.
+Provable Benefit of Mixup for Finding Optimal Decision Boundaries.
+Shedding a PAC-Bayesian Light on Adaptive Sliced-Wasserstein Distances.
+Reasons for the Superiority of Stochastic Estimators over Deterministic Ones: Robustness, Consistency and Perceptual Quality.
+On the Within-Group Fairness of Screening Classifiers.
+Diffusion Models are Minimax Optimal Distribution Estimators.
+How Many Perturbations Break This Model? Evaluating Robustness Beyond Adversarial Accuracy.
+B-Learner: Quasi-Oracle Bounds on Heterogeneous Causal Effects Under Hidden Confounding.
+Measuring the Impact of Programming Language Distribution.
+When does Privileged information Explain Away Label Noise?
+Resurrecting Recurrent Neural Networks for Long Sequences.
+Improving Adversarial Robustness Through the Contrastive-Guided Diffusion Process.
+On the Role of Attention in Prompt-tuning.
+Revisiting the Linear-Programming Framework for Offline RL with General Function Approximation.
+Extrapolative Controlled Sequence Generation via Iterative Refinement.
+Locally Regularized Neural Differential Equations: Some Black Boxes were meant to remain closed!
+Controlled Differential Equations on Long Sequences via Non-standard Wavelets.
+Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the Machiavelli Benchmark.
+Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering.
+Better Training of GFlowNets with Local Credit and Incomplete Trajectories.
+A Hybrid Quantum-Classical Approach based on the Hadamard Transform for the Convolutional Layer.
+Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees.
+Flash: Concept Drift Adaptation in Federated Learning.
+Learn to Accumulate Evidence from All Training Samples: Theory and Practice.
+Secure Federated Correlation Test and Entropy Estimation.
+Task-Specific Skill Localization in Fine-tuned Language Models.
+Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data via Amalgamation.
+Learning Affinity with Hyperbolic Representation for Spatial Propagation.
+TRAK: Attributing Model Behavior at Scale.
+Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization.
+Towards Understanding Ensemble Distillation in Federated Learning.
+Learning Controllable Degradation for Real-World Super-Resolution via Constrained Flows.
+Differentially Private Sharpness-Aware Training.
+Controllability-Aware Unsupervised Skill Discovery.
+Predictable MDP Abstraction for Unsupervised Model-Based RL.
+Neural Stochastic Differential Games for Time-series Analysis.
+Accelerated Infeasibility Detection of Constrained Optimization and Fixed-Point Iterations.
+Model-based Reinforcement Learning with Scalable Composite Policy Gradient Estimators.
+PAC Generalization via Invariant Representations.
+Stochastic Gradient Descent-Induced Drift of Representation in a Two-Layer Neural Network.
+Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs.
+Federated Online and Bandit Convex Optimization.
+Brauer's Group Equivariant Neural Networks.
+How Jellyfish Characterise Alternating Group Equivariant Neural Networks.
+Can Large Language Models Reason about Program Invariants?
+Dynamics-inspired Neuromorphic Visual Representation Learning.
+Feature Directions Matter: Long-Tailed Learning via Rotated Balanced Representation.
+Fair Neighbor Embedding.
+The Ideal Continual Learner: An Agent That Never Forgets.
+MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation.
+Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation.
+Learning Hidden Markov Models When the Locations of Missing Observations are Unknown.
+Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection.
+Are Gaussian Data All You Need? The Extents and Limits of Universality in High-Dimensional Generalized Linear Estimation.
+Certifying Ensembles: A General Certification Theory with S-Lipschitzness.
+The Power of Learned Locally Linear Models for Nonlinear Policy Optimization.
+A Scalable Frank-Wolfe-Based Algorithm for the Max-Cut SDP.
+Attention-Based Recurrence for Multi-Agent Reinforcement Learning under Stochastic Partial Observability.
+HyperTuning: Toward Adapting Large Language Models without Back-propagation.
+Linear CNNs Discover the Statistical Structure of the Dataset Using Only the Most Dominant Frequencies.
+Conformal Prediction for Federated Uncertainty Quantification Under Label Shift.
+Universal Physics-Informed Neural Networks: Symbolic Differential Operator Discovery with Sparse Data.
+Sequential Kernelized Independence Testing.
+Truncating Trajectories in Monte Carlo Reinforcement Learning.
+Hyena Hierarchy: Towards Larger Convolutional Language Models.
+Spurious Valleys and Clustering Behavior of Neural Networks.
+Multisample Flow Matching: Straightening Flows with Minibatch Couplings.
+Minimax estimation of discontinuous optimal transport maps: The semi-discrete case.
+Test-time Adaptation with Slot-Centric Models.
+JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction Under Standard and Feedback Covariate Shift.
+Equivariant Polynomials for Graph Neural Networks.
+Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining.
+An Effective Meaningful Way to Evaluate Survival Models.
+Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D.
+Collaborative Causal Inference with Fair Incentives.
+FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning.
+Nugget: Neural Agglomerative Embeddings of Text.
+BiBench: Benchmarking and Analyzing Network Binarization.
+Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization.
+Shortest Edit Path Crossover: A Theory-driven Solution to the Permutation Problem in Evolutionary Neural Architecture Search.
+Simple and Fast Group Robustness by Automatic Feature Reweighting.
+DRCFS: Doubly Robust Causal Feature Selection.
+Robust Speech Recognition via Large-Scale Weak Supervision.
+Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation.
+Sequential Multi-Dimensional Self-Supervised Learning for Clinical Time Series.
+Recovery Bounds on Class-Based Optimal Transport: A Sum-of-Norms Regularization Framework.
+Algorithmic Stability of Heavy-Tailed SGD with General Loss Functions.
+Mastering the Unsupervised Reinforcement Learning Benchmark from Pixels.
+SpotEM: Efficient Video Search for Episodic Memory.
+How much does Initialization Affect Generalization?
+Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization.
+A Picture of the Space of Typical Learnable Tasks.
+Policy Regularization with Dataset Constraint for Offline Reinforcement Learning.
+SpENCNN: Orchestrating Encoding and Sparsity for Fast Homomorphically Encrypted Neural Network Inference.
+Feature learning in deep classifiers through Intermediate Neural Collapse.
+The Unintended Consequences of Discount Regularization: Improving Regularization in Certainty Equivalence Reinforcement Learning.
+Beam Tree Recursive Cells.
+Monotonic Location Attention for Length Generalization.
+Automated Search for Conjectures on Mathematical Constants using Analysis of Integer Sequences.
+Neural networks trained with SGD learn distributions of increasing complexity.
+Simplex Random Features.
+Bayesian Neural Networks Avoid Encoding Complex and Perturbation-Sensitive Concepts.
+Escaping saddle points in zeroth-order optimization: the power of two-point estimators.
+Dimension-independent Certified Neural Network Watermarks via Mollifier Smoothing.
+Feature Programming for Multivariate Time Series Prediction.
+Run-off Election: Improved Provable Defense against Data Poisoning Attacks.
+Learning Control-Oriented Dynamical Structure from Data.
+The Edge of Orthogonality: A Simple View of What Makes BYOL Tick.
+Multi-Agent Best Arm Identification with Private Communications.
+A Two-Stage Active Learning Algorithm for k-Nearest Neighbors.
+Lowering the Pre-training Tax for Gradient-based Subset Training: A Lightweight Distributed Pre-Training Toolkit.
+The Role of Entropy and Reconstruction in Multi-View Self-Supervised Learning.
+RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents.
+Improving Fair Training under Correlation Shifts.
+The Statistical Benefits of Quantile Temporal-Difference Learning for Value Estimation.
+Robust Satisficing MDPs.
+Infinite Action Contextual Bandits with Reusable Data Exhaust.
+Function-Space Regularization in Neural Networks: A Probabilistic Perspective.
+A New PHO-rmula for Improved Performance of Semi-Structured Networks.
+Geometric Clifford Algebra Networks.
+Constrained Monotonic Neural Networks.
+Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models.
+Intrinsic Sliced Wasserstein Distances for Comparing Collections of Probability Distributions on Manifolds and Graphs.
+SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient.
+Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles.
+End-to-End Learning for Stochastic Optimization: A Bayesian Perspective.
+Sequential Monte Carlo Learning for Time Series Structure Discovery.
+Active Ranking of Experts Based on their Performances in Many Tasks.
+Sample Complexity Bounds for Learning High-dimensional Simplices in Noisy Regimes.
+Global Selection of Contrastive Batches via Optimization on Sample Permutations.
+High-Probability Bounds for Stochastic Optimization and Variational Inequalities: the Case of Unbounded Variance.
+End-to-end Differentiable Clustering with Associative Memories.
+Learning to Suggest Breaks: Sustainable Optimization of Long-Term User Engagement.
+Multi-class Graph Clustering via Approximated Effective p-Resistance.
+Off-Policy Evaluation for Large Action Spaces via Conjunct Effect Modeling.
+Rethinking Warm-Starts with Predictions: Learning Predictions Close to Sets of Optimal Solutions for Faster L-/L♮-Convex Function Minimization.
+PAC-Bayesian Offline Contextual Bandits With Guarantees.
+Provably and Practically Efficient Neural Contextual Bandits.
+Distributed Linear Bandits under Communication Constraints.
+Optimizing Hyperparameters with Conformal Quantile Regression.
+Raising the Cost of Malicious AI-Powered Image Editing.
+Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective.
+TAN Without a Burn: Scaling Laws of DP-SGD.
+Discrete Continuous Optimization Framework for Simultaneous Clustering and Training in Mixture Models.
+Whose Opinions Do Language Models Reflect?
+Streaming Active Learning with Deep Neural Networks.
+Random Teachers are Good Teachers.
+Posterior Sampling for Deep Reinforcement Learning.
+Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure.
+Existence and Estimation of Critical Batch Size for Training Generative Adversarial Networks with Two Time-Scale Update Rule.
+StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis.
+Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction.
+Off-Policy Average Reward Actor-Critic with Deterministic Policy Search.
+Gibbsian Polar Slice Sampling.
+Identifiability and Generalizability in Constrained Inverse Reinforcement Learning.
+Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks.
+Deterministic equivalent and error universality of deep random features learning.
+The Acquisition of Physical Knowledge in Generative Neural Networks.
+Modality-Agnostic Variational Compression of Implicit Neural Representations.
+Bigger, Better, Faster: Human-level Atari with human-level efficiency.
+Dissecting the Effects of SGD Noise in Distinct Regimes of Deep Learning.
+A Fast Optimistic Method for Monotone Variational Inequalities.
+Double-Weighting for Covariate Shift Adaptation.
+Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language.
+Variational Autoencoding Neural Operators.
+Neural Markov Jump Processes.
+Bayesian online change point detection with Hilbert space approximate Student-t process.
+Incentivizing Exploration with Linear Contexts and Combinatorial Actions.
+Explainability as statistical inference.
+Multi-View Masked World Models for Visual Robotic Manipulation.
+One-Shot Compression of Large Edge-Exchangeable Graphs using Bits-Back Coding.
+ModelDiff: A Framework for Comparing Learning Algorithms.
+Auxiliary Learning as an Asymmetric Bargaining Game.
+Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.
+Complementary Attention for Multi-Agent Reinforcement Learning.
+Regularization-free Diffeomorphic Temporal Alignment Nets.
+Toward Efficient Gradient-Based Value Estimation.
+Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates.
+On Kinetic Optimal Probability Paths for Generative Models.
+Sequential Changepoint Detection via Backward Confidence Sequences.
+Cold Analysis of Rao-Blackwellized Straight-Through Gumbel-Softmax Gradient Estimator.
+Towards Understanding and Improving GFlowNet Training.
+On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation.
+On Penalty-based Bilevel Gradient Descent Method.
+Non-autoregressive Conditional Diffusion Models for Time Series Prediction.
+Cross-Modal Fine-Tuning: Align then Refine.
+Auxiliary Modality Learning with Generalized Curriculum Distillation.
+TGRL: An Algorithm for Teacher Guided Reinforcement Learning.
+FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU.
+Improved Regret for Efficient Online Reinforcement Learning with Linear Function Approximation.
+Fundamental Limits of Two-layer Autoencoders, and Achieving Them with Gradient Methods.
+Large Language Models Can Be Easily Distracted by Irrelevant Context.
+Everyone's Preference Changes Differently: A Weighted Multi-Interest Model For Retrieval.
+A Near-Optimal Algorithm for Safe Reinforcement Learning Under Instantaneous Hard Constraints.
+Improving the Model Consistency of Decentralized Federated Learning.
+UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers.
+Sequence Modeling with Multiresolution Convolutional Memory.
+Statistical Inference on Multi-armed Bandits with Delayed Feedback.
+Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources.
+On the Complexity of Bayesian Generalization.
+Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective.
+Long Horizon Temperature Scaling.
+Gradient Descent in Neural Networks as Sequential Learning in Reproducing Kernel Banach Space.
+SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning.
+A Closer Look at the Intervention Procedure of Concept Bottleneck Models.
+MetricGAN-OKD: Multi-Metric Optimization of MetricGAN via Online Knowledge Distillation for Speech Enhancement.
+Improved Learning-Augmented Algorithms for the Multi-Option Ski Rental Problem via Best-Possible Competitive Analysis.
+One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill.
+Context Consistency Regularization for Label Sparsity in Time Series.
+Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting.
+Exphormer: Sparse Transformers for Graphs.
+Synthetic data for model selection.
+Probabilistic Attention-to-Influence Neural Models for Event Sequences.
+Causal Bounds in Quasi-Markovian Graphs.
+Repository-Level Prompt Generation for Large Language Models of Code.
+CLIPood: Generalizing CLIP to Out-of-Distributions.
+Semi-Autoregressive Energy Flows: Exploring Likelihood-Free Training of Normalizing Flows.
+Unearthing InSights into Mars: Unsupervised Source Separation with Limited Data.
+Quantitative Universal Approximation Bounds for Deep Belief Networks.
+Pricing Experimental Design: Causal Effect, Expected Revenue and Tail Risk.
+Statistical Learning under Heterogenous Distribution Shift.
+On the Stepwise Nature of Self-Supervised Learning.
+Hindsight Learning for MDPs with Exogenous Inputs.
+Text-To-4D Dynamic Scene Generation.
+The Hessian perspective into the Nature of Convolutional Neural Networks.
+When do Minimax-fair Learning and Empirical Risk Minimization Coincide?
+Differentiable Simulations for Enhanced Sampling of Rare Events.
+Preprocessors Matter! Realistic Decision-Based Attacks on Machine Learning Systems.
+Invariance in Policy Optimisation and Partial Identifiability in Reward Learning.
+A Game-Theoretic Framework for Managing Risk in Multi-Agent Systems.
+On the Effectiveness of Offline RL for Dialogue Response Generation.
+Fair Densities via Boosting the Sufficient Statistics of Exponential Families.
+The Dormant Neuron Phenomenon in Deep Reinforcement Learning.
+Abstracting Imperfect Information Away from Two-Player Zero-Sum Games.
+Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization.
+Consistency Models.
+LipsNet: A Smooth and Robust Neural Network with Adaptive Lipschitz Constant for High Accuracy Optimal Control.
+Deep Perturbation Learning: Enhancing the Network Performance via Image Perturbations.
+Latent Traversals in Generative Models as Potential Flows.
+FedAvg Converges to Zero Training Loss Linearly for Overparameterized Multi-Layer Neural Networks.
+RGE: A Repulsive Graph Rectification for Node Classification via Influence.
+Importance Weighted Expectation-Maximization for Protein Sequence Design.
+Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability.
+Sketching Meets Differential Privacy: Fast Algorithm for Dynamic Kronecker Projection Maintenance.
+A Nearly-Optimal Bound for Fast Regression with ℓ∞Guarantee.
+Loss-Guided Diffusion Models for Plug-and-Play Controllable Generation.
+Differentiable Tree Operations Promote Compositional Generalization.
+Are labels informative in semi-supervised learning? Estimating and leveraging the missing-data mechanism.
+Linear Causal Disentanglement via Interventions.
+Generating Language Corrections for Teaching Physical Control Tasks.
+FaDIn: Fast Discretized Inference for Hawkes Processes with General Parametric Kernels.
+Partial Optimality in Cubic Correlation Clustering.
+MODeL: Memory Optimizations for Deep Learning.
+Improving Expert Predictions with Conformal Prediction.
+Lookahead When It Matters: Adaptive Non-causal Transformers for Streaming Neural Transducers.
+Kernel QuantTree.
+Topologically Faithful Image Segmentation via Induced Matching of Persistence Barcodes.
+Towards Robust Graph Incremental Learning on Evolving Graphs.
+DUET: 2D Structured and Approximately Equivariant Representations.
+Long-Tailed Recognition by Mutual Information Maximization between Latent Features and Ground-Truth Labels.
+Adversarial Learning of Distributional Reinforcement Learning.
+Distilling Internet-Scale Vision-Language Models into Embodied Agents.
+Vector-Valued Control Variates.
+MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks.
+Revisiting Sampling for Combinatorial Optimization.
+What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings.
+Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming.
+Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis.
+MABe22: A Multi-Species Multi-Task Benchmark for Learned Representations of Behavior.
+Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape.
+When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis.
+Learning Prescriptive ReLU Networks.
+All in a Row: Compressed Convolution Networks for Graphs.
+Momentum Ensures Convergence of SIGNSGD under Weaker Assumptions.
+A Critical Revisit of Adversarial Robustness in 3D Point Cloud Recognition with Diffusion-Driven Purification.
+SDDM: Score-Decomposed Diffusion Models on Manifolds for Unpaired Image-to-Image Translation.
+A Neural PDE Solver with Temporal Stencil Modeling.
+Feature Expansion for Graph Neural Networks.
+Model-Bellman Inconsistency for Model-based Offline Reinforcement Learning.
+Inflow, Outflow, and Reciprocity in Machine Learning.
+When Personalization Harms Performance: Reconsidering the Use of Group Attributes in Prediction.
+Tuning Computer Vision Models With Task Rewards.
+Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic.
+Tight and fast generalization error bound of graph embedding in metric space.
+Proximal Causal Learning of Conditional Average Treatment Effects.
+Inverse Reinforcement Learning without Reinforcement Learning.
+Von Mises Mixture Distributions for Molecular Conformation Generation.
+Optimal randomized multilevel Monte Carlo for repeatedly nested expectations.
+Adaptive Coordination in Social Embodied Rearrangement.
+MG-GNN: Multigrid Graph Neural Networks for Learning Multilevel Domain Decomposition Methods.
+Learning Mixtures of Gaussians with Censored Data.
+Approximation and Estimation Ability of Transformers for Sequence-to-Sequence Functions with Infinite Dimensional Input.
+Learning Neural PDE Solvers with Parameter-Guided Channel Attention.
+Contextual Conservative Interleaving Bandits.
+Randomized Gaussian Process Upper Confidence Bound with Tighter Bayesian Regret Bounds.
+Towards Practical Preferential Bayesian Optimization with Skew Gaussian Processes.
+Robust Explanation for Free or At the Cost of Faithfulness.
+Provably Invariant Learning without Domain Information.
+Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning.
+Regret-Minimizing Double Oracle for Extensive-Form Games.
+From Perception to Programs: Regularize, Overparameterize, and Amortize.
+Understanding Self-Predictive Learning for Reinforcement Learning.
+DoMo-AC: Doubly Multi-step Off-policy Actor-Critic Algorithm.
+Towards Understanding Generalization of Graph Neural Networks.
+Towards a better understanding of representation dynamics under TD-learning.
+VA-learning as a more efficient alternative to Q-learning.
+Defects of Convolutional Decoder Networks in Frequency Representation.
+Difference-in-Differences Meets Tree-based Methods: Heterogeneous Treatment Effects Estimation with Unmeasured Confounding.
+End-to-end Training of Deep Boltzmann Machines by Unbiased Contrastive Divergence with Local Mode Initialization.
+POUF: Prompt-Oriented Unsupervised Fine-tuning for Large Pre-trained Models.
+Dual Focal Loss for Calibration.
+Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization.
+Data Feedback Loops: Model-driven Amplification of Dataset Biases.
+Deep Regression Unlearning.
+How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control.
+Concurrent Shuffle Differential Privacy Under Continual Observation.
+Finding Generalization Measures by Contrasting Signal and Noise.
+Reinforcement Learning with History Dependent Dynamic Contexts.
+PWSHAP: A Path-Wise Explanation Model for Targeted Variables.
+On the Estimation of Gaussian Mixture Copula Models.
+Target-Aware Generative Augmentations for Single-Shot Adaptation.
+ELSA: Efficient Label Shift Adaptation through the Lens of Semiparametric Models.
+Spherical Inducing Features for Orthogonally-Decoupled Gaussian Processes.
+Fast Rates for Maximum Entropy Exploration.
+Margin-based sampling in high dimensions: When being active is less efficient than staying passive.
+Differentiable Multi-Target Causal Bayesian Experimental Design.
+PCA-based Multi-Task Learning: a Random Matrix Approach.
+Perturbation Analysis of Neural Collapse.
+Overcoming Simplicity Bias in Deep Networks using a Feature Sieve.
+Beyond In-Domain Scenarios: Robust Density-Aware Calibration.
+Distribution Free Domain Generalization.
+Extending Kernel PCA through Dualization: Sparsity, Robustness and Fast Algorithms.
+Robust Weak Supervision with Variational Auto-Encoders.
+Fully Bayesian Autoencoders with Latent Sparse Gaussian Processes.
+Discrete Key-Value Bottleneck.
+Mimetic Initialization of Self-Attention Layers.
+Representer Point Selection for Explaining Regularized High-dimensional Models.
+Expected Gradients of Maxout Networks and Consequences to Parameter Initialization.
+Provable Data Subset Selection For Efficient Neural Networks Training.
+Jump-Start Reinforcement Learning.
+Submodular Order Functions and Assortment Optimization.
+Computationally Efficient PAC RL in POMDPs with Latent Determinism and Conditional Embeddings.
+From Adaptive Query Release to Machine Unlearning.
+Private Federated Learning with Autotuned Compression.
+The Monge Gap: A Regularizer to Learn All Transport Maps.
+Semi-Dual Unbalanced Quadratic Optimal Transport: fast statistical rates and convergent algorithm.
+Random Grid Neural Processes for Parametric Partial Differential Equations.
+Delayed Feedback in Kernel Bandits.
+Synthetic Data, Real Errors: How (Not) to Publish and Use Synthetic Data.
+Trading-Off Payments and Accuracy in Online Classification with Paid Stochastic Experts.
+Causal Isotonic Calibration for Heterogeneous Treatment Effects.
+Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time.
+Best Arm Identification in Multi-Agent Multi-Armed Bandits.
+Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models.
+Optimal LP Rounding and Linear-Time Approximation Algorithms for Clustering Edge-Colored Hypergraphs.
+Fast (1+ε)-Approximation Algorithms for Binary Matrix Factorization.
+The Virtues of Laziness in Model-based RL: A Unified Objective and Algorithms.
+Learning the Right Layers a Data-Driven Layer-Aggregation Strategy for Semi-Supervised Learning on Multilayer Graphs.
+Multi-Environment Pretraining Enables Transfer to Action Limited Datasets.
+AbODE: Ab initio antibody design using conjoined ODEs.
+TabLeak: Tabular Data Leakage in Federated Learning.
+Low-Variance Gradient Estimation in Unrolled Computation Graphs with ES-Single.
+Arithmetic Sampling: Parallel Diverse Decoding for Large Language Models.
+Eventual Discounting Temporal Logic Counterfactual Experience Replay.
+Transformers Learn In-Context by Gradient Descent.
+Topological Singularity Detection at Multiple Scales.
+Improving l1-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints.
+Vector Quantized Wasserstein Auto-Encoder.
+Competitive Gradient Optimization.
+On Provable Copyright Protection for Generative Models.
+Leveraging Offline Data in Online Reinforcement Learning.
+Fast Private Kernel Density Estimation via Locality Sensitive Quantization.
+Investigating the Role of Model-Based Learning in Exploration and Transfer.
+UPSCALE: Unconstrained Channel Pruning.
+Poisoning Language Models During Instruction Tuning.
+SeMAIL: Eliminating Distractors in Visual Imitation via Separated Models.
+Multiplier Bootstrap-based Exploration.
+Bandit Multi-linear DR-Submodular Maximization and Its Applications on Adversarial Submodular Bandits.
+Tight Regret Bounds for Single-pass Streaming Multi-armed Bandits.
+Improved Active Multi-Task Representation Learning via Lasso.
+Tilted Sparse Additive Models.
+From Hypergraph Energy Functions to Hypergraph Neural Networks.
+A Closer Look at Self-Supervised Lightweight Vision Transformers.
+PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search.
+Adversarial Policies Beat Superhuman Go AIs.
+On Regularization and Inference with Label Constraints.
+Policy Gradient in Robust MDPs with Global Convergence Guarantee.
+Adaptive Smoothing Gradient Learning for Spiking Neural Networks.
+CircuitNet: A Generic Neural Network to Realize Universal Circuit Motif Modeling.
+Generalized Polyak Step Size for First Order Optimization with Momentum.
+Near-Minimax-Optimal Risk-Sensitive Reinforcement Learning with CVaR.
+FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.
+A/B Testing in Network Data with Covariate-Adaptive Randomization.
+Learning Belief Representations for Partially Observable Deep RL.
+Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap.
+Slot-VAE: Object-Centric Scene Generation with Slot Attention.
+DIVISION: Memory Efficient Training via Dual Activation Precision.
+CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks.
+Magneto: A Foundation Transformer.
+Direct Parameterization of Lipschitz-Bounded Deep Networks.
+Tighter Information-Theoretic Generalization Bounds from Supersamples.
+NP-SemiSeg: When Neural Processes meet Semi-Supervised Semantic Segmentation.
+GC-Flow: A Graph-Based Flow Network for Effective Clustering.
+Curriculum Co-disentangled Representation Learning across Multiple Environments for Social Recommendation.
+Data Efficient Neural Scaling Law via Model Reusing.
+Deep Temporal Sets with Evidential Reinforced Attentions for Unique Behavioral Pattern Discovery.
+Active Learning based Structural Inference.
+Better Diffusion Models Further Improve Adversarial Training.
+Polarity Is All You Need to Learn and Transfer Faster.
+Projected Tensor Power Method for Hypergraph Community Recovery.
+Estimating Possible Causal Effects with Latent Variables via Adjustment.
+InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models.
+A Robust Test for the Stationarity Assumption in Sequential Decision Making.
+GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models.
+Effective and Efficient Structural Inference with Reservoir Computing.
+Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning.
+Model-Free Robust Average-Reward Reinforcement Learning.
+Live in the Moment: Learning Dynamics Model Adapted to Evolving Policy.
+Learning to Bid in Repeated First-Price Auctions with Budgets.
+Network Effects in Performative Prediction Games.
+Robustly Learning a Single Neuron via Sharpness.
+DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning.
+Enforcing Hard Constraints with Soft Barriers: Safe Reinforcement Learning in Unknown Stochastic Environments.
+LinSATNet: The Positive Linear Satisfiability Neural Networks.
+Offline Meta Reinforcement Learning with In-Distribution Online Adaptation.
+Reachability-Aware Laplacian Representation in Reinforcement Learning.
+PPG Reloaded: An Empirical Study on What Matters in Phasic Policy Gradient.
+On Heterogeneous Treatment Effects in Heterogeneous Causal Graphs.
+Nonparametric Extensions of Randomized Response for Private Confidence Sets.
+Global optimality for Euclidean CCCP under Riemannian convexity.
+A Universal Unbiased Method for Classification from Aggregate Observations.
+NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning.
+Boosting Graph Contrastive Learning via Graph Contrastive Saliency.
+Set-membership Belief State-based Reinforcement Learning for POMDPs.
+Mitigating Memorization of Noisy Labels by Clipping the Model Prediction.
+Graphically Structured Diffusion Models.
+Expectation-Complete Graph Representations with Homomorphisms.
+A Conditional Normalizing Flow for Accelerated Multi-Coil MR Imaging.
+Optimizing Mode Connectivity for Class Incremental Learning.
+Towards Learning Geometric Eigen-Lengths Crucial for Fitting Tasks.
+Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization.
+Fully-Adaptive Composition in Differential Privacy.
+Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation.
+Flexible Phase Dynamics for Bio-Plausible Contrastive Learning.
+Approximate Stein Classes for Truncated Density Estimation.
+Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables.
+Marginalization is not Marginal: No Bad VAE Local Minima when Learning Optimal Sparse Representations.
+Uncertainty Estimation for Molecules: Desiderata and Methods.
+The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond.
+Learning Deep Time-index Models for Time Series Forecasting.
+Sharper Bounds for ℓpSensitivity Sampling.
+Two Losses Are Better Than One: Faster Optimization Using a Cheaper Proxy.
+SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning.
+Causal Proxy Models for Concept-based Model Explanations.
+Effective Neural Topic Modeling with Embedding Clustering Regularization.
+Adaptive Compositional Continual Meta-Learning.
+Anchor Sampling for Federated Learning with Partial Client Participation.
+Solving High-Dimensional PDEs with Latent Spectral Models.
+A Law of Robustness beyond Isoperimetry.
+Uncovering Adversarial Risks of Test-Time Adaptation.
+Stable Estimation of Heterogeneous Treatment Effects.
+Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching.
+Understanding Int4 Quantization for Language Models: Latency Speedup, Composability, and Failure Cases.
+Towards Understanding Generalization of Macro-AUC in Multi-label Learning.
+Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs.
+Delay-agnostic Asynchronous Coordinate Update Algorithm.
+Masked Trajectory Models for Prediction, Representation, and Control.
+Disentangled Multi-Fidelity Deep Bayesian Active Learning.
+Tight Data Access Bounds for Private Top-k Selection.
+The Implicit Regularization of Dynamical Stability in Stochastic Gradient Descent.
+Distributional Offline Policy Evaluation with Predictive Error Guarantees.
+π-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation.
+Learning Functional Distributions with Private Labels.
+QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms.
+Discover and Cure: Concept-aware Mitigation of Spurious Correlation.
+On the Training Instability of Shuffling SGD with Batch Normalization.
+dugMatting: Decomposed-Uncertainty-Guided Matting.
+Personalized Federated Learning under Mixture of Distributions.
+Differentially Private Episodic Reinforcement Learning with Heavy-tailed Rewards.
+Finite-Sample Analysis of Learning High-Dimensional Single ReLU Neuron.
+Understanding Backdoor Attacks through the Adaptability Hypothesis.
+Fair and Optimal Classification via Post-Processing.
+UMD: Unsupervised Model Detection for X2X Backdoor Attacks.
+Random Shuffle Transformer for Image Restoration.
+Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation.
+SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models.
+On the Forward Invariance of Neural ODEs.
+COMCAT: Towards Efficient Compression and Customization of Attention-Based Vision Models.
+Improving Bi-level Optimization Based Methods with Inspiration from Humans' Classroom Study Techniques.
+Future-conditioned Unsupervised Pretraining for Decision Transformer.
+DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.
+Semiparametrically Efficient Off-Policy Evaluation in Linear Markov Decision Processes.
+A Critical View of Vision-Based Long-Term Dynamics Prediction Under Environment Misalignment.
+Controlling Type Confounding in Ad Hoc Teamwork with Instance-wise Teammate Feedback Rectification.
+Universal Morphology Control via Contextual Modulation.
+Relevant Walk Search for Explaining Graph Neural Networks.
+Why do Nearest Neighbor Language Models Work?
+MixFlows: principled variational inference via mixed flows.
+Bit Allocation using Optimization.
+Regret Bounds for Markov Decision Processes with Recursive Optimized Certainty Equivalents.
+Probabilistic Categorical Adversarial Attack and Adversarial Training.
+Hierarchical Neural Coding for Controllable CAD Model Generation.
+Efficient Sequence Transduction by Jointly Predicting Tokens and Durations.
+Constrained Efficient Global Optimization of Expensive Black-box Functions.
+Pareto Regret Analyses in Multi-objective Multi-armed Bandit.
+Diverse and Faithful Knowledge-Grounded Dialogue Generation via Sequential Posterior Inference.
+Quantifying the Variability Collapse of Neural Networks.
+Progressive Purification for Instance-Dependent Partial Label Learning.
+PFGM++: Unlocking the Potential of Physics-Inspired Generative Models.
+Geometric Latent Diffusion Models for 3D Molecule Generation.
+The Power of Preconditioning in Overparameterized Low-Rank Matrix Sensing.
+Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning.
+Competing for Shareable Arms in Multi-Player Multi-Armed Bandits.
+Sequential Predictive Conformal Inference for Time Series.
+mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video.
+ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts.
+Bayesian Design Principles for Frequentist Sequential Learning.
+SLAMB: Accelerated Large Batch Training with Sparse Communication.
+Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks.
+An Instrumental Variable Approach to Confounded Off-Policy Evaluation.
+Near-Optimal Quantum Coreset Construction Algorithms for Clustering.
+A Study on Transformer Configuration and Training Objective.
+LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation.
+Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression.
+Adaptive Computation with Elastic Input Sequence.
+Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL.
+Quantum Ridgelet Transform: Winning Lottery Ticket of Neural Networks with Quantum Computation.
+Compressed Decentralized Proximal Stochastic Gradient Method for Nonconvex Composite Problems with Heterogeneous Data.
+Temporally Consistent Transformers for Video Generation.
+Distortion and Uncertainty Aware Loss for Panoramic Depth Completion.
+Self-Interpretable Time Series Prediction with Counterfactual Explanations.
+Quantum 3D Graph Learning with Applications to Molecule Embedding.
+Fast Rates in Time-Varying Strongly Monotone Games.
+Proper Scoring Rules for Survival Analysis.
+Behavior Contrastive Learning for Unsupervised Skill Discovery.
+Nested Elimination: A Simple Algorithm for Best-Item Identification From Choice-Based Feedback.
+Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering.
+Weighted Flow Diffusion for Local Graph Clustering with Node Attributes: an Algorithm and Statistical Guarantees.
+Chemically Transferable Generative Backmapping of Coarse-Grained Proteins.
+Data Poisoning Attacks Against Multimodal Encoders.
+Towards Sustainable Learning: Coresets for Data-efficient Deep Learning.
+Improving Adversarial Robustness by Putting More Regularizations on Less Robust Samples.
+Improving Adversarial Robustness of Deep Equilibrium Models with Explicit Regulations Along the Neural Dynamics.
+Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning.
+A theory of representation learning gives a deep generalisation of kernel methods.
+Efficient Algorithms for Exact Graph Matching on Correlated Stochastic Block Models with Constant Correlation.
+Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations.
+Generative Adversarial Symmetry Discovery.
+Boosting Offline Reinforcement Learning with Action Preference Query.
+Towards Controlled Data Augmentations for Active Learning.
+What is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?
+Neural Prediction Errors enable Analogical Visual Reasoning in Human Standard Intelligence Tests.
+Change is Hard: A Closer Look at Subpopulation Shift.
+Continual Task Allocation in Meta-Policy Network via Sparse Prompting.
+Hyperbolic Representation Learning: Revisiting and Advancing.
+Which is Better for Learning with Noisy Labels: The Semi-supervised Method or Modeling Label Noise?
+How Bad is Top-K Recommendation under Competing Content Creators?
+MultiAdam: Parameter-wise Scale-invariant Optimizer for Multiscale Training of Physics-informed Neural Networks.
+Policy Mirror Ascent for Efficient and Independent Learning in Mean Field Games.
+Retrieval-Augmented Multimodal Language Modeling.
+On the Power of Pre-training for Generalization in RL: Provable Benefits and Hardness.
+Personalized Federated Learning with Inferred Collaboration Graphs.
+Compositional Exemplars for In-context Learning.
+Corruption-Robust Algorithms with Uncertainty Weighting for Nonlinear Contextual Bandits and Markov Decision Processes.
+GNN&GBDT-Guided Fast Optimizing Framework for Large-scale Integer Programming.
+FedDisco: Federated Learning with Discrepancy-Aware Collaboration.
+Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum QAP Solver.
+Temporal Label Smoothing for Early Event Prediction.
+From Temporal to Contemporaneous Iterative Causal Discovery in the Presence of Latent Confounders.
+Doubly Adversarial Federated Bandits.
+Online Prototype Alignment for Few-shot Policy Transfer.
+MonoFlow: Rethinking Divergence GANs via the Perspective of Wasserstein Gradient Flows.
+SE(3) diffusion model with application to protein backbone generation.
+CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification.
+Adaptive Estimation of Graphical Models under Total Positivity.
+Improving Visual Prompt Tuning for Self-supervised Vision Transformers.
+End-to-End Multi-Object Detection with a Regularized Mixture Model.
+EM-Network: Oracle Guided Self-distillation for Sequence Learning.
+Continual Learners are Incremental Model Generalizers.
+An Investigation into Pre-Training Object-Centric Representations for Reinforcement Learning.
+Graph Generative Model for Benchmarking Graph Neural Networks.
+Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels.
+Entropy-driven Unsupervised Keypoint Representation Learning in Videos.
+The Benefits of Model-Based Generalization in Reinforcement Learning.
+COLA: Orchestrating Error Coding and Learning for Robust Neural Network Inference Against Hardware Defects.
+Delving into Noisy Label Detection with Clean Data.
+Bag of Tricks for Training Data Extraction from Language Models.
+Discover-Then-Rank Unlabeled Support Vectors in the Dual Space for Multi-Class Active Learning.
+Long-Term Rhythmic Video Soundtracker.
+Adversarial Parameter Attack on Deep Neural Networks.
+CodeIPPrompt: Intellectual Property Infringement Assessment of Code Language Models.
+SeedGNN: Graph Neural Network for Supervised Seeded Graph Matching.
+Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian.
+On the Global Convergence of Risk-Averse Policy Gradient Methods with Expected Conditional Risk Measures.
+Actor-Critic Alignment for Offline-to-Online Reinforcement Learning.
+Master-ASR: Achieving Multilingual Scalability and Low-Resource Adaptation in ASR with Modular Learning.
+Coordinate Descent Methods for Fractional Minimization.
+On the Power of Foundation Models.
+Automatic Intrinsic Reward Shaping for Exploration in Deep Reinforcement Learning.
+Traversing Between Modes in Function Space for Fast Ensembling.
+Conformal Prediction with Missing Values.
+KDEformer: Accelerating Transformers via Kernel Density Estimation.
+Bayesian Estimation of Differential Privacy.
+When is Realizability Sufficient for Off-Policy Reinforcement Learning?
+On Distribution Dependent Sub-Logarithmic Query Time of Learned Indexing.
+Sequential Counterfactual Risk Minimization.
+LookupFFN: Making Transformers Compute-lite for CPU inference.
+Attribute-Efficient PAC Learning of Low-Degree Polynomial Threshold Functions with Nasty Noise.
+Generative Graph Dictionary Learning.
+Stabilizing Transformer Training by Preventing Attention Entropy Collapse.
+Offline Learning in Markov Games with General Function Approximation.
+Learning useful representations for shifting tasks and distributions.
+Nonparametric Iterative Machine Teaching.
+Matrix Estimation for Individual Fairness.
+Graph Contrastive Backdoor Attacks.
+Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories.
+Tractable Control for Autoregressive Language Generation.
+CataBEEM: Integrating Latent Interaction Categories in Node-wise Community Detection Models for Network Data.
+Rethink DARTS Search Space and Renovate a New Benchmark.
+Team Belief DAG: Generalizing the Sequence Form to Team Games for Fast Computation of Correlated Team Max-Min Equilibria via Regret Minimization.
+A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests.
+Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution.
+Prompting Large Language Model for Machine Translation: A Case Study.
+On the Interplay Between Misspecification and Sub-optimality Gap in Linear Contextual Bandits.
+When Sparsity Meets Contrastive Models: Less Graph Data Can Bring Better Class-Balanced Representations.
+Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation.
+Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models.
+CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling.
+Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics.
+One-Step Estimator for Permuted Sparse Recovery.
+Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions.
+Improving Medical Predictions by Irregular Multimodal Electronic Health Records Modeling.
+FedCR: Personalized Federated Learning Based on Across-Client Common Representation with Conditional Mutual Information Regularization.
+On the Optimality of Misspecified Kernel Ridge Regression.
+Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction.
+Learning Subpocket Prototypes for Generalizable Structure-based Drug Design.
+No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation.
+The Wisdom of Hindsight Makes Language Models Better Instruction Followers.
+Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score.
+On Enhancing Expressive Power via Compositions of Single Fixed-Size ReLU Network.
+Bi-directional Masks for Efficient N: M Sparse Training.
+Towards Unbiased Training in Federated Open-world Semi-supervised Learning.
+Interactive Object Placement with Reinforcement Learning.
+Optimal Shrinkage for Distributed Second-Order Optimization.
+"Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts.
+Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation.
+A Category-theoretical Meta-analysis of Definitions of Disentanglement.
+On the Convergence of SARSA with Linear Function Approximation.
+AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation.
+On the Generalization of Multi-modal Contrastive Learning.
+ConCerNet: A Contrastive Learning Based Framework for Automated Conservation Law Discovery and Trustworthy Dynamical System Prediction.
+Towards Trustworthy Explanation: On Causal Rationalization.
+Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks.
+Provable Dynamic Fusion for Low-Quality Multimodal Data.
+ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval.
+Nearly Optimal Competitive Ratio for Online Allocation Problems with Two-sided Resource Constraints and Finite Requests.
+Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection.
+Coder Reviewer Reranking for Code Generation.
+DP-Fast MH: Private, Fast, and Accurate Metropolis-Hastings for Large-Scale Bayesian Inference.
+Nearly-tight Bounds for Deep Kernel Learning.
+OpenFE: Automated Feature Generation with Expert-level Performance.
+Optimal Horizon-Free Reward-Free Exploration for Linear Mixture MDPs.
+Unlocking Slot Attention by Changing Optimal Transport Costs.
+Towards a Persistence Diagram that is Robust to Noise and Varied Densities.
+Robust Situational Reinforcement Learning in Face of Context Disturbances.
+Patch-level Contrastive Learning via Positional Query for Visual Pre-training.
+Men Also Do Laundry: Multi-Attribute Bias Amplification.
+Rockmate: an Efficient, Fast, Automatic and Generic Tool for Re-materialization in PyTorch.
+Revisiting Structured Variational Autoencoders.
+On Pitfalls of Test-Time Adaptation.
+Addressing Budget Allocation and Revenue Allocation in Data Market Environments Using an Adaptive Sampling Algorithm.
+X-Paste: Revisiting Scalable Copy-Paste for Instance Segmentation using CLIP and StableDiffusion.
+Revisiting Simple Regret: Fast Rates for Returning a Good Arm.
+Transformed Distribution Matching for Missing Value Imputation.
+Protecting Language Generation Models via Invisible Watermarking.
+Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning.
+Simplified Temporal Consistency Reinforcement Learning.
+RLEG: Vision-Language Representation Learning with Diffusion-based Embedding Generation.
+Optimal Online Generalized Linear Regression with Stochastic Noise and Its Application to Heteroscedastic Bandits.
+Does Continual Learning Equally Forget All Parameters?
+Online Learning in Stackelberg Games with an Omniscient Follower.
+Structure-informed Language Models Are Protein Designers.
+Semi-Supervised Offline Reinforcement Learning with Action-Free Trajectories.
+Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs.
+Fast Sampling of Diffusion Models via Operator Learning.
+Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation.
+Revisiting Discriminative vs. Generative Classifiers: Theory and Implications.
+Evidential Interactive Learning for Medical Image Captioning.
+Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs.
+Multi-agent Online Scheduling: MMS Allocations for Indivisible Items.
+Eliminating Adversarial Noise via Information Discard and Robust Representation Restoration.
+Brainformers: Trading Simplicity for Efficiency.
+Implicit Regularization Leads to Benign Overfitting for Sparse Linear Regression.
+ODS: Test-Time Adaptation in the Presence of Open-World Data Shift.
+Fourmer: An Efficient Global Modeling Paradigm for Image Restoration.
+Controlled Text Generation with Natural Language Instructions.
+NNSplitter: An Active Defense Solution for DNN Model via Automated Weight Obfuscation.
+Deep Latent State Space Models for Time-Series Generation.
+SlotGAT: Slot-based Message Passing for Heterogeneous Graphs.
+Fast Online Node Labeling for Very Large Graphs.
+Horizon-Free and Variance-Dependent Reinforcement Learning for Latent Markov Decision Processes.
+Phase-aware Adversarial Defense for Improving Adversarial Robustness.
+From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks.
+Towards Omni-generalizable Neural Methods for Vehicle Routing Problems.
+A Three-regime Model of Network Pruning.
+Learning to Decouple Complex Systems.
+ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation.
+On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation.
+Sharp Variance-Dependent Bounds in Reinforcement Learning: Best of Both Worlds in Stochastic and Deterministic Environments.
+Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator.
+Markovian Gaussian Process Variational Autoencoders.
+Mixture Proportion Estimation Beyond Irreducibility.
+Exploring Model Dynamics for Accumulative Poisoning Discovery.
+Decentralized SGD and Average-direction SAM are Asymptotically Equivalent.
+Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons.
+Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability.
+Benign Overfitting in Deep Neural Networks under Lazy Training.
+Interpolation for Robust Learning: Data Augmentation on Wasserstein Geodesics.
+LeadFL: Client Self-Defense against Model Poisoning in Federated Learning.
+XTab: Cross-table Pretraining for Tabular Transformers.
+Provable Multi-instance Deep AUC Maximization with Stochastic Pooling.
+Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning.
+Weak Proxies are Sufficient and Preferable for Fairness with Missing Sensitive Attributes.
+Label Distributionally Robust Losses for Multi-class Classification: Consistency, Robustness and Adaptivity.
+Likelihood Adjusted Semidefinite Programs for Clustering Heterogeneous Data.
+Are Random Decompositions all we need in High Dimensional Bayesian Optimisation?
+Revisiting Bellman Errors for Offline Model Selection.
+spred: Solving L1 Penalty with SGD.
+The Benefits of Mixup for Feature Learning.

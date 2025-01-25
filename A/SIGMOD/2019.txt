@@ -1,0 +1,179 @@
+Responsible Data Science.
+Exact Cardinality Query Optimization with Bounded Execution Cost.
+Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities.
+Efficiently Searching In-Memory Sorted Arrays: Revenge of the Interpolation Search?
+Iterative Query Processing based on Unified Optimization Techniques.
+Approximate Distinct Counts for Billions of Datasets.
+Cache-oblivious High-performance Similarity Join.
+Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric.
+Towards Scaling Blockchain Systems via Sharding.
+vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases.
+Answering Multi-Dimensional Analytical Queries under Local Differential Privacy.
+APEx: Accuracy-Aware Differentially Private Data Exploration.
+Active Sparse Mobile Crowd Sensing Based on Matrix Completion.
+Autocompletion for Prefix-Abbreviated Input.
+Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment.
+Visual Segmentation for Information Extraction from Heterogeneous Visually Rich Documents.
+RRR: Rank-Regret Representative.
+Strongly Truthful Interactive Regret Minimization.
+Verifying Text Summaries of Relational Data Sets.
+QuickInsights: Quick and Automatic Discovery of Insights from Multi-Dimensional Data.
+ExplainIt! - A Declarative Root-cause Analysis Engine for Time Series Data.
+Automatically Generating Interesting Facts from Wikipedia Tables.
+Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale.
+PS2: Parameter Server on Spark.
+Entity Matching Meets Data Science: A Progress Report from the Magellan Project.
+State of Public and Private Blockchains: Myths and Reality.
+The Responsibility Challenge for Data.
+An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning.
+Fast General Distributed Transactions with Opacity.
+The Log-Structured Merge-Bush & the Wacky Continuum.
+RaSQL: Greater Power and Performance for Big Data Analytics with Recursive-aggregate-SQL on Spark.
+Going Beyond Provenance: Explaining Query Answers with Pattern-based Counterbalances.
+Explaining Wrong Queries Using Small Examples.
+Ariadne: Online Provenance for Big Graph Analytics.
+Hypothetical Reasoning via Provenance Abstraction.
+Event Trend Aggregation Under Rich Event Matching Semantics.
+Elasticutor: Rapid Elasticity for Realtime Stateful Stream Processing.
+Real-Time Multi-Pattern Detection over Event Streams.
+AStream: Ad-hoc Shared Stream Processing.
+Nanosecond Indexing of Graph Data With Hash Maps and VLists.
+Implementation of Cluster-wide Logical Clock and Causal Consistency in MongoDB.
+X-Engine: An Optimized Storage Engine for Large-scale E-commerce Transaction Processing.
+Automatically Indexing Millions of Databases in Microsoft Azure SQL Database.
+Concurrent Prefix Recovery: Performing CPR on a Database.
+BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures.
+Border-Collie: A Wait-free, Read-optimal Algorithm for Database Logging on Multicore Hardware.
+Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks.
+DistME: A Fast and Elastic Distributed Matrix Computation Engine using GPUs.
+GPU-based Graph Traversal on Compressed Graphs.
+Interventional Fairness: Causal Database Repair for Algorithmic Fairness.
+Uni-Detect: A Unified Approach to Automated Error Detection in Tables.
+HoloDetect: Few-Shot Learning for Error Detection.
+JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes.
+Raha: A Configuration-Free Error Detection System.
+Speculative Distributed CSV Data Parsing for Big Data Analytics.
+CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation.
+iQCAR: inter-Query Contention Analyzer for Data Analytics Frameworks.
+A Holistic Approach for Query Evaluation andResult Vocalization in Voice-Based OLAP.
+Top-k Queries over Digital Traces.
+Visual Road: A Video Data Management Benchmark.
+Mining Precision Interfaces From Query Logs.
+Distance-generalized Core Decomposition.
+Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs.
+PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs.
+Scaling Distance Labeling on Small-World Networks.
+Maximizing Welfare in Social Networks under A Utility Driven Influence Diffusion model.
+Efficient Approximation Algorithms for Adaptive Seed Minimization.
+Data Management on Non-Volatile Memory.
+Formal Approaches to Querying Big Data in Shared-Nothing Systems.
+DeepBase: Deep Inspection of Neural Networks.
+BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees.
+SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning.
+Democratizing Data Science through Interactive Curation of ML Pipelines.
+FITing-Tree: A Data-aware Index Structure.
+Hyperion: Building the Largest In-memory Search Tree.
+Designing Succinct Secondary Indexing Mechanism by Exploiting Column Correlations.
+AI Meets AI: Leveraging Query Executions to Improve Index Recommendations.
+Designing Fair Ranking Schemes.
+Anti-Freeze for Large and Complex Spreadsheets: Asynchronous Formula Computation.
+Anytime Approximation in Probabilistic Databases via Scaled Dissociations.
+Uncertainty Annotated Databases - A Lightweight Approach for Approximating Certain Answers.
+Efficient Estimation of Heat Kernel PageRank for Local Clustering.
+Fractal: A General-Purpose Graph Pattern Mining System.
+Experimental Analysis of Streaming Algorithms for Graph Partitioning.
+Interactive Graph Search.
+Optimizing Declarative Graph Queries at Large Scale.
+Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together.
+CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching.
+Efficiently Answering Regular Simple Path Queries on Large Labeled Networks.
+Answering Why-questions by Exemplars in Attributed Graphs.
+An Efficient Index for RDF Query Containment.
+Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent.
+Towards Model-based Pricing for Machine Learning in a Data Marketplace.
+DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models.
+Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra.
+Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations.
+MNC: Structure-Exploiting Sparsity Estimation for Matrix Expressions.
+A Scalable Index for Top-k Subtree Similarity Queries.
+A Layered Aggregate Engine for Analytics Workloads.
+Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue.
+MIFO: A Query-Semantic Aware Resource Allocation Policy.
+Dissecting the Performance of Strongly-Consistent Replication Protocols.
+FishStore: Faster Ingestion with Subset Hashing.
+CFS: A Distributed File System for Large Scale Container Platforms.
+Socrates: The New SQL Server in the Cloud.
+One SQL to Rule Them All - an Efficient and Syntactically Idiomatic Approach to Management of Streams and Tables.
+Apache Hive: From MapReduce to Enterprise-grade Big Data Warehousing.
+FoundationDB Record Layer: A Multi-Tenant Structured Datastore.
+Data Platform for Machine Learning.
+Scalable Reservoir Sampling on Many-Core CPUs.
+Helios: An Adaptive and Query Workload-driven Partitioning Framework for Distributed Graph Stores.
+CAvSAT: A System for Query Answering over Inconsistent Databases.
+Interactive Visualization For Big Spatial Data.
+LSM-Trees and B-Trees: The Best of Both Worlds.
+Answering Range Queries Under Local Differential Privacy.
+Fingerprints for Compressed Columnar Data Search.
+Learning to Generate Questions with Adaptive Copying Neural Networks.
+Towards Understanding Data Analysis Workflows using a Large Notebook Corpus.
+Query-Driven Learning for Next Generation Predictive Modeling & Analytics.
+SpeakQL: Towards Speech-driven Multimodal Querying.
+Arachnid: Generalized Visual Data Cleaning.
+Generating Selective Filters for Access Method and Physical Design Evaluation.
+Deep Query Optimization.
+Recommending Deployment Strategies in Crowdsourcing Platforms.
+Bootstrapping an End-to-End Natural Language Interface for Databases.
+GraphWrangler: An Interactive Graph View on Relational Data.
+Apollo: A Dataset Profiling and Operator Modeling System.
+MapRepair: Mapping and Repairing under Policy Views.
+Data Debugging and Exploration with Vizier.
+Large Scale Graph Mining with G-Miner.
+Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace.
+Peering through the Dark: An Owl's View of Inter-job Dependencies and Jobs' Impact in Shared Clusters.
+Capturing and Querying Structural Provenance in Spark with Pebble.
+CLASH: A High-Level Abstraction for Optimized, Multi-Way Stream Joins over Apache Storm.
+Visual Exploration of Time Series Anomalies with Metro-Viz.
+BlockchainDB - Towards a Shared Database on Blockchains.
+Cost-Effective, Workload-Adaptive Migration of Big Data Applications to the Cloud.
+MithraRanking: A System for Responsible Ranking Design.
+MorphStore - In-Memory Query Processing based on Morphing Compressed Intermediates LIVE.
+Fluid: A Blockchain based Framework for Crowdsourcing.
+MigCast: Putting a Price Tag on Data Model Evolution in NoSQL Data Stores.
+PgCuckoo: Laying Plan Eggs in PostgreSQL's Nest.
+Demonstration of ModelarDB: Model-Based Management of Dimensional Time Series.
+Estimating Cardinalities with Deep Sketches.
+Coconut Palm: Static and Streaming Data Series Exploration Now in your Palm.
+NeMeSys - A Showcase of Data Oriented Near Memory Graph Processing.
+Ratel: Interactive Analytics for Large Scale Trajectories.
+NEURON: Query Execution Plan Meets Natural Language Processing For Augmenting DB Education.
+CrowdGame: A Game-Based Crowdsourcing System for Cost-Effective Data Labeling.
+RATest: Explaining Wrong Relational Queries Using Small Examples.
+NAVIGATE: Explainable Visual Graph Exploration by Examples.
+Pivotal Greenplum© for Kubernetes: Demonstration of Managing Greenplum Database on Kubernetes.
+NEWS: News Event Walker and Summarizer.
+ANMAT: Automatic Knowledge Discovery and Error Detection through Pattern Functional Dependencies.
+DuckDB: an Embeddable Analytical Database.
+ChronosDB in Action: Manage, Process, and Visualize Big Geospatial Arrays in the Cloud.
+Ursprung: Provenance for Large-Scale Analytics Environments.
+Unit Testing Data with Deequ.
+Natural Language Querying of Complex Business Intelligence Queries.
+Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data.
+C2Metadata: Automating the Capture of Data Transformations from Statistical Scripts in Data Documentation.
+[Demo] Low-latency Spark Queries on Updatable Data.
+SVQ: Streaming Video Queries.
+FindYourFavorite: An Interactive System for Finding the User's Favorite Tuple in the Database.
+PIClean: A Probabilistic and Interactive Data Cleaning System.
+Towards Democratizing Relational Data Visualization.
+Exploring the Data Wilderness through Examples.
+Database and Distributed Computing Foundations of Blockchains.
+Classical and Contemporary Approaches to Big Time Series Forecasting.
+Data Pipelines for User Group Analytics.
+From Auto-tuning One Size Fits All to Self-designed and Learned Data-intensive Systems.
+Schemas and Types for JSON Data: From Theory to Practice.
+GRADES-NDA 2019: Joint International Workshop on Graph Data Management Experiences & Systems and Network Data Analytics.
+DEEM 2019: Workshop on Data Management for End-to-End Machine Learning.
+DSMM'19: The 5thWorkshop on Data Science for Macro-modeling with Financial and Economic Datasets.
+DaMoN 19: The 15th International Workshop on Data Management on New Hardware.
+International Workshop on Human-In-the-Loop Data Analytics (HILDA).
+Overview of the 2ndInternational Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM'19).
+SBD'19: Fourth Edition of the International Workshop on Semantic Big Data.

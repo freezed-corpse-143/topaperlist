@@ -1,0 +1,222 @@
+Reflections on a Career in Computer Science.
+On a Quest for Combating Filter Bubbles and Misinformation.
+Is Data Management the Beating Heart of AI Systems?
+Ad Hoc Transactions in Web Applications: The Good, the Bad, and the Ugly.
+Plor: General Transactions with Predictable, Low Tail Latency.
+Skeena: Efficient and Consistent Cross-Engine Transactions.
+Diva: Making MVCC Systems HTAP-Friendly.
+Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems.
+Optimizing Recursive Queries with Progam Synthesis.
+WeTune: Automatic Discovery and Verification of Query Rewrite Rules.
+Conjunctive Queries with Comparisons.
+Efficient Massively Parallel Join Optimization for Large Queries.
+Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI).
+Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.
+Neural Subgraph Counting with Wasserstein Estimator.
+Statistical Schema Learning with Occam's Razor.
+DB-BERT: A Database Tuning Tool that "Reads the Manual".
+PreQR: Pre-training Representation for SQL Understanding.
+DataPrism: Exposing Disconnect between Data and Systems.
+Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification.
+Interpretable Data-Based Explanations for Fairness Debugging.
+Rank Aggregation with Proportionate Fairness.
+Causal Feature Selection for Algorithmic Fairness.
+TSUBASA: Climate Network Construction on Historical and Real-Time Data.
+DenForest: Enabling Fast Deletion in Incremental Density-Based Clustering over Sliding Windows.
+AutoMon: Automatic Distributed Monitoring for Arbitrary Multivariate Functions.
+GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams.
+DLACEP: A Deep-Learning Based Framework for Approximate Complex Event Processing.
+Understanding Queries by Conditional Instances.
+Complaint-Driven Training Data Debugging at Interactive Speeds.
+Parallel Rule Discovery from Large Datasets by Sampling.
+Reptile: Aggregation-level Explanations for Hierarchical Data.
+Hierarchical Entity Resolution using an Oracle.
+Entity Resolution with Hierarchical Graph Attention Networks.
+Domain Adaptation for Deep Entity Resolution.
+Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways.
+HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.
+NuPS: A Parameter Server for Machine Learning with Non-Uniform Parameter Access.
+Finding Label and Model Errors in Perception Data With Learned Observation Assertions.
+Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets.
+Spine: Scaling up Programming-by-Negative-Example for String Filtering and Transformation.
+One Size Does Not Fit All: A Bandit-Based Sampler Combination Framework with Theoretical Guarantees.
+Zeus: Efficiently Localizing Actions in Videos using Reinforcement Learning.
+FiGO: Fine-Grained Query Optimization in Video Analytics.
+Redundancy Elimination in Distributed Matrix Computation.
+End-to-end Optimization of Machine Learning Prediction Queries.
+EVA: A Symbolic Approach to Accelerating Exploratory Video Analytics with Materialized Views.
+Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems.
+Towards Dynamic and Safe Configuration Tuning for Cloud Databases.
+HUNTER: An Online Cloud Database Hybrid Tuning System for Personalized Requirements.
+ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning.
+LOCAT: Low-Overhead Online Configuration Auto-Tuning of Spark SQL Applications.
+ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA.
+Proteus: Autonomous Adaptive Storage for Mixed Workloads.
+Natto: Providing Distributed Transaction Prioritization for High-Contention Workloads.
+Confidence Bounded Replica Currency Estimation.
+MinMax Sampling: A Near-optimal Global Summary for Aggregation in the Wide Area.
+R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys.
+Network Shuffling: Privacy Amplification via Random Walks.
+Unsupervised Contextual Anomaly Detection for Database Systems.
+Towards Practical Oblivious Join.
+IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy.
+A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery.
+Efficient Algorithms for Maximal k-Biplex Enumeration.
+Hunting Temporal Bumps in Graphs with Dynamic Vertex Properties.
+DMCS : Density Modularity based Community Search.
+On Scalable Computation of Graph Eccentricities.
+HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle.
+Balsa: Learning a Query Optimizer Without Expert Demonstrations.
+LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning.
+Selectivity Functions of Range Queries are Learnable.
+Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process.
+X-SSD: A Storage System with Native Support for Database Logging and Replication.
+GaccO - A GPU-accelerated OLTP DBMS.
+Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects.
+Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory.
+Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery.
+LDP-IDS: Local Differential Privacy for Infinite Data Streams.
+Rethinking Stateful Stream Processing with RDMA.
+HYPERSONIC: A Hybrid Parallelization Approach for Scalable Complex Event Processing.
+Approximate Range Thresholding.
+Gloria: Graph-based Sharing Optimizer for Event Trend Aggregation.
+SIEVE: A Space-Efficient Algorithm for Viterbi Decoding.
+TxtAlign: Efficient Near-Duplicate Text Alignment Search via Bottom-k Sketches for Plagiarism Detection.
+Classifier Construction Under Budget Constraints.
+dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification.
+CoLES: Contrastive Learning for Event Sequences with Self-Supervision.
+Anchored Densest Subgraph.
+Learned Cardinality Estimation: An In-depth Study.
+LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems.
+Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions.
+HINT: A Hierarchical Index for Intervals in Main Memory.
+Camel: Managing Data for Efficient Stream Learning.
+In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle.
+NeutronStar: Distributed GNN Training with Hybrid Dependency Management.
+BlindFL: Vertical Federated Machine Learning without Peeking into Your Data.
+The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures.
+Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT.
+TCUDB: Accelerating Database with Tensor Processors.
+P4DB - The Case for In-Network OLTP.
+Tile-based Lightweight Integer Compression in GPU.
+Avoiding Read Stalls on Flash Storage.
+TimeUnion: An Efficient Architecture with Unified Data Model for Timeseries Management Systems on Hybrid Cloud Storage.
+Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines.
+Parallel Query Processing: To Separate Communication from Computation.
+Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures.
+Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness.
+Annotating Columns with Pre-trained Language Models.
+Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation.
+Cooperative Route Planning Framework for Multiple Distributed Assets in Maritime Applications.
+Budget-aware Index Tuning with Reinforcement Learning.
+SAM: Database Generation from Query Workloads with Supervised Autoregressive Models.
+Efficient Answering of Historical What-if Queries.
+Computing the Shapley Value of Facts in Query Answering.
+JEDI: These aren't the JSON documents you're looking for?
+HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach.
+Adaptive Threshold Sampling.
+Adaptive Hybrid Indexes.
+Entropy-Learned Hashing: Constant Time Hashing with Controllable Uniformity.
+CompressDB: Enabling Efficient Compressed Data Direct Processing for Various Databases.
+Proteus: A Self-Designing Range Filter.
+Scalable Time Series Compound Infrastructure.
+PI2: End-to-end Interactive Visualization Interface Generation from Queries.
+A Hierarchical Contraction Scheme for Querying Big Graphs.
+Representative Query Results by Voting.
+Protecting Data Markets from Strategic Buyers.
+Automated Category Tree Construction in E-Commerce.
+FILA: Online Auditing of Machine Learning Model Accuracy under Finite Labelling Budget.
+Evaluating Multi-GPU Sorting with Modern Interconnects.
+How Good is My HTAP System?
+Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines.
+Juggler: Autonomous Cost Optimization and Performance Prediction of Big Data Applications.
+Sintel: A Machine Learning Framework to Extract Insights from Signals.
+Serverless Data Science - Are We There Yet? A Case Study of Model Serving.
+Sommelier: Curating DNN Models for the Masses.
+FuseME: Distributed Matrix Computation Engine based on Cuboid-based Fused Operator and Plan Generation.
+Video-zilla: An Indexing Layer for Large-Scale Video Analytics.
+Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts.
+TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data.
+Givens QR Decomposition over Relational Databases.
+Materialization and Reuse Optimizations for Production Data Science Pipelines.
+Scalable and Effective Bipartite Network Embedding.
+Relative Subboundedness of Contraction Hierarchy and Hierarchical 2-Hop Index in Dynamic Road Networks.
+One Set to Cover All Maximal Cliques Approximately.
+BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale.
+Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach.
+Efficient Personalized PageRank Computation: A Spanning Forests Sampling Based Approach.
+Explaining Link Prediction Systems based on Knowledge Graph Embeddings.
+Computing Complex Temporal Join Queries Efficiently.
+OTIF: Efficient Tracker Pre-processing over Large Video Datasets.
+Controlled Intentional Degradation in Analytical Video Systems.
+SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization.
+Faster and Better Solution to Embed Lp Metrics by Tree Metrics.
+T-LevelIndex: Towards Efficient Query Processing in Continuous Preference Space.
+Scaling Equi-Joins.
+HiEngine: How to Architect a Cloud-Native Memory-Optimized Database Engine.
+KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks.
+Amazon Redshift Re-invented.
+LedgerView: Access-Control Views on Hyperledger Fabric.
+Remus: Efficient Live Migration for Distributed Databases with Snapshot Isolation.
+Graph Pattern Matching in GQL and SQL/PGQ.
+Saga: A Platform for Continuous Construction and Serving of Knowledge at Scale.
+Intelligent Automated Workload Analysis for Database Replatforming.
+ESDB: Processing Extremely Skewed Workloads in Real-time.
+Deploying a Steered Query Optimizer in Production at Microsoft.
+Enabling the Next Generation of Multi-Region Applications with CockroachDB.
+Photon: A Fast Query Engine for Lakehouse Systems.
+Cloud-Native Transactions and Analytics in SingleStore.
+Sevi: Speech-to-Visualization through Neural Machine Translation.
+Everest: A Top-K Deep Video Analytics System.
+Mondrian: Spreadsheet Layout Detection.
+Demonstration of PI2: Interactive Visualization Interface Generation for SQL Analysis in Notebook.
+SubTab: Data Exploration with Informative Sub-Tables.
+ShapGraph: An Holistic View of Explanations through Provenance Graphs and Shapley Values.
+Simplifying Access to Large-scale Structured Datasets by Meta-Profiling with Scalable Training Set Enrichment.
+PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks.
+VoiceQuerySystem: A Voice-driven Database Querying System Using Natural Language Questions.
+Snakes on a Plan: Compiling Python Functions into Plain SQL Queries.
+Demonstrating ASET: Ad-hoc Structured Exploration of Text Collections.
+Efficient Insights Discovery through Conditional Generative Model based Query Approximation.
+CFDB: Machine Learning Model Analysis via Databases of CounterFactuals.
+OpenTFV: An Open Domain Table-Based Fact Verification System.
+Pythia: Unsupervised Generation of Ambiguous Textual Claims from Relational Data.
+LANTERN: Boredom-conscious Natural Language Description Generation of Query Execution Plans for Database Education.
+GHive: A Demonstration of GPU-Accelerated Query Processing in Apache Hive.
+DeepO: A Learned Query Optimizer.
+Demonstration of VegaPlus: Optimizing Declarative Visualization Languages.
+Compactionary: A Dictionary for LSM Compactions.
+Generating Interpretable Data-Based Explanations for Fairness Debugging using Gopher.
+Demonstrating DB-BERT: A Database Tuning Tool that "Reads" the Manual.
+Data-driven Visual Query Interfaces for Graphs: Past, Present, and (Near) Future.
+An Introduction to Federated Computation.
+Explainable AI: Foundations, Applications, Opportunities for Data Management Research.
+Responsible Data Integration: Next-generation Challenges.
+Multi-Tenant Cloud Data Services: State-of-the-Art, Challenges and Opportunities.
+Spatial Data Quality in the IoT Era: Management and Exploitation.
+HTAP Databases: What is New and What is Next.
+Dissecting, Designing, and Optimizing LSM-based Data Stores.
+The DB Community vis-à-vis Environmental, Health, and Societal Grand Challenges: Innovation Engine, Plumber, or Bystander?
+Publication Culture and Review Processes in the Data Management Community: An Open Discussion.
+Concurrent Link-Cut Trees.
+Cost-efficiency and Performance Robustness in Serverless Data Exchange.
+An Approach for Unlabeled Tasks Prioritization.
+Applicability of Quantum Computing on Database Query Optimization.
+Tuning Hierarchical Learned Indexes on Disk and Beyond.
+Hindering Influence Diffusion of Community.
+SparRL: Graph Sparsification via Deep Reinforcement Learning.
+Live Patching Database Management Systems.
+DeepOLA: Online Aggregation for Deeply Nested Queries.
+Lineage Resource Manager.
+Workload-Adaptive Filtering in Storage Engines.
+Interactive Query Explanations Using Fine Grained Provenance.
+A Recommender Algorithm to Automatically Generate Metrics for GQM Models in Software Development.
+BiDEDE'22: Second International Workshop on Big Data in Emergent Distributed Environments.
+Theory and Practice of Provenance.
+GRADES-NDA'22: 5th International Workshop on Graph Data management Experiences and Systems (GRADES) and Network Data Analytics (NDA).
+DEEM'22: Data Management for End-to-End Machine Learning.
+aiDM'22: Fifth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management.
+HILDA'22: The SIGMOD 2022 Workshop on Human-in-the-Loop Data Analytics.
+DBTest '22: 9th International Workshop on Testing Database Systems.
+DataEd'22 - 1st International Workshop on Data Systems Education: Bridging Education Practice with Education Research.
+International Workshop on Data Management on New Hardware (DaMoN).

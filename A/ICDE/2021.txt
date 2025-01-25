@@ -1,0 +1,313 @@
+Profiles of Schema Evolution in Free Open Source Software Projects.
+CleanML: A Study for Evaluating the Impact of Data Cleaning on ML Classification Tasks.
+Approximate Order Dependency Discovery.
+DBSCOUT: A Density-based Method for Scalable Outlier Detection in Very Large Datasets.
+Bootstrapping Information Extraction via Conceptualization.
+Capturing Semantics for Imputation with Pre-trained Language Models.
+Manipulating Black-Box Networks for Centrality Promotion.
+Efficient and Effective Community Search on Large-scale Bipartite Graphs.
+Efficient Community Search with Size Constraint.
+Multi-attributed Community Search in Road-social Networks.
+Peer Learning Through Targeted Dynamic Groups Formation.
+Efficient 2-Hop Labeling Maintenance in Dynamic Small-World Networks.
+Differentially Private Publication of Multi-Party Sequential Data.
+Secure Dynamic Skyline Queries Using Result Materialization.
+P3GM: Private High-Dimensional Data Release via Privacy Preserving Phased Generative Model.
+Feature Inference Attack on Model Predictions in Vertical Federated Learning.
+Enabling Efficient Cyber Threat Hunting With Cyber Threat Intelligence.
+Twine: An Embedded Trusted Runtime for WebAssembly.
+Modeling Citywide Crowd Flows using Attentive Convolutional LSTM.
+A Privacy-Enhanced and Personalized Safe Route Planner with Crowdsourced Data and Computation.
+Coalition-based Task Assignment in Spatial Crowdsourcing.
+Crowdsensing Data Trading based on Combinatorial Multi-Armed Bandit and Stackelberg Game.
+Fairness-aware Task Assignment in Spatial Crowdsourcing: Game-Theoretic Approaches.
+A Human-in-the-loop Approach to Social Behavioral Targeting.
+CrowdRL: An End-to-End Reinforcement Learning Framework for Data Labelling.
+Rebuilding City-Wide Traffic Origin Destination from Road Speed Data.
+Constrained Route Planning over Large Multi-Modal Time-Dependent Networks.
+Online Route Planning over Time-Dependent Road Networks.
+Dynamic Hub Labeling for Road Networks.
+An Effective Joint Prediction Model for Travel Demands and Traffic Flows.
+A Learning-based Method for Computing Shortest Path Distances on Road Networks.
+Efficient Federated-Learning Model Debugging.
+Communication-efficient Decentralized Machine Learning over Heterogeneous Networks.
+Spark-based Cloud Data Analytics using Multi-Objective Optimization.
+WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust.
+CooLSM: Distributed and Cooperative Indexing Across Edge and Cloud Machines.
+Interactive Analytic DBMSs: Breaching the Scalability Wall.
+Relational Header Discovery using Similarity Search in a Table Corpus.
+Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach.
+Valentine: Evaluating Matching Techniques for Dataset Discovery.
+Odess: Speeding up Resemblance Detection for Redundancy Elimination by Fast Content-Defined Sampling.
+Latent Low-rank Graph Learning for Multimodal Clustering.
+Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter.
+UniNet: Scalable Network Representation Learning with Metropolis-Hastings Sampling.
+Towards Efficient Motif-based Graph Partitioning: An Adaptive Sampling Approach.
+LineageBA: A Fast, Exact and Scalable Graph Generation for the Barabási-Albert Model.
+Search to aggregate neighborhood for graph neural network.
+FastSGG: Efficient Social Graph Generation Using a Degree Distribution Generation Model.
+Noah: Neural-optimized A* Search Algorithm for Graph Edit Distance Computation.
+TS-Benchmark: A Benchmark for Time Series Databases.
+DBA bandits: Self-driving index tuning under ad-hoc, analytical workloads with safety guarantees.
+Less is More: De-amplifying I/Os for Key-value Stores with a Log-assisted LSM-tree.
+Multidimensional Adaptive & Progressive Indexes.
+Hash Adaptive Bloom Filter.
+HST+: An Efficient Index for Embedding Arbitrary Metric Spaces.
+Flow Computation in Temporal Interaction Networks.
+Leveraging Temporal and Topological Selectivities in Temporal-clique Subgraph Query Processing.
+Trajectory Simplification with Reinforcement Learning.
+E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training.
+REPOSE: Distributed Top-k Trajectory Similarity Search with Local Reference Point Tries.
+Durable Top-K Instant-Stamped Temporal Records with User-Specified Scoring Functions.
+The Case for In-Memory OLAP on "Wimpy" Nodes.
+DyCuckoo: Dynamic Hash Tables on GPUs.
+Programming an SSD Controller to Support Batched Writes for Variable-Size Pages.
+Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage.
+Discriminative Admission Control for Shared-everything Database under Mixed OLTP Workloads.
+Efficiently Reclaiming Space in a Log Structured Store.
+LogLog Filter: Filtering Cold Items within a Large Range over High Speed Data Streams.
+SliceNStitch: Continuous CP Decomposition of Sparse Tensor Streams.
+DISC: Density-Based Incremental Clustering by Striding over Streaming Data.
+Robust Factorization of Real-world Tensor Streams with Patterns, Missing Values, and Outliers.
+Single Point Incremental Fourier Transform on 2D Data Streams.
+SALSA: Self-Adjusting Lean Streaming Analytics.
+NewsLink: Empowering Intuitive News Search with Knowledge Graphs.
+On Disambiguating Authors: Collaboration Network Reconstruction in a Bottom-up Manner.
+A Bootstrapping Approach to Optimize Random Walk Based Statistical Estimation over Graphs.
+Leveraging Meta-path Contexts for Classification in Heterogeneous Information Networks.
+Property Graph Schema Optimization for Domain-Specific Knowledge Graphs.
+Fast Core-based Top-k Frequent Pattern Discovery in Knowledge Graphs.
+The Logarithmic Dynamic Cuckoo Filter.
+Continuously Bulk Loading over Range Partitioned Tables for Large Scale Historical Data.
+Eclipse: Generalizing kNN and Skyline.
+Memory-Efficient Key/Foreign-Key Join Size Estimation via Multiplicity and Intersection Size.
+Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains.
+NestGPU: Nested Query Processing on GPU.
+Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores.
+CruiseDB: An LSM-Tree Key-Value Store with Both Better Tail Throughput and Tail Latency.
+FPGA for Aggregate Processing: The Good, The Bad, and The Ugly.
+Fingerprinting Concepts in Data Streams with Supervised and Unsupervised Meta-Information.
+Concept Drift Detection from Multi-Class Imbalanced Data Streams.
+DisMASTD: An Efficient Distributed Multi-Aspect Streaming Tensor Decomposition.
+EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction.
+Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding.
+INFOSHIELD: Generalizable Information-Theoretic Human-Trafficking Detection.
+An Efficient Approach for Cross-Silo Federated Learning to Rank.
+Efficient Construction of Nonlinear Models over Normalized Data.
+Workload-aware Materialization for Efficient Variable Elimination on Bayesian Networks.
+A Distance-Based Scheme for Reducing Bandwidth in Distributed Geometric Monitoring.
+LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data.
+Data-Driven Fairness-Aware Vehicle Displacement for Large-Scale Electric Taxi Fleets.
+On Efficient and Scalable Time-Continuous Spatial Crowdsourcing.
+Spatial-Temporal Similarity for Trajectories with Location Noise and Sporadic Sampling.
+Learning to Characterize Matching Experts.
+End-to-end Task Based Parallelization for Entity Resolution on Dynamic Data.
+KDDLog: Performance and Scalability in Knowledge Discovery by Declarative Queries with Aggregates.
+Cost-effective Variational Active Entity Resolution.
+Structured Object Matching across Web Page Revisions.
+Automating Entity Matching Model Development.
+A Framework to Quantify Approximate Simulation on Graph Data.
+PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA.
+DPTL+: Efficient Parallel Triangle Listing on Batch-Dynamic Graphs.
+Finding a Summary for All Maximal Cliques.
+An Efficient Algorithm for the Anchored k-Core Budget Minimization Problem.
+Scalable Graph Isomorphism: Combining Pairwise Color Refinement and Backtracking via Compressed Candidate Space.
+Scalable Model-Based Management of Correlated Dimensional Time Series in ModelarDB+.
+RCC: Resilient Concurrent Consensus for High-Throughput Secure Transaction Processing.
+WipDB: A Write-in-place Key-value Store that Mimics Bucket Sort.
+Lock Violation for Fault-tolerant Distributed Database System*.
+Efficient Control Flow in Dataflow Systems: When Ease-of-Use Meets High Performance.
+Samya: A Geo-Distributed Data System for High Contention Aggregate Data.
+FAST: FPGA-based Subgraph Matching on Massive Graphs.
+A+ Indexes: Tunable and Space-Efficient Adjacency Lists in Graph Database Management Systems.
+Explaining Missing Data in Graphs: A Constraint-based Approach.
+Influence Maximization Based on Dynamic Personal Perception in Knowledge Graph.
+Privacy Preserving Strong Simulation Queries on Large Graphs.
+Trillion-scale Graph Processing Simulation based on Top-Down Graph Upscaling.
+Multi-Facet Recommender Networks with Spherical Optimization.
+Group-Buying Recommendation for Social E-Commerce.
+Reliable Recommendation with Review-level Explanations.
+Variational Self-attention Network for Sequential Recommendation.
+Knowledge-Aware Group Representation Learning for Group Recommendation.
+Attacking Black-box Recommendations via Copying Cross-domain User Profiles.
+Approximating Multidimensional Range Counts with Maximum Error Guarantees.
+LATEST: Learning-Assisted Selectivity Estimation Over Spatio-Textual Streams.
+ProMIPS: Efficient High-Dimensional c-Approximate Maximum Inner Product Search with a Lightweight Index.
+A Fully Dynamic Algorithm for k-Regret Minimizing Sets.
+Optimizing Error-Bounded Lossy Compression for Scientific Data by Dynamic Spline Interpolation.
+MLCask: Efficient Management of Component Evolution in Collaborative Data Analytics Pipelines.
+Improving Constrained Search Results By Data Melioration.
+G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression.
+Fast Similarity Computation for t-SNE.
+Rapid Approximate Aggregation with Distribution-Sensitive Interval Guarantees.
+Optimally Summarizing Data by Small Fact Sets for Concise Answers to Voice Queries.
+Automatic Webpage Briefing.
+EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting.
+Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks.
+Efficient Constrained Shortest Path Query Answering with Forest Hop Labeling.
+TASM: A Tile-Based Storage Manager for Video Analytics.
+A Two-layer Partitioning for Non-point Spatial Data.
+Spangle: A Distributed In-Memory Processing System for Large-Scale Arrays.
+Memory-Efficient Database Fragment Allocation for Robust Load Balancing when Nodes Fail.
+An Empirical Experiment on Deep Learning Models for Predicting Traffic Data.
+Evaluating List Intersection on SSDs for Parallel I/O Skipping.
+Performance Characterization of HTAP Workloads.
+Accelerating the Yinyang K-Means Algorithm Using the GPU.
+SLIMSTORE: A Cloud-based Deduplication System for Multi-version Backups.
+Meepo: Sharded Consortium Blockchain.
+SciChain: Blockchain-enabled Lightweight and Efficient Data Provenance for Reproducible Scientific Computing.
+Accelerating Similarity-based Mining Tasks on High-dimensional Data by Processing-in-memory.
+DS2: Handling Data Skew Using Data Stealings over High-Speed Networks.
+Efficient Matrix Factorization on Heterogeneous CPU-GPU Systems.
+Rethink the Linearizability Constraints of Raft for Distributed Key-Value Stores.
+SING: Sequence Indexing Using GPUs.
+TLBtree: A Read/Write-Optimized Tree Index for Non-Volatile Memory.
+Utilizing Delta Trees for Efficient, Iterative Exploration and Transformation of Semi-Structured Contents.
+Joint Index, Sorting, and Compression Optimization for Memory-Efficient Spatio-Temporal Data Management.
+High-Performance Smart Contracts Concurrent Execution for Permissioned Blockchain Using SGX.
+Estimating the extent of the effects of Data Quality through Observations.
+Decoupled Instance-label Extreme Multi-label Classification with Skew Coordinate Feature Space.
+Hierarchical Tree-based Sequential Event Prediction with Application in the Aviation Accident Report.
+Multi-Behavior Enhanced Recommendation with Cross-Interaction Collaborative Relation Modeling.
+Ranking Data Slices for ML Model Validation: A Shapley Value Approach.
+From Minimum Change to Maximum Density: On S-Repair under Integrity Constraints.
+Managing Consent for Data Access in Shared Databases.
+Summarizing Provenance of Aggregate Query Results in Relational Databases.
+Patterns Count-Based Labels for Datasets.
+PROTEUS: Predictive Explanation of Anomalies.
+Ranking Desired Tuples by Database Exploration.
+CIAO: An Optimization Framework for Client-Assisted Data Loading.
+Optimizing Multiple Multi-Way Stream Joins.
+Updatable Materialization of Approximate Constraints.
+Ranking Papers by their Short-Term Scientific Impact.
+Substring Similarity Search with Synonyms.
+CaSIE: Canonicalize and Informative Selection of the OpenIE system.
+Node2LV: Squared Lorentzian Representations for Node Proximity.
+Privacy-Preserving Sequential Publishing of Knowledge Graphs.
+Cluster-and-Conquer: When Randomness Meets Graph Locality.
+DDHH: A Decentralized Deep Learning Framework for Large-scale Heterogeneous Networks.
+EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph.
+HuGE: An Entropy-driven Approach to Efficient and Scalable Graph Embeddings.
+Hypercore Maintenance in Dynamic Hypergraphs.
+Selective Edge Shedding in Large Graphs Under Resource Constraints.
+Social Visibility Optimization in OSNs with Anonymity Guarantees: Modeling, Algorithms and Applications.
+Stealthy Targeted Data Poisoning Attack on Knowledge Graphs.
+Structure-Aware Parameter-Free Group Query via Heterogeneous Information Network Transformer.
+Taking Heuristic Based Graph Edge Partitioning One Step Ahead via OffStream Partitioning Approach.
+Fast Distributed Complex Join Processing.
+Top-k Community Similarity Search Over Large Road-Network Graphs.
+Batching and Matching for Food Delivery in Dynamic Road Networks.
+Sequential Recommendation on Dynamic Heterogeneous Information Network.
+Towards the smart use of embedding and instance features for property matching.
+AutoOD: Neural Architecture Search for Outlier Detection.
+Catching them red-handed: Real-time Aggression Detection on Social Media.
+Gallat: A Spatiotemporal Graph Attention Network for Passenger Demand Prediction.
+Heterogeneous Information Assisted Bandit Learning: Theory and Application.
+Package Pick-up Route Prediction via Modeling Couriers' Spatial-Temporal Behaviors.
+Palette: Towards Multi-source Model Selection and Ensemble for Reuse.
+Querying for Interactions.
+An Autonomous Materialized View Management System with Deep Reinforcement Learning.
+Revisiting Data Prefetching for Database Systems with Machine Learning Techniques.
+Self-Supervised Deep Metric Learning for Pointsets.
+ValueNet: A Natural Language-to-SQL System that Learns from Database Information.
+T3S: Effective Representation Learning for Trajectory Similarity Computation.
+TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?
+Concurrency Control Based on Transaction Clustering.
+A Learning to Tune Framework for LSH.
+TIRA in Baidu Image Advertising.
+Description Generation for Points of Interest.
+CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System.
+DAEMON: Unsupervised Anomaly Detection and Interpretation for Multivariate Time Series.
+Knowledge-Based Dynamic Systems Modeling: A Case Study on Modeling River Water Quality.
+Collecting Geospatial Data with Local Differential Privacy for Personalized Services.
+Experimental Study of Big Raster and Vector Database Systems.
+Predicting the Impact of Disruptions to Urban Rail Transit Systems.
+An Actor-Critic Ensemble Aggregation Model for Time-Series Forecasting.
+Crowdrebate: An Effective Platform to Get more Rebate for Customers.
+GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme.
+Near-Optimal Fixed-Route Scheduling for Crowdsourced Transit System.
+SPEAR: Dynamic Spatio-Temporal Query Processing over High Velocity Data Streams.
+The LSM RUM-Tree: A Log Structured Merge R-Tree for Update-intensive Spatial Workloads.
+Top-k Publish/Subscribe for Ride Hitching.
+Towards Efficient MaxBRNN Computation for Streaming Updates.
+User Profiling based on Nonlinguistic Audio Data.
+Semantic Search Pipeline: From Query Expansion to Concept Forging.
+Leveraging Currency for Repairing Inconsistent and Incomplete Data (Extended Abstract).
+A Collective Approach to Scholar Name Disambiguation (Extended Abstract).
+Analyzing In-Memory NoSQL Landscape (Extended Abstract).
+LogStore: A Workload-aware, Adaptable Key-Value Store on Hybrid Storage Systems (Extended abstract).
+Entity Alignment for Knowledge Graphs with Multi-order Convolutional Networks (Extended Abstract).
+Compressed Indexes for Fast Search of Semantic Data (Extended Abstract).
+FastDTW is approximate and Generally Slower than the Algorithm it Approximates (Extended Abstract).
+ESA-Stream: Efficient Self-Adaptive Online Data Stream Clustering (Extended Abstract).
+CuWide: Towards Efficient Flow-based Training for Sparse Wide Models on GPUs (Extended Abstract).
+Reliability Maximization in Uncertain Graphs (Extended Abstract).
+MaxiZone: Maximizing Influence Zone over Geo-Textual Data (Extended Abstract).
+Efficient Shapelet Discovery for Time Series Classification (Extended Abstract).
+A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs (Extended Abstract).
+LShape Partitioning: Parallel Skyline Query Processing using MapReduce (Extended Abstract).
+Index-based Solutions for Efficient Density Peak Clustering (Extended Abstract).
+A Hybrid Data Cleaning Framework Using Markov Logic Networks (Extended Abstract).
+Truss-based Structural Diversity Search in Large Graphs (Extended Abstract).
+Towards Query Pricing on Incomplete Data (Extended Abstract).
+Effective Keyword Search in Weighted Graphs (Extended Abstract).
+Distributed Density Peaks Clustering Revisited (Extended Abstract).
+Discovering Relaxed Functional Dependencies based on Multi-attribute Dominance [Extended Abstract].
+Constrained Truth Discovery (Extended Abstract).
+Fairness in Rankings and Recommenders: Models, Methods and Research Directions.
+Countering Bias in Personalized Rankings : From Data Engineering to Algorithm Development.
+Workload-Aware Performance Tuning for Autonomous DBMSs.
+High-Dimensional Similarity Search for Scalable Data Science.
+Evaluation of Duplicate Detection Algorithms: From Quality Measures to Test Data Generation.
+Nullius in Verba: Reproducibility for Database Systems Research, Revisited.
+Exploratory Data Analysis in SAP IQ Using Query-Time Sampling.
+Swift: Reliable and Low-Latency Data Processing at Cloud Scale.
+DBSpinner: Making a Case for Iterative Processing in Databases.
+Prefix-Graph: A Versatile Log Parsing Approach Merging Prefix Tree with Probabilistic Graph.
+Microlearner: A fine-grained Learning Optimizer for Big Data Workloads at Microsoft.
+Query Rewriting via Cycle-Consistent Translation for E-Commerce Search.
+Learnings from a Retail Recommendation System on Billions of Interactions at bol.com.
+Adversarial Mixture Of Experts with Category Hierarchy Soft Constraint.
+Explore User Neighborhood for Real-time E-commerce Recommendation.
+Billion-scale Pre-trained E-commerce Product Knowledge Graph Model.
+Purchase Intent Forecasting with Convolutional Hierarchical Transformer Networks.
+ATNN: Adversarial Two-Tower Neural Network for New Item's Popularity Prediction in E-commerce.
+Learning to Optimize Industry-Scale Dynamic Pickup and Delivery Problems.
+The IoT Meta-Control Firewall.
+GeoDart: A System for Discovering Maps Discrepancies.
+Implementing Rigid Temporal Geometries in Moving Object Databases.
+IntelliTag: An Intelligent Cloud Customer Service System Based on Tag Recommendation.
+IPS: Unified Profile Management for Ubiquitous Online Recommendations.
+Turbo: Fraud Detection in Deposit-free Leasing Service via Real-Time Behavior Network Mining.
+Large-scale Fake Click Detection for E-commerce Recommendation Systems.
+Improving Conversational Recommender System by Pretraining Billion-scale Knowledge Graph.
+Efficient and Scalable Structure Learning for Bayesian Networks: Algorithms and Applications.
+ReLink: Complete-Link Industrial Record Linkage Over Hybrid Feature Spaces.
+Distributed Company Control in Company Shareholding Graphs.
+SPARQLIt: Interactive SPARQL Query Refinement.
+SubDEx: Exploring Ratings in Subjective Databases.
+SOUP: A Fleet Management System for Passenger Demand Prediction and Competitive Taxi Supply.
+VADETIS: An Explainable Evaluator for Anomaly Detection Techniques.
+CoWiz: Interactive Covid-19 Visualization Based On Multilayer Network Analysis.
+SpeakNav: A Voice-based Navigation System via Route Description Language Understanding.
+QeNoBi: A System for QuErying and mining BehavIoral Patterns.
+CREATe: Clinical Report Extraction and Annotation Technology.
+UniKG: A Unified Interoperable Knowledge Graph Database System.
+A Cockpit for the Development and Evaluation of Autonomous Database Systems.
+Automated Data Science for Relational Data.
+Josch: Managing Schemas for NoSQL Document Stores.
+DeBinelle: Semantic Patches for Coupled Database-Application Evolution.
+ConCaT: Construction of Category Trees from Search Queries in E-Commerce.
+A System for Efficiently Hunting for Cyber Threats in Computer Systems Using Threat Intelligence.
+Odlaw: A Tool for Retroactive GDPR Compliance.
+PITA: Privacy Through Provenance Abstraction.
+The F4U System for Understanding the Effects of Data Quality.
+FloraVision: A Spatial Crowd-based Learning System for California Native Plants.
+Clouseau: Blockchain-based Data Integrity for HDFS Clusters.
+REACT: Real-Time Contact Tracing and Risk Monitoring via Privacy-Enhanced Mobile Tracking.
+Edge Sparsification for Graphs via Meta-Learning.
+MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures.
+Graph Based Approach to Real-Time Metro Passenger Flow Anomaly Detection.
+Combining Anatomical Constraints and Deep learning for 3-D CBCT Dental Image Multi-label Segmentation.
+Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns.
+BERT-based Dynamic Clustering of Subway Stations Using Flow Information.
