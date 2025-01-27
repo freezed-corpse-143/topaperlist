@@ -38,7 +38,7 @@ while ($true) {
 
                     if ($containsAllKeywords) {
                         # 打印符合条件的文章信息，包括会议水平
-                        Write-Output "[$category] [$conferenceName] ($year) $title"
+                        Write-Output "$category`t$conferenceName`t$year`t$title"
                     }
                 }
             }
