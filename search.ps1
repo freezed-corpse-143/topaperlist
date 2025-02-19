@@ -1,6 +1,9 @@
 # 定义项目根目录（脚本所在目录）
 $projectRoot = $PSScriptRoot
 
+# 获取paper目录的路径
+$paperDir = Join-Path -Path $projectRoot -ChildPath "paper"
+
 # 循环提示用户输入关键词
 while ($true) {
     # 提示用户输入关键词
@@ -15,10 +18,11 @@ while ($true) {
     # 将输入的关键词拆分为列表并转换为小写
     $keywords = $keywordsInput -split ' ' | ForEach-Object { $_.ToLower() }
 
-    # 遍历 A 和 B 目录下的所有会议文件夹
-    @("A", "B") | ForEach-Object {
-        $category = $_  # 当前会议水平（A 或 B）
-        $categoryDir = Join-Path -Path $projectRoot -ChildPath $category
+    # 遍历 paper 目录下的所有会议文件夹（包括 A, B, C, D 等）
+    Get-ChildItem -Path $paperDir -Directory | ForEach-Object {
+        $categoryDir = $_.FullName  # 当前会议水平对应的目录
+        $category = $_.Name
+        
         Get-ChildItem -Path $categoryDir -Directory | ForEach-Object {
             $conferenceDir = $_.FullName
             $conferenceName = $_.Name
