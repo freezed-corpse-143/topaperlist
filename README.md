@@ -35,4 +35,4 @@
 
 Run **search.ps1** in  powershell. 
 
-Run **search.exe**
+Run **search.exe keyword1 keyword2**
