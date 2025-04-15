@@ -1,8 +1,7 @@
 $projectRoot = $PSScriptRoot
+$paperDir = Join-Path -Path $projectRoot -ChildPath "Paper"
 
-$paperDir = Join-Path -Path $projectRoot -ChildPath "paper"
-
-while ($true) {.
+while ($true) {
     $keywordsInput = Read-Host "Please type keywords (or type 'exit' to quit):"
     
     if ($keywordsInput -eq 'exit') {
