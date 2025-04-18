@@ -1,0 +1,249 @@
+PilotDB: Database-Agnostic Online Approximate Query Processing with A Priori Error Guarantees
+Fast Maximum Common Subgraph Search: A Redundancy-Reduced Backtracking Approach
+RM^2: Answer Counting Queries Efficiently under Shuffle Differential Privacy
+Hydro: Adaptive Query Processing of ML Queries
+Alsatian: Optimizing Model Search for Deep Transfer Learning
+AJOSC: Adaptive join order selection for continuous queries on data streams
+Using Process Calculus for Optimizing Data and Computation Sharing in Complex Stateful Parallel Computations
+Self-Enhancing Video Data Management System for Compositional Events with Large Language Models
+SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training
+HoneyComb: A Parallel Worst-Case Optimal Join on Multicores
+SBSC: A fast Self-tuned Bipartite proximity graph-based Spectral Clustering
+Subgroup Discovery with Small and Alternative Feature Sets
+SwiftSpatial: Spatial Joins on Modern Hardware
+GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support
+Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization
+Physical Visualization Design: Decoupling Interface and System Design
+High-Throughput Ingestion for Video Warehouse: Comprehensive Configuration and Effective Exploration
+Revisiting Graph Analytics Benchmarks
+Parallel $k$-Core Decomposition: Theory and Practice
+Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads
+Styx: Transactional Stateful Functions on Streaming Dataflows
+Faster and Efficient Density Decomposition via Proportional Response with Exponential Momentum
+Efficient and Accurate Differentially Private Cardinality Continual Releases
+Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy
+LICS: Towards Theory-Informed Effective Visual Abstraction of Property Graph Schemas
+Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
+Finding Logic Bugs in Graph-processing Systems via Graph-cutting
+Scalable Complex Event Processing on Video Streams
+How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks
+Wait and See: A Delayed Transactions Partitioning Approach in Deterministic Database Systems for Better Performance
+Intra-Query Runtime Elasticity for Cloud-Native Data Analysis
+Yannakakis+: Practical Acyclic Query Evaluation with Theoretical Guarantees
+FAAQP: Fast and Accurate Approximate Query Processing based on Bitmap-augmented Sum-Product Network
+Moving on From Group Commit: Autonomous Commit Enables High Throughput and Low Latency on NVMe SSDs
+Integral Densest Subgraph Search on Directed Graphs
+Debunking the Myth of Join Ordering: Toward Robust SQL Analytics
+Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store
+Accelerate Distributed Joins with Predicate Transfer
+Galley: Modern Query Optimization for Sparse Tensor Programs
+Table Overlap Estimation through Graph Embeddings
+Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation
+MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search
+A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
+Accelerating Graph Indexing for ANNS on Modern CPUs
+Automated Validating and Fixing of Text-to-SQL Translation with Execution Consistency
+CARINA: An Efficient CXL-Oriented Embedding Serving System for Recommendation Models
+Data Enhancing for Machine Learning
+PLM4NDV: Minimizing Data Access for Number of Distinct Values Estimation with Pre-trained Language Models
+GPU-Accelerated Graph Cleaning with a Single Machine
+Rethinking The Compaction Policies in LSM-trees
+PQCache: Product Quantization-based KVCache for Long Context LLM Inference
+PrivPetal: Relational Data Synthesis via Permutation Relations
+A Structured Study of Multivariate Time-Series Distance Measures
+OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment
+Maximus: A Modular Accelerated Query Engine for Data Analytics on Heterogeneous Systems
+Approximate DBSCAN under Differential Privacy
+Auto-Test: Learning Semantic-Domain Constraints for Unsupervised  Error Detection in Tables
+Approximating Opaque Top-k Queries
+Nested Parquet Is Flat, Why Not Use It? How To Scan Nested Data With On-the-Fly Key Generation and Joins.
+Incremental Rule Discovery in Response to Parameter Updates
+Clementi: Efficient Load Balancing and Communication Overlap for Multi-FPGA Graph Processing
+T3: Accurate and Fast Performance Prediction for Relational Database Systems With Compiled Decision Trees
+Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs
+Divide-and-Conquer: Scalable Shortest Path Counting on Large Road Networks
+Zombie Hashing: Reanimating Tombstones in Graveyard
+LpBound: Pessimistic Cardinality Estimation Using  Lp-Norms of Degree Sequences
+Logical and Physical Optimizations for SQL Query Execution over Large Language Models
+Privacy and Accuracy-Aware AI/ML Model Deduplication
+Graph Edit Distance Estimation: A New Heuristic and A Holistic Evaluation of Learning-based Methods
+HotStuff-1: Linear Consensus with One-Phase Speculation
+Accelerating Skyline Path Enumeration with a Core Attribute Index on Multi-attribute Graphs
+Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search
+PrivRM: A Framework for Range Mean Estimation under Local Differential Privacy
+SuSe: Summary Selection for Regular Expression Subsequence Aggregation over Streams
+Serf: Streaming Error-Bounded Floating-Point Compression
+Interactive Graph Search Made Simple
+SHIELD: Encrypting Persistent Data of LSM-KVS from Monolithic to Disaggregated Datacenters
+How to Grow an LSM-tree: Towards Bridging The Gap Between Theory and Practice
+Fast Approximate Similarity Join in Vector Databases
+Extending SQL to Return a Subdatabase
+RLOMM: An Efficient and Robust Online Map Matching Framework with Reinforcement Learning
+SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning
+Dangers of List Processing in Querying Property Graphs
+Athena: An Effective Learning-based Framework for Query Optimizer Performance Improvement
+Efficient Indexing for Flexible Label-Constrained Shortest Path Queries in Road Networks
+MatCo: Computing Match Cover of Subgraph Query over Graph Data
+GPH: An Efficient and Effective Perfect Hashing Scheme for GPU Architectures
+Fast and Scalable Data Transfer across Data Systems
+Credible Intervals for Knowledge Graph Accuracy Estimation
+DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores
+Relevance queries for interval data
+Computing Inconsistency Measures Under Differential Privacy
+NEXT: A New Secondary Index Framework for LSM-based Data Storage
+Apt-Serve: Adaptive Request Scheduling on Hybrid Cache for Scalable LLM Inference Serving
+Adda: Towards Efficient in-Database Feature Generation via LLM-based Agents
+RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search
+SpareLLM: Automatically Selecting Task-Specific Minimum-Cost Large Language Models under Equivalence Constraint
+Fair and Actionable Causal Prescription Ruleset
+Community Detection in Heterogeneous Information Networks Without Materialization
+Mnemosyne: Dynamic Workload-Aware BF Tuning via Accurate Statistics in LSM trees
+Are database system researchers making correct assumptions about transaction workloads?
+Learned Offline Query Planning via Bayesian Optimization
+SPARTAN: Data-Adaptive Symbolic Time-Series Approximation
+Understanding the Black Box: A Deep Empirical Dive into Shapley Value Approximations for Feature Explanations
+Pneuma: Leveraging LLMs for Tabular Data Representation and Retrieval in an End-to-End System
+Low Rank Learning for Offline Query Optimization
+Fast Hypertree Decompositions via Linear Programming: Fractional and Generalized
+Mitigating the Impedance Mismatch between Prediction Query Execution and Database Engine
+DIGRA: A Dynamic Graph Indexing for Approximate Nearest Neighbor Search with Range Filter
+Cracking SQL Barriers: An LLM-based Dialect Translation System
+A Cost-Effective LLM-based Approach to Identify Wildlife Trafficking in Online Marketplaces (Data-Driven Applications)
+PDX: A Data Layout for Vector Similarity Search
+Two Birds with One Stone: Efficient Deep Learning over Mislabeled Data through Subset Selection
+cuMatch: A GPU-based memory-efficient worst-case optimal join processing method for subgraph queries with complex patterns
+The Best of Both Worlds: On Repairing Timestamps and Attribute Values for Multivariate Time Series
+TableDC: Deep Clustering for Tabular Data
+BPF-DB: A Kernel-Embedded Transactional Database Management System For eBPF Applications
+Agree to Disagree: Robust Anomaly Detection with Noisy Labels
+FastPDB: Towards Bag-Probabilistic Queries at Interactive Speeds
+OBIR-tree: Secure and Efficient Oblivious Index for Spatial Keyword Queries
+Accelerating Core Decomposition in Billion-Scale Hypergraphs
+MAST: Towards Efficient Analytical Query Processing on Point Cloud Data
+𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning
+Rapid Data Ingestion through DB-OS Co-design
+U-DPAP: Utility-aware Efficient Range Counting on Privacy-preserving Spatial Data Federation
+Capsule: an Out-of-Core Training Mechanism for Colossal GNNs
+Bursting Flow Query on Large Temporal Flow Networks
+Constant Optimization Driven Database System Testing
+A Benchmark for Data Management in Microservices
+Sequoia: An Accessible and Extensible Framework for Privacy-Preserving Machine Learning over Distributed Data
+Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities
+SNAILS: Schema Naming Assessments for Improved LLM-Based SQL Inference
+Dialogue Benchmark Generation from Knowledge Graphs with Cost-Effective Retrieval-Augmented LLMs
+LCP: Enhancing Scientific Data Management with Lossy Compression for Particles
+Disco: A Compact Index for LSM-trees
+Efficiently Processing Joins and Grouped Aggregations on GPUs
+HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture
+InTime: Towards Performance Predictability In Byzantine Fault Tolerant Proof-of-Stake Consensus
+LeaFi: Data Series Indexes on Steroids with Learned Filters
+PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL Queries Verification
+BCviz: A Linear-Space Index for Mining and Visualizing Cohesive Bipartite Subgraphs
+Dual-Hierarchy Labelling: Scaling Up Distance Queries on Dynamic Road Networks
+Cardinality Estimation of LIKE Predicate Queries using Deep Learning
+SHARQ: Explainability Framework for Association Rules on Relational Data
+Randomized Sketches for Quantile in LSM-tree based Store
+Centrum: Escape from the Gaussian Process World! Enhancing Database Auto-tuning with Tree-Ensemble Bayesian Optimization
+Revisiting the Design of In-Memory Dynamic Graph Storage
+H-Rocks CPU-GPU accelerated RocksDB on Persistent Memory 
+Data-Centric Machine Learning Pipeline Orchestration
+DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training
+Federated Heavy Hitter Analytics with Local Differential Privacy
+DISCES: Systematic Discovery of Event Stream Queries
+Pandora: An Efficient and Rapid Solution for Persistence-Based Tasks in High-Speed Data Streams
+Computing Approximate Graph Edit Distance via Optimal Transport
+B-Trees Are Back: Engineering Fast and Pageable Node Layouts
+Largest Triangle Sampling for Visualizing Time Series in Database
+ISSD: Indicator Selection for Time Series State Detection
+RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning
+An Adaptive Benchmark for Modeling User Exploration of Large Datasets
+Reliable Text-to-SQL with Adaptive Abstention
+Entity/Relationship Graphs
+Cohesiveness-aware Hierarchical Compressed Index for Community Search over Attributed Graphs
+Minimum Spanning Tree Maintenance in Dynamic Graphs
+Data Chunk Compaction in Vectorized Execution
+Progressive entity resolution: a design space exploration
+Parallel kd-tree with Batch Updates
+User-Centric Property Graph Repairs
+In-Database Time Series Clustering
+Boosting OLTP Performance with Per-Page Logging on NVDIMM
+Shapley Value Estimation based on Differential Matrix
+SecureXGB: A Secure and Efficient Multi-party Protocol for Vertical Federated XGBoost
+On Graph Representation for Attributed Hypergraph Clustering
+Nezha: An Efficient Distributed Graph Processing System on Heterogeneous Hardware
+Practical DB-OS Co-Design with Privileged Kernel Bypass
+QURE: AI-Assisted and Automatically Verified UDF Inlining
+A Rank-Based Approach to Recommender System's Top-K Queries with Uncertain Scores
+VEGA:  An Active-tuning Learned Index with Group-Wise Learning Granularity
+AquaPipe: A Quality-Aware Pipeline for Knowledge Retrieval and Large Language Models
+TGraph: A Tensor-centric Graph Processing Framework
+Efficiently Counting Triangles in Large Temporal Graphs
+Multi-Level Graph Representation Learning Through Predictive Community-based Partitioning
+Efficient Maximum s-Bundle Search via Local Vertex Connectivity
+Automatic Database Configuration Debugging using Retrieval-Augmented Language Models
+A Local Search Approach to Efficient (k,p)-Core Maintenance
+B$\circledS X$ : Subgraph Matching with Batch Backtracking Search
+DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph
+Efficient Index Maintenance for Effective Resistance Computation on Evolving Graphs
+Schema-Based Query Optimisation for Graph Databases
+SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search
+Density Decomposition of Bipartite Graphs
+An Elephant Under the Microscope: Analyzing the Interaction of Optimizer Components in PostgreSQL
+MEMO: Fine-grained Tensor Management For Ultra-long Context LLM Training
+SPAS: Continuous Release of Data Streams under w-Event Differential Privacy
+Aster: Enhancing LSM-structures for Scalable Graph Database
+An experimental comparison of tree-data structures for connectivity queries on fully-dynamic undirected graphs
+CRDV: Conflict-free Replicated Data Views
+Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art
+Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search
+Ultraverse:  A System-Centric Framework for Efficient What-If  Analysis for Database-Intensive Web Applications
+Deep Overlapping Community Search via Subspace Embedding
+DataVinci: Learning Syntactic and Semantic String Repairs
+Optimizing Block Skipping for High-Dimensional Data with Learned Adaptive Curve
+Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability
+Camel: Efficient Compression of Floating-Point Time Series
+LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-level CSR
+Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search
+Buffered Persistence in B+ Trees
+GOLAP: A GPU-in-Data-Path Architecture for High-Speed OLAP
+DPconv: Super-Polynomially Faster Join Ordering
+iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search
+Lossless Transformation of Knowledge Graphs to Property Graphs using Standardized Schemas
+CtxPipe: Context-aware Data Preparation Pipeline Construction for Machine Learning
+Multivariate Time Series Cleaning under Speed Constraints
+Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs
+A Universal Sketch for Estimating Heavy Hitters and Per-Element Frequency Moments in Data Streams with Bounded Deletions
+Pasta: A Cost-Based Optimizer for Generating Pipelining Schedules for Dataflow DAGs
+Towards a Converged Relational-Graph Optimization Framework
+Disclosure-compliant Query Answering
+Memento Filter: A Fast, Dynamic, and Robust Range Filter
+GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models
+Live Patching for Distributed In-Memory Key-Value Stores
+Provenance-Enabled Explainable AI
+Constant-time Connectivity Querying in Dynamic Graphs
+Vectorizing Distributed Graph Computations made Automated
+High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance
+Personalized Truncation for Personalized Privacy
+Understanding and Reusing Test Suites Across Database Systems
+Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy
+An Efficient and Exact Algorithm for Locally h-Clique Densest Subgraph Discovery
+SPID-Join: A Skew-resistant Processing-in-DIMM Join Algorithm Exploiting the Bank- and Rank-level Parallelisms of DIMMs
+Directional Queries: Making Top-k Queries More Effective in Discovering Relevant Results
+Connectivity-Oriented Property Graph Partitioning for Distributed Graph Pattern Query Processing
+On the Feasibility and Benefits of Extensive Evaluation
+BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data
+GABoost: Graph Alignment Boosting via Local Optimum Escape
+Efficient and Accurate PageRank Approximation on Large Graphs
+Near-Duplicate Sequence Alignment with One Permutation Hashing
+Efficient Approximation Algorithms for Minimum Cost Seed Selection with Probabilistic Coverage Guarantee
+Atom: An Efficient Query Serving System for Embedding-based Knowledge Graph Reasoning with Operator-level Batching
+A Profit-Maximizing Data Marketplace with Differentially Private Federated Learning under Price Competition
+Pluto: Sample Selection for Robust Anomaly Detection on Polluted Log Data
+Adaptive Quotient Filters
+A Lovász-Simonovits Theorem for Hypergraphs with Application to Local Clustering
+Optimizing LSM-trees via Active Learning
+Theoretically and Practically Efficient Maximum Defective Clique Search
+Tao: Improving Resource Utilization while Guaranteeing SLO in Multi-tenant Relational Database-as-a-Service
+Discovering Top-k Relevant and Diversified Rules
+Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality
+SketchQL: Video Moment Querying with a Visual Query Interface
