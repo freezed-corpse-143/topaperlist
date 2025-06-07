@@ -11,9 +11,9 @@
 | ICML       | [2019](Paper/A/ICML/2019.txt)    | [2020](Paper/A/ICML/2020.txt)    | [2021](Paper/A/ICML/2021.txt)    | [2022](Paper/A/ICML/2022.txt)    | [2023](Paper/A/ICML/2023.txt)    | [2024](Paper/A/ICML/2024.txt)    | [2025](Paper/A/ICML/2025.txt) |
 | IJCAI      | [2019](Paper/A/IJCAI/2019.txt)   | [2020](Paper/A/IJCAI/2020.txt)   | [2021](Paper/A/IJCAI/2021.txt)   | [2022](Paper/A/IJCAI/2022.txt)   | [2023](Paper/A/IJCAI/2023.txt)   | [2024](Paper/A/IJCAI/2024.txt)   |    |
 | NeurIPS    | [2019](Paper/A/NeurIPS/2019.txt) | [2020](Paper/A/NeurIPS/2020.txt) | [2021](Paper/A/NeurIPS/2021.txt) | [2022](Paper/A/NeurIPS/2022.txt) | [2023](Paper/A/NeurIPS/2023.txt) | [2024](Paper/A/NeurIPS/2024.txt) |  |
-| SIGKDD     | [2019](Paper/A/SIGKDD/2019.txt)  | [2020](Paper/A/SIGKDD/2020.txt)  | [2021](Paper/A/SIGKDD/2021.txt)  | [2022](Paper/A/SIGKDD/2022.txt)  | [2023](Paper/A/SIGKDD/2023.txt)  | [2024](Paper/A/SIGKDD/2024.txt)  |   |
+| SIGKDD     | [2019](Paper/A/SIGKDD/2019.txt)  | [2020](Paper/A/SIGKDD/2020.txt)  | [2021](Paper/A/SIGKDD/2021.txt)  | [2022](Paper/A/SIGKDD/2022.txt)  | [2023](Paper/A/SIGKDD/2023.txt)  | [2024](Paper/A/SIGKDD/2024.txt)  | [2025](Paper/A/SIGKDD/2025.txt) |
 | SIGMOD     | [2019](Paper/A/SIGMOD/2019.txt)  | [2020](Paper/A/SIGMOD/2020.txt)  | [2021](Paper/A/SIGMOD/2021.txt)  | [2022](Paper/A/SIGMOD/2022.txt)  | [2023](Paper/A/SIGMOD/2023.txt)  | [2024](Paper/A/SIGMOD/2024.txt)  | [2025](Paper/A/SIGMOD/2025.txt) |
-| SIGIR | [2019](Paper/A/SIGIR/2019.txt) | [2020](Paper/A/SIGIR/2020.txt) | [2021](Paper/A/SIGIR/2021.txt) | [2022](Paper/A/SIGIR/2022.txt) | [2023](Paper/A/SIGIR/2023.txt) | [2024](Paper/A/SIGIR/2024.txt) |  |
+| SIGIR | [2019](Paper/A/SIGIR/2019.txt) | [2020](Paper/A/SIGIR/2020.txt) | [2021](Paper/A/SIGIR/2021.txt) | [2022](Paper/A/SIGIR/2022.txt) | [2023](Paper/A/SIGIR/2023.txt) | [2024](Paper/A/SIGIR/2024.txt) | [2025](Paper/A/SIGIR/2025.txt) |
 | ICLR | [2019](Paper/A/ICLR/2019.txt) | [2020](Paper/A/ICLR/2020.txt) | [2021](Paper/A/ICLR/2021.txt) | [2022](Paper/A/ICLR/2022.txt) | [2023](Paper/A/ICLR/2023.txt) | [2024](Paper/A/ICLR/2024.txt) | [2025](Paper/A/ICLR/2025.txt) |
 
 ## B
@@ -21,7 +21,7 @@
 | ---------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
 | EACL      | [2019](Paper/B/EACL/2019.txt) | [2020](Paper/B/EACL/2020.txt) | [2021](Paper/B/EACL/2021.txt) | [2022](Paper/B/EACL/2022.txt) | [2023](Paper/B/EACL/2023.txt) | [2024](Paper/B/EACL/2024.txt) |  |
 | EMNLP      | [2019](Paper/B/EMNLP/2019.txt) | [2020](Paper/B/EMNLP/2020.txt) | [2021](Paper/B/EMNLP/2021.txt) | [2022](Paper/B/EMNLP/2022.txt) | [2023](Paper/B/EMNLP/2023.txt) | [2024](Paper/B/EMNLP/2024.txt) |  |
-| NAACL | [2019](Paper/B/NAACL/2019.txt) | - | [2021](Paper/B/NAACL/2021.txt) | [2022](Paper/B/NAACL/2022.txt) | - | [2024](Paper/B/NAACL/2024.txt) |  |
+| NAACL | [2019](Paper/B/NAACL/2019.txt) | - | [2021](Paper/B/NAACL/2021.txt) | [2022](Paper/B/NAACL/2022.txt) | - | [2024](Paper/B/NAACL/2024.txt) | [2025](Paper/B/NAACL/2025.txt) |
 | COLING | - | [2020](Paper/B/COLING/2020.txt) | - | [2022](Paper/B/COLING/2022.txt) | - | - | [2025](Paper/B/COLING/2025.txt) |
 
 ---
