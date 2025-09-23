@@ -1,0 +1,53 @@
+Tigon: A Distributed Database for a CXL Pod.
+Mako: Speculative Distributed Transactions with Geo-Replication.
+Quake: Adaptive Indexing for Vector Search.
+Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD.
+Skybridge: Bounded Staleness for Distributed Caches.
+Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols.
+Deriving Semantic Checkers from Tests to Detect Silent Failures in Production Distributed Systems.
+Picsou: Enabling Replicated State Machines to Communicate Efficiently.
+FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management.
+To PRI or Not To PRI, That's the question.
+Enabling Efficient GPU Communication over Multiple NICs with FuseLink.
+KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads.
+Mirage: A Multi-Level Superoptimizer for Tensor Programs.
+QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach.
+WaferLLM: Large Language Model Inference at Wafer Scale.
+BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching.
+Bayesian Code Diffusion for Efficient Automatic Deep Learning Program Optimization.
+Training with Confidence: Catching Silent Errors in Deep Learning Training with Automated Proactive Checks.
+Neutrino: Fine-grained GPU Kernel Profiling via Programmable Probing.
+Principles and Methodologies for Serial Performance Optimization.
+Söze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale.
+Decouple and Decompose: Scaling Resource Allocation with DeDe.
+Quantum Virtual Machines.
+QOS: Quantum Operating System.
+Scalio: Scaling up DPU-based JBOF Key-value Store with NVMe-oF Target Offload.
+Low End-to-End Latency atop a Speculative Shared Log with Fix-Ante Ordering.
+Understanding Stragglers in Large Model Training Using What-if Analysis.
+Fork in the Road: Reflections and Optimizations for Cold Start Latency in Production Serverless Systems.
+Kamino: Efficient VM Allocation at Scale with Latency-Driven Cache-Aware Scheduling.
+ZEN: Empowering Distributed Training with Sparsity-driven Data Synchronization.
+Extending Applications Safely and Efficiently.
+Tintin: A Unified Hardware Performance Profiling Infrastructure to Uncover and Manage Uncertainty.
+Building Bridges: Safe Interactions with Foreign Languages through Omniglot.
+KRR: Efficient and Scalable Kernel Record Replay.
+Deterministic Client: Enforcing Determinism on Untrusted Machine Code.
+Disentangling the Dual Role of NIC Receive Rings.
+XSched: Preemptive Scheduling for Diverse XPUs.
+OS Rendering Service Made Parallel with Out-of-Order Execution and In-Order Commit.
+EMT: An OS Framework for New Memory Translation Architectures.
+Tiered Memory Management Beyond Hotness.
+NanoFlow: Towards Optimal Large Language Model Serving Throughput.
+PipeThreader: Software-Defined Pipelining for Efficient DNN Execution.
+WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.
+DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization.
+Stripeless Data Placement for Erasure-Coded In-Memory Storage.
+PoWER Never Corrupts: Tool-Agnostic Verification of Crash Consistency and Corruption Detection.
+Fast and Synchronous Crash Consistency with Metadata Write-Once File System.
+Decentralized, Epoch-based F2FS Journaling with Fine-grained Crash Recovery.
+Okapi: Decoupling Data Striping and Redundancy Grouping in Cluster File Systems.
+Compass: Encrypted Semantic Search with High Accuracy.
+Weave: Efficient and Expressive Oblivious Analytics at Scale.
+Paralegal: Practical Static Analysis for Privacy Bugs.
+MettEagle: Costs and Benefits of Implementing Containers on Microkernels.

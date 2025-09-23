@@ -1,0 +1,52 @@
+Surprise-Inspired Networking.
+Owl: Scale and Flexibility in Distribution of Hot Content.
+BlockFlex: Enabling Storage Harvesting with Software-Defined Flash in Modern Cloud Platforms.
+MemLiner: Lining up Tracing and Application for a Far-Memory-Friendly Runtime.
+Carbink: Fault-Tolerant Far Memory.
+Metastable Failures in the Wild.
+Demystifying and Checking Silent Semantic Violations in Large Distributed Systems.
+RESIN: A Holistic Service for Dealing with Memory Leaks in Production Cloud Infrastructure.
+Cancellation in Systems: An Empirical Study of Task Cancellation Patterns and Failures.
+Automatic Reliability Testing For Cluster Management Controllers.
+ListDB: Union of Write-Ahead Logs and Persistent SkipLists for Incremental Checkpointing on Persistent Memory.
+ODINFS: Scaling PM Performance with Opportunistic Delegation.
+DURINN: Adversarial Memory and Thread Interleaving for Detecting Durable Linearizability Bugs.
+SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute.
+ROLLER: Fast and Efficient Tensor Compilation for Deep Learning.
+Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning.
+Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization.
+Eric Brewer, VP Infrastructure, Google Fellow and Professor Emeritus, UC Berkeley.
+Trinity: High-Performance Mobile Emulation through Graphics Projection.
+ORION and the Three Rights: Sizing, Bundling, and Prewarming for Serverless DAGs.
+Occualizer: Optimistic Concurrent Search Trees From Sequential Code.
+Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers.
+Debugging the OmniTable Way.
+XRP: In-Kernel Storage Functions with eBPF.
+TriCache: A User-Transparent Block Cache Enabling High-Performance Out-of-Core Processing with In-Memory Programs.
+Tiger: Disk-Adaptive Redundancy Without Placement Restrictions.
+zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO.
+Verifying the DaisyNFS concurrent and crash-safe file system with sequential reasoning.
+Design and Verification of the Arm Confidential Compute Architecture.
+DuoAI: Fast, Automated Inference of Inductive Invariants for Verifying Distributed Protocols.
+Verifying Hardware Security Modules with Information-Preserving Refinement.
+Orca: A Distributed Serving System for Transformer-Based Generative Models.
+Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences.
+Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning.
+Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters.
+Margaret Martonosi, National Science Foundation.
+CAP-VMs: Capability-Based Isolation and Sharing in the Cloud.
+KSplit: Automating Device Driver Isolation.
+Operating System Support for Safe and Efficient Auxiliary Execution.
+From Dynamic Loading to Extensible Transformation: An Infrastructure for Dynamic Library Transformation.
+Application-Informed Kernel Synchronization Primitives.
+BlackBox: A Container Security Monitor for Protecting Containers on Untrusted Operating Systems.
+Blockaid: Data Access Policy Enforcement for Web Applications.
+SHORTSTACK: Distributed, Fault-tolerant, Oblivious Data Access.
+Groove: Flexible Metadata-Private Messaging.
+UPGRADVISOR: Early Adopting Dependency Updates Using Hybrid Program Analysis and Hardware Tracing.
+Practically Correct, Just-in-Time Shell Script Parallelization.
+Hubble: Performance Debugging with In-Production, Just-In-Time Method Tracing on Android.
+Jawa: Web Archival in the Era of JavaScript.
+Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update.
+FAERY: An FPGA-accelerated Embedding-based Retrieval System.
+Efficient and Scalable Graph Pattern Mining on GPUs.

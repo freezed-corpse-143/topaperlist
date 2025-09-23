@@ -1,0 +1,70 @@
+Theseus: an Experiment in Operating System Structure and State Management.
+RedLeaf: Isolation and Communication in a Safe Operating System.
+Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel.
+Cobra: Making Transactional Key-Value Stores Verifiably Serializable.
+Determinizing Crash Behavior with a Verified Snapshot-Consistent Flash Translation Layer.
+Storage Systems are Distributed Systems (So Verify Them That Way!).
+Fast RDMA-based Ordered Key-Value Store using Remote Learned Cache.
+CrossFS: A Cross-layered Direct-Access File System.
+From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees.
+LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network.
+A large scale analysis of hundreds of in-memory cache clusters at Twitter.
+Generalized Sub-Query Fusion for Eliminating Redundant I/O from Big-Data Queries.
+A Simpler and Faster NIC Driver Model for Network Functions.
+PANIC: A High-Performance Programmable NIC for Multi-tenant Networks.
+Semeru: A Memory-Disaggregated Managed Runtime.
+Caladan: Mitigating Interference at Microsecond Timescales.
+Overload Control for µs-scale RPCs with Breakwater.
+AIFM: High-Performance, Application-Integrated Far Memory.
+Performance-Optimal Read-Only Transactions.
+Toward a Generic Fault Tolerance Technique for Partial Network Partitioning.
+PACEMAKER: Avoiding HeART attacks in storage clusters with disk-adaptive redundancy.
+Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories.
+FlightTracker: Consistency across Read-Optimized Online Stores at Facebook.
+Kvell+: Snapshot Isolation without Snapshots.
+Serving DNNs like Clockwork: Performance Predictability from the Bottom Up.
+A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters.
+Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads.
+PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications.
+HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees.
+AntMan: Dynamic Scaling on GPU Clusters for Deep Learning.
+Write Dependency Disentanglement with HORAE.
+Blockene: A High-throughput Blockchain Over Mobile Devices.
+Tolerating Slowdowns in Replicated State Machines using Copilots.
+Microsecond Consensus for Microsecond Applications.
+Virtual Consensus in Delos.
+Byzantine Ordered Consensus without Byzantine Oligarchy.
+From Global to Local Quiescence: Wait-Free Code Patching of Multi-Threaded Processes.
+Testing Database Engines via Pivoted Query Synthesis.
+Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing.
+Aragog: Scalable Runtime Verification of Shardable Networked Systems.
+Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution.
+Testing Configuration Changes in Context to Prevent Production Failures.
+Providing SLOs for Resource-Harvesting VMs in Cloud Platforms.
+The CacheLib Caching Engine: Design and Experiences at Scale.
+Twine: A Unified Cluster Management System for Shared Infrastructure.
+FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices.
+Building Scalable and Flexible Cluster Managers Using Declarative Programming.
+Protean: VM Allocation Service at Scale.
+Ansor: Generating High-Performance Tensor Programs for Deep Learning.
+Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks.
+A Tensor Compiler for Unified Machine Learning Prediction Serving.
+Retiarii: A Deep Learning Exploratory-Training Framework.
+KungFu: Making Training in Distributed Machine Learning Adaptive.
+FVM: FPGA-assisted Virtual Device Emulation for Fast, Scalable, and Flexible Storage Virtualization.
+hXDP: Efficient Software Packet Processing on FPGA NICs.
+Do OS abstractions make sense on FPGAs?
+Assise: Performance and Availability via Client-local NVM in a Distributed File System.
+Persistent State Machines for Recoverable In-memory Storage Systems with NVRam.
+AGAMOTTO: How Persistent is your Persistent Memory Application?
+Orchard: Differentially Private Analytics at Scale.
+Achieving 100Gbps Intrusion Prevention on a Single Server.
+DORY: An Encrypted Search System with Distributed Trust.
+SafetyPin: Encrypted Backups with Human-Memorable Secrets.
+Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract.
+Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions.
+Sundial: Fault-tolerant Clock Synchronization for Datacenters.
+Fault-tolerant and transactional stateful serverless workflows.
+Unearthing inter-job dependencies for better cluster scheduling.
+RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers.
+Thunderbolt: Throughput-Optimized, Quality-of-Service-Aware Power Capping at Scale.

@@ -1,0 +1,197 @@
+"Did You Miss My Comment or What?" Understanding Toxicity in Open Source Discussions
+"This Is Damn Slick!" Estimating the Impact of Tweets on Open Source Project Popularity and New Contributors
+A Grounded Theory Based Approach to Characterize Software Attack Surfaces
+A Grounded Theory of Coordination in Remote-First and Hybrid Software Teams
+A Scalable t-wise Coverage Estimator
+A Universal Data Augmentation Approach for Fault Localization
+ARCLIN: Automated API Mention Resolution for Unformatted Texts
+AST-Trans: Code Summarization with Efficient Tree-Structured Attention
+Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching
+Adaptive Test Selection for Deep Neural Networks
+An Exploratory Study of Deep Learning Supply Chain
+An Exploratory Study of Productivity in Software Teams
+Analyzing User Perspectives on Mobile App Privacy at Scale
+Aper: Evolution-Aware Runtime Permission Misuse Detection for Android Apps
+AutoTransform: Automated Code Transformation to Support Modern Code Review Process
+Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning
+Automated Detection of Password Leakage from Public GitHub Repositories
+Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-solution Study
+Automated Patching for Unreproducible Builds
+Automated Testing of Software that Uses Machine Learning APIs
+Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries
+BeDivFuzz: Integrating Behavioral Diversity into Generator-based Fuzzing
+Big Data = Big Insights? Operationalizing Brooks’ Law in a Massive GitHub Data Set
+Bots for Pull Requests: The Good, the Bad, and the Promising
+Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding
+BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats
+BuildSheriff: Change-Aware Test Failure Triage for Continuous Integration Builds
+CLEAR: Contrastive Learning for API Recommendation
+CONFETTI: Amplifying Concolic Guidance for Fuzzers
+Causality in Configurable Software Systems
+Causality-Based Neural Network Repair
+Change Is the Only Constant: Dynamic Updates for Workflows
+Characterizing and Detecting Bugs in WeChat Mini-Programs
+Code Search based on Context-aware Code Translation
+CodeFill: Multi-token Code Completion by Jointly Learning from Structure and Naming Sequences
+Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process
+Combinatorial Testing of RESTful APIs
+Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph
+Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search
+Controlled Concurrency Testing via Periodical Scheduling
+Cross-Domain Deep Code Search with Few-Shot Learning
+DEAR: A Novel Deep Learning-based Approach for Automated Program Repair
+Data-Driven Loop Bound Learning for Termination Analysis
+DeFault: Mutual Information-based Crash Triage for Massive Crashes
+Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules
+Decomposing Software Verification into Off-the-Shelf Components: An Application to CEGAR
+DeepAnalyze: Learning to Localize Crashes at Scale
+DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs
+DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs
+DeepSTL - From English Requirements to Signal Temporal Logic
+DeepStability: A Study of Unstable Numerical Methods and Their Solutions in Deep Learning
+DeepState: Selecting Test Suites to Enhance the Robustness of Recurrent Neural Networks
+DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning
+Demystifying Android Non-SDK APIs: Measurement and Understanding
+Demystifying the Dependency Challenge in Kernel Fuzzing
+Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem
+DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps
+Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?
+Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps
+Discovering Repetitive Code Changes in Python ML Systems
+Diversity-Driven Automated Formal Verification
+Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models
+DrAsync: Identifying and Visualizing Anti-Patterns in Asynchronous JavaScript
+Dynamic Update for Synthesized GR(1) Controllers
+EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries
+EREBA: Black-box Energy Testing of Adaptive Neural Networks
+Efficient Online Testing for DNN-Enabled Systems using Surrogate-Assisted and Many-Objective Optimization
+Eflect: Porting Energy-Aware Applications to Shared Environments
+Evaluating and Improving Neural Program-Smoothing-based Fuzzing
+ExAIS: Executable AI Semantics
+Explanation-Guided Fairness Testing through Genetic Algorithm
+Exploiting Input Sanitization for Regex Denial of Service
+FADATest: Fast and Adaptive Performance Regression Testing of Dynamic Binary Translation Systems
+FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation
+FairNeuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons
+Fairness-aware Configuration of Machine Learning Libraries
+Fast Changeset-based Bug Localization with BERT
+Fast and Precise Application Code Analysis using a Partial Library
+Fault Localization via Efficient Probabilistic Modeling of Program Semantics
+FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment
+Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source
+Fuzzing Class Specifications
+GIFdroid: Automated Replay of Visual Bug Reports for Android Apps
+Garbage Collection Makes Rust Easier to Use: A Randomized Controlled Trial of the Bronze Garbage Collector
+Generating and Visualizing Trace Link Explanations
+GitHub Sponsors: Exploring a New Way to Contribute to Open Source
+GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs
+Green AI: Do Deep Learning Frameworks Have Different Costs?
+Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques
+Hashing It Out: A Survey of Programmers’ Cannabis Usage, Perception, and Motivation
+Hiding Critical Program Components via Ambiguous Translation
+History-Driven Test Program Synthesis for JVM Testing
+If a Human Can See It, So Should Your System: Reliability Requirements for Machine Vision Components
+Imperative versus Declarative Collection Processing: An RCT on the Understandability of Traditional Loops versus the Stream API in Java
+Improving Fault Localization and Program Repair with Deep Semantic Features and Transferred Knowledge
+Improving Machine Translation Systems via Isotopic Replacement
+Inference and Test Generation Using Program Invariants in Chemical Reaction Networks
+Inferring And Applying Type Changes
+Jigsaw: Large Language Models meet Program Synthesis
+JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis
+Knowledge-Based Environment Dependency Inference for Python Programs
+Large-scale Security Measurements on the Android Firmware Ecosystem
+Learning Probabilistic Models for Static Analysis Alarms
+Learning and Programming Challenges of Rust: A Mixed-Methods Study
+Learning to Recommend Method Names with Global Context
+Learning to Reduce False Positives in Analytic Bug Detectors
+Less is More: Supporting Developers in Vulnerability Detection during Code Review
+Lessons from Eight Years of Operational Data from a Continuous Integration Service: A Case Study of CircleCI
+Linear-time Temporal Logic guided Greybox Fuzzing
+Log-based Anomaly Detection with Deep Learning: How Far Are We
+MOREST: Model-based RESTful API Testing with Execution Feedback
+MVD: Memory-related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks
+Manas: Mining Software Repositories to Assist AutoML
+Modeling Review History for Reviewer Recommendation: A Hypergraph Approach
+Modx: Binary Level Partial Imported Third-Party Library Detection through Program Modularization and Semantic Matching
+Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing
+Multi-Intention-Aware Configuration Selection for Performance Tuning
+Multilingual training for Software Engineering
+NPEX: Repairing Java Null Pointer Exceptions without Tests
+Nalin: Learning from Runtime Behavior to Find Name-Value Inconsistencies
+Natural Attack for Pre-trained Models of Code
+Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks
+Neural Program Repair using Execution-based Backpropagation
+NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification
+Nufix: Escape From NuGet Dependency Maze
+OJXPerf: Featherlight Object Replica Detection for Java Programs
+On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support
+On the Benefits and Limits of Incremental Build of Software Configurations: An Exploratory Study
+On the Evaluation of Neural Code Summarization
+On the Importance of Building High-quality Training Datasets for Neural Code Search
+On the Reliability of Coverage-Based Fuzzer Benchmarking
+One Fuzzing Strategy to Rule Them All
+Online Summarizing Alerts through Semantic and Behavior Information
+PReach: A Heuristic for Probabilistic Reachability to Identify Hard to Reach Statements
+PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis
+Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States
+PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis
+Practical Automated Detection of Malicious npm Packages
+Practitioners’ Expectations on Automated Code Comment Generation
+Precise Divide-By-Zero Detection with Affirmative Evidence
+Preempting Flaky Tests via Non-Idempotent-Outcome Tests
+Prioritizing Mutants to Guide Mutation Testing
+Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning
+PropR: Property-Based Automatic Program Repair
+Push-Button Synthesis of Watch Companions for Android Apps
+Quantifying Permissiveness of Access Control Policies
+R2Z2: Detecting Rendering Regressions in Web Browsers through Differential Fuzz Testing
+ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing
+Recommending Good First Issues in GitHub OSS Projects
+Refty: Refinement Types for Valid Deep Learning Models
+Repairing Brain-Computer Interfaces with Fault-based Data Acquisition
+Repairing Order-Dependent Flaky Tests via Test Generation
+Retrieving Data Constraint Implementations Using Fine-Grained Code Patterns
+RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation
+Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware
+SPT-Code: Sequence-to-Sequence Pre-Training for Learning Representation of Source Code
+SZZ for Vulnerability: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities
+SapientML: Synthesizing Machine Learning Pipelines by Learning from Human-Written Solutions
+Search-based Diverse Sampling from Real-world Software Product Lines
+Semantic Image Fuzzing of AI Perception Systems
+ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion
+SnR: Constraint-Based Type Inference for Incomplete Java Code Snippets
+Social Science Theories in Software Engineering Research
+Static Inference Meets Deep Learning: A Hybrid Type Inference Approach for Python
+Static Stack-Preserving Intra-Procedural Slicing of WebAssembly Binaries
+Striking a Balance: Pruning False-Positives from Static Call Graphs
+SugarC: Scalable Desugaring of Real-World Preprocessor Usage into Pure C
+SymTuner: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters
+TOGA: A Neural Method for Test Oracle Generation
+Testing Time Limits in Screener Questions for Online Surveys with Programmers
+The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large
+The Extent of Orphan Vulnerabilities from Code Reuse in Open Source Software
+Towards Automatically Repairing Compatibility Issues in Published Android Apps
+Towards Bidirectional Live Programming for Incomplete Programs
+Towards Boosting Patch Execution On-the-Fly
+Towards Language-independent Brown Build Detection
+Towards Practical Robustness Analysis for DNNs based on PAC-Model Learning
+Towards Training Reproducible Deep Learning Models
+Training Data Debugging for the Fairness of Machine Learning Software
+Trust Enhancement Issues in Program Repair
+Type4Py: Practical Deep Similarity Learning-Based Type Inference for Python
+Unleashing the Power of Compiler Intermediate Representation to Enhance Neural Program Embeddings
+Use of Test Doubles in Android Testing: An In-Depth Investigation
+Using Deep Learning to Generate Complete Log Statements
+Using Pre-Trained Models to Boost Code Review Automation
+Using Reinforcement Learning for Load Testing of Video Games
+Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts
+VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning
+Verification of ORM-based Controllers by Summary Inference
+VulCNN: An Image-inspired Scalable Vulnerability Detection System
+What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code
+What Makes Effective Leadership in Agile Software Development Teams?
+What Makes a Good Commit Message?
+What the Fork? Finding Hidden Code Clones in npm
+Where is Your App Frustrating Users?
+WindRanger: A Directed Greybox Fuzzer driven by DeviationBasic Blocks
+μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware

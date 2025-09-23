@@ -1,0 +1,113 @@
+A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners
+AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems
+Algernon: A Flag-Guided Hybrid Fuzzer for Unlocking Hidden Program Paths
+AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion
+Altered Histories in Version Control System Repositories: Evidence from the Trenches
+Amur: Fixing Multi-Resource Leaks Guided by Resource Flow Analysis
+An Agent-based Evaluation Framework for Complex Code Generation
+An Empirical Study of Python Library Migration Using Large Language Models
+An LLM-based multi-agent framework for agile effort estimation
+ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing
+Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing
+Automated Inline Comment Smell Detection and Repair with Large Language Models
+Automated Insertion of Flushes and Fences for Persistency
+BCFuzz: Bytecode-Driven Fuzzing for JavaScript Engines
+Belief Propagation with Local Structure and Its Applications in Program Analysis
+Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory
+Bridging Natural Language and Formal Specification - Automated Translation of Software Requirements to LTL via Hierarchical Semantics Decomposition Using LLMs
+Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges
+Clarifying Semantics of In-Context Examples for Unit Test Generation
+Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases
+Coding-Fuse: Efficient Fusion of Code Pre‑Trained Models for Classification Tasks
+Debun: Detecting Bundled JavaScript Libraries on Web using Property-Order Graphs
+Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs
+Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning
+Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
+Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems
+Demystifying Cross-Language C/C++ Binaries: A Robust Software Component Analysis Approach
+Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
+Demystifying the Evolution of Neural Networks with BOM Analysis: Insights from a Large-Scale Study of 55,997 GitHub Repositories
+Destabilizing Neurons to Generate Challenging Neural Network Verification Benchmarks
+Detecting Semantic Clones of Unseen Functionality
+DIFFFIX: Incrementally Fixing AST Diffs via Context and Type Information
+Diplomatist: What Do Cross-language Dependencies Reflect Software Ecosystem Health?
+DLBENCH: A Comprehensive Benchmark for SQL Translation with Large Language Models
+Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset
+Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window
+DualFuzz: Detecting Vulnerability in Wi-Fi NICs through Dual-Directional Fuzzing
+Efficient and Verifiable Proof Logging for MaxSAT Solving
+EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding
+Enhancing LLMs with Staged Grouping and Dehallucination for Header File Decomposition
+Enhancing LLM to Decompile Optimized PTX to Readable CUDA for Tensor Programs
+Execution-Aware Program Reduction for WebAssembly via Record and Replay
+Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation
+Faster Runtime Verification during Testing via Feedback-Guided Selective Monitoring
+FGIT: Fault-Guided Fine-Tuning for Code Generation
+Finding Bugs in MLIR Compiler Infrastructure via Lowering Space Exploration
+Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
+From Characters to Structure: Rethinking Real-Time Collaborative Programming Models
+Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps
+GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications
+Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
+Hierarchical Knowledge Injection for Improving LLM-based Program Repair
+iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation
+Improving LLM-based Log Parsing by Learning from Errors in Reasoning Traces
+Improving NLSAT for Nonlinear Real Arithmetic
+IMUFUZZER: Resilience-based Discovery of Signal Injection Attacks on Robotic Vehicles
+Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping
+Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR
+Interpretable Vulnerability Detection Reports
+Issue Localization via LLM-Driven Iterative Code Graph Searching
+Latra: A Template-Based Language-Agnostic Transformation Framework for Effective Program Reduction
+LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM
+Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization
+LLMPort: Cross-file Patch Porting via Task Decomposition and Self-correction
+LogMoE: Lightweight Expert Mixture for Cross-System Log Anomaly Detection
+LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification
+Loupe: End-to-End Learning of Loop Unrolling Heuristics for Abstract Interpretation
+Metamorphic Testing for Audio Content Moderation Software
+Multi-dimensional Assessment of CrowdSourced Testing Reports via LLMs
+"My productivity is boosted, but ..." Demystifying Users’ Perception on AI Coding Assistants
+NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps
+Non-termination Witnesses and their Validation
+Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches
+On Automating Configuration Dependency Validation via Retrieval-Augmented Generation
+On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving
+ORFuzz: Fuzzing the "Other Side" of LLM Safety – Testing Over-Refusal
+Polyglot: An Extensible Framework to Benchmark Code Translation with LLMs
+PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
+Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing
+ProfMal: Detecting Malicious NPM Packages by the Synergy between Static and Dynamic Analysis
+Programmers’ Visual Attention on Function Call Graphs During Code Summarization
+R3-Bench: Reproducible Real-world Reverse Engineering Dataset for Symbol Recovery
+RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation
+Rechecking Recheck Requests in Continuous Integration: An Empirical Study of OpenStack
+Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models
+Root Cause Analysis of RISC-V Build Failures via LLM and MCTS Reasoning
+SateLight: A Satellite Application Update Framework for Satellite Computing
+SATORI: Static Test Oracle Generation for REST APIs
+Security Debt in LLM Agent Applications: A Measurement Study of Vulnerabilities and Mitigation Trade-offs
+Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair
+SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization
+SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
+Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution
+TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification
+Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination
+Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
+Towards Generalizable Instruction Vulnerability Prediction via LLM-Enhanced Code Representation
+Towards More Accurate Static Analysis for Taint-style Bug Detection in Linux Kernel
+Triangle: Empowering Incident Triage with Multi-Agent
+Uncovering Discrimination Clusters: Quantifying and Explaining Systematic Fairness Violations
+Understanding Resource Injection Vulnerabilities in Kubernetes Ecosystems
+Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories
+United We Stand: Towards End-to-End Log-based Fault Diagnosis via Interactive Multi-Task Learning
+Using Active Learning to Train Predictive Mutation Testing with Minimal Data
+VERT: Polyglot Verified Equivalent Rust Transpilation with Large Language Models
+Vulnerability-Affected Versions Identification: How Far Are We?
+Vul-R2: A Reasoning LLM for Automated Vulnerability Repair
+WEST: Specification-Based Test Generation for WebAssembly
+When Control Flows Deviate: Directed Grey-box Fuzzing with Probabilistic Reachability Analysis
+When Faster Isn't Greener: The Hidden Costs of LLM-Based Code Optimization
+Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
+Your Build Scripts Stink: The State of Code Smells in Build Scripts
+ZendDiff: Differential Testing of PHP Interpreter

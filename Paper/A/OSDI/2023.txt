@@ -1,0 +1,55 @@
+Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS.
+RON: One-Way Circular Shortest Routing to Achieve Efficient and Bounded-waiting Spinlocks.
+Userspace Bypass: Accelerating Syscall-intensive Applications.
+Triangulating Python Performance Issues with SCALENE.
+Relational Debugging - Pinpointing Root Causes of Performance Problems.
+Accountable authentication with privacy protection: The Larch system for universal login.
+K9db: Privacy-Compliant Storage For Web Applications By Construction.
+Encrypted Databases Made Secure Yet Maintainable.
+LVMT: An Efficient Authenticated Storage for Blockchain.
+Honeycomb: Secure and Efficient GPU Executions via Static Validation.
+An Extensible Orchestration and Protection Framework for Confidential Cloud Computing.
+Nimble: Rollback Protection for Confidential Cloud Services.
+Security and Performance in the Delegated User-level Virtualization.
+Kerveros: Efficient and Scalable Cloud Admission Control.
+Core slicing: closing the gap between leaky confidential VMs and bare-metal cloud.
+ExoFlow: A Universal Workflow System for Exactly-Once DAGs.
+Hyrax: Fail-in-Place Server Operation in Cloud Platforms.
+NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the Timestamp-Inversion Pitfall.
+Conveyor: One-Tool-Fits-All Continuous Software Deployment at Meta.
+Chardonnay: Fast and General Datacenter Transactions for On-Disk Databases.
+ScaleDB: A Scalable, Asynchronous In-Memory Database.
+VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity.
+Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction.
+Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate.
+Replicating Persistent Memory Key-Value Stores with Efficient RDMA Abstraction.
+eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs.
+SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory.
+No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing.
+Johnny Cache: the End of DRAM Cache Conflicts (in Tiered Main Memory Systems).
+TAILCHECK: A Lightweight Heap Overflow Detection Mechanism with Page Protection and Tagged Pointers.
+SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.
+ORC: Increasing Cloud Memory Density via Object Reuse with Capabilities.
+Global Capacity Management With Flux.
+Defcon: Preventing Overload with Graceful Feature Degradation.
+Cilantro: Performance-Aware Resource Allocation for General Objectives via Online Feedback.
+Karma: Resource Allocation for Dynamic Demands.
+AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving.
+Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning.
+Welder: Scheduling Deep Learning Memory Access via Tile-graph.
+Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators.
+EINNET: Optimizing Tensor Programs with Derivation-Based Transformations.
+Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.
+MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.
+Optimizing Dynamic Neural Networks with Brainstorm.
+AdaEmbed: Adaptive Embedding for Large-Scale Recommendation Models.
+BWoS: Formally Verified Block-based Work Stealing for Parallel Processing.
+Spoq: Scaling Machine-Checkable Systems Verification in Coq.
+Verifying vMVCC, a high-performance transaction library using multi-version concurrency control.
+Automated Verification of Idempotence for Stateful Serverless Applications.
+Sharding the State Machine: Automated Modular Reasoning for Complex Concurrent Systems.
+Flor: An Open High Performance RDMA Framework Over Heterogeneous RNICs.
+ShRing: Networking with Shared Receive Rings.
+ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta.
+Characterizing Off-path SmartNIC for Accelerating Distributed Systems.
+Ensō: A Streaming Interface for NIC-Application Communication.

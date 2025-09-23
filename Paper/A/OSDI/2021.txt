@@ -1,0 +1,31 @@
+Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning.
+Oort: Efficient Federated Learning via Guided Participant Selection.
+PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections.
+Privacy Budget Scheduling.
+Modernizing File System through In-Storage Indexing.
+Nap: A Black-Box Approach to NUMA-Aware Persistent Memory Indexes.
+Rearchitecting Linux Storage Stack for µs Latency and High Throughput.
+Optimizing Storage Performance with Calibrated Interrupts.
+ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction.
+DMon: Efficient Detection and Correction of Data Locality Problems Using Selective Profiling.
+CLP: Efficient and Scalable Search on Compressed Text Logs.
+Polyjuice: High-Performance Transactions via Learned Concurrency Control.
+Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing.
+The nanoPU: A Nanosecond Network Stack for Datacenters.
+Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator.
+Scalable Memory Protection in the PENGLAI Enclave.
+NrOS: Effective Replication and Sharing in an Operating System.
+Addra: Metadata-private voice communication over fully untrusted infrastructure.
+Bringing Decentralized Search to Decentralized Services.
+Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.
+MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation.
+Zeph: Cryptographic Enforcement of End-to-End Data Privacy.
+DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols.
+GoJournal: a verified, concurrent, crash-safe journaling system.
+STORM: Refinement Types for Secure Web Applications.
+Horcrux: Automatic JavaScript Parallelism for Resource-Efficient Web Computation.
+SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++ Programs.
+Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads.
+GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs.
+Marius: Learning Massive Graph Embeddings on a Single Machine.
+P3: Distributed Deep Graph Learning at Scale.

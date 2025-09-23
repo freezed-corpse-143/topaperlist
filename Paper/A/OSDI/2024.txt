@@ -1,0 +1,53 @@
+Sabre: Hardware-Accelerated Snapshot Compression for Serverless MicroVMs.
+Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration.
+Managing Memory Tiers with CXL in Virtualized Environments.
+Harvesting Memory-bound CPU Stall Cycles in Software with MSH.
+A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient Far-Memory Applications.
+DRust: Language-Guided Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency.
+Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve.
+ServerlessLLM: Low-Latency Serverless Inference for Large Language Models.
+InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management.
+Llumnix: Dynamic Scheduling for Large Language Model Serving.
+DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.
+ACCL+: an FPGA-Based Collective Engine for Distributed Applications.
+Beaver: Practical Partial Snapshots for Distributed Cloud Services.
+Fast and Scalable In-network Lock Management Using Lock Fission.
+Chop Chop: Byzantine Atomic Broadcast to the Network Limit.
+Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning.
+Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation.
+Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents.
+nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training.
+ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications.
+SquirrelFS: using the Rust compiler to check file-system crash consistency.
+High-throughput and Flexible Host Networking for Accelerated Computing.
+IntOS: Persistent Embedded Operating System and Language Support for Multi-threaded Intermittent Computing.
+Data-flow Availability: Achieving Timing Assurance in Autonomous Systems.
+Microkernel Goes General: Performance and Compatibility in the HongMeng Production Microkernel.
+When will my ML Job finish? Toward providing Completion Time Estimates through Predictability-Centric Scheduling.
+Optimizing Resource Allocation in Hyperscale Datacenters: Scalability, Usability, and Experiences.
+μSlope: High Compression and Fast Search on Semi-Structured Logs.
+ServiceLab: Preventing Tiny Performance Regressions at Hyperscale through Pre-Production Testing.
+MAST: Global Scheduling of ML Training across Geo-Distributed Datacenters at Hyperscale.
+Automatically Reasoning About How Systems Code Uses the CPU Cache.
+VeriSMo: A Verified Security Module for Confidential VMs.
+Validating the eBPF Verifier via State Embedding.
+Using Dynamically Layered Definite Releases for Verifying the RefFS File System.
+Anvil: Verifying Liveness of Cluster Management Controllers.
+DSig: Breaking the Barrier of Signatures in Data Centers.
+Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk.
+Secret Key Recovery in a Global-Scale End-to-End Encryption System.
+Flock: A Framework for Deploying On-Demand Distributed Trust.
+FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces.
+Massively Parallel Multi-Versioned Transaction Processing.
+Burstable Cloud Block Storage with Data Processing Units.
+Motor: Enabling Multi-Versioning for Distributed Transactions on Disaggregated Memory.
+Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation.
+Inductive Invariants That Spark Joy: Using Invariant Taxonomies to Streamline Distributed Protocol Proofs.
+Performance Interfaces for Hardware Accelerators.
+IronSpec: Increasing the Reliability of Formal Specifications.
+Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples.
+dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.
+Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.
+USHER: Holistic Interference Avoidance for Resource Optimized ML Inference.
+Fairness in Serving Large Language Models.
+MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures.

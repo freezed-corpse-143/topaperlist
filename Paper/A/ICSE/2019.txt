@@ -1,0 +1,109 @@
+Learning to spot and refactor inconsistent method names.
+Harnessing evolution for multi-hunk program repair.
+On learning meaningful code changes via neural machine translation.
+Natural software revisited.
+Towards automating precision studies of clone detectors.
+Leopard: identifying vulnerable code for vulnerability assessment through program metrics.
+Smoke: scalable path-sensitive memory leak detection for millions of lines of code.
+Reasonably-most-general clients for JavaScript library analysis.
+Resource-aware program analysis via online abstraction coarsening.
+Automated reporting of anti-patterns and decay in continuous integration.
+A system identification based Oracle for control-CPS software fault localization.
+ReCDroid: automatically reproducing Android application crashes from bug reports.
+Mining historical test logs to predict bugs and localize faults in the test logs.
+Dlfinder: characterizing and detecting duplicate logging code smells.
+The seven sins: security smells in infrastructure as code scripts.
+DifFuzz: differential fuzzing for side-channel analysis.
+Automatically generating precise Oracles from structured natural language specifications.
+The product backlog.
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems.
+Towards understanding and reasoning about Android interoperations.
+Zero-overhead path prediction with progressive symbolic execution.
+Mimic: UI compatibility testing system for Android apps.
+IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps.
+Practical GUI testing of Android applications via model abstraction and refinement.
+AutoTap: synthesizing and repairing trigger-action programs using LTL properties.
+Active inductive logic programming for code search.
+NL2Type: inferring JavaScript function types from natural language information.
+Analyzing and supporting adaptation of online code examples.
+DockerizeMe: automatic inference of environment dependencies for python code snippets.
+BugSwarm: mining and continuously growing a dataset of reproducible failures and fixes.
+ActionNet: vision-based workflow action recognition from programming screencasts.
+How C++ developers use immutability declarations: an empirical study.
+Latent patterns in activities: a field study of how developers manage context.
+Developer reading behavior while summarizing Java methods: size and context matters.
+Distilling neural representations of data structure manipulation using fMRI and fNIRS.
+FastLane: test minimization for rapidly deployed large-scale online services.
+Scalable approaches for test suite reduction.
+A framework for checking regression test selection tools.
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge.
+Analysis and detection of information types of open source software issue discussions.
+Do developers discover new tools on the toilet?
+Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects.
+Hunting for bugs in code coverage tools via randomized differential testing.
+Rotten green tests.
+VFix: value-flow-guided precise program repair for null pointer dereferences.
+On reliability of patch correctness assessment.
+How reliable is the crowdsourced knowledge of security implementation?
+Pattern-based mining of opinions in Q&A websites.
+Detection and repair of architectural inconsistencies in Java.
+Could I have a stack trace to examine the dependency conflict issue?
+Investigating the impact of multiple dependency structures on software defects.
+StoryDroid: automated generation of storyboard for Android apps.
+Statistical algorithmic profiling for randomized approximate programs.
+Safe automated refactoring for intelligent parallelization of Java 8 streams.
+Detecting atomicity violations for event-driven Node.js applications.
+Parallel refinement for multi-threaded program verification.
+Mining software defects: should we consider affected releases?
+Class imbalance evolution and verification latency in just-in-time software defect prediction.
+FLOSS participants' perceptions about gender and inclusiveness: a survey.
+Going farther together: the impact of social capital on sustained participation in open source.
+Investigating the effects of gender bias on GitHub.
+SLF: fuzzing without valid seed inputs.
+Superion: grammar-aware greybox fuzzing.
+Grey-box concolic testing on binary code.
+RESTler: stateful REST API fuzzing.
+Training binary classifiers as data structure invariants.
+Graph embedding based familial analysis of Android malware using unsupervised learning.
+A novel neural source code representation based on abstract syntax tree.
+A neural model for generating natural language summaries of program subroutines.
+The list is the process: reliable pre-integration tracking of commits on mailing lists.
+Graph-based mining of in-the-wild, fine-grained, semantic code change patterns.
+Intention-based integration of software variants.
+Supporting the statistical analysis of variability models.
+Multifaceted automated analyses for variability-intensive embedded systems.
+Exposing library API misuses via mutation analysis.
+Pivot: learning API-device correlations to facilitate Android compatibility issue detection.
+SafeCheck: safety enhancement of Java unsafe API.
+CTRAS: crowdsourced test report aggregation and summarization.
+iSENSE: completion-aware crowdtesting management.
+How practitioners perceive coding proficiency.
+Socio-technical work-rate increase associates with changes in work patterns in online projects.
+Why do episodic volunteers stay in FLOSS communities?
+When code completion fails: a case study on real-world completions.
+Interactive production performance feedback in the IDE.
+Redundant loads: a software inefficiency indicator.
+View-centric performance optimization for database-backed web applications.
+Adjust: runtime mitigation of resource abusing third-party online ads.
+Symbolic repairs for GR(1) specifications.
+CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries.
+Guiding deep learning system testing using surprise adequacy.
+FOCUS: a recommender system for mining API function calls and usage patterns.
+Test-driven code review: an empirical study.
+Why does code review work for open source software communities?
+Distance-based sampling of software configuration spaces.
+DeepPerf: performance prediction for configurable software with deep sparse neural network.
+GreenBundle: an empirical study on the energy impact of bundled processing.
+Search-based energy testing of Android.
+Global optimization of numerical programs via prioritized stochastic algebraic transformations.
+Type migration in ultra-large-scale codebases.
+Dynamic slicing for Android.
+Recovering variable names for minified code with usage contexts.
+Gigahorse: thorough, declarative decompilation of smart contracts.
+Probabilistic disassembly.
+Software documentation issues unveiled.
+9.6 million links in source code comments: purpose, evolution, and decay.
+Leveraging artifact trees to evolve and reuse safety cases.
+Detecting incorrect build rules.
+Adversarial sample detection for deep neural network through model mutation testing.
+Deep differential testing of JVM implementations.
