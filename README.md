@@ -37,25 +37,21 @@
 
 ## How to Search?
 
-The repository contains a Rust CLI project under [`search/`](search) for searching accepted paper titles.
+The repository includes a Rust CLI under [`search/`](search) for querying accepted paper titles stored in the `Paper/` directory.
 
 ### Data layout
 
-Paper metadata is resolved from the repository structure:
+The CLI reads paper lists from this directory structure:
 
 ```text
 Paper/<level>/<conference>/<year>.txt
 ```
 
-Each output row uses the format:
-
-```text
-level	conference	year	title
-```
+Each non-empty line in a `.txt` file is treated as one paper title.
 
 ### Build and test
 
-From the `search/` directory you can run:
+From the `search/` directory:
 
 ```bash
 cargo test
@@ -63,55 +59,76 @@ cargo build --release --target x86_64-unknown-linux-gnu
 cargo build --release --target x86_64-pc-windows-gnu
 ```
 
-Command-line integration cases are stored in [`search/tests`](search/tests).
+Integration-style CLI checks live in [`search/tests`](search/tests).
 
-### Basic search
+### Output format
 
-Search title keywords by positional arguments:
+Each matching record is printed as a tab-separated row:
 
-```bash
-search diffusion graph
+```text
+level	conference	year	title
 ```
 
-Or use explicit keyword flags:
+The default column order is:
+
+```text
+level -> conference -> year -> title
+```
+
+### Paper directory resolution
+
+By default, the CLI tries to locate `Paper/` in these places and uses the first directory that exists:
+
+1. `<executable_dir>/Paper`
+2. `<current_working_dir>/Paper`
+3. `<executable_dir>/../Paper`
+4. `<current_working_dir>/../Paper`
+
+You can override this with:
 
 ```bash
-search --keyword diffusion,graph
+search --paper-dir /path/to/Paper --conference AAAI --year 2024
 ```
+
+### Search rules
+
+- At least one filter is required. Running `search` without any include or exclude filter returns an error.
+- All filters are case-insensitive.
+- `--keyword` and positional keywords are equivalent.
+- Repeated values are deduplicated automatically.
+- Comma-separated values are supported for every repeatable filter.
+- `level`, `conference`, and `year` filters use exact matching after normalization.
+- Title keyword matching is token-based: the title is split on whitespace, and each keyword must appear as a substring of at least one token.
+- Exclude filters remove matches after include filters are applied.
 
 ### Supported filters
 
-All include/exclude filters are case-insensitive. `year` matching is exact.
+All of the following options are repeatable and also accept comma-separated lists:
 
-- Title include keywords: `--keyword`
-- Title exclude keywords: `--exclude`, `--exclude-keyword`
-- Level include filter: `--level`
+- Title include keywords: `-k`, `--keyword`, or positional arguments
+- Title exclude keywords: `-x`, `--exclude`, `--exclude-keyword`
+- Level include filter: `-l`, `--level`
 - Level exclude filter: `--exclude-level`
-- Conference include filter: `--conference`
+- Conference include filter: `-n`, `--conference`
 - Conference exclude filter: `--exclude-conference`
-- Year include filter: `--year`
+- Year include filter: `-y`, `--year`
 - Year exclude filter: `--exclude-year`
 
-Each filter accepts comma-separated arrays and repeatable arguments.
+### Sorting
 
-### Examples
+Use `-s` or `--sort <field>:<order>` to sort results. The option is repeatable, and sort rules are applied in the order they are provided.
 
-```bash
-search --level A --conference AAAI --year 2024
-search --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
-search --exclude-level B --exclude-year 2024
-search --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
-search --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
-```
-
-### Sorting and columns
-
-Sort fields:
+Supported sort fields:
 
 - `level`
-- `conference`
+- `conference` (aliases: `conf`, `name`)
 - `year`
-- `title`
+- `title` (alias: `paper`)
+
+Supported orders:
+
+- `asc`
+- `desc`
 
 Example:
 
@@ -119,15 +136,40 @@ Example:
 search diffusion --sort conference:asc --sort year:desc
 ```
 
-Column filtering preserves the fixed output order `level -> conference -> year -> title`:
+If no sort rule is provided, records are emitted in repository traversal order: level directories, conference directories, and year files are read in sorted order, while titles keep their original line order inside each file.
+
+### Column selection
+
+Use `-c` or `--columns` with a comma-separated list of fields:
 
 ```bash
 search --columns conference,year,title diffusion
 ```
 
+Supported column names are the same as the sort fields. Duplicate columns are ignored, and the printed order always stays canonical:
+
+```text
+level -> conference -> year -> title
+```
+
+For example, `title,year,conference` is printed as `conference	year	title`.
+
+### Examples
+
+```bash
+search diffusion graph
+search --keyword diffusion --keyword graph
+search --level A --conference AAAI --year 2024
+search --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
+search --exclude-level B --exclude-year 2024
+search --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
+search --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
+search --paper-dir ../Paper --conference ACL --year 2024 transformer
+```
+
 ### Windows / PowerShell
 
-PowerShell users can still use `search.exe` directly after building or copying the Windows binary:
+After building or copying the Windows binary, PowerShell users can run:
 
 ```powershell
 ./search.exe --conference AAAI --year 2024 diffusion
