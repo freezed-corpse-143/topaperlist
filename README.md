@@ -37,6 +37,98 @@
 
 ## How to Search?
 
-Run **search.ps1** in  powershell. 
+The repository contains a Rust CLI project under [`search/`](search) for searching accepted paper titles.
 
-Run **search.exe keyword1 keyword2**
+### Data layout
+
+Paper metadata is resolved from the repository structure:
+
+```text
+Paper/<level>/<conference>/<year>.txt
+```
+
+Each output row uses the format:
+
+```text
+level	conference	year	title
+```
+
+### Build and test
+
+From the `search/` directory you can run:
+
+```bash
+cargo test
+cargo build --release --target x86_64-unknown-linux-gnu
+cargo build --release --target x86_64-pc-windows-gnu
+```
+
+Command-line integration cases are stored in [`search/tests`](search/tests).
+
+### Basic search
+
+Search title keywords by positional arguments:
+
+```bash
+search diffusion graph
+```
+
+Or use explicit keyword flags:
+
+```bash
+search --keyword diffusion,graph
+```
+
+### Supported filters
+
+All include/exclude filters are case-insensitive. `year` matching is exact.
+
+- Title include keywords: `--keyword`
+- Title exclude keywords: `--exclude`, `--exclude-keyword`
+- Level include filter: `--level`
+- Level exclude filter: `--exclude-level`
+- Conference include filter: `--conference`
+- Conference exclude filter: `--exclude-conference`
+- Year include filter: `--year`
+- Year exclude filter: `--exclude-year`
+
+Each filter accepts comma-separated arrays and repeatable arguments.
+
+### Examples
+
+```bash
+search --level A --conference AAAI --year 2024
+search --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
+search --exclude-level B --exclude-year 2024
+search --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
+search --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
+```
+
+### Sorting and columns
+
+Sort fields:
+
+- `level`
+- `conference`
+- `year`
+- `title`
+
+Example:
+
+```bash
+search diffusion --sort conference:asc --sort year:desc
+```
+
+Column filtering preserves the fixed output order `level -> conference -> year -> title`:
+
+```bash
+search --columns conference,year,title diffusion
+```
+
+### Windows / PowerShell
+
+PowerShell users can still use `search.exe` directly after building or copying the Windows binary:
+
+```powershell
+./search.exe --conference AAAI --year 2024 diffusion
+```
