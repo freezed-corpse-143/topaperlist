@@ -1,0 +1,84 @@
+Front Matter.
+FlatStor: An Efficient Embedded-Index Based Columnar Data Layout for Multimodal Data Workloads.
+TIMEST: Temporal Information Motif Estimator Using Sampling Trees.
+ConANN: Conformal Approximate Nearest Neighbor Search.
+RayDB: Building Databases with Ray Tracing Cores.
+NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments.
+CLaP - State Detection from Time Series.
+Front Matter.
+ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines.
+MS-Index: Fast Top-k Subsequence Search for Multivariate Time Series under Euclidean Distance.
+Doppio: Communication-Efficient and Secure Multi-Party Shuffle Differential Privacy.
+Effective Durable Community Search in Large Temporal Graph.
+Terabyte-Scale Analytics in the Blink of an Eye.
+APEROL: Adaptive Parallel Edge-to-Cloud Runtime Optimization for Layered Workflow Execution.
+MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data.
+An Experimental Evaluation of Hybrid Querying on Vectors.
+Unveiling Challenges for LLMs in Enterprise Data Engineering.
+Incremental Stream Query Deployment under Continuous Infrastructure Changes in the Cloud-Edge Continuum.
+Garnet: A Next-Generation Cache-Store for Accelerating Applications and Services.
+AGIS: Fast Approximate Graph Pattern Mining with Structure-Informed Sampling.
+Efficient Query Repair for Aggregate Constraints.
+FairDAG: Consensus Fairness over Multi-Proposer Causal Design.
+Blaze: Compiling JSON Schema for 10x Faster Validation.
+Front Matter.
+SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation.
+Meerkat: Scalable, Network-Aware Failure Recovery for the Internet of Things.
+GPU Acceleration of SQL Analytics on Compressed Data.
+Tux: Efficient Drop-in Networking for Database Systems.
+Hybrid Mixed Integer Linear Programming for Large-Scale Join Order Optimisation.
+FlowLog: Efficient and Extensible Datalog via Incrementality.
+Resilience-Aware Elastic Scaling for Cloud-Native Online DL Training on Multi-Tenant GPU Clusters.
+QStore: Quantization-Aware Compressed Model Storage.
+RED-ANNS: A RDMA-Enabled Distributed Framework for Graph-Based Approximate Nearest Neighbor Search.
+TATA: An Efficient Framework for Task Transfer in Query Plan Representation.
+LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning.
+Morphing-based Compression for Data-centric ML Pipelines.
+Optimal Approximate Matrix Multiplication over Sliding Windows.
+Aquila: A High-Concurrency System for Incremental Graph Query.
+Vodka: Rethink Benchmarking Philosophy in HTAP Systems.
+A Topology-Aware Localized Update Strategy for Graph-Based ANN Index.
+Streaming Validation of JSON Documents Against Schemas.
+Global Hash Tables Strike Back! An Analysis of Parallel GROUP BY Aggregation.
+Front Matter.
+PILOT-C: Physics-Informed Low-Distortion Optimal Trajectory Compression.
+Demystifying and Improving Lazy Promotion in Cache Eviction.
+Fast Verification of Strong Database Isolation.
+Scalable Approximate Biclique Counting over Large Bipartite Graphs.
+DOT: Dynamic Knob Selection and Online Sampling for Automated Database Tuning.
+Chipmink: Efficient Delta Identification for Massive Object Graphs.
+Elastic Index Selection for Label-Hybrid AKNN Search.
+Eureka: Enabling Fine-Grained Access and Range Queries on Compressed Scientific Data via Data-Index Co-Compression.
+TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs.
+Schuyler: Self-Supervised Clustering of Tables in Relational Databases.
+Fault Lines: Benchmarking the Impact of Label Data Quality on ML Robustness and Fairness.
+Shard: A Scalable and Resize-optimized Hash Index on Disaggregated Memory.
+Efficient Partition-based Approaches for Diversified Top-k Subgraph Matching.
+SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses.
+Efficient Temporal Edge-Core Maintenance in Streaming Graphs.
+A Workload-Aware Encrypted Index for Efficient Privacy-Preserving Range Queries.
+Augmenting Social Influence of Uncertain Seeds via Probabilistic Link Insertion.
+Index Intersection for High-Dimensional Range Queries.
+CounterSnake: A lossless and generalized compression framework for diverse sketches.
+Front Matter.
+LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
+Highly-Efficient Large-Scale k-means with Individual Fairness.
+Terark-DS: A High-Performance and Storage-Efficient Key-Value Separation Storage Engine on Disaggregated Storage.
+LiBox: A Learned Index as an Array to Minimize Last-Mile Search.
+DeXOR: Enabling XOR in Decimal Space for Streaming Lossless Compression of Floating-point Data.
+Understanding Evolving Graph Structures for Large Discrete-Time Dynamic Graph Representation.
+Scalable Grid-based Computation of Kendall's Tau Correlation.
+Towards Efficient Random-Order Enumeration for Join Queries.
+Ken: An Execution Engine for Unstructured Database Systems.
+Learned Static Function Data Structures.
+Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.
+Libra: One-Shot Parameter Sensitivity Estimation for Transfer Learning in Database Performance Prediction.
+ArceKV: Towards Workload-driven LSM-compactions for Key-Value Store Under Dynamic Workloads.
+Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution.
+SHARP: Shared State Reduction for Efficient Matching of Sequential Patterns.
+NL2SQLBench: A Modular Benchmarking Framework for LLM-Enabled NL2SQL Solutions.
+RetroInfer: A Vector Storage Engine for Scalable Long-Context LLM Inference.
+On Fair Epsilon Net and Geometric Hitting Set.
+ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration.
+Abacus: A Cost-Based Optimizer for Semantic Operator Systems.
+SVFusion: A CPU-GPU Co-Processing Architecture for Large-Scale Real-Time Vector Search.

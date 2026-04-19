@@ -1,0 +1,175 @@
+Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference, SIGGRAPH Conference Papers 2025, Vancouver, BC, Canada, August 10-14, 2025.
+AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization.
+EditDuet: A Multi-Agent System for Video Non-Linear Editing.
+Guiding-Based Importance Sampling for Walk on Stars.
+Motion Inversion for Video Customization.
+GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering.
+Nested Attention: Semantic-aware Attention Values for Concept Personalization.
+Dynamic Concepts Personalization from Single Videos.
+FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios.
+Gaussian Fluids: A Grid-Free Fluid Solver based on Gaussian Spatial Representation.
+Quadtree Tall Cells for Eulerian Liquid Simulation.
+Motion Control via Metric-Aligning Motion Matching.
+AutoKeyframe: Autoregressive Keyframe Generation for Human Motion Synthesis and Editing.
+AnyTop: Character Animation Diffusion with Any Topology.
+Hyper-Dimensional Deformation Simulation.
+A Platform for Interactive AI Character Experiences.
+Learning to Draw Is Learning to See: Analyzing Eye Tracking Patterns for Assisted Observational Drawing.
+HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination.
+ForceGrip: Reference-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation.
+VirCHEW Reality: On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality.
+Splat and Replace: 3D Reconstruction with Repetitive Elements.
+Radiance Surfaces: Optimizing Surface Representations with a 5D Radiance Field Loss.
+A Polyhedral Construction of Empty Spheres in Discrete Distance Fields.
+Physics-inspired Estimation of Optimal Cloth Mesh Resolution.
+Automated Task Scheduling for Cloth and Deformable Body Simulations in Heterogeneous Computing Environments.
+Lifting the Winding Number: Precise Discontinuities in Neural Fields for Physics Simulation.
+Text-based Animatable 3D Avatars with Morphable Model Alignment.
+LAM: Large Avatar Model for One-shot Animatable Gaussian Head.
+SOAP: Style-Omniscient Animatable Portraits.
+Facial Microscopic Structures Synthesis from a Single Unconstrained Image.
+MASH: Masked Anchored SpHerical Distances for 3D Shape Representation and Generation.
+Unsupervised Decomposition of 3D Shapes into Expressive and Editable Extruded Profile Primitives.
+OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation.
+Spherical Lighting with Spherical Harmonics Hessian.
+Guided Lens Sampling for Efficient Monte Carlo Circle-of-Confusion Rendering.
+Reservoir Splatting for Temporal Path Resampling and Motion Blur.
+Kernel Predicting Neural Shadow Maps.
+Stroke Transfer for Participating Media.
+Modeling and Rendering Glow Discharge.
+Painting with 3D Gaussian Splat Brushes.
+What is HDR? Perceptual Impact of Luminance and Contrast in Immersive Displays.
+FaceExpressions-70k: A Dataset of Perceived Expression Differences.
+Towards Understanding Depth Perception in Foveated Rendering.
+Fast Physics-Based Modeling of Knots and Ties using Templates.
+Intersection-Free Garment Retargeting.
+Rags2Riches: Computational Garment Reuse.
+GarmentImage: Raster Encoding of Garment Sewing Patterns with Diverse Topologies.
+Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates.
+RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination.
+Dual-Band Feature Fusion for Neural Global Illumination with Multi-Frequency Reflections.
+Gaussian Compression for Precomputed Indirect Illumination.
+Neural Importance Sampling of Many Lights.
+xADA: Controllable and Expressive Audio-Driven Animation.
+DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling.
+ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition.
+Motion-example-controlled Co-speech Gesture Generation Leveraging Large Language Models.
+Semantically Consistent Text-to-Motion with Unsupervised Styles.
+On Planar Shape Interpolation With Logarithmic Metric Blending.
+Flexible 3D Cage-based Deformation via Green Coordinates on Bézier Patches.
+CageNet: A Meta-Framework for Learning on Wild Meshes.
+CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation.
+MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation.
+Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control.
+Mobius: Text to Seamless Looping Video Generation via Latent Shift.
+LayerFlow: A Unified Model for Layer-aware Video Generation.
+Generative Video Matting.
+Image-space Adaptive Sampling for Fast Inverse Rendering.
+James-Stein Gradient Combiner for Inverse Monte Carlo Rendering.
+StableMakeup: When Real-World Makeup Transfer Meets Diffusion Model.
+FashionComposer: Compositional Fashion Image Generation.
+Scene-Level Appearance Transfer with Semantic Correspondences.
+3D Stylization via Large Reconstruction Model.
+Style Customization of Text-to-Vector Generation with Image Diffusion Priors.
+Cobra: Efficient Line Art COlorization with BRoAder References.
+Spline Deformation Field.
+Stable Cosserat Rods.
+Variational Elastodynamic Simulation.
+CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation.
+PDT: Point Distribution Transformation with Diffusion Models.
+RELATE3D: REfocusing Latent Adapter for Targeted local Enhancement and Editing in 3D Generation.
+Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting.
+CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation.
+SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation.
+Histogram Stratification for Spatio-Temporal Reservoir Sampling.
+Practical Stylized Nonlinear Monte Carlo Rendering.
+AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning.
+CueTip: An Interactive and Explainable Physics-aware Pool Assistant.
+Aerial Path Online Planning for Urban Scene Updation.
+Model See Model Do: Speech-Driven Facial Animation with Style Control.
+StreamME: Simplify 3D Gaussian Avatar within Live Stream.
+ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions.
+SqueezeMe: Mobile-Ready Distillation of Gaussian Full-Body Avatars.
+Be Decisive: Noise-Induced Layouts for Multi-Subject Generation.
+Cora: Correspondence-aware image editing using few step diffusion.
+3D-Fixup: Advancing Photo Editing with 3D Priors.
+PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models.
+Instance Segmentation of Scene Sketches Using Natural Image Priors.
+Power-Linear Polar Directional Fields.
+Divide-and-Conquer Embedding.
+3DGS2: Near Second-order Converging 3D Gaussian Splatting.
+Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes.
+Deformable Beta Splatting.
+Image-GS: Content-Adaptive Image Representation via 2D Gaussians.
+BrepDiff: Single-Stage B-rep Diffusion Model.
+Stitch-A-Shape: Bottom-up Learning for B-Rep Generation.
+Physically Controllable Relighting of Photographs.
+LightLab: Controlling Light Sources in Images with Diffusion Models.
+Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors.
+GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis.
+LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation.
+Accelerated Gamut Discovery via Massive Parallelization.
+MGPBD: A Multigrid Accelerated Global XPBD Solver.
+Anymate: A Dataset and Baselines for Learning 3D Object Rigging.
+Multi-Person Interaction Generation from Two-Person Motion Priors.
+Large-Scale Multi-Character Interaction Synthesis.
+SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations.
+Splat4D: Diffusion-Enhanced 4D Gaussian Splatting for Temporally and Spatially Consistent Content Creation.
+Photoreal Scene Reconstruction from an Egocentric Device.
+Monocular Online Reconstruction with Enhanced Detail Preservation.
+pOps: Photo-Inspired Diffusion Operators.
+Pocket Time-Lapse.
+InstanceGen: Image Generation with Instance-level Instructions.
+IP-Prompter: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting.
+DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data.
+IP-Composer: Semantic Composition of Visual Concepts.
+MIND: Microstructure INverse Design with Generative Hybrid Neural Representation.
+Data-Efficient Discovery of Hyperelastic TPMS Metamaterials with Extreme Energy Dissipation.
+Inverse Design of Discrete Interlocking Materials with Desired Mechanical Behavior.
+Computational Modeling of Gothic Microarchitecture.
+Color Matching and Biomimicry for Multi-Material Dental 3D Printing.
+MAGNET: Muscle Activation Generation Networks for Diverse Human Movement.
+PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers.
+PLT: Part-Wise Latent Tokens as Adaptable Motion Priors for Physically Simulated Characters.
+MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models.
+Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps.
+A Fluorescent Material Model for Non-Spectral Editing & Rendering.
+A Fast Parallel Median Filtering Algorithm Using Hierarchical Tiling.
+Fast Isotropic Median Filtering.
+High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion.
+Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting.
+DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution.
+DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior.
+Stochastic Barnes-Hut Approximation for Fast Summation on the GPU.
+GAIA: Generative Animatable Interactive Avatars with Expression-conditioned Gaussians.
+TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling.
+InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention.
+Relightable Full-Body Gaussian Codec Avatars.
+EVA: Expressive Virtual Avatars from Multi-view Videos.
+Elastic Locomotion with Mixed Second-order Differentiation.
+HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers.
+Feature-Preserving Mesh Repair via Restricted Power Diagram.
+VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control.
+Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing.
+VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control.
+ColorSurge: Bringing Vibrancy and Efficiency to Automatic Video Colorization via Dual-Branch Fusion.
+Controllable Tracking-Based Video Frame Interpolation.
+Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion.
+Stressful Tree Modeling: Breaking Branches with Strands.
+Curl Quantization for Automatic Placement of Knit Singularities.
+DeepMill: Neural Accessibility Learning for Subtractive Manufacturing.
+DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design.
+Towards Comprehensive Neural Materials: Dynamic Structure-Preserving Synthesis with Accurate Silhouette at Instant Inference Speed.
+Generative Neural Materials.
+Neural BRDF Importance Sampling by Reparameterization.
+Generative detail enhancement for physically based materials.
+Elevating 3D Models: High-Quality Texture and Geometry Refinement from a Low-Quality Model.
+Escher Tile Deformation via Closed-Form Solution.
+PaRas: A Rasterizer for Large-Scale Parametric Surfaces.
+Appearance-aware Multi-view SVBRDF Reconstruction via Deep Reinforcement Learning.
+Uncertainty for SVBRDF Acquisition using Frequency Analysis.
+Feeling Blue or Seeing Red? Investigating the effect of light color, shadow and realism on the perception of emotion of real and virtual humans.
+PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive transformer.
+Image-Space Collage and Packing with Differentiable Rendering.
+BuildingBlock: A Hybrid Approach for Structured Building Generation.
+Interactive Optimization of Scaffolded Procedural Patterns.
