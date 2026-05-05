@@ -1,0 +1,37 @@
+23rd USENIX Conference on File and Storage Technologies, FAST 2025, Santa Clara, CA, February 25-27, 2025
+Fast, Transparent Filesystem Microkernel Recovery with Ananke
+Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems
+DJFS : Directory-Granularity Filesystem Journaling for CMM-H SSDs
+ScaleLFS: A Log-Structured File System with Scalable Garbage Collection for Commodity SSDs
+Rethinking the Request-to-IO Transformation Process of File Systems for Full Utilization of High-Bandwidth SSDs
+FlacIO: Flat and Collective I/O for Container Image Service
+Cloudscape: A Study of Storage Services in Modern Cloud Architectures
+Maat: Analyzing and Optimizing Overcharge on Blockchain Storage
+Revisiting Network Coding for Warm Blob Storage
+Mooncake: Trading More Storage for Less Computation - A KVCache-centric Architecture for Serving LLM Chatbot
+Towards High-throughput and Low-latency Billion-scale Vector Search via CPU/GPU Collaborative Filtering and Re-ranking
+IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference
+GPHash: An Efficient Hash Index for GPU with Byte-Granularity Persistent Memory
+GeminiFS: A Companion File System for GPUs
+3L-Cache: Low Overhead and Precise Learning-based Eviction Policy for Caches
+LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration
+HiDPU: A DPU-Oriented Hybrid Indexing Scheme for Disaggregated Storage Systems
+PIMLex: A High-Performance Learned Index with Processing-in-Memory
+HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing
+AegonKV: A High Bandwidth, Low Tail Latency, and Low Storage Cost KV-Separated LSM Store with SmartSSD-based GC Offloading
+D2FS: Device-Driven Filesystem Garbage Collection
+ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover
+Selective On-Device Execution of Data-Dependent Read I/Os
+On Scalable Integrity Checking for Secure Cloud Disks
+Silhouette: Leveraging Consistency Mechanisms to Detect Bugs in Persistent Memory-Based File Systems
+OPIMQ: Order Preserving IO stack for Multi-Queue Block Device
+AWUPF Rediscovered: Atomic Writes to Unleash Pivotal Fault-Tolerance in SSDs
+AtomicDisk: A Secure Virtual Disk for TEEs against Eviction Attacks
+MedFS: Pursuing Low Update Overhead via Metadata-Enabled Delta Compression for Log-structured File System on Mobile Device
+Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS
+Archer: Adaptive Memory Compression with Page-Association-Rule Awareness for High-Speed Response of Mobile Devices
+VectorCDC: Accelerating Data Deduplication with Vector Instructions
+Oasis: An Out-of-core Approximate Graph System via All-Distances Sketches
+PolyStore: Exploiting Combined Capabilities of Heterogeneous Storage
+Liquid-State Drive: A Case for DNA Block Device for Enormous Data
+DNA data storage: A generative tool for Motif-based DNA storage

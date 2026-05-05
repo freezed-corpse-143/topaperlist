@@ -1,0 +1,51 @@
+Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2025, Las Vegas, NV, USA, March 1-5, 2025
+Setting a Course for Post-Moore Software Performance
+Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference
+Accelerating GNNs on GPU Sparse Tensor Cores through N: M Sparsity-Oriented Graph Reordering
+Adaptive Parallel Training for Graph Neural Networks
+RT-BarnesHut: Accelerating Barnes-Hut Using Ray-Tracing Hardware
+EVeREST: An Effective and Versatile Runtime Energy Saving Tool for GPUs
+TurboFFT: Co-Designed High-Performance and Fault-Tolerant Fast Fourier Transform on GPUs
+Reciprocating Locks
+Aggregating Funnels for Faster Fetch&Add and Queues
+Fairer and More Scalable Reader-Writer Locks by Optimizing Queue Management
+Publish on Ping: A Better Way to Publish Reservations in Memory Reclamation for Concurrent Data Structures
+AC-Cache: A Memory-Efficient Caching System for Small Objects via Exploiting Access Correlations
+Effectively Virtual Page Prefetching via Spatial-Temporal Patterns for Memory-intensive Cloud Applications
+Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion
+FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property
+Mario: Near Zero-cost Activation Checkpointing in Pipeline Parallelism
+COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers
+WeiPipe: Weight Pipeline Parallelism for Communication-Effective Long-Context Large Model Training
+MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models
+ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training
+SGDRC: Software-Defined Dynamic Resource Control for Concurrent DNN Inference on NVIDIA GPUs
+DORADD: Deterministic Parallel Execution in the Era of Microsecond-Scale Computing
+WaterWise: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing
+FlashSparse: Minimizing Computation Redundancy for Fast Sparse Matrix Multiplications on Tensor Cores
+Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores
+BerryBees: Breadth First Search by Bit-Tensor-Cores
+FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units
+PANNS: Enhancing Graph-based Approximate Nearest Neighbor Search through Recency-aware Construction and Parameterized Search
+Balanced Allocations over Efficient Queues: A Fast Relaxed FIFO Queue
+LibRTS: A Spatial Indexing Library by Ray Tracing
+Crystality: A Programming Model for Smart Contracts on Parallel EVMs
+Popcorn: Accelerating Kernel K-means on GPUs through Sparse Linear Algebra
+Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm
+GLumin: Fast Connectivity Check Based on LUTs For Efficient Graph Pattern Mining
+Improving Tridiagonalization Performance on GPU Architectures
+Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers
+Semi-StructMG: A Fast and Scalable Semi-Structured Algebraic Multigrid
+SBMGT: Scaling Bayesian Multinomial Group Testing
+An AI-Enhanced 1km-Resolution Seamless Global Weather and Climate Model to Achieve Year-Scale Simulation Speed using 34 Million Cores
+Big Atomics and Fast Hash Tables
+Frontier-guided Graph Reordering
+Transactional Data Structures with Orthogonal Metadata
+Boost Lock-free Queue and Stack with Batching
+TensorMD: Molecular Dynamics Simulation with Ab Initio Accuracy of 50 Billion Atoms
+FastBWA: Practical and Cost-Efficient Genome Sequence Alignment Pipeline
+High-performance Visual Semantics Compression for AI-Driven Science
+Triangle Counting on Tensor Cores
+Magneto: Accelerating Parallel Structures in DNNs via Co-Optimization of Operators
+A General and Scalable GCN Training Framework on CPU Supercomputers
+Minimizing speculation overhead in a parallel recognizer for regular texts

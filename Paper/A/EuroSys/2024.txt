@@ -1,0 +1,72 @@
+Proceedings of the Nineteenth European Conference on Computer Systems, EuroSys 2024, Athens, Greece, April 22-25, 2024
+WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations
+Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries
+LSGraph: A Locality-centric High-performance Streaming Graph Engine
+Contigra: Graph Mining with Containment Constraints
+Halflife: An Adaptive Flowlet-based Load Balancer with Fading Timeout in Data Center Networks
+Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths
+Astraea: Towards Fair and Efficient Learning-based Congestion Control
+Unison: A Parallel-Efficient and User-Transparent Network Simulation Kernel
+Serialization/Deserialization-free State Transfer in Serverless Workflows
+Occam: A Programming System for Reliable Network Management
+Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation
+Totoro: A Scalable Federated Learning Engine for the Edge
+FLOAT: Federated Learning Optimizations with Automated Tuning
+DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation
+ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling
+Dashing and Star: Byzantine Fault Tolerance with Weak Certificates
+Bandle: Asynchronous State Machine Replication Made Efficient
+Characterization and Reclamation of Frozen Garbage in Managed FaaS Workloads
+Pronghorn: Effective Checkpoint Orchestration for Serverless Hot-Starts
+Improving Resource and Energy Efficiency for Cloud 3D through Excessive Rendering Reduction
+Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads
+Snatch: Online Streaming Analytics at the Network Edge
+Blaze: Holistic Caching for Iterative Data Processing
+TTLs Matter: Efficient Cache Sizing with TTL-Aware Miss Ratio Curves and Working Set Sizes
+Trinity: A Fast Compressed Multi-attribute Data Store
+FLOWS: Balanced MRC Profiling for Heterogeneous Object-Size Cache
+CCL-BTree: A Crash-Consistent Locality-Aware B+-Tree for Reducing XPBuffer-Induced Write Amplification in Persistent Memory
+Wormhole Filters: Caching Your Hash on Persistent Memory
+Dordis: Efficient Federated Learning with Dropout-Resilient Differential Privacy
+Accelerating Privacy-Preserving Machine Learning With GeniBatch
+GMorph: Accelerating Multi-DNN Inference via Model Fusion
+HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis
+DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines
+ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs
+Puddles: Application-Independent Recovery and Location-Independent Data for Persistent Memory
+SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging
+CSAL: the Next-Gen Local Disks for the Cloud
+Exploring the Asynchrony of Slow Memory Filesystem with EasyIO
+ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
+Volley: Accelerating Write-Read Orders in Disaggregated Storage
+Automatic Root Cause Analysis via Large Language Models for Cloud Incidents
+Finding Correctness Bugs in eBPF Verifier with Structured and Sanitized Program
+Noctua: Towards Automated and Practical Fine-grained Consistency Analysis
+Effective Bug Detection with Unused Definitions
+SandTable: Scalable Distributed System Model Checking with Specification-Level State Exploration
+Validating Database System Isolation Level Implementations with Version Certificate Recovery
+Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance
+Minuet: Accelerating 3D Sparse Convolutions on GPUs
+MTM: Rethinking Memory Profiling and Migration for Multi-Tiered Large Memory
+Exploring Performance and Cost Optimization with ASIC-Based CXL Memory
+HD-IOV: SW-HW Co-designed I/O Virtualization with Scalability and Flexibility for Hyper-Density Cloud
+SmartNIC Security Isolation in the Cloud with S-NIC
+Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices
+Erlang: Application-Aware Autoscaling for Cloud Microservices
+On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud
+TraceUpscaler: Upscaling Traces to Evaluate Systems at High Load
+Enoki: High Velocity Linux Kernel Scheduler Development
+Concealing Compression-accelerated I/O for HPC Applications through In Situ Task Scheduling
+NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning
+Model Selection for Latency-Critical Inference Serving
+Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation
+CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs
+Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications
+Blox: A Modular Toolkit for Deep Learning Schedulers
+Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures
+Polynima: Practical Hybrid Recompilation for Multithreaded Binaries
+Transparent Multicore Scaling of Single-Threaded Network Functions
+Jade: A High-throughput Concurrent Copying Garbage Collector
+Adaptable Runtime Monitoring for Intermittent Systems
+Save the Bruised Striver: A Reliable Live Patching Framework for Protecting Real-World PLCs
+Efficient Auditing of Event-driven Web Applications

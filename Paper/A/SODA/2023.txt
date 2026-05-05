@@ -1,0 +1,191 @@
+Proceedings of the 2023 ACM-SIAM Symposium on Discrete Algorithms, SODA 2023, Florence, Italy, January 22-25, 2023
+Dynamic Algorithms for Packing-Covering LPs via Multiplicative Weight Updates
+Maintaining Expander Decompositions via Sparse Cuts
+Fully Dynamic Exact Edge Connectivity in Sublinear Time
+Faster Deterministic Worst-Case Fully Dynamic All-Pairs Shortest Paths via Decremental Hop-Restricted Shortest Paths
+Dynamic Matching with Better-than-2 Approximation in Polylogarithmic Update Time
+Dynamic Algorithms for Maximum Matching Size
+Closing the Gap Between Directed Hopsets and Shortcut Sets
+Maximal k-Edge-Connected Subgraphs in Weighted Graphs via Local Random Contraction
+Faster and Unified Algorithms for Diameter Reducing Shortcuts and Minimum Chain Covers
+Near-Linear Time Approximations for Cut Problems via Fair Cuts
+Fast Discrepancy Minimization with Hereditary Guarantees
+A tight quasi-polynomial bound for Global Label Min-Cut
+Fair allocation of a multiset of indivisible items
+The Price of Stability for First Price Auction
+Competitive Information Design for Pandora's Box
+Optimal Pricing Schemes for an Impatient Buyer
+Pricing Query Complexity of Revenue Maximization
+Interdependent Public Projects
+Stronger 3SUM-Indexing Lower Bounds
+Tight Bounds for Monotone Minimal Perfect Hashing
+Tiny Pointers
+Improved Pattern-Avoidance Bounds for Greedy BSTs via Matrix Decomposition
+A Nearly-Tight Analysis of Multipass Pairing Heaps
+A Tight Analysis of Slim Heaps and Smooth Heaps
+Hierarchies of Minion Tests for PCSPs through Tensors
+Short Synchronizing Words for Random Automata
+Approximate Trace Reconstruction from a Single Trace
+Sharp threshold sequence and universality for Ising perceptron models
+On complex roots of the independence polynomial
+Elliptic Curve Fast Fourier Transform (ECFFT) Part I: Low-degree Extension in Time O(n log n) over all Finite Fields
+Low Degree Testing over the Reals
+Streaming algorithms for the missing item finding problem
+Single-Pass Streaming Algorithms for Correlation Clustering
+The ℓp-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines
+Towards Multi-Pass Streaming Lower Bounds for Optimal Approximation of Max-Cut
+Learning Hierarchical Cluster Structure of Graphs in Sublinear Time
+Breaching the 2 LMP Approximation Barrier for Facility Location with Applications to k-Median
+Improved Bi-point Rounding Algorithms and a Golden Barrier for k-Median
+A Nearly Tight Analysis of Greedy k-means++
+On the Integrality Gap of MFN Relaxation for the Capacitated Facility Location Problem
+Passing the Limits of Pure Local Search for Weighted k-Set Packing
+An Improved Approximation for Maximum Weighted k-Set Packing
+Testing and Learning Quantum Juntas Nearly Optimally
+Mean estimation when you have the source code; or, quantum Monte Carlo methods
+Efficient decoding up to a constant fraction of the code length for asymptotically good quantum codes
+A Sublinear-Time Quantum Algorithm for Approximating Partition Functions
+Quantum tomography using state-preparation unitaries
+Unique Games hardness of Quantum Max-Cut, and a conjectured vector-valued Borell's inequality
+Halving by a Thousand Cuts or Punctures
+On the Number of Incidences When Avoiding an Induced Biclique in Geometric Settings
+Curve Simplification and Clustering under Fréchet Distance
+Gap-ETH-Tight Approximation Schemes for Red-Green-Blue Separation and Bicolored Noncrossing Euclidean Travelling Salesman Tours
+Map matching queries on realistic input graphs under the Fréchet distance
+Simplex Range Searching Revisited: How to Shave Logs in Multi-Level Data Structures
+Player-optimal Stable Regret for Bandit Learning in Matching Markets
+Almost Tight Bounds for Online Facility Location in the Random-Order Model
+Online Min-Max Paging
+Online and Bandit Algorithms Beyond ℓp Norms
+The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay
+Online Prediction in Sub-linear Space
+The Exact Bipartite Matching Polytope Has Exponential Extension Complexity
+Shrunk subspaces via operator Sinkhorn iteration
+Small Shadows of Lattice Polytopes
+A Polynomial Time Algorithm for Finding a Minimum 4-Partition of a Submodular Function
+Integrality Gaps for Random Integer Programs via Discrepancy
+Discrepancy Minimization via Regularization
+A Subquadratic nε-approximation for the Continuous Fréchet Distance
+Finding Triangles and Other Small Subgraphs in Geometric Intersection Graphs
+Online Sorting and Translational Packing of Convex Polygons
+Economical Convex Coverings and Applications
+4D Range Reporting in the Pointer Machine Model in Almost-Optimal Time
+Approximate Distance Oracles for Planar Graphs with Subpolynomial Error Dependency
+Minimizing Completion Times for Stochastic Jobs via Batched Free Times
+Beating (1 - 1/e)-Approximation for Weighted Stochastic Matching
+Superpolynomial lower bounds for decision tree learning and testing
+On (Random-order) Online Contention Resolution Schemes for the Matching Polytope of (Bipartite) Graphs
+Secretary Problems: The Power of a Single Sample
+Lossless Online Rounding for Online Bipartite Matching (Despite its Impossibility)
+Packing cycles in planar and bounded-genus graphs
+Computing Square Colorings on Bounded-Treewidth and Planar Graphs
+Excluding Single-Crossing Matching Minors in Bipartite Graphs
+A Distanced Matching Game, Decremental APSP in Expanders, and Faster Deterministic Algorithms for Graph Cut Problems
+Shortest Cycles With Monotone Submodular Costs
+A Framework for Approximation Schemes on Disk Graphs
+Improved girth approximation in weighted undirected graphs
+Approximate Graph Colouring and Crystals
+Weisfeiler-Leman and Graph Spectra
+Fast algorithms for solving the Hamilton Cycle problem with high probability
+A simple and sharper proof of the hypergraph Moore bound
+Small subgraphs with large average degree
+Exact Flow Sparsification Requires Unbounded Size
+Improved Approximation for Two-Edge-Connectivity
+Timeliness Through Telephones: Approximating Information Freshness in Vector Clock Models
+Approximation Algorithms for Steiner Tree Augmentation Problems
+Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows
+Faster Computation of 3-Edge-Connected Components in Digraphs
+Improved Distributed Network Decomposition, Hitting Sets, and Spanners, via Derandomization
+Fast Distributed Brooks' Theorem
+Optimal Deterministic Massively Parallel Connectivity on Forests
+Distributed Maximal Matching and Maximal Independent Set on Hypergraphs
+Optimal Fully Dynamic k-Center Clustering for Adaptive and Oblivious Adversaries
+A New Approach to Estimating Effective Resistances and Counting Spanning Trees in Expander Graphs
+The complete classification for quantified equality constraints
+Approaching the Soundness Barrier: A Near Optimal Analysis of the Cube versus Cube Test
+Weak Bisimulation Finiteness of Pushdown Systems With Deterministic ε-Transitions Is 2-EXPTIME-Complete
+Algorithmizing the Multiplicity Schwartz-Zippel Lemma
+Query Complexity of Inversion Minimization on Trees
+Efficient resilient functions
+Improved Integrality Gap in Max-Min Allocation: or Topology at the North Pole
+Generalized Unrelated Machine Scheduling Problem
+Improved Approximations for Unrelated Machine Scheduling
+On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and Triangular Structured ILPs
+Approximating Knapsack and Partition via Dense Subset Sums
+On Problems Related to Unbounded SubsetSum: A Unified Combinatorial Approach
+Conflict-free hypergraph matchings
+Sparse graphs with bounded induced cycle packing number have logarithmic treewidth
+Zigzagging through acyclic orientations of chordal graphs and hypergraphs
+A half-integral Erdős-Pósa theorem for directed odd cycles
+Graph Classes with Few Minimal Separators. I. Finite Forbidden Induced Subgraphs
+Graph Classes with Few Minimal Separators. II. A Dichotomy
+Almost Consistent Systems of Linear Equations
+Flow-augmentation III: Complexity dichotomy for Boolean CSPs parameterized by the number of unsatisfied constraints
+Fixed-parameter tractability of DIRECTED MULTICUT with three terminal pairs parameterized by the size of the cutset: twin-width meets flow-augmentation
+Polynomial formulations as a barrier for reduction-based hardness proofs
+A logic-based algorithmic meta-theorem for mim-width
+Constant Approximating Parameterized k-SETCOVER is W[2]-hard
+Subexponential mixing for partition chains on grid-like graphs
+Improved Bounds for Sampling Solutions of Random CNF Formulas
+Moser-Tardos Algorithm: Beyond Shearer's Bound
+Deterministic counting Lovász local lemma beyond linear programming
+Instability of backoff protocols with arbitrary arrival rates
+From Algorithms to Connectivity and Back: Finding a Giant Component in Random k-SAT
+Robust Voting Rules from Algorithmic Robust Statistics
+Higher degree sum-of-squares relaxations robust against oblivious outliers
+Non-Stochastic CDF Estimation Using Threshold Queries
+Positivity of the symmetric group characters is as hard as the polynomial time hierarchy
+Interactive Coding with Small Memory
+Concentration of polynomial random matrices via Efron-Stein inequalities
+Kernelization for Graph Packing Problems via Rainbow Matching
+Tight Complexity Bounds for Counting Generalized Dominating Sets in Bounded-Treewidth Graphs
+Model-Checking for First-Order Logic with Disjoint Paths Predicates in Proper Minor-Closed Graph Classes
+Fixed-Parameter Tractability of Maximum Colored Path and Beyond
+Parameterized Approximation Scheme for Biclique-free Max k-Weight SAT and Max Coverage
+Parameterized Algorithm for the Disjoint Path Problem on Planar Graphs: Exponential in k2 and Linear in n
+"Who is Next in Line?" On the Significance of Knowing the Arrival Order in Bayesian Online Settings
+A Polynomial-Time Algorithm for 1/2-Well-Supported Nash Equilibria in Bimatrix Games
+Bidder Subset Selection Problem in Auction Design
+Simple Mechanisms for Non-linear Agents
+Sampling Equilibria: Fast No-Regret Learning in Structured Games
+Foundations of Transaction Fee Mechanism Design
+Beating Greedy Matching in Sublinear Time
+Spencer's theorem in nearly input-sparsity time
+Near-Linear Sample Complexity for Lp Polynomial Regression
+Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time
+Testing Convex Truncation
+Streaming complexity of CSPs with randomly ordered constraints
+Nonlinear codes exceeding the Gilbert-Varshamov and Tsfasman-Vlăduţ-Zink bounds
+On the orbit closure intersection problems for matrix tuples under conjugation and left-right actions
+Toeplitz Low-Rank Approximation with Sublinear Query Complexity
+Smaller Low-Depth Circuits for Kronecker Powers
+Algebraic Algorithms for Fractional Linear Matroid Parity via Non-commutative Rank
+Equivalence Test for Read-Once Arithmetic Formulas
+Improved Distributed Algorithms for the Lovász Local Lemma and Edge Coloring
+A Nearly Time-Optimal Distributed Approximation of Minimum Cost k-Edge-Connected Spanning Subgraph
+Byzantine Agreement with Optimal Resilience via Statistical Fraud Detection
+Parallel Exact Shortest Paths in Almost Linear Work and Square Root Depth
+Massively Parallel Computation on Embedded Planar Graphs
+Local Distributed Rounding: Generalized to MIS, Matching, Set Cover, and Beyond
+Balanced Allocations with Heterogeneous Bins: The Power of Memory
+A Near-Linear Time Sampler for the Ising Model with External Field
+Almost-Linear Planted Cliques Elude the Metropolis Process
+The Need for Seed (in the abstract Tile Assembly Model)
+Faster Algorithm for Turn-based Stochastic Games with Bounded Treewidth
+Spatial mixing and the random-cluster dynamics on lattices
+Online Lewis Weight Sampling
+Super-resolution and Robust Sparse Continuous Fourier Transform in Any Constant Dimension: Nearly Linear Time and Sample Complexity
+Traversing the FFT Computation Tree for Dimension-Independent Sparse Fourier Transforms
+Cubic Goldreich-Levin
+Query Complexity of the Metric Steiner Tree Problem
+Sublinear-Time Algorithms for Max Cut, Max E2Lin(q), and Unique Label Cover on Expanders
+Stronger Privacy Amplification by Shuffling for Renyi and Approximate Differential Privacy
+Private Query Release via the Johnson-Lindenstrauss Transform
+Almost Tight Error Bounds on Differentially Private Continual Counting
+Differentially Private All-Pairs Shortest Path Distances: Improved Algorithms and Lower Bounds
+Private Convex Optimization in General Norms
+Quantum Speed-ups for String Synchronizing Sets, Longest Common Substring, and k-mismatch Matching
+Breaking the 𝒪(n)-Barrier in the Construction of Compressed Suffix Arrays and Suffix Trees
+Simple, deterministic, fast (but weak) approximations to edit distance and Dyck edit distance
+Optimal Square Detection Over General Alphabets
+Time-Space Tradeoffs for Element Distinctness and Set Intersection via Pseudorandomness

@@ -1,0 +1,60 @@
+ISSTA '21: 30th ACM SIGSOFT International Symposium on Software Testing and Analysis, Virtual Event, Denmark, July 11-17, 2021
+Automated debugging: past, present, and future (ISSTA impact paper award)
+Identifying privacy weaknesses from multi-party trigger-action integration platforms
+WebEvo: taming web application evolution via detecting semantic structure changes
+Modular call graph construction for security scanning of Node.js applications
+Attack as defense: characterizing adversarial examples using robustness
+Exposing previously undetectable faults in deep neural networks
+DeepCrime: mutation testing of deep learning systems based on real faults
+DeepHyperion: exploring the feature space of deep learning-based systems through illumination search
+Automatic test suite generation for key-points detection DNNs using many-objective search (experience paper)
+Efficient white-box fairness testing through gradient search
+DialTest: automated testing for recurrent-neural-network-driven dialogue systems
+AdvDoor: adversarial backdoor attack of deep learning system
+ModelDiff: testing-based DNN similarity comparison for model reuse detection
+Parema: an unpacking framework for demystifying VM-based Android packers
+An infrastructure approach to improving effectiveness of Android UI testing tools
+Semantic matching of GUI events for test reuse: are we there yet?
+GUIDER: GUI structure and vision co-guided test script repair for Android apps
+Understanding and finding system setting-related defects in Android apps
+HomDroid: detecting Android covert malware by social-network homophily analysis
+Seed selection for successful fuzzing
+Gramatron: effective grammar-aware fuzzing
+QFuzz: quantitative fuzzing for side channels
+SAND: a static analysis approach for detecting SQL antipatterns
+Semantic table structure identification in spreadsheets
+Runtime detection of memory errors with smart status
+UAFSan: an object-identifier-based dynamic approach for detecting use-after-free vulnerabilities
+Fuzzing SMT solvers via two-dimensional input space exploration
+Boosting symbolic execution via constraint solving time prediction (experience paper)
+Synthesize solving strategy for symbolic execution
+Type and interval aware array constraint solving for symbolic execution
+Grammar-agnostic symbolic execution by token symbolization
+Interval constraint-based mutation testing of numerical specifications
+Predoo: precision testing of deep learning operators
+TERA: optimizing stochastic regression tests in machine learning projects
+Deep just-in-time defect prediction: how far are we?
+Fixing dependency errors for Python build reproducibility
+Test-case prioritization for configuration testing
+The impact of tool configuration spaces on the evaluation of configurable taint analysis for Android
+Challenges and opportunities: an in-depth empirical study on configuration error injection testing
+Empirically evaluating readily available information for regression test optimization in continuous integration
+Toward optimal mc/dc test case generation
+Log-based slicing for system-level test cases
+Model-based testing of networked applications
+Validating static warnings via testing code fragments
+Continuous test suite failure prediction
+Empirical evaluation of smart contract testing: what is the best choice?
+iDEV: exploring and exploiting semantic deviations in ARM instruction processing
+RAProducer: efficiently diagnose and reproduce data race bugs for binaries via trace analysis
+A lightweight framework for function name reassignment based on large-scale stripped binaries
+Finding data compatibility bugs with JSON subschema checking
+Automated patch backporting in Linux (experience paper)
+Faster, deeper, easier: crowdsourcing diagnosis of microservice kernel failure from user space
+echidna-parade: a tool for diverse multicore smart contract fuzzing
+ProFuzzBench: a benchmark for stateful protocol fuzzing
+SCStudio: a secure and efficient integrated development environment for smart contracts
+C4: the C compiler concurrency checker
+TauMed: test augmentation of deep learning in medical diagnosis
+MoScan: a model-based vulnerability scanner for web single sign-on services
+RESTest: automated black-box testing of RESTful web APIs

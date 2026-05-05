@@ -1,0 +1,82 @@
+48th ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2021, Virtual Event / Valencia, Spain, June 14-18, 2021
+Ten Lessons From Three Generations Shaped Google's TPUv4i : Industrial Product
+Sparsity-Aware and Re-configurable NPU Architecture for Samsung Flagship Mobile SoC
+Energy Efficiency Boost in the AI-Infused POWER10 Processor
+Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product
+Pioneering Chiplet Technology and Design for the AMD EPYC™ and Ryzen™ Processor Families : Industrial Product
+Zero Inclusion Victim: Isolating Core Caches from Inclusive Last-level Cache Evictions
+Exploiting Page Table Locality for Agile TLB Prefetching
+A Cost-Effective Entangling Prefetcher for Instructions
+Don't Forget the I/O When Allocating Your LLC
+PF-DRAM: A Precharge-Free DRAM Structure
+Efficient Multi-GPU Shared Memory via Automatic Optimization of Fine-Grained Transfers
+RaPiD: AI Accelerator for Ultra-low Precision Training and Inference
+REDUCT: Keep it Close, Keep it Cool! : Efficient Scaling of DNN Inference on Multi-core CPUs with Near-Cache Compute
+Communication Algorithm-Architecture Co-Design for Distributed Deep Learning
+Vector Runahead
+Unlimited Vector Extension with Data Streaming Support
+Speculative Vectorisation with Selective Replay
+ABC-DIMM: Alleviating the Bottleneck of Communication in DIMM-based Near-Memory Processing with Inter-DIMM Broadcast
+Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-mer Matching
+FORMS: Fine-grained Polarized ReRAM-based In-situ Computation for Mixed-signal DNN Accelerator
+BOSS: Bandwidth-Optimized Search Accelerator for Storage-Class Memory
+SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains*
+Confidential Serverless Made Efficient with Plug-In Enclaves
+Flex: High-Availability Datacenters With Zero Reserved Power
+BlockMaestro: Enabling Programmer-Transparent Task-based Execution in GPU Systems
+Opening Pandora's Box: A Systematic Study of New Ways Microarchitecture Can Leak Private Data
+I See Dead µops: Leaking Secrets via Intel/AMD Micro-Op Caches
+TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software
+Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees
+Aurochs: An Architecture for Dataflow Threads
+PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture
+Taming the Zoo: The Unified GraphIt Compiler Framework for Novel Architectures
+Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach
+Execution Dependence Extension (EDE): ISA Support for Eliminating Fences
+Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters
+CODIC: A Low-Cost Substrate for Enabling Custom In-DRAM Functionalities and Optimizations
+NVOverlay: Enabling Efficient and Scalable High-Frequency Snapshotting to NVM
+Rebooting Virtual Memory with Midgard
+Dvé: Improving DRAM Reliability and Performance On-Demand via Coherent Replication
+Enabling Compute-Communication Overlap in Distributed Deep Learning Training Platforms
+CoSA: Scheduling by Constrained Optimization for Spatial Accelerators
+η-LSTM: Co-Designing Highly-Efficient Large LSTM Training via Exploiting Memory-Saving and Architectural Design Opportunities
+FlexMiner: A Pattern-Aware Accelerator for Graph Pattern Mining
+PolyGraph: Exposing the Value of Flexibility for Graph Processing Accelerators
+Large-Scale Graph Processing on FPGAs with Caches for Thousands of Simultaneous Misses
+Cost-Efficient Overclocking in Immersion-Cooled Datacenters
+CryoGuard: A Near Refresh-Free Robust DRAM Design for Cryogenic Computing
+Superconducting Computing with Alternating Logic Elements
+Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via Low-cost Hardware Support for Voltage Monitoring
+SPACE: Locality-Aware Processing in Heterogeneous Memory for Personalized Recommendations
+ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks
+Cambricon-Q: A Hybrid Architecture for Efficient Training
+TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation
+Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications
+Quantifying Server Memory Frequency Margin and Using It to Improve Performance in HPC Systems
+Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution
+NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks
+NASA: Accelerating Neural Network Design with a NAS Processor
+PMNet: In-Network Data Persistence
+Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures
+Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors
+Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing
+Albireo: Energy-Efficient Acceleration of Convolutional Neural Networks via Silicon Photonics
+INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities
+Maya: Using Formal Control to Obfuscate Power Side Channels
+Demystifying the System Vulnerability Stack: Transient Fault Effects Across the Layers
+No-FAT: Architectural Support for Low Overhead Memory Safety Checks
+Ghost Routing to Enable Oblivious Computation on Memory-centric Networks
+QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips
+A RISC-V in-network accelerator for flexible high-performance low-power packet processing
+Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems
+IChannels: Exploiting Current Management Mechanisms to Create Covert Channels in Modern Processors
+ZeRØ: Zero-Overhead Resilient Operation Under Pointer Integrity Attacks
+NN-Baton: DNN Workload Orchestration and Chiplet Granularity Exploration for Multichip Accelerators
+Snafu: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture
+SARA: Scaling a Reconfigurable Dataflow Accelerator
+HASCO: Towards Agile HArdware and Software CO-design for Tensor Computation
+SpZip: Architectural Support for Effective Data Compression In Irregular Applications
+Dual-side Sparse Tensor Core
+RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging
+GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator

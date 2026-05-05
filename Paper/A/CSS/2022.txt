@@ -1,0 +1,288 @@
+Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, CCS 2022, Los Angeles, CA, USA, November 7-11, 2022
+Designing Hardware for Cryptography and Cryptography for Hardware
+We Are the Experts, and We Are the Problem: The Security Advice Fiasco
+Sustainability is a Security Problem
+Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security
+Helping or Hindering?: How Browser Extensions Undermine Security
+Practical, Round-Optimal Lattice-Based Blind Signatures
+Blacktooth: Breaking through the Defense of Bluetooth in Silence
+Server-Aided Continuous Group Key Agreement
+Enforcing Fine-grained Constant-time Policies
+Post Quantum Noise
+Laconic Private Set-Intersection From Pairings
+Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters
+Chaghri - A FHE-friendly Block Cipher
+Secure Parallel Computation on Privately Partitioned Data and Applications
+Thora: Atomic and Privacy-Preserving Multi-Channel Updates
+Sleepy Channels: Bi-directional Payment Channels without Watchtowers
+On the Adaptive Security of the Threshold BLS Signature Scheme
+Secret-Shared Joins with Multiplicity from Aggregation Trees
+META-BTS: Bootstrapping Precision Beyond the Limit
+i-TiRE: Incremental Timed-Release Encryption or How to use Timed-Release Encryption on Blockchains?
+Membership Inference Attacks and Generalization: A Causal Perspective
+Tidy: Symbolic Verification of Timed Cryptographic Protocols
+A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music
+Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs
+Distributed, Private, Sparse Histograms in the Two-Server Model
+Threshold Cryptography as a Service (in the Multiserver and YOSO Models)
+Privacy Limitations of Interest-based Advertising on The Web: A Post-mortem Empirical Analysis of Google's FLoC
+JIT-Picking: Differential Fuzzing of JavaScript Engines
+A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello
+Power Contracts: Provably Complete Power Leakage Models for Processors
+Themis: An On-Site Voting System with Systematic Cast-as-intended Verification and Partial Accountability
+Victory by KO: Attacking OpenPGP Using Key Overwriting
+Do Opt-Outs Really Opt Me Out?
+Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls
+Succinct Zero-Knowledge Batch Proofs for Set Accumulators
+Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It
+SFuzz: Slice-based Fuzzing for Real-Time Operating Systems
+Graph Unlearning
+MetaEmu: An Architecture Agnostic Rehosting Framework for Automotive Firmware
+PSI from Ring-OLE
+HammerScope: Observing DRAM Power Consumption Using Rowhammer
+SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering
+SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders
+The Generals' Scuttlebutt: Byzantine-Resilient Gossip Protocols
+Sharp: Short Relaxed Range Proofs
+QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems
+VRust: Automated Vulnerability Detection for Solana Smart Contracts
+Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+Understanding Security Issues in the NFT Ecosystem
+GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy
+STAR: Secret Sharing for Private Threshold Aggregation Reporting
+CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks
+Two-Client Inner-Product Functional Encryption with an Application to Money-Laundering Detection
+On the (In)Security of Secure ROS2
+FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems
+StrongBox: A GPU TEE on Arm Endpoints
+Understanding Real-world Threats to Deep Learning Models in Android Apps
+A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks
+Second-Order Low-Randomness d + 1 Hardware Sharing of the AES
+Improving Line-Point Zero Knowledge: Two Multiplications for the Price of One
+Shorter Signatures Based on Tailor-Made Minimalist Symmetric-Key Crypto
+Leakage and Tamper Resilient Permutation-Based Cryptography
+Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection
+Watch Out for Race Condition Attacks When Using Android External Storage
+Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception
+Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications
+Poirot: Probabilistically Recommending Protections for the Android Framework
+TurboPack: Honest Majority MPC with Constant Online Communication
+Automatic Detection of Speculative Execution Combinations
+When Frodo Flips: End-to-End Key Recovery on FrodoKEM via Rowhammer
+NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms
+Shifted Inverse: A General Mechanism for Monotonic Functions under User Differential Privacy
+CINI MINIS: Domain Isolation for Fault and Combined Security
+Adversarial Correctness and Privacy for Probabilistic Data Structures
+LibAFL: A Framework to Build Modular and Reusable Fuzzers
+Efficient Zero-Knowledge Proofs on Signed Data with Applications to Verifiable Computation on Data Streams
+Minotaur: Multi-Resource Blockchain Consensus
+Squirrel: Efficient Synchronized Multi-Signatures from Lattices
+Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats
+Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition
+"Is your explanation stable?": A Robustness Evaluation Framework for Feature Attribution
+Secure Auctions in the Presence of Rational Adversaries
+Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency
+Succinct Zero Knowledge for Floating Point Computations
+Practical Settlement Bounds for Proof-of-Work Blockchains
+Hecate: Lifting and Shifting On-Premises Workloads to an Untrusted Cloud
+C2C: Fine-grained Configuration-driven System Call Filtering
+Foundations of Coin Mixing Services
+ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning
+Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration
+DangZero: Efficient Use-After-Free Detection via Direct Page Table Access
+Reinforced Concrete: A Fast Hash Function for Verifiable Computation
+Proof-of-Possession for KEM Certificates using Verifiable Generation
+SPECPATCH: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition
+Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation
+Location Heartbleeding: The Rise of Wi-Fi Spoofing Attack Via Geolocation API
+How to Hide MetaData in MLS-Like Secure Group Messaging: Simple, Modular, and Post-Quantum
+Behind the Scenes of RPKI
+On the Privacy Risks of Cell-Based NAS Architectures
+Kryvos: Publicly Tally-Hiding Verifiable E-Voting
+Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics
+SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities
+Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels
+Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model
+On the Success Rate of Side-Channel Attacks on Masked Implementations: Information-Theoretical Bounds and Their Practical Usage
+AI/ML for Network Security: The Emperor has no Clothes
+DISTINCT: Identity Theft using In-Browser Communications in Dual-Window Single Sign-On
+Are Attribute Inference Attacks Just Imputation?
+Cache Refinement Type for Side-Channel Detection of Cryptographic Software
+Evocatio: Conjuring Bug Capabilities from a Single PoC
+Understanding IoT Security from a Market-Scale Perspective
+SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings
+P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies
+Private and Reliable Neural Network Inference
+A Scalable and Dynamic ACL System for In-Network Defense
+TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities
+HyperDbg: Reinventing Hardware-Assisted Debugging
+RedShift: Transparent SNARKs from List Polynomial Commitments
+PEReDi: Privacy-Enhanced, Regulated and Distributed Central Bank Digital Currencies
+DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing
+Phishing URL Detection: A Network-based Approach Robust to Evasion
+NTRU-v-um: Secure Fully Homomorphic Encryption from NTRU with Small Modulus
+Low-Latency Hardware Private Circuits
+LPGNet: Link Private Graph Networks for Node Classification
+Leakage Inversion: Towards Quantifying Privacy in Searchable Encryption
+PentaGOD: Stepping beyond Traditional GOD with Five Parties
+Hammurabi: A Framework for Pluggable, Logic-Based X.509 Certificate Validation Policies
+Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing
+Collect Responsibly But Deliver Arbitrarily?: A Study on Cross-User Privacy Leakage in Mobile Apps
+PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication
+Auditing Membership Leakages of Multi-Exit Networks
+Overo: Sharing Private Audio Recordings
+InviCloak: An End-to-End Approach to Privacy and Performance in Web Content Distribution
+DirtyCred: Escalating Privilege in Linux Kernel
+Frequency Throttling Side-Channel Attack
+Ready Raider One: Exploring the Misuse of Cloud Gaming Services
+When Evil Calls: Targeted Adversarial Voice over IP Network
+Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models
+Matproofs: Maintainable Matrix Commitment with Efficient Aggregation
+Harnessing Perceptual Adversarial Patches for Crowd Counting
+Acquirer: A Hybrid Approach to Detecting Algorithmic Complexity Vulnerabilities
+Membership Inference Attacks by Exploiting Loss Trajectory
+Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security
+StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning
+LoneNeuron: A Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks
+Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems
+Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT
+TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications
+Proving UNSAT in Zero Knowledge
+Frequency Estimation in the Shuffle Model with Almost a Single Message
+Feature Inference Attack on Shapley Values
+Federated Boosted Decision Trees with Differential Privacy
+The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning
+Securing Reset Operations in NISQ Quantum Computers
+Constant Latency in Sleepy Consensus
+Physical Hijacking Attacks against Object Trackers
+The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES
+CERBERUS: Exploring Federated Prediction of Security Events
+Sigstore: Software Signing for Everybody
+Freely Given Consent?: Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps
+NARRATOR: Secure and Practical State Continuity for Trusted Execution in the Cloud
+Cart-ology: Intercepting Targeted Advertising via Ad Network Identity Entanglement
+Discovering IoT Physical Channel Vulnerabilities
+Eluding Secure Aggregation in Federated Learning via Model Inconsistency
+Hidden in Plain Sight: Exploring Encrypted Channels in Android Apps
+Cerberus: Query-driven Scalable Vulnerability Detection in OAuth Service Provider Implementations
+TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals
+FABEO: Fast Attribute-Based Encryption with Optimal Security
+Blazing Fast PSI from Improved OKVS and Subfield VOLE
+Strengthening Order Preserving Encryption with Differential Privacy
+EIFFeL: Ensuring Integrity for Federated Learning
+ROAST: Robust Asynchronous Schnorr Threshold Signatures
+Fast Fully Oblivious Compaction and Shuffling
+FeIDo: Recoverable FIDO2 Tokens Using Electronic IDs
+MC2: Rigorous and Efficient Directed Greybox Fuzzing
+Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models
+Gringotts: Fast and Accurate Internal Denial-of-Wallet Detection for Serverless Computing
+Finding MNEMON: Reviving Memories of Node Embeddings
+Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots
+Escaping the Confines of Time: Continuous Browser Extension Fingerprinting Through Ephemeral Modifications
+pMPL: A Robust Multi-Party Learning Framework with a Privileged Party
+Bullshark: DAG BFT Protocols Made Practical
+Batching, Aggregation, and Zero-Knowledge Proofs in Bilinear Accumulators
+Zapper: Smart Contracts with Data and Identity Privacy
+Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam
+NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications
+Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets
+VeRSA: Verifiable Registries with Efficient Client Audits from RSA Authenticated Dictionaries
+L-SRR: Local Differential Privacy for Location-Based Services with Staircase Randomized Response
+Practical Volume-Hiding Encrypted Multi-Maps with Optimal Overhead and Beyond
+ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes
+Don't Kick Over the Beehive: Attacks and Security Analysis on Zigbee
+Group Property Inference Attacks Against Graph Neural Networks
+DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling
+AntMan: Interactive Zero-Knowledge Proofs with Sublinear Communication
+Microwalk-CI: Practical Side-Channel Analysis for JavaScript Applications
+EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices
+Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation
+Protecting Critical Inter-Domain Communication through Flyover Reservations
+Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-platform Ecosystem
+CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation
+zkBridge: Trustless Cross-chain Bridges Made Practical
+Automatic Detection of Fake Key Attacks in Secure Messaging
+WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis
+An Extensive Study of Residential Proxies in China
+Detecting and Measuring Misconfigured Manifests in Android Apps
+Cross Miniapp Request Forgery: Root Causes, Attacks, and Vulnerability Detection
+Enhanced Membership Inference Attacks against Machine Learning Models
+HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions
+Caulk: Lookup Arguments in Sublinear Time
+PalanTír: Optimizing Attack Provenance with Hardware-enhanced System Observability
+PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement
+I'm SPARTACUS, No, I'm SPARTACUS: Proactively Protecting Users from Phishing by Intentionally Triggering Cloaking Behavior
+When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure
+VOProof: Efficient zkSNARKs from Vector Oracle Compilers
+Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks
+Ibex: Privacy-preserving Ad Conversion Tracking and Bidding
+Uncovering Intent based Leak of Sensitive Data in Android Framework
+Non-Distinguishable Inconsistencies as a Deterministic Oracle for Detecting Security Bugs
+What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation
+Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT
+Poster: Backdoor Attacks on Spiking NNs and Neuromorphic Datasets
+Poster: Correctness of n-parties ECDSA By the Claim of Byzantine Agreement
+Poster: Ontology Enabled Chatbot for Applying Privacy by Design in IoT Systems
+Poster: A Post-Quantum Oblivious PRF from Isogenies
+Poster: Efficient Three-Party Shuffling Using Precomputation
+Poster: Data Recovery from Ransomware Attacks via File System Forensics and Flash Translation Layer Data Extraction
+Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection
+Poster: An Analysis of Privacy Features in 'Expert-Approved' Kids' Apps
+Poster: A Systems Approach to GDPR Compliance-by-Design in Web Development Stacks
+Poster: Privacy-Preserving Epidemiological Modeling on Mobile Graphs
+Poster EveGAN: Using Generative Deep Learning for Cryptanalysis
+Poster: A Novel Formal Threat Analyzer for Activity Monitoring-based Smart Home Heating, Ventilation, and Cooling Control System
+Poster: The Unintended Consequences of Algorithm Agility in DNSSEC
+Poster: MSILDiffer - A Security Patch Analysis Framework Based on Microsoft Intermediate Language for Large Software
+Poster: Vogue: Faster Computation of Private Heavy Hitters
+Poster: Coded Broadcast for Scalable Leader-Based BFT Consensus
+Poster MPClan: : Protocol Suite for Privacy-Conscious Computations
+Poster: Patient Community - A Test Bed for Privacy Threat Analysis
+Poster: Adversarial Perturbation Attacks on the State-of-the-Art Cryptojacking Detection System in IoT Networks
+Poster: EOSDFA: Data Flow Analysis of EOSIO Smart Contracts
+Poster: Cryptographic Inferences for Video Deep Neural Networks
+Poster: User Sessions on Tor Onion Services: Can Colluding ISPs Deanonymize Them at Scale?
+Poster: Investigating QUIC's Potential Impact on Censorship Circumvention
+Poster: CFMAP: A Robust CPU Clock Fingerprint Model for Device Authentication
+Poster: Towards Complete Computation Graph Generation for Security Assessment of ROS Applications
+Poster: Effectiveness of Moving Target Defense Techniques to Disrupt Attacks in the Cloud
+Poster: Multi-Layer Threat Analysis of the Cloud
+Poster: RPKI Kill Switch
+Poster: Physics-Informed Augmentation for Contextual Anomaly Detection in Smart Grid
+Poster CTI4AI: Threat Intelligence Generation and Sharing after Red Teaming AI Models
+Poster - Towards Authorship Obfuscation with Language Models
+Poster: Adversarial Defense with Deep Learning Coverage on MagNet's Purification
+Poster: A WiFi Vision-based Approach to Person Re-identification
+Poster: ReMouse Dataset: Measuring Similarity of Human-Generated Trajectories as an Important Step in Dealing with Session-Replay Bots
+Poster AutoPatch: Automatic Hotpatching of Real-Time Embedded Devices
+Poster: MUSTARD - Adaptive Behavioral Analysis for Ransomware Detection
+Poster: Towards Large-Scale Measurement Study on LiDAR Spoofing Attacks against Object Detection
+Poster: INSIDE - Enhancing Network Intrusion Detection in Power Grids with Automated Facility Monitoring
+Poster: Insights into Global Deployment of RPKI Validation
+Poster: DNS in Routers Considered Harmful
+Poster: Privacy-preserving Genome Analysis using Verifiable Off-Chain Computation
+Poster: On the System-Level Effectiveness of Physical Object-Hiding Adversarial Attack in Autonomous Driving
+Poster: Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution
+Poster: Fingerprint-Face Friction Based Earable Authentication
+Poster: Clean-label Backdoor Attack on Graph Neural Networks
+Poster: Unanimous-Majority - Pushing Blockchain Sharding Throughput to its Limit
+Poster: User-controlled System-level Encryption for all Applications
+Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles
+Poster: TaintGrep: A Static Analysis Tool for Detecting Vulnerabilities of Android Apps Supporting User-defined Rules
+Poster: May the Swarm Be With You: Sensor Spoofing Attacks Against Drone Swarms
+Demo: End-to-End Wireless Disruption of CCS EV Charging
+Demo - SPoKE: Secure Polling and Knowledge Exchange
+Demo - MaLFraDA: A Machine Learning Framework with Data Airlock
+Demo: VaxPass - A Scalable and Verifiable Platform for COVID-19 Records
+WAHC'22: 10th Workshop on Encrypted Computing and Applied Homomorphic Cryptography
+CPSIoTSec '22: 4th Workshop on CPS & IoT Security and Privacy
+WPES '22: 21st Workshop on Privacy in the Electronic Society
+MTD '22: 9th ACM Workshop on Moving Target Defense
+CCSW '22: The 2022 Cloud Computing Security Workshop
+ConsensusDay '22: ACM Workshop on Developments in Consensus
+ASHES 2022 - 6th Workshop on Attacks and Solutions in Hardware Security
+AISec '22: 15th ACM Workshop on Artificial Intelligence and Security
+Checkmate '22: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
+SCORED '22: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
+AMSec'22: ACM CCS Workshop on Additive Manufacturing (3D Printing) Security
+DeFi '22: ACM CCS Workshop on Decentralized Finance and Security

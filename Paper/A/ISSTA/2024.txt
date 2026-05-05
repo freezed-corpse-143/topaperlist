@@ -1,0 +1,171 @@
+Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024, Vienna, Austria, September 16-20, 2024
+Detecting Build Dependency Errors in Incremental Builds
+Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs
+FastLog: An End-to-End Method to Efficiently Generate and Insert Logging Statements
+FortifyPatch: Towards Tamper-Resistant Live Patching in Linux-Based Hypervisor
+Unimocg: Modular Call-Graph Algorithms for Consistent Handling of Language Features
+Precise Compositional Buffer Overflow Detection via Heap Disjointness
+Enhancing ROS System Fuzzing through Callback Tracing
+API Misuse Detection via Probabilistic Graphical Model
+Ma11y: A Mutation Framework for Web Accessibility Testing
+Total Recall? How Good Are Static Call Graphs Really?
+CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios
+DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3
+CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection
+Interprocedural Path Complexity Analysis
+Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models
+UPBEAT: Test Input Checks of Q# Quantum Libraries
+Enhancing Robustness of Code Authorship Attribution through Expert Feature Knowledge
+A Large-Scale Empirical Study on Improving the Fairness of Image Classification Models
+A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?
+SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection
+Distance-Aware Test Input Selection for Deep Neural Networks
+LPR: Large Language Models-Aided Program Reduction
+Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code
+Define-Use Guided Path Exploration for Better Forced Execution
+C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging
+FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion
+MicroRes: Versatile Resilience Profiling in Microservices via Degradation Dissemination Indexing
+Isolation-Based Debugging for Neural Networks
+Atlas: Automating Cross-Language Fuzzing on Android Closed-Source Libraries
+Automating Zero-Shot Patch Porting for Hard Forks
+DiaVio: LLM-Empowered Diagnosis of Safety Violations in ADS Simulation Testing
+Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation
+DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications
+Traceback: A Fault Localization Technique for Molecular Programs
+Silent Taint-Style Vulnerability Fixes Identification
+Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs
+Multi-modal Learning for WebAssembly Reverse Engineering
+CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature
+Automated Deep Learning Optimization via DSL-Based Source Code Transformation
+Evaluating the Effectiveness of Decompilers
+CLAP: Learning Transferable Binary Code Representations with Natural Language Supervision
+FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees
+FDI: Attack Neural Code Generation Systems through User Feedback Channel
+Scalable, Sound, and Accurate Jump Table Analysis
+Uncovering and Mitigating the Impact of Code Obfuscation on Dataset Annotation with Antivirus Engines
+LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts
+DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation
+PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software
+Finding Cuts in Static Analysis Graphs to Debloat Software
+Revisiting Test-Case Prioritization on Long-Running Test Suites
+Oracle-Guided Program Selection from Large Language Models
+Beyond Pairwise Testing: Advancing 3-wise Combinatorial Interaction Testing for Highly Configurable Systems
+Equivalent Mutants in the Wild: Identifying and Efficiently Suppressing Equivalent Mutants for Java Programs
+Testing Graph Database Systems with Graph-State Persistence Oracle
+Test Selection for Deep Neural Networks using Meta-Models with Uncertainty Metrics
+An Empirical Study of Static Analysis Tools for Secure Code Review
+VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction
+Towards Automatic Oracle Prediction for AR Testing: Assessing Virtual Object Placement Quality under Real-World Scenes
+Sleuth: A Switchable Dual-Mode Fuzzer to Investigate Bug Impacts Following a Single PoC
+SQLess: Dialect-Agnostic SQL Query Simplification
+DBStorm: Generating Various Effective Workloads for Testing Isolation Levels
+Preserving Reactiveness: Understanding and Improving the Debugging Practice of Blocking-Call Bugs
+Feedback-Directed Partial Execution
+Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis
+Certified Continual Learning for Neural Network Regression
+Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT
+DDGF: Dynamic Directed Greybox Fuzzing with Path Profiling
+VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-Guided Simulation Testing
+BRAFAR: Bidirectional Refactoring, Alignment, Fault Localization, and Repair for Programming Assignments
+Synthesis-Based Enhancement for GUI Test Case Migration
+CREF: An LLM-Based Conversational Software Repair Framework for Programming Tutors
+Datactive: Data Fault Localization for Object Detection Systems
+Interpretability Based Neural Network Repair
+Exploration-Driven Reinforcement Learning for Avionic System Fault Detection (Experience Paper)
+Semantic Constraint Inference for Web Form Test Generation
+Call Graph Soundness in Android Static Analysis
+Guardian: A Runtime Framework for LLM-Based UI Exploration
+NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps
+Efficient DNN-Powered Software with Fair Sparse Models
+Learning to Check LTL Satisfiability and to Generate Traces via Differentiable Trace Checking
+DeLink: Source File Information Recovery in Binaries
+Your "Notice" Is Missing: Detecting and Fixing Violations of Modification Terms in Open Source Licenses during Forking
+Wapplique: Testing WebAssembly Runtime via Execution Context-Aware Bytecode Mutation
+Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps
+UniTSyn: A Large-Scale Dataset Capable of Enhancing the Prowess of Large Language Models for Program Testing
+When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention
+Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing
+AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference
+Better Not Together: Staged Solving for Context-Free Language Reachability
+AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation
+FRIES: Fuzzing Rust Library Interactions via Efficient Ecosystem-Guided Target Generation
+Segment-Based Test Case Prioritization: A Multi-objective Approach
+Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches
+Tacoma: Enhanced Browser Fuzzing with Fine-Grained Semantic Alignment
+Synthesis of Sound and Precise Storage Cost Bounds via Unsound Resource Analysis and Max-SMT
+Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow
+Domain Adaptation for Code Model-Based Unit Test Case Generation
+How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation
+Commit Artifact Preserving Build Prediction
+Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions
+WASMaker: Differential Testing of WebAssembly Runtimes via Semantic-Aware Binary Generation
+ThinkRepair: Self-Directed Automated Program Repair
+Fuzzing MLIR Compiler Infrastructure via Operation Dependency Analysis
+Evaluating Deep Neural Networks in Deployment: A Comparative Study (Replicability Study)
+Towards Understanding the Bugs in Solidity Compiler
+Foliage: Nourishing Evolving Software by Characterizing and Clustering Field Bugs
+Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement
+Prospector: Boosting Directed Greybox Fuzzing for Large-Scale Target Sets with Iterative Prioritization
+Bugs in Pods: Understanding Bugs in Container Runtime Systems
+Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph
+SelfPiCo: Self-Guided Partial Code Execution with LLMs
+Neurosymbolic Repair of Test Flakiness
+Inconsistencies in TeX-Produced Documents
+CoSec: On-the-Fly Security Hardening of Code LLMs via Supervised Co-decoding
+Following the "Thread": Toward Finding Manipulatable Bottlenecks in Blockchain Clients
+CooTest: An Automated Testing Approach for V2X Communication Systems
+Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters
+TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development
+Enhancing Multi-agent System Testing with Diversity-Guided Exploration and Adaptive Critical State Exploitation
+Reproducing Timing-Dependent GUI Flaky Tests in Android Apps via a Single Event Delay
+Arfa: An Agile Regime-Based Floating-Point Optimization Approach for Rounding Errors
+One-to-One or One-to-Many? Suggesting Extract Class Refactoring Opportunities with Intra-class Dependency Hypergraph Neural Network
+NeuFair: Neural Network Fairness Repair with Dropout
+One Size Does Not Fit All: Multi-granularity Patch Generation for Better Automated Program Repair
+Policy Testing with MDPFuzz (Replicability Study)
+Large Language Models Can Connect the Dots: Exploring Model Optimization Bugs with Domain Knowledge-Aware Prompts
+AutoCodeRover: Autonomous Program Improvement
+See the Forest, not Trees: Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing
+Practitioners' Expectations on Automated Test Generation
+An Empirical Examination of Fuzzer Mutator Performance
+LLM4Fin: Fully Automating LLM-Powered Test Case Generation for FinTech Software Acceptance Testing
+Fuzzing JavaScript Interpreters with Coverage-Guided Reinforcement Learning for LLM-Based Mutation
+Decomposition of Deep Neural Networks into Modules via Mutation Analysis
+Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis
+Testing Gremlin-Based Graph Database Systems via Query Disassembling
+Synthesizing Boxes Preconditions for Deep Neural Networks
+Logos: Log Guided Fuzzing for Protocol Implementations
+Large Language Models for Equivalent Mutant Detection: How Far Are We?
+An Empirical Study on Kubernetes Operator Bugs
+Maltracker: A Fine-Grained NPM Malware Tracker Copiloted by LLM-Enhanced Dataset
+Characterizing and Detecting Program Representation Faults of Static Analysis Frameworks
+Calico: Automated Knowledge Calibration and Diagnosis for Elevating AI Mastery in Code Tasks
+An In-Depth Study of Runtime Verification Overheads during Software Testing
+The Flexcrash Platform for Testing Autonomous Vehicles in Mixed-Traffic Scenarios
+SeeWasm: An Efficient and Fully-Functional Symbolic Execution Engine for WebAssembly Binaries
+Testing Concurrent Algorithms on JVM with Lincheck and IntelliJ IDEA
+DMMPP: Constructing Dummy Main Methods for Android Apps with Path-Sensitive Predicates
+JCWIT: A Correctness-Witness Validator for Java Programs Based on Bounded Model Checking
+ESBMC-Python: A Bounded Model Checker for Python Programs
+PolyTracker: Whole-Input Dynamic Information Flow Tracing
+FRAFOL: FRAmework FOr Learning mutation testing
+HECS: A Hypergraph Learning-Based System for Detecting Extract Class Refactoring Opportunities
+FixCheck: A Tool for Improving Patch Correctness Analysis
+Generalized Concurrency Testing Tool for Distributed Systems
+SMBugFinder: An Automated Framework for Testing Protocol Implementations for State Machine Bugs
+Panda: A Concurrent Scheduler for Compiler-Based Tools
+FunRedisp: A Function Redispatch Tool to Reduce Invocation Gas Fees in Solidity Smart Contracts
+Robustness against the C/C++11 Memory Model
+Learning the Effects of Software Changes
+Soft Verification for Actor Contract Systems
+From Fault Injection to Formal Verification: A Holistic Approach to Fault Diagnosis in Cyber-Physical Systems
+Shaping Test Inputs in Grammar-Based Fuzzing
+Leveraging Natural Language Processing and Data Mining to Augment and Validate APIs
+Decentralized Near-Synchronous Local-First Programming Collaboration
+Integrating Mutation Techniques to Keep Specification and Source Code in Sync
+Quality Assurance for Non-trivial Systems: Use Case GCC Plugins
+Search-Based Translations for Tensor Operations
+Automated Testing of Networked Systems Reliability
+Graph Learning for Extract Class Refactoring
+Collaboration to Repository-Level Vulnerability Detection

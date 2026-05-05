@@ -1,0 +1,157 @@
+Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1, ASPLOS 2026, Pittsburgh, PA, USA, March 22-26, 2026
+A Data-Driven Dynamic Execution Orchestration Architecture
+AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection
+Cheddar: A Swift Fully Homomorphic Encryption Library Designed for GPU Architectures
+CHERI-SIMT: Implementing Capability Memory Protection in GPUs
+Compositional AI Beyond LLMs: System Implications of Neuro-Symbolic-Probabilistic Architectures
+cuJSON: A Highly Parallel JSON Parser for GPUs
+Dynamic Sparsity in Large-Scale Video DiT Training
+GFS: A Preemption-aware Scheduling Framework for GPU Clusters with Predictive Spot Instance Management
+Linear Layouts: Robust Code Generation of Efficient Tensor Computation Using F_2
+Lobster: A GPU-Accelerated Framework for Neurosymbolic Programming
+MoDM: Efficient Serving for Image Generation via Mixture-of-Diffusion Models
+NotebookOS: A Replicated Notebook Platform for Interactive Training with On-Demand GPUs
+QTurbo: A Robust and Efficient Compiler for Analog Quantum Simulation
+Radshield: Software Radiation Protection for Commodity Hardware in Space
+Sequential Specifications for Precise Hardware Exceptions
+SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips
+The Configuration Wall: Characterization and Elimination of Accelerator Configuration Overhead
+Tilus: A Tile-Level GPGPU Programming Language for Low-Precision Computation
+TiNA: Tiered Network Buffer Architecture for Fast Networking in Chiplet-based CPUs
+XY-Serve: End-to-End Versatile Production Serving for Dynamic LLM Workloads
+Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ASPLOS 2026, Pittsburgh, PA, USA, March 22-26, 2026
+Mission-Critical Enterprise Systems... What's a Mission? And What's Critical?: Processor and technology requirements for enterprise computing
+Unicorns, Centaurs, and Cyborgs: Co-design Powering the Intelligence Era
+Title: An AI Stack: From Scaling AI Workloads to Evaluating LLMs
+A Cost-Effective Near-Storage Processing Solution for Offline Inference of Long-Context LLMs
+A Framework for Developing and Optimizing Fully Homomorphic Encryption Programs on GPUs
+A Programming Model for Disaggregated Memory over CXL
+Accelerating Computation in Quantum LDPC Code
+AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes
+An MLIR Lowering Pipeline for Stencils at Wafer-Scale
+Anvil: A General-Purpose Timing-Safe Hardware Description Language
+APT: Securing Against DRAM Read Disturbance via Adaptive Probabilistic In-DRAM Trackers
+Arancini: A Hybrid Binary Translator for Weak Memory Model Architectures
+Architecting Scalable Trapped Ion Quantum Computers using Surface Codes
+Arm Weak Memory Consistency on Apple Silicon: What Is It Good For?
+Asynchrony and GPUs: Bridging this Dichotomy for I/O with AGIO
+Bat: Efficient Generative Recommender Serving with Bipartite Attention
+BitRed: Taming Non-Uniform Bit-Level Sparsity with a Programmable RISC-V ISA for DNN Acceleration
+BlendServe: Optimizing Offline Inference with Resource-Aware Batching
+Borrowing Dirty Qubits in Quantum Programs
+Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration
+CacheMind: From Miss Rates to Why - Natural-Language, Trace-Grounded Reasoning for Cache Replacement
+CEMU: Enabling Full-System Emulation of Computational Storage Beyond Hardware Limits
+CHEHAB RL: Learning to Optimize Fully Homomorphic Encryption Computations
+Chips Need DIP: Time-Proportional Per-Instruction Cycle Stacks at Dispatch
+CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting
+Co-Exploration of RISC-V Processor Microarchitectures and FreeRTOS Extensions for Lower Context-Switch Latency
+CoGraf: Fully Accelerating Graph Applications with Fine-Grained PIM
+COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms
+Compass: Navigating the Design Space of Taint Schemes for RTL Security Verification
+CounterPoint: Using Hardware Event Counters to Refute and Refine Microarchitectural Assumptions
+CPU-Oblivious Offloading of Failure-Atomic Transactions for Disaggregated Memory
+CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems
+CREST: High-Performance Contention Resolution for Disaggregated Transactions
+Cxlalloc: Safe and Efficient Memory Allocation for a CXL Pod
+CXLMC: Model Checking CXL Shared Memory Programs
+DARTH-PUM: A Hybrid Processing-Using-Memory Architecture
+Detecting Inconsistencies in Arm CCA's Formally Verified Specification
+DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU
+DIP: Efficient Large Multimodal Model Training with Dynamic Interleaved Pipeline
+EARTH: An Efficient MoE Accelerator with Entropy-Aware Speculative Prefetch and Result Reuse
+Efficient Remote Memory Ordering for Non-Coherent Systems
+Efficient Temporal Graph Network Training via Unified Redundancy Elimination
+Enabling Fast Networking in the Public Cloud
+Evaluating Compiler Optimization Impacts on zkVM Performance
+Falcon: Algorithm-Hardware Co-Design for Efficient Fully Homomorphic Encryption Accelerator
+FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning
+Finding Reusable Instructions via E-Graph Anti-Unification
+Fine-grained and Non-intrusive LLM Training Monitoring via Microsecond-level Traffic Measurement
+FlashMem: Supporting Modern DNN Workloads on Mobile with GPU Memory Hierarchy Optimizations
+FuseFlow: A Fusion-Centric Compilation Framework for Sparse Deep Learning on Streaming Dataflow
+Graphiti: Formally Verified Out-of-Order Execution in Dataflow Circuits
+gShare: Efficient GPU Sharing with Aggressive Scheduling in Multi-tenant FaaS platform
+GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading
+Hardwired-Neuron Language Processing Units as General-Purpose Cognitive Substrates
+HEPIC: Private Inference over Homomorphic Encryption with Client Intervention
+Highly Automated Verification of Security Properties for Unmodified System Software
+History Doesn't Repeat Itself but Rollouts Rhyme: Accelerating Reinforcement Learning with RhymeRL
+Hitchhike: Efficient Request Submission via Deferred Enforcement of Address Contiguity
+I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention
+ICARUS: Criticality and Reuse based Instruction Caching for Datacenter Applications
+Insum: Sparse GPU Kernels Simplified and Optimized with Indirect Einsums
+iSwitch: QEC on Demand via In-Situ Encoding of Bare Qubits for Ion Trap Architectures
+It Takes Two to Entangle
+JOSer: Just-In-Time Object Serialization for Heavy Java Serialization Workloads
+LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training
+LAIKA: Machine Learning-Assisted In-Kernel APU Acceleration
+Lifetime-Aware Design for Item-Level Intelligence at the Extreme Edge
+LOOPRAG: Enhancing Loop Transformation Optimization with Retrieval-Augmented Large Language Models
+LPO: Discovering Missed Peephole Optimizations with Large Language Models
+M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
+Maverick: Rethinking TFHE Bootstrapping on GPUs via Algorithm-Hardware Co-Design
+MoE-APEX: An Efficient MoE Inference System with Adaptive Precision Expert Offloading
+MSCCL++: Rethinking GPU Communication Abstractions for AI Inference
+Mugi: Value Level Parallelism For Efficient LLMs
+Nebula: Infinite-Scale 3D Gaussian Splatting in VR via Collaborative Rendering and Accelerated Stereo Rasterization
+Nemo: A Low-Write-Amplification Cache for Tiny Objects on Log-Structured Flash Devices
+Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration
+Neura: A Unified Framework for Hierarchical and Adaptive CGRAs
+oFFN: Outlier and Neuron-aware Structured FFN for Fast yet Accurate LLM Inference
+Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators
+Optimizer-Friendly Instrumentation for Event Quantification with PRUE Algorithm
+Ouroboros: Wafer-Scale SRAM CIM with Token-Grained Pipelining for Large Language Model Inference
+PACT: A Criticality-First Design for Tiered Memory
+Parameterized Hardware Design with Latency-Abstract Interfaces
+PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel
+Performance Predictability in Heterogeneous Memory
+PF-LLM: Large Language Model Hinted Hardware Prefetching
+PIPM: Partial and Incremental Page Migration for Multi-host CXL Disaggregated Shared Memory
+PrioriFI: More Informed Fault Injection for Edge Neural Networks
+PropHunt: Automated Optimization of Quantum Syndrome Measurement Circuits
+QoServe: Breaking the Silos of LLM Inference Serving
+Rage Against the State Machine: Type-Stated Hardware Peripherals for Increased Driver Correctness
+Reconfigurable Quantum Instruction Set Computers for High Performance Attainable on Hardware
+Reconfigurable Torus Fabrics for Multi-tenant ML
+RedFuser: An Automatic Operator Fusion Framework for Cascaded Reductions on AI Accelerators
+Reducing T Gates with Unitary Synthesis
+ReliaFHE: Resilient Design for Fully Homomorphic Encryption Accelerators
+REPA: Reconfigurable PIM for the Joint Acceleration of KV Cache Offloading and Processing
+RowArmor: Efficient and Comprehensive Protection Against DRAM Disturbance Attacks
+RTeAAL Sim: Using Tensor Algebra to Represent and Accelerate RTL Simulation
+Scaling Automated Database System Testing
+Segment Only Where You Look: Leveraging Human Gaze Behavior for Efficient Computer Vision Applications in Augmented Reality
+SEVI: Silent Data Corruption of Vector Instructions in Hyper-Scale Datacenters
+SG-IOV: Socket-Granular I/O Virtualization for SmartNIC-Based Container Networks
+Shift Parallelism: Low-Latency, High-Throughput LLM Inference for Dynamic Workloads
+Signal Breaker: Fuzzing Digital Signal Processors
+Skyler: Static Analysis for Predicting API-Driven Costs in Serverless Applications
+SLAWS: Spatial Locality Analysis and Workload Orchestration for Sparse Matrix Multiplication
+SNIP: An Adaptive Mixed Precision Framework for Subbyte Large Language Model Training
+SpeContext:  Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
+SpecProto: A Parallelizing Compiler for Speculative Decoding of Large Protocol Buffers Data
+STARC: Selective Token Access with Remapping and Clustering for Efficient LLM Decoding on PIM Systems
+Static Analysis for Efficient Streaming Tokenization
+STRAW: Stress-Aware WL-Based Read Disturbance Management for High-Density NAND Flash Memory
+Streaming Tensor Programs: A Streaming Abstraction for Dynamic Parallelism
+Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter
+T-Control: An Efficient Dynamic Tensor Rematerialization System for DNN Training
+TEEM³: Core-Independent and Cooperating Trusted Execution Environments
+TetriServe: Efficiently Serving Mixed DiT Workloads
+TierX: A Simulation Framework for Multi-tier BCI System Design Evaluation and Exploration
+Toasty: Speeding Up Network I/O with Cache-Warm Buffers
+Towards High-Goodput LLM Serving with Prefill-decode Multiplexing
+TPLA: Tensor Parallel Latent Attention for Efficient Disaggregated Prefill & Decode Inference
+TreeVQA: A Tree-Structured Execution Framework for Shot Reduction in Variational Quantum Algorithms
+Trinity: Three-Dimensional Tensor Program Optimization via Tile-level Equality Saturation
+Triton-Sanitizer: A Fast and Device-Agnostic Memory Sanitizer for Triton with Rich Diagnostic Context
+Trust-V: Toward Secure and Reliable Storage for Trusted Execution Environments
+Understanding and Optimizing Database Pushdown on Disaggregated Storage
+Understanding Query Optimization Bugs in Graph Database Systems
+vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures
+SwiftSpec: Disaggregated Speculative Decoding and Fused Kernels for Low-Latency LLM Inference
+Wave: Leveraging Architecture Observation for Privacy-Preserving Model Oversight
+Wax: Optimizing Data Center Applications With Stale Profile
+WorksetEnclave: Towards Optimizing Cold Starts in Confidential Serverless with Workset-Based Enclave Restore
+ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression

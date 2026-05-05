@@ -1,0 +1,157 @@
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1, ASPLOS 2023, Vancouver, BC, Canada, March 25-29, 2023
+AQUATOPE: QoS-and-Uncertainty-Aware Resource Management for Multi-stage Serverless Workflows
+CAFQA: A Classical Simulation Bootstrap for Variational Quantum Algorithms
+Cooperative Concurrency Control for Write-Intensive Key-Value Workloads
+DecoMine: A Compilation-Based Graph Pattern Mining System with Pattern Decomposition
+Erms: Efficient Resource Management for Shared Microservices with SLA Guarantees
+Glign: Taming Misaligned Graph Traversals in Concurrent Graph Processing
+Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models
+Risotto: A Dynamic Binary Translator for Weak Memory Model Architectures
+TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, ASPLOS 2023, Vancouver, BC, Canada, March 25-29, 2023
+Achieving Sub-second Pairwise Query over Evolving Graphs
+AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher
+A Generic Service to Provide In-Network Aggregation for Key-Value Streams
+A Prediction System Service
+AtoMig: Automatically Migrating Millions Lines of Code from TSO to WMM
+BeeHive: Sub-second Elasticity for Web Services with Semi-FaaS Execution
+Better Than Worst-Case Decoding for Quantum Error Correction
+Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning
+Carbon Explorer: A Holistic Framework for Designing Carbon Aware Datacenters
+CommonGraph: Graph Analytics on Evolving Data
+Compilation Consistency Modulo Debug Information
+Compiling Distributed System Models with PGo
+Copy-on-Pin: The Missing Piece for Correct Copy-on-Write
+Decker: Attack Surface Reduction via On-Demand Code Mapping
+DeepUM: Tensor Migration and Prefetching in Unified Memory
+Ditto: End-to-End Application Cloning for Networked Cloud Services
+DPACS: Hardware Accelerated Dynamic Neural Network Pruning through Algorithm-Architecture Co-design
+Ecovisor: A Virtual Energy System for Carbon-Efficient Applications
+ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning
+EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems
+FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks
+FrozenQubits: Boosting Fidelity of QAOA by Skipping Hotspot Nodes
+GPU-Initiated On-Demand High-Throughput Storage Access in the BaM System Architecture
+GZKP: A GPU Accelerated Zero-Knowledge Proof System
+Hacky Racers: Exploiting Instruction-Level Parallelism to Generate Stealthy Fine-Grained Timers
+Hidet: Task-Mapping Programming Paradigm for Deep Learning Tensor Programs
+HuffDuff: Stealing Pruned DNNs from Sparse Accelerators
+Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon
+Khuzdul: Efficient and Scalable Distributed Graph Pattern Mining Engine
+KIT: Testing OS-Level Virtualization for Functional Interference Bugs
+LeaFTL: A Learning-Based Flash Translation Layer for Solid-State Drives
+Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs
+MC Mutants: Evaluating and Improving Testing for Memory Consistency Specifications
+Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers
+MSCCLang: Microsoft Collective Communication Language
+Navigating the Dynamic Noise Landscape of Variational Quantum Algorithms with QISMET
+NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers
+NUBA: Non-Uniform Bandwidth GPUs
+Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression
+Pond: CXL-Based Memory Pooling Systems for Cloud Platforms
+Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices
+Probabilistic Concurrency Testing for Weak Memory Programs
+Propeller: A Profile Guided, Relinking Optimizer for Warehouse-Scale Applications
+Protecting Data Integrity of Web Applications with Database Constraints Inferred from Application Code
+Qompress: Efficient Compilation for Ququarts Exploiting Partial and Mixed Radix Operations for Communication Reduction
+RAIZN: Redundant Array of Independent Zoned Namespaces
+Revisiting Log-Structured Merging for KV Stores in Hybrid Memory Systems
+Scoped Buffered Persistency Model for GPUs
+ShakeFlow: Functional Hardware Description with Latency-Insensitive Interface Combinators
+Sigma: Compiling Einstein Summations to Locality-Aware Dataflow
+SMAPPIC: Scalable Multi-FPGA Architecture Prototype Platform in the Cloud
+Spada: Accelerating Sparse Matrix Multiplication with Adaptive Dataflow
+SpecPMT: Speculative Logging for Resolving Crash Consistency Overhead of Persistent Memory
+Stepwise Debugging for Hardware Accelerators
+STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining
+TensorIR: An Abstraction for Automatic Tensorized Program Optimization
+TiLT: A Time-Centric Approach for Stream Query Optimization and Parallelization
+TLP: A Deep Learning-Based Cost Model for Tensor Program Tuning
+Towards a Machine Learning-Assisted Kernel with LAKE
+uBFT: Microsecond-Scale BFT using Disaggregated Memory
+uGrapher: High-Performance Graph Operator Computation via Unified Abstraction for Graph Neural Networks
+VClinic: A Portable and Efficient Framework for Fine-Grained Value Profilers
+VDom: Fast and Unlimited Virtual Domains on Multiple Architectures
+WACO: Learning Workload-Aware Co-optimization of the Format and Schedule of a Sparse Tensor Program
+Where Did My Variable Go? Poking Holes in Incomplete Debug Information
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3, ASPLOS 2023, Vancouver, BC, Canada, March 25-29, 2023
+Direct Mind-Machine Teaming (Keynote)
+Language Models: The Most Important Compute Challenge of Our Time (Keynote)
+ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing
+Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling
+APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis
+Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories
+CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit
+CaT: A Solver-Aided Compiler for Packet-Processing Pipelines
+Characterizing and Optimizing End-to-End Systems for Private Inference
+Cohort: Software-Oriented Acceleration for Heterogeneous SoCs
+Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits
+DefT: Boosting Scalability of Deformable Convolution Operations on GPUs
+Disaggregated RAID Storage in Modern Datacenters
+DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications
+Efficient Compactions between Storage Tiers with PrismDB
+Efficient Scheduler Live Update for Linux Kernel with Modularization
+eHDL: Turning eBPF/XDP Programs into Hardware Designs for the NIC
+Exit-Less, Isolated, and Shared Access for Virtual Machines
+Finding Unstable Code via Compiler-Driven Differential Testing
+Flexagon: A Multi-dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing
+Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI
+GRACE: A Scalable Graph-Based Approach to Accelerating Recommendation Model Inference
+Graphene: An IR for Optimized Tensor Computations on GPUs
+Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators
+Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks
+Hyperscale Hardware Optimized Neural Architecture Search
+Infinity Stream: Portable and Programmer-Friendly In-/Near-Memory Fusion
+In-Network Aggregation with Transport Transparency for Distributed Training
+Kodan: Addressing the Computational Bottleneck in Space
+LEGO: Empowering Chip-Level Functionality Plug-and-Play for Next-Generation IoT Devices
+Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware
+Mosaic Pages: Big TLB Reach with Small Pages
+MP-Rec: Hardware-Software Co-design to Enable Multi-path Recommendation
+NosWalker: A Decoupled Architecture for Out-of-Core Random Walk Processing
+Occamy: Elastically Sharing a SIMD Co-processor across Multiple CPU Cores
+Persistent Memory Disaggregation for Cloud-Native Relational Databases
+PipeSynth: Automated Synthesis of Microarchitectural Axioms for Memory Consistency
+Protect the System Call, Protect (Most of) the World with BASTION
+Re-architecting I/O Caches for Emerging Fast Storage Devices
+Reconfigurable Virtual Memory for FPGA-Driven I/O
+RepCut: Superlinear Parallel RTL Simulation with Replication-Aided Partitioning
+Rosebud: Making FPGA-Accelerated Middlebox Development More Pleasant
+Simulator Independent Coverage for RTL Hardware Languages
+Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs
+Snape: Reliable and Low-Cost Computing with Mixture of Spot and On-Demand VMs
+Space-Efficient TREC for Enabling Deep Learning on Microcontrollers
+SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning
+SPLENDID: Supporting Parallel LLVM-IR Enhanced Natural Decompilation for Interactive Development
+TeraHeap: Reducing Memory Pressure in Managed Big Data Frameworks
+The Sparse Abstract Machine
+Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale
+TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory
+Transparent Runtime Change Handling for Android Apps
+Untangle: A Principled Framework to Design Low-Leakage, High-Performance Dynamic Partitioning Schemes
+Verification of Nondeterministic Quantum Programs
+Vidi: Record Replay for Reconfigurable Hardware
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 4, ASPLOS 2023, Vancouver, BC, Canada, March 25-29, 2023
+Accurate Disassembly of Complex Binaries Without Use of Compiler Metadata
+BaCO: A Fast and Portable Bayesian Compiler Optimization Framework
+CPS: A Cooperative Para-virtualized Scheduling Framework for Manycore Machines
+DataFlower: Exploiting the Data-flow Paradigm for Serverless Workflow Orchestration
+DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model ML Workloads
+Explainable-DSE: An Agile and Explainable Exploration of Efficient HW/SW Codesigns of Deep Learning Accelerators Using Bottleneck Analysis
+Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators
+Fast Instruction Selection for Fast Digital Signal Processing
+FITS: Inferring Intermediate Taint Sources for Effective Vulnerability Analysis of IoT Device Firmware
+Flame: A Centralized Cache Controller for Serverless Computing
+FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation
+HIR: An MLIR-based Intermediate Representation for Hardware Accelerator Description
+LightRidge: An End-to-end Agile Design Framework for Diffractive Optical Neural Networks
+Manticore: Hardware-Accelerated RTL Simulation with Static Bulk-Synchronous Parallelism
+MiniMalloc: A Lightweight Memory Allocator for Hardware-Accelerated Machine Learning
+Predict; Don't React for Enabling Efficient Fine-Grain DVFS in GPUs
+RECom: A Compiler Approach to Accelerating Recommendation Model Inference with Massive Embedding Columns
+ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices
+Sleuth: A Trace-Based Root Cause Analysis System for Large-Scale Microservices with Graph Neural Networks
+Supporting Descendants in SIMD-Accelerated JSONPath
+VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms
+Veil: A Protected Services Framework for Confidential Virtual Machines
+λFS: A Scalable and Elastic Distributed File System Metadata Service using Serverless Functions

@@ -1,0 +1,86 @@
+Proceedings of the Twentieth European Conference on Computer Systems, EuroSys 2025, Rotterdam, The Netherlands, 30 March 2025 - 3 April 2025
+Empowering WebAssembly with Thin Kernel Interfaces
+Revealing the Unstable Foundations of eBPF-Based Kernel Extensions
+eNetSTL: Towards an In-kernel Library for High-Performance eBPF-based Network Functions
+CRAVE: Analyzing Cross-Resource Interaction to Improve Energy Efficiency in Systems-on-Chip
+Efeu: generating efficient, verified, hybrid hardware/software drivers for I2C devices
+CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
+DeltaZip: Efficient Serving of Multiple Full-Model-Tuned LLMs
+Fast State Restoration in LLM Serving with HCache
+Stateful Large Language Model Serving with Pensieve
+SkyServe: Serving AI Models across Regions and Clouds with Spot Instances
+RoboRebound: Multi-Robot System Defense with Bounded-Time Interaction
+Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery
+ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains
+Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering
+SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs
+Empower Vision Applications with LoRA LMM
+T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge
+Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller
+Themis: Finding Imbalance Failures in Distributed File Systems via a Load Variance Model
+Moko: Marrying Python with Big Data Systems
+Pegasus: Transparent and Unified Kernel-Bypass Networking for Fast Local and Remote Communication
+Multi-Grained Specifications for Distributed System Model Checking and Verification
+Enabling Virtual Priority in Data Center Congestion Control
+Achieving Fairness Generalizability for Learning-based Congestion Control with Jury
+Introspective Congestion Control for Consistent High Performance
+Fork: A Dual Congestion Control Loop for Small and Large Flows in Datacenters
+Marlin: Enabling High-Throughput Congestion Control Testing in Large-Scale Networks
+LOFT: A Lock-free and Adaptive Learned Index with High Scalability for Dynamic Workloads
+MetaHG: Enhancing HGNN Systems Leveraging Advanced Metapath Graph Abstraction
+Flex: Fast, Accurate DNN Inference on Low-Cost Edges Using Heterogeneous Accelerator Execution
+A House United Within Itself: SLO-Awareness for On-Premises Containerized ML Inference Clusters via Faro
+Comprehensive Deadlock Prevention for GPU Collective Communication
+Jupiter: Pushing Speed and Scalability Limitations for Subgraph Matching on Multi-GPUs
+Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing
+Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters
+Bingo: Radix-based Bias Factorization for Random Walk on Dynamic Graphs
+OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining
+Impeller: Stream Processing on Shared Logs
+CAPSys: Contention-aware task placement for data stream processing
+NeuStream: Bridging Deep Learning Serving and Stream Processing
+Towards VM Rescheduling Optimization Through Deep Reinforcement Learning
+HyperAlloc: Efficient VM Memory De/Inflation via Hypervisor-Shared Page-Frame Allocators
+FastIOV: Fast Startup of Passthrough Network I/O Virtualization for Secure Containers
+Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic
+Optimizing Task Scheduling in Cloud VMs with Accurate vCPU Abstraction
+JABAS: Joint Adaptive Batching and Automatic Scaling for DNN Training on Heterogeneous GPUs
+SpaceFusion: Advanced Deep Learning Operator Fusion via Space-Mapping Graph
+Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores
+SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications
+Chrono: Meticulous Hotness Measurement and Flexible Page Migration for Memory Tiering
+PET: Proactive Demotion for Efficient Tiered Memory Management
+Adios to Busy-Waiting for Microsecond-scale Memory Disaggregation
+Deft: A Scalable Tree Index for Disaggregated Memory
+SeBS-Flow: Benchmarking Serverless Cloud Function Workflows
+AlloyStack: A Library Operating System for Serverless Workflow Applications
+Serverless Cold Starts and Where to Find Them
+TUNA: Tuning Unstable and Noisy Cloud Applications
+Solid State Drive Targeted Memory-Efficient Indexing for Universal I/O Patterns and Fragmentation Degrees
+Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack
+Overcoming the Last Mile between Log-Structured File Systems and Persistent Memory via Scatter Logging
+Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage
+Understanding the Linux Kernel, Visually
+Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs
+BESA: Extending Bugs Triggered by Runtime Testing via Static Analysis
+HawkSet: Automatic, Application-Agnostic, and Efficient Concurrent PM Bug Detection
+Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline
+Cheetah: Metadata Aggregation for Fast Object Storage without Distributed Ordering
+Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs
+Pre-Stores: Proactive Software-guided Movement of Data Down the Memory Hierarchy
+Rakis: Secure Fast I/O Primitives Across Trust Boundaries on Intel SGX
+DPack: Efficiency-Oriented Privacy Budget Scheduling
+Erebor: A Drop-In Sandbox Solution for Private Data Processing in Untrusted Confidential Virtual Machines
+A Hardware-Software Co-Design for Efficient Secure Containers
+Seal: Towards Diverse Specification Inference for Linux Interfaces from Security Patches
+MEPipe: Democratizing LLM Training with Memory-Efficient Slice-Level Pipeline Scheduling on Cost-Effective Accelerators
+HybridFlow: A Flexible and Efficient RLHF Framework
+Mist: Efficient Distributed Training of Large Language Models via Memory-Parallelism Co-Optimization
+Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism
+FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models
+Atlas: Towards Real-Time Verification in Large-Scale Networks via a Native Distributed Architecture
+Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches
+Phantom: Virtualizing Switch Register Resources for Accurate Sketch-based Network Measurement
+Eva: Cost-Efficient Cloud-Based Cluster Scheduling
+Byte vSwitch: A High-Performance Virtual Switch for Cloud Networking

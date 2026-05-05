@@ -1,0 +1,46 @@
+EuroSys '22: Seventeenth European Conference on Computer Systems, Rennes, France, April 5 - 8, 2022
+DAMYSUS: streamlined BFT consensus leveraging trusted components
+State machine replication scalability made simple
+Narwhal and Tusk: a DAG-based mempool and efficient BFT consensus
+Building an efficient key-value store in a flexible address space
+Rolis: a software approach to efficiently replicating multi-core transactions
+Tebis: index shipping for efficient replication in LSM key-value stores
+Sharing is caring: secure and efficient shared memory support for MVEEs
+Hardening binaries against more memory errors
+PKRU-safe: automatically locking down the heap between safe and unsafe languages
+KASLR in the age of MicroVMs
+Nyx-net: network fuzzing with incremental snapshots
+DeepRest: deep resource estimation for interactive microservices
+Unicorn: reasoning about configurable system performance through the lens of causality
+Multi-objective congestion control
+Hybrid anomaly detection and prioritization for network logs at cloud scale
+Performance evolution of mitigating transient execution attacks
+You shall not (by)pass!: practical, secure, and fast PKU-based sandboxing
+Verified programs can party: optimizing kernel extensions via post-verification merging
+Minimum viable device drivers for ARM trustzone
+OPEC: operation-based security isolation for bare-metal embedded systems
+LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs
+Slashing the disaggregation tax in heterogeneous data centers with FractOS
+OS scheduling with nest: keeping tasks close together on warm cores
+Kite: lightweight critical service domains
+Fleche: an efficient GPU embedding cache for personalized recommendations
+GNNLab: a factored system for sample-based GNN training over GPUs
+Out-of-order backprop: an effective scheduling technique for deep learning
+D3: a dynamic deadline-driven approach for building autonomous vehicles
+Varuna: scalable, low-cost training of massive deep learning models
+Characterizing the performance of intel optane persistent memory: a close look at its on-DIMM buffering
+SafePM: a sanitizer for persistent memory
+ResPCT: fast checkpointing in non-volatile memory for multi-threaded applications
+Optimizing the interval-centric distributed computing model for temporal graph algorithms
+A new benchmark harness for systematic and robust evaluation of streaming state stores
+p2KVS: a portable 2-dimensional parallelizing framework to improve scalability of key-value stores on SSDs
+Improving scalability of database systems by reshaping user parallel I/O
+BetrFS: a compleat file system for commodity SSDs
+Beating the I/O bottleneck: a case for log-structured virtual disks
+Isolating functions at the hardware limit with virtines
+Fireworks: a fast, efficient, and safe serverless framework using VM-level post-JIT snapshot
+VMSH: hypervisor-agnostic guest overlays for VMs
+Jiffy: elastic far-memory for stateful serverless analytics
+Memory deduplication for serverless computing with Medes
+FaaSnap: FaaS made fast using snapshot-based VMs
+APT-GET: profile-guided timely software prefetching

@@ -1,0 +1,95 @@
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2023, Montreal, QC, Canada, February 25 - March 1, 2023
+SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional Network Accelerators
+PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator
+INCA: Input-stationary Dataflow at Outside-the-box Thinking about Deep Learning Accelerators
+GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks
+Logical/Physical Topology-Aware Collective Communication in Deep Learning Training
+Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation
+AstriFlash A Flash-Based System for Online Services
+Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs
+Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Consistent Memory-Mapped I/O
+MGC: Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs
+Baryon: Efficient Hybrid Memory Management with Compression and Sub-Blocking
+Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems
+ACIC: Admission-Controlled Instruction Cache
+Compression-Aware and Performance-Efficient Insertion Policies for Long-Lasting Hybrid LLCs
+NOMAD: Enabling Non-blocking OS-managed DRAM Cache via Tag-Data Decoupling
+Safety Hints for HTM Capacity Abort Mitigation
+iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training
+Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches
+HIRAC: A Hierarchical Accelerator with Sorting-based Packing for SpGEMMs in DNN Applications
+VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs
+ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design
+Leveraging Domain Information for the Efficient Automated Design of Deep Learning Accelerators
+DIMM-Link: Enabling Efficient Inter-DIMM Communication for Near-Memory Processing
+AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks
+SHADOW: Preventing Row Hammer in DRAM with Intra-Subarray Row Shuffling
+Efficient Distributed Secure Memory with Migratable Merkle Tree
+AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM
+Scalable and Secure Row-Swap: Efficient and Safe Row Hammer Mitigation in Memory Systems
+Post0-VR: Enabling Universal Realistic Rendering for Modern VR via Exploiting Architectural Similarity and Data Sharing
+ParallelNN: A Parallel Octree-based Nearest Neighbor Search Accelerator for 3D Point Clouds
+ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention
+CTA: Hardware-Software Co-design for Compressed Token Attention Mechanism
+HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers
+Trans-FW: Short Circuiting Page Table Walk in Multi-GPU Systems via Remote Forwarding
+Ah-Q: Quantifying and Handling the Interference within a Datacenter from a System Perspective
+Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems
+Rambda: RDMA-driven Acceleration Framework for Memory-intensive µs-scale Datacenter Applications
+FinePack: Transparently Improving the Efficiency of Fine-Grained Transfers in Multi-GPU Systems
+Mitigating GPU Core Partitioning Performance Effects
+Plutus: Bandwidth-Efficient Memory Security for GPUs
+MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism
+DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling
+CEGMA: Coordinated Elastic Graph Matching Acceleration for Graph Matching Networks
+ISOSceles: Accelerating Sparse CNNs through Inter-Layer Pipelining
+OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing
+KRISP: Enabling Kernel-wise RIght-sizing for Spatial Partitioned GPU Inference Servers
+MERCURY: Accelerating DNN Training By Exploiting Input Similarity
+Silo: Speculative Hardware Logging for Atomic Durability in Persistent Memory
+Reconciling Selective Logging and Hardware Persistent Memory Transaction
+SecPB: Architectures for Secure Non-Volatile Memory with Battery-Backed Persist Buffers
+EVE: Ephemeral Vector Engines
+On Consistency for Bulk-Bitwise Processing-in-Memory
+Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications
+HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL
+Duet: Creating Harmony between Processors and Embedded FPGAs
+Co-Designed Architectures for Modular Superconducting Quantum Computers
+A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis
+The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs
+eNODE: Energy-Efficient and Low-Latency Edge Inference and Training of Neural ODEs
+SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution
+MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks
+Know Your Enemy To Save Cloud Energy: Energy-Performance Characterization of Machine Learning Serving
+Adrias: Interference-Aware Memory Orchestration for Disaggregated Cloud Infrastructures
+Poseidon: Practical Homomorphic Encryption Accelerator
+FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption
+FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference
+D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives
+TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU
+AVGI: Microarchitecture-Driven, Fast and Accurate Vulnerability Assessment
+Realizing Extreme Endurance Through Fault-aware Wear Leveling and Improved Tolerance
+ESD: An ECC-assisted and Selective Deduplication for Encrypted Non-Volatile Main Memory
+A Systematic Study of DDR4 DRAM Faults in the Field
+High Performance and Power Efficient Accelerator for Cloud Inference
+LightTrader: A Standalone High-Frequency Trading System with Deep Learning Inference Accelerators and Proactive Scheduler
+BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment
+Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs
+A Scalable Methodology for Designing Efficient Interconnection Network of Chiplets
+VVQ: Virtualizing Virtual Channel for Cost-Efficient Protocol Deadlock Avoidance
+Mix-GEMM: An efficient HW-SW Architecture for Mixed-Precision Quantized Deep Neural Networks Inference on Edge Devices
+FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference
+Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion
+Securator: A Fast and Secure Neural Processing Unit
+Tensor Movement Orchestration in Multi-GPU Training Systems
+A Storage-Effective BTB Organization for Servers
+HoPP: Hardware-Software Co-Designed Page Prefetching for Disaggregated Memory
+Speculative Register Reclamation
+SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs
+CARE: A Concurrency-Aware Enhanced Lightweight Cache Management Framework
+Memory-Efficient Hashed Page Tables
+NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling
+Efficient Supernet Training Using Path Parallelism
+Phloem: Automatic Acceleration of Irregular Applications with Fine-Grain Pipeline Parallelism
+CHOPPER: A Compiler Infrastructure for Programmable Bit-serial SIMD Processing Using Memory in DRAM
+VAQUERO: A Scratchpad-based Vector Accelerator for Query Processing

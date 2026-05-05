@@ -1,0 +1,70 @@
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2021, Seoul, South Korea, February 27 - March 3, 2021
+Common Counters: Compressed Encryption Counters for Secure GPU Memory
+Streamline Ring ORAM Accesses through Spatial and Temporal Optimization
+Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference
+New Models for Understanding and Reasoning about Speculative Execution Attacks
+A Computational Stack for Cross-Domain Acceleration
+Heterogeneous Dataflow Accelerators for Multi-DNN Workloads
+SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs
+SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning
+BBB: Simplifying Persistent Programming using Battery-Backed Buffers
+TSOPER: Efficient Coherence-Based Strict Persistency
+Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems
+TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture
+QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment
+Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion
+Faster Schrödinger-style simulation of quantum circuits
+Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework
+Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures
+Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training
+GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent
+SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures
+Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation
+Designing a Cost-Effective Cache Replacement Policy using Machine Learning
+WiDir: A Wireless-Enabled Directory Cache Coherence Protocol
+Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers
+Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery
+BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows
+A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories
+DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing
+QEI: Query Acceleration Can be Generic and Efficient in the Cloud
+EXMA: A Genomics Accelerator for Exact-Matching
+Ultra-Elastic CGRAs for Irregular Loop Specialization
+GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs
+Memristive Data Ranking
+DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems
+Analyzing and Leveraging Decoupled L1 Caches in GPUs
+Deadline-Aware Offloading for High-Throughput Accelerators
+Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference
+Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together
+ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance
+CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers
+Automatic Microprocessor Performance Bug Detection
+CAPE: A Content-Addressable Processing Engine
+SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator
+Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling
+Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning
+CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters
+Improving GPU Multi-tenancy with Page Walk Stealing
+Stream Floating: Enabling Proactive and Decentralized Cache Optimizations
+Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design
+P-OPT: Practical Optimal Cache Replacement for Graph Analytics
+Pitstop: Enabling a Virtual Network Free Network-on-Chip
+BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks
+CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition
+Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures
+Hardware-Based Address-Centric Acceleration of Key-Value Store
+BRIM: Bistable Resistively-Coupled Ising Machine
+An Analog Preconditioner for Solving Linear Systems
+GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks
+Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper
+Understanding Training Efficiency of Deep Learning Recommendation Models at Scale
+LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management
+Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper
+NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper
+Chasing Carbon: The Elusive Environmental Footprint of Computing
+Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator
+Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures
+FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks
+FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction
+VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations

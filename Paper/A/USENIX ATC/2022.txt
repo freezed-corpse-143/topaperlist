@@ -1,0 +1,68 @@
+Proceedings of the 2022 USENIX Annual Technical Conference, USENIX ATC 2022, Carlsbad, CA, USA, July 11-13, 2022
+Surprise-Inspired Networking
+ZNSwap: un-Block your Swap
+Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio
+Secure and Lightweight Deduplicated Storage via Shielded Deduplication-Before-Encryption
+RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing
+Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing
+RRC: Responsive Replicated Containers
+uKharon: A Membership Service for Microsecond Applications
+KRCORE: A Microsecond-scale RDMA Control Plane for Elastic Computing
+Zero-Change Object Transmission for Distributed Big Data Analytics
+Sift: Using Refinement-guided Automation to Verify Complex Distributed Systems
+Faith: An Efficient Framework for Transformer Verification on GPUs
+DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs
+Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing
+PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training
+Privbox: Faster System Calls Through Sandboxed Privileged Execution
+BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling
+Sibylla: To Retry or Not To Retry on Deep Learning Job Failure
+Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage
+Direct Access, High-Performance Memory Disaggregation with DirectCXL
+Not that Simple: Email Delivery in the 21st Century
+AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System
+Co-opting Linux Processes for High-Performance Network Simulation
+KSG: Augmenting Kernel Fuzzing with System Call Specification Generation
+DLOS: Effective Static Detection of Deadlocks in OS Kernels
+Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models
+Eric Brewer, VP Infrastructure, Google Fellow and Professor Emeritus, UC Berkeley
+SoftTRR: Protect Page Tables against Rowhammer Attacks using Software-only Target Row Refresh
+Hardening Hypervisors with Ombro
+HyperEnclave: An Open and Cross-platform Trusted Execution Environment
+PRIDWEN: Universally Hardening SGX Programs via Load-Time Synthesis
+Tetris: Memory-efficient Serverless Inference through Tensor Sharing
+PetS: A Unified Framework for Parameter-Efficient Transformers Serving
+Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training
+Primo: Practical Learning-Augmented Systems with Interpretable Models
+Meces: Latency-efficient Rescaling via Prioritized State Migration for Stateful Distributed Stream Processing Systems
+DepFast: Orchestrating Code of Quorum Systems
+High Throughput Replication with Integrated Membership Management
+CBMM: Financial Advice for Kernel Memory Managers
+EPK: Scalable and Efficient Memory Protection Keys
+Memory Harvesting in Multi-GPU Systems with Hierarchical Unified Virtual Memory
+Zero Overhead Monitoring for Cloud-native Infrastructure using RDMA
+CRISP: Critical Path Analysis of Large-Scale Microservice Architectures
+Whale: Efficient Giant Model Training over Heterogeneous GPUs
+Cachew: Machine Learning Input Data Processing as a Service
+CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics
+SOTER: Guarding Black-box Inference for General Neural Networks at the Edge
+IPLFS: Log-Structured File System without Garbage Collection
+Vigil-KV: Hardware-Software Co-Design to Integrate Strong Latency Determinism into Log-Structured Merge Key-Value Stores
+Pacman: An Efficient Compaction Approach for Log-Structured Key-Value Store on Persistent Memory
+Towards Latency Awareness for Content Delivery Network Caching
+Hashing Design in Modern Networks: Challenges and Mitigation Techniques
+Firebolt: Finding Bugs in Programmable Data Plane Generators
+Margaret Martonosi, National Science Foundation
+Investigating Managed Language Runtime Performance: Why JavaScript and Python are 8x and 29x slower than C++, yet Java and Go can be Faster?
+Automatic Recovery of Fine-grained Compiler Artifacts at the Binary Level
+JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud
+Riker: Always-Correct and Fast Incremental Builds from Simple Specifications
+FlatFS: Flatten Hierarchical File System Namespace on Non-volatile Memories
+StRAID: Stripe-threaded Architecture for Parity-based RAIDs with Ultra-fast SSDs
+Vinter: Automatic Non-Volatile Memory Crash Consistency Testing for Full Systems
+AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing
+FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs
+Faster Software Packet Processing on FPGA NICs with eBPF Program Warping
+NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow
+CacheSack: Admission Optimization for Google Datacenter Flash Caches
+Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service

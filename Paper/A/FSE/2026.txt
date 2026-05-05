@@ -1,0 +1,211 @@
+Accelerating Policy Synthesis in Large-Scale MDPs via Hierarchical Adaptive Refinement
+AccessDroid: Detecting Screen Reader Accessibility Issues in Android Applications via Semantics Trees
+AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud
+ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems
+Active Learning of Symbolic Automata for Reactive Programs via Dynamic Symbolic Mapper
+AdaDec: A Uncertainty-Guided Lookahead Decoding Framework for LLM-based Code Generation
+Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing
+AgentBound: Securing Execution Boundaries of AI Agents
+Agentic Verification of Software Systems
+A Grounded Theory of Debugging in Professional Software Engineering Practice
+Aligning with Human Coding Preferences for Improving Code Generation
+An Empirical Study of Fuzz Harness Degradation
+A Tuple-Oriented Sampling Method for Generating Small Pairwise Covering Arrays in Configurable Software Systems
+Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis
+Automated Knowledge-Aware Test Reuse
+Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables
+Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching
+Automating Dockerfile Refactoring to Multi-Stage Builds
+A Wily Hare Has Three Havens: Combating Programmable Logic Controller Attacks via Virtualization Redundancy
+BackportBench: A Multilingual Benchmark for Automated Patch Backporting
+Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading
+Bash-Commenter: Leveraging Syntax-Aware Preference Optimization to Reinforce Large Language Model for Bash Code Comment Generation
+Behind Defective Mobile AR Apps: Studying Reviews and Bugs of Android AR Software with Comparison to Prior Bug Studies
+Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models
+Binvariants: Enhancing Fuzzing of Closed-source Binary Executables via Register-level Likely Invariants
+Boosting LLMs for Mutation Generation
+Break to Adapt: Knowledge-Based Updates of Breaking Dependencies in JavaScript
+Bringing Managed Language Support to WebAssembly with External Library Linking
+Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding
+Can Old Tests do New Tricks for Resolving SWE Issues?
+Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
+Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing
+CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation
+Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking
+CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs
+ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents
+Characterizing and Mitigating False-Positive Bug Reports in the Linux Kernel
+Characterizing Trust Boundary Vulnerabilities in TEE Container Systems: An Empirical Study
+Chiseling Out Efficiency: Structured Skeleton Supervision for Efficient Code Generation
+Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs
+CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings
+Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation
+Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code
+Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation
+Compiling Code LLMs into Lightweight Executables
+Cost-Effective Testing of MPC Compilers
+CrossFit: Demystifying VM Callback Bugs in Interpreters
+Cross-Refactoring-Type Test Program Migration for Refactoring Engines
+CrypFormBench: Benchmarking Formal Analysis Capability of Large Language Models for Cryptographic schemes
+CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries
+Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?
+DECODE: Dynamic Exploration for Constraint-Guided Vulnerability Discovery in Deep Learning Operators
+Denoising Fault Localization with Test Line Proximity
+Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation
+Detecting Bugs in Rust Compiler Fix Suggestions via Constraint-Violation-Guided Mutation
+Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis
+DiverFPS: Generating Diverse Solutions for Floating-Point SMT Formulas
+Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond
+DualCodeDetect: Zero-Shot LLM-Generated Code Detection via Dual-Channel Perturbation
+DuCodeMark: Dual-Purpose Code Dataset Watermarking via Style-Aware Watermark–Poison Design
+EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-based UI Code Generation
+Eidolon: Perform Noise-Aware Fuzzing on FHE Libraries via Equivalence Expression Transformation
+Empirical Insights of Test Selection Metrics under Multiple Testing Objectives and Distribution Shifts
+Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis
+Evaluating LLM-based Regression Test Generation
+Evaluating Risk and Confidence in Performance Bounds of Configuration Sampling Strategies
+EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems
+Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair
+Exorcist: Enabling Atomic-Level Runtime Detection of Spectre Attacks Using Precise Event Based Sampling
+ExpeRepair: Dual-Memory Enhanced LLM-based Repository-Level Program Repair
+Failing with Purpose: Dangling Coverage-Guided Negative Test Generation from a Mechanized P4 Type System
+Failure-Based Testing for Deep Reinforcement Learning Agents
+Fairness Testing of Large Language Models in Role-Playing
+Feature Slice Matching for Precise Bug Detection
+Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences
+Fool Me If You Can: On the Robustness of Binary Code Similarity Detection Models against Semantics-preserving Transformations
+From Particles to Perils: SVGD-Based Hazardous Scenario Generation for Autonomous Driving Systems Testing
+From Specifications to Implementation in the Gen-AI Era: Lessons from a Project-based Software Engineering Course
+From Suspicious Signals to Crashes: Guiding Bug-driven GUI Testing via Code-inspired Tracing
+GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities
+GAER: Graph Auto-Encoders for Unsupervised Software Architecture Recovery
+Generalizing Test Cases for Comprehensive Test Scenario Coverage
+GPU-Accelerated Flow-Sensitive Pointer Analysis for C/C++ Programs
+GraphLocator: Graph-guided Causal Reasoning for Issue Localization
+GraphQLify: Automated and Type Safety-Preserving GraphQL API Adoption
+GREClue: Failure Indexing with Graph-based Failure Representation and Entropy-based Deep Clustering
+GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI
+Hallucinations in LLM-based Code Summarization: Unveiling, Detection, and Mitigation
+How Do Developers Interact with AI? An Exploratory Study on Modeling Developer Programming Behavior
+How Low Can You Go? The Data-Light SE Challenge
+iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation
+Improving Data Leakage Detection in Machine Learning Notebooks through Static Slicing and Structured LLM Prompts
+In Bugs We Trust? On Measuring the Randomness of a Fuzzer Benchmarking Outcome
+InDe-LLM: Defending Against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
+Influence-Aware Bayesian-Inspired Token Reweighting for Improved Code Generation
+In Line with Context: Repository-Level Code Generation via Context Inlining
+IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration
+Interrogation Testing of CHC Solvers
+It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation
+JavaScript Pointer Analysis with Adaptive Heap Abstraction
+Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development: A HarmonyOS Case Study
+Large Language Models for Opaque Predicate Resolution: A Universal Control Flow Deobfuscation Framework
+LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery
+LLM-Assisted Input-Requirement-Aware Differential Testing of Array Programming Frameworks
+LoCaL: Countering Surface Bias in Code Evaluation Metrics
+Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing
+MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge
+Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code
+Mitigating Prompt-Induced Cognitive Biases in General-Purpose AI for Software Engineering
+Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders
+MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis
+Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation
+Natural Language-Focused Software Engineering via Code-Documentation Equivalence
+NESA: Relational Neuro-Symbolic Static Program Analysis
+Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?
+Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks
+OCPPuzz: Specification-driven Fuzzing of Charging Station Management Systems with Large Language Model
+OdoTest: An Automated Testing Approach for Odometry Systems
+Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration
+One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks
+One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation
+On the Road to Personalized Code Intelligence: Portraiting and Assisting Developers Based on Their In-IDE Behaviors
+Phantom Rendering Detection: Identifying and Analyzing unnecessary UI computations
+Pig: Leveraging Large Language Models for Python Library Migrations
+PlayCoder: Making LLM-Generated GUI Code Playable
+PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages
+pPatch: Automated Vulnerability Unpatching
+Precondition Synthesis for Deep Neural Networks with Statistical Guarantees
+PROGnosticator: Testing Source-to-Source Code Translators via Construct-oriented Fuzzing
+Project-Level C-to-Rust Translation via Pointer Knowledge Graphs
+ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning
+Property Refinement in Linear Temporal Logic: Formal Semantics and Algorithms for Software Verification
+Protocol Reverse Engineering via Deep Transfer Learning
+PuzzleMark: Implicit Jigsaw Learning for Robust Code Dataset Watermarking in Neural Code Completion Models
+QuanForge: A Mutation Testing Framework for Quantum Neural Networks
+RAT: Retrieval-Augmented Testing of Certificate Revocation List Parsers in TLS Implementations
+RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices
+Recommending Usability Improvements with Multimodal Large Language Models
+ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction?
+Red Teaming LLMs via Linguistic-Aware Fuzzing
+Reducing Cost of LLM Agents with Trajectory Reduction
+Reducing Coverage-Equivalent Inputs in Grammar-based Fuzzing by Avoiding Recurrent Rule Sequences
+Reducing the TCB of SGX-oriented LibOSes at Runtime
+ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI
+ReGA: Model-based Safeguard for LLMs via Representation-Guided Abstraction
+RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models
+Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark
+Revealing Regressions: A Comparative Study of State-Capture Strategies in Validating Program Behavior
+Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation
+Satisfiability Solving with LLMs
+SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching
+ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code
+Semantics-Guided Control-Flow Reconstruction for Firmware Binaries via Static Analysis
+Small is Beautiful: A Practical and Efficient Log Parsing Framework
+SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization
+SmartDispatch: Dynamic Substitution of NumPy-style APIs on Heterogenous CPU-GPU Systems
+SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts
+SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning
+SnakeCharmer: Automatic Fuzzing Harness Generation for Pure and Hybrid Python Libraries
+Sound Termination and Non-Termination Analysis of C Programs with Bit-Precise Bounded Semantics and Advanced Constructs
+Spectrum-based Failure Attribution for Multi-Agent Systems
+Speculate: Generating REST API Specifications Using LLMs
+SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services
+SQLiFuzz: Uncovering SQL Injection in Any Web Applications
+StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis
+Still Manual? Automated Linter Configuration via DSL-Based LLM Compilation of Coding Standards
+Structure-Aware Delta Debugging with Geometric-Information Weights
+SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis
+SWE Data Construction, Automatically!
+SWR-Bench: Assessing LLM Performance in Real-World Code Review Comment Generation
+TestTailor: Generating High-Coverage Tests via Path-Proximal Tests with LLMs
+The Interaction of Complexity and Provenance in Code Review Decisions: Evidence from a Controlled Experiment
+Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model
+Three Heads Are Better Than One: A Multi-Perspective Reasoning Framework for Enhanced Vulnerability Detection
+TLR: Codebase-Level C Memory Management Error Repair with Large Language Models
+TORAI: Multi-Source Root Cause Analysis for \textit{Blind Spots} in Microservice Service Call Graph
+Towards Automated Crowdsourced Testing via Personified-LLM
+Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair
+Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs
+Towards the Localization of Multi-Root-Cause Failures in Microservice Systems: An Active Intervention Framework
+ToxiShield: Promoting Inclusive Developer Communication through Real-Time Toxicity Filtering
+TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment
+TransLibEval: Demystify Large Language Models’ Capability in Third-party Library-targeted Code Translation
+TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud
+TUSR: A Test Unit–Based Framework for Repairing Obsolete GUI Test Scripts
+Two-Level Adaptation for Budget-Constrained Continuous Dynamic Dependence Analysis
+TypePro: Boosting LLM-Based Type Inference via Inter-Procedural Slicing
+Uncovering Similar but Different Packages in PyPI and Potential Security Threats
+Understanding and Predicting Accepted Code Suggestions in AI-Assisted Programming
+Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study
+Understanding Code Similarity across Instruction Set Architectures: An Empirical Study
+Understanding, Detecting, and Repairing Real-World In-Context-Learning-Based Text-to-SQL Errors
+Understanding Performance Problems in CUDA Programs
+Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale
+Unfulfilled Promises: LLM-Based Detection of OS Compatibility Issues in Infrastructure as Code
+UNICS: Multilingual Code Search via Unified Pseudocode and Contrastive Transfer Learning
+Unleashing HPC Application Performance through Software Deployment: A Joint Model of Software Parallelism and Co-location
+Unveiling AI-Driven Web Applications: Insights into Characteristics, Functionality, and Compliance
+Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations
+V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution
+Validating LLM-Generated SQL Queries Through Metamorphic Prompting
+Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis
+Verifying Structural Robustness of Deep Neural Network
+VerilogASTBench: Benchmark Construction of Verilog AST Dataset with Dual-Stage AST Semantic Enhancement Framework
+ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models
+VisionScratch: LLM-Based Automated Feedback Generation Using Code-Produced Videos for Scratch Programs
+VulInstruct: Teaching LLMs Root-Cause Reasoning for Vulnerability Detection via Security Specifications
+VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns
+WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
+WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements
+When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems

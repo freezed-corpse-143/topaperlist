@@ -1,0 +1,67 @@
+Proceedings of the ACM SIGOPS 31st Symposium on Operating Systems Principles, SOSP 2025, Lotte Hotel World, Seoul, Republic of Korea, October 13-16, 2025
+LithOS: An Operating System for Efficient Machine Learning on GPUs
+μFork: Supporting POSIX fork Within a Single-Address-Space OS
+Tock: From Research To Securing 10 Million Computers
+Proto: A Guided Journey through Modern OS Construction
+CHERIoT RTOS: An OS for Fine-Grained Memory-Safe Compartments on Low-Cost Embedded Devices
+The Design and Implementation of a Virtual Firmware Monitor
+Oasis: Pooling PCIe Devices Over CXL to Boost Utilization
+Spirit: Fair Allocation of Interdependent Resources in Remote Memory Systems
+Scalable Far Memory: Balancing Faults and Evictions
+Device-Assisted Live Migration of RDMA Devices
+Demeter: A Scalable and Elastic Tiered Memory Solution for Virtualized Cloud via Guest Delegation
+Robust LLM Training Infrastructure at ByteDance
+Sailor: Automating Distributed Training over Dynamic, Heterogeneous, and Geo-distributed Clusters
+DCP: Addressing Input Dynamism In Long-Context Training via Dynamic Context Parallelism
+TrainVerify: Equivalence-Based Verification for Distributed LLM Training
+Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training
+Mitigating Application Resource Overload with Targeted Task Cancellation
+Orthrus: Efficient and Timely Detection of Silent User Data Corruption in the Cloud with Resource-Adaptive Computation Validation
+Optimistic Recovery for High-Availability Software via Partial Process State Preservation
+COpter: Efficient Large-Scale Resource-Allocation via Continual Optimization
+Fast End-to-End Performance Simulation of Accelerated Hardware-Software Stacks
+Characterizing Mobile SoC for Accelerating Heterogeneous LLM Inference
+IC-Cache: Efficient Large Language Model Serving via In-context Caching
+PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications
+Pie: A Programmable Serving System for Emerging LLM Applications
+DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction
+Jenga: Effective Memory Management for Serving LLM with Heterogeneity
+cache_ext: Customizing the Page Cache with eBPF
+Aeolia: A Fast and Secure Userspace Interrupt-Based Storage Stack
+Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman
+Loom: Efficient Capture and Querying of High-Frequency Telemetry
+Pesto: Cooking up High Performance BFT Queries
+Tiga: Accelerating Geo-Distributed Transactions with Synchronized Clocks
+Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs
+SAND: A New Programming Abstraction for Video-based Deep Learning
+METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation
+HedraRAG: Co-Optimizing Generation and Retrieval for Heterogeneous RAG Workflows
+Coyote v2: Raising the Level of Abstraction for Data Center FPGAs
+KNighter: Transforming Static Analysis with LLM-Synthesized Checkers
+Fawkes: Finding Data Durability Bugs in DBMSs via Recovered Data State Verification
+Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor
+eBPF Misbehavior Detection: Fuzzing with a Specification-Based Oracle
+WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations
+Prove It to the Kernel: Precise Extension Analysis via Proof-Guided Abstraction Refinement
+Atmosphere: Practical Verified Kernels with Rust and Verus
+AutoMan: Facilitating Verified Distributed Systems Development Through Automatic Code Generation and Manual Optimizations
+TickTock: Verified Isolation in a Production Embedded OS
+ORQ: Complex Analytics on Private Data with Strong Security Guarantees
+TRIP: Coercion-resistant Registration for E-Voting with Verifiability and Usability in Votegral
+Moirai: Optimizing Placement of Data and Compute in Hybrid Clouds
+Tai Chi: A General High-Efficiency Scheduling Framework for SmartNICs in Hyperscale Clouds
+Quilt: Resource-aware Merging of Serverless Workflows
+Mantle: Efficient Hierarchical Metadata Management for Cloud Object Storage Services
+Unlocking True Elasticity for the Cloud-Native Era with Dandelion
+Running Consistent Applications Closer to Users with Radical for Lower Latency
+Managing Scalable Direct Storage Accesses for GPUs with GoFS
+PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation
+KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models
+Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
+Mercury: Unlocking Multi-GPU Operator Optimization for LLMs via Remote Memory Scheduling
+How to Copy Memory? Coordinated Asynchronous Copy as a First-Class OS Service
+CortenMM: Efficient Memory Management with Strong Correctness Guarantees
+Rearchitecting the Thread Model of In-Memory Key-Value Stores with μTPS
+FlexGuard: Fast Mutual Exclusion Independent of Subscription
+Scalable Address Spaces using Concurrent Interval Skiplist
+Analyzing and Enhancing ArckFS: An Anecdotal Example of Benefits of Artifact Evaluation

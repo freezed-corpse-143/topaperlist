@@ -1,0 +1,135 @@
+STOC '22: 54th Annual ACM SIGACT Symposium on Theory of Computing, Rome, Italy, June 20 - 24, 2022
+Nonlocal games, compression theorems, and the arithmetical hierarchy
+An area law for 2d frustration-free spin systems
+Dequantizing the Quantum singular value transformation: hardness and applications to Quantum chemistry and the Quantum PCP conjecture
+Near-optimal Quantum algorithms for multivariate mean estimation
+Distributed Quantum inner product estimation
+The power of two choices in graphical allocation
+Expanders via local edge flips in quasilinear time
+(Fractional) online stochastic matching via fine-grained offline statistics
+The power of multiple choices in online stochastic matching
+Online edge coloring via tree recurrences and correlation decay
+The shortest even cycle problem is tractable
+Breaking the nk barrier for minimum k-cut on simple graphs
+Edge connectivity augmentation in near-linear time
+Optimal vertex connectivity oracles
+Deterministic massively parallel connectivity
+Hypercontractivity on high dimensional expanders
+Hypercontractivity on high dimensional expanders
+Approximate polymorphisms
+Learning low-degree functions from a logarithmic number of random queries
+Positive spectrahedra: invariance principles and pseudorandom generators
+New streaming algorithms for high dimensional EMD and MST
+Brooks' theorem in graph streams: a single-pass semi-streaming algorithm for ∆-coloring
+Deterministic (1+ε)-approximate maximum matching with poly(1/ε) passes in the semi-streaming model and beyond
+Deterministic graph coloring in the streaming model
+Linear space streaming lower bounds for approximating CSPs
+A PTAS for unsplittable flow on a path
+A subpolynomial approximation algorithm for graph crossing number in low-degree graphs
+Improved approximation guarantees for shortest superstrings using cycle classification by overlap to length ratios
+Flow time scheduling and prefix Beck-Fiala
+Bypassing the surface embedding: approximation schemes for network design in minor-free graphs
+Locally testable codes with constant rate, distance, and locality
+Asymptotically good Quantum and locally testable classical LDPC codes
+Ideals, determinants, and straightening: proving and using lower bounds for polynomial ideals
+Fast, algebraic multivariate multipoint evaluation in small characteristic and applications
+Set-multilinear and non-commutative formula lower bounds for iterated matrix multiplication
+Combinatorics via closed orbits: number theoretic Ramanujan graphs are not unique neighbor expanders
+On the complexity of CSP-based ideal membership problems
+Near-optimal distributed degree+1 coloring
+Distributed ∆-coloring plays hide-and-seek
+Undirected (1+ε)-shortest paths via minor-aggregates: near-optimal deterministic parallel and distributed algorithms
+Improved communication complexity of fault-tolerant consensus
+Byzantine agreement in polynomial time with near-optimal resilience
+No self-concordant barrier interior point method is strongly polynomial
+Improved iteration complexities for overconstrained p-norm regression
+Faster maxflow via improved dynamic spectral vertex sparsifiers
+Sparsified block elimination for directed laplacians
+Matrix anti-concentration inequalities with applications
+Circuits resilient to short-circuit errors
+Explicit binary tree codes with sub-logarithmic size alphabet
+Interactive error correcting codes over binary erasure channels resilient to > ½ adversarial corruption
+The query complexity of certification
+Matrix discrepancy from Quantum communication
+A new framework for matrix discrepancy: partial coloring bounds via mirror descent
+Uniform approximations for Randomized Hadamard Transforms with applications
+Testing thresholds for high-dimensional sparse random geometric graphs
+Algorithms and certificates for Boolean CSP refutation: smoothed is no harder than random
+On the hardness of dominant strategy mechanism design
+Computing simple mechanisms: Lift-and-round over marginal reduced forms
+Approximately efficient bilateral trade
+Pricing ordered items
+Near-optimal no-regret learning for correlated equilibria in multi-player general-sum games
+Hamiltonian complexity in the thermodynamic limit
+Computational complexity of the ground state energy density problem
+Optimizing strongly interacting fermionic Hamiltonians
+Public-key Quantum money with a classical bank
+Quantum garbled circuits
+Reproducibility in learning
+Kalman filtering with adversarial corruptions
+Fast rates for nonparametric online learning: from realizability to learning in games
+Binary perceptron: efficient algorithms can find solutions in a rare well-connected cluster
+Learning general halfspaces with general Massart noise under the Gaussian distribution
+Fast FPT-approximation of branchwidth
+Lossy planarization: a constant-factor approximate kernelization for planar vertex deletion
+Fixed-parameter tractability of graph isomorphism in graphs with an excluded minor
+Twin-width IV: ordered graphs and matrices
+Directed flow-augmentation
+The optimal error resilience of interactive communication over binary channels
+The exact complexity of pseudorandom functions and the black-box natural proof barrier for bootstrapping results in computational complexity
+On approximability of satisfiable k-CSPs: I
+A characterization of approximability for biased CSPs
+Parallel repetition for all 3-player games over binary alphabet
+Constant inapproximability for PPA
+Complexity classification of counting graph homomorphisms modulo a prime number
+Towards optimal lower bounds for k-median and k-means coresets
+Deterministic, near-linear ε-approximation algorithm for geometric bipartite matching
+Locality-sensitive orderings and applications to reliable spanners
+Nearly optimal vertex fault-tolerant spanners in optimal time: sequential, distributed, and parallel
+Maintaining exact distances under multiple edge failures
+Almost-optimal sublinear-time edit distance in the low distance regime
+Edge sampling and graph parameter estimation via vertex neighborhood accesses
+Low-rank approximation with 1/ε1/3 matrix-vector products
+Sublinear time spectral density estimation
+Memory bounds for the experts problem
+A strong version of Cobham's theorem
+3.1n - o(n) circuit lower bounds for explicit functions
+The approximate degree of DNF and CNF formulas
+Verifying the unseen: interactive proofs for label-invariant distribution properties
+Randomized communication and implicit graph representations
+Robustly learning mixtures of k arbitrary Gaussians
+Clustering mixtures with almost optimal separation in polynomial time
+Clustering mixture models in almost-linear time via list-decodable mean estimation
+List-decodable covariance estimation
+On the optimal time/space tradeoff for hash tables
+An extendable data structure for incremental stable perfect hashing
+Almost-linear ε-emulators for planar graphs
+Hop-constrained expander decompositions, oblivious routing, and distributed universal optimality
+Optimal oblivious reconfigurable networks
+Proving as fast as computing: succinct arguments with constant prover overhead
+Rate one-third non-malleable codes
+Deniable encryption in a Quantum world
+On the complexity of two-party differential privacy
+Efficient mean estimation with pure differential privacy via a sum-of-squares exponential mechanism
+Entropic independence: optimal mixing of down-up random walks
+Simple parallel algorithms for single-site dynamics
+Low-temperature Ising dynamics with random initializations
+Computational thresholds for the fixed-magnetization Ising model
+Approximate counting and sampling via local central limit theorems
+Hardness of approximation in p via short cycle removal: cycle detection, distance oracles, and beyond
+Hardness for triangle problems under even more believable hypotheses: reductions from real APSP, real 3SUM, and OV
+Tight dynamic problem lower bounds from generalized BMM and OMv
+Faster min-plus product for monotone instances
+Counting small induced subgraphs with hereditary properties
+Pseudodeterminism: promises and lowerbounds
+Worst-case to average-case reductions via additive combinatorics
+Robustness of average-case meta-complexity via pseudorandomness
+Extractors for sum of two sources
+Breaching the 2-approximation barrier for the forest augmentation problem
+An improved approximation algorithm for the minimum k-edge connected multi-subgraph problem
+Improved approximations for Euclidean k-means and k-median, via nested quasi-independent sets
+Explainable k-means: don't be greedy, plant bigger trees!
+Subquadratic dynamic path reporting in directed graphs against an adaptive adversary
+Dynamic suffix array with polylogarithmic queries and updates
+Dynamic algorithms against an adaptive adversary: generic constructions and lower bounds
+On the complexity of dynamic submodular maximization

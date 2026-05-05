@@ -1,0 +1,44 @@
+Proceedings of the 29th Symposium on Operating Systems Principles, SOSP 2023, Koblenz, Germany, October 23-26, 2023
+TreeSLS: A Whole-system Persistent Microkernel with Tree-structured State Checkpoint on NVM
+MEMTIS: Efficient Memory Tiering with Dynamic Page Classification and Page Size Determination
+Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor
+One Simple API Can Cause Hundreds of Bugs An Analysis of Refcounting Bugs in All Modern Linux Kernels
+Validating JIT Compilers via Compilation Space Exploration
+Automated Verification of an In-Production DNS Authoritative Engine
+Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management
+Grove: a Separation-Logic Library for Verifying Distributed Systems
+FIFO queues are all you need for cache eviction
+Enabling High-Performance and Secure Userspace NVM File Systems with the Trio Architecture
+Project Silica: Towards Sustainable Cloud Archival Storage in Glass
+RackBlox: A Software-Defined Rack-Scale Storage System with Network-Storage Co-Design
+Cornflakes: Zero-Copy Serialization for Microsecond-Scale Networking
+Understanding Silent Data Corruptions in a Large Production CPU Population
+XFaaS: Hyperscale and Low Cost Serverless Functions at Meta
+Pushing Performance Isolation Boundaries into Application with pBox
+Flexible Advancement in Asynchronous BFT Consensus
+QuePaxa: Escaping the tyranny of timeouts in consensus
+Antipode: Enforcing Cross-Service Causal Consistency in Distributed Applications
+Halfmoon: Log-Optimal Fault-Tolerant Stateful Serverless Computing
+PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation
+Bagpipe: Accelerating Deep Recommendation Model Training
+GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints
+Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates
+Private Web Search with Tiptoe
+Siloz: Leveraging DRAM Isolation Domains to Prevent Inter-VM Rowhammer
+Edna: Disguising and Revealing User Data in Web Applications
+Arboretum: A Planner for Large-Scale Federated Analytics with Differential Privacy
+Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling
+Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications
+A Cloud-Scale Characterization of Remote Procedure Calls
+PVM: Efficient Shadow Paging for Deploying Secure Containers in Cloud-native Environment
+Falcon: Fast OLTP Engine for Persistent Cache and Non-Volatile Memory
+SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
+gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning
+Turbo: Effective Caching in Differentially-Private Databases
+Paella: Low-latency Model Serving with Software-defined GPU Scheduling
+Efficient Memory Management for Large Language Model Serving with PagedAttention
+UGACHE: A Unified GPU Cache for Embedding-based Deep Learning
+Sia: Heterogeneity-aware, goodput-optimized ML-cluster scheduling
+Partial Failure Resilient Memory Management System for (CXL-based) Distributed Shared Memory
+Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System
+Mira: A Program-Behavior-Guided Far Memory System

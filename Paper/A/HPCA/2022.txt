@@ -1,0 +1,86 @@
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2022, Seoul, South Korea, April 2-6, 2022
+Direct Spatial Implementation of Sparse Matrix Multipliers for Reservoir Computing
+uSystolic: Byte-Crawling Unary Systolic Array
+CAMA: Energy and Memory Efficient Automata Processing in Content-Addressable Memories
+CoopMC: Algorithm-Architecture Co-Optimization for Markov Chain Monte Carlo Accelerators
+Leaky Frontends: Security Vulnerabilities in Processor Frontends
+DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX
+Abusing Cache Line Dirty States to Leak Information in Commercial Processors
+unXpec: Breaking Undo-based Safe Speculation
+Cottage: Coordinated Time Budget Assignment for Latency, Quality and Power Optimization in Web Search
+Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems
+Hercules: Heterogeneity-Aware Inference Serving for At-Scale Personalized Recommendation
+ReTail: Opting for Learning Simplicity to Enable QoS-Aware Power Management in the Cloud
+ANNA: Specialized Architecture for Approximate Nearest Neighbor Search
+Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling
+ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing
+Adaptive Security Support for Heterogeneous Memory on GPUs
+TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit
+SecNDP: Secure Near-Data Processing with Untrusted Memory
+AFS: Accurate, Fast, and Scalable Error-Decoding for Fault-Tolerant Quantum Computers
+QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery
+VAQEM: A Variational Approach to Quantum Error Mitigation
+DRIPS: Dynamic Rebalancing of Pipelined Streaming Applications on CGRAs
+Parallel Time Batching: Systolic-Array Acceleration of Sparse Spiking Neural Computation
+Near-Stream Computing: General and Transparent Near-Cache Acceleration
+HyBP: Hybrid Isolation-Randomization Secure Branch Predictor
+IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM
+SafeGuard: Reducing the Security Risk from Row-Hammer via Low-Cost Integrity Protection
+Detecting Qubit-coupling Faults in Ion-trap Quantum Computers
+DigiQ: A Scalable Digital Controller for Quantum Computers Using SFQ Logic
+HiPerRF: A Dual-Bit Dense Storage SFQ Register File
+ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator
+LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators
+GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design
+Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators
+Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!
+Efficient Bad Block Management with Cluster Similarity
+Using Psychophysics to Guide Power Adaptation for Input Methods on Mobile Architectures
+HD-CPS: Hardware-assisted Drift-aware Concurrent Priority Scheduler for Shared Memory Multicores
+Improving Locality of Irregular Updates with Hardware Assisted Propagation Blocking
+Effective Mimicry of Belady's MIN Policy
+S2TA: Exploiting Structured Sparsity for Energy-Efficient Mobile CNN Acceleration
+SupermarQ: A Scalable Quantum Benchmark Suite
+LoopPoint: Checkpoint-driven Sampled Simulation for Multi-threaded Applications
+Compiler-Driven Simulation of Reconfigurable Hardware Accelerators
+NeuroSync: A Scalable and Accurate Brain Simulator Using Safe and Efficient Speculation
+Reducing Load Latency with Cache Level Prediction
+TCOR: A Tile Cache with Optimal Replacement
+Only Buffer When You Need To: Reducing On-chip GPU Traffic with Reconfigurable Local Atomic Buffers
+QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits
+Not All SWAPs Have the Same Cost: A Case for Optimization-Aware Qubit Routing
+Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs
+ScaleHLS: A New Scalable High-Level Synthesis Framework on Multi-Level Intermediate Representation
+HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence Protocols
+Reliability-Aware Runahead
+Adaptable Register File Organization for Vector Processors
+Tacker: Tensor-CUDA Core Kernel Fusion for Improving the GPU Utilization while Ensuring QoS
+MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores
+SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference
+FAST: DNN Training Under Variable Precision Block Floating Point with Stochastic Rounding
+Griffin: Rethinking Sparse Optimization for Deep Learning Architectures
+CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration
+ASAP: A Speculative Approach to Persistence
+Temporal Exposure Reduction Protection for Persistent Memory
+MULTI-CLOCK: Dynamic Tiering for Hybrid Memory Systems
+NVMExplorer: A Framework for Cross-Stack Comparisons of Embedded Non-Volatile Memories
+Stay in your Lane: A NoC with Low-overhead Multi-packet Bypassing
+FastTrackNoC: A NoC with FastTrack Router Datapaths
+Upward Packet Popup for Deadlock Freedom in Modular Chiplet-Based Systems
+Saving PAM4 Bus Energy with SMOREs: Sparse Multi-level Opportunistic Restricted Encodings
+Delegated Replies: Alleviating Network Clogging in Heterogeneous Architectures
+Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures
+Enabling High-Quality Uncertainty Quantification in a PIM Designed for Bayesian Neural Network
+RM-SSD: In-Storage Computing for Large-Scale Recommendation Inference
+TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer
+PIMCloud: QoS-Aware Resource Management of Latency-Critical Applications in Clouds with Processing-in-Memory
+Exploiting Inter-block Entropy to Enhance the Compressibility of Blocks with Diverse Data
+GBDI: Going Beyond Base-Delta-Immediate Compression with Global Bases
+Virtual Coset Coding for Encrypted Non-Volatile Memories with Multi-Level Cells
+DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators
+Mithril: Cooperative Row Hammer Protection on Commodity DRAM Leveraging Managed Refresh
+DarkGates: A Hybrid Power-Gating Architecture to Mitigate the Performance Impact of Dark-Silicon in High Performance Processors
+GPU Subwarp Interleaving
+Application Defined On-chip Networks for Heterogeneous Chiplets: An Implementation Perspective
+The Specialized High-Performance Network on Anton 3
+AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications

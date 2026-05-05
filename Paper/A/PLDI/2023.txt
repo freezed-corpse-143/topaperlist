@@ -1,0 +1,300 @@
+CN: Verifying Systems C Code with Separation-Logic Refinement Types
+Step-Indexed Logical Relations for Countable Nondeterminism and Probabilistic Choice
+A Type-Based Approach to Divide-and-Conquer Recursion in Coq
+Comparative Synthesis: Learning Near-Optimal Network Designs by Query
+ADEV: Sound Automatic Differentiation of Expected Values of Probabilistic Programs
+HFL(Z) Validity Checking for Automated Program Verification
+From SMT to ASP: Solver-Based Approaches to Solving Datalog Synthesis-as-Rule-Selection Problems
+Why Are Proofs Relevant in Proof-Relevant Models?
+Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler
+On the Expressive Power of String Constraints
+Proto-Quipper with Dynamic Lifting
+Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference
+Executing Microservice Applications on Serverless, Correctly
+babble: Learning Better Abstractions with E-Graphs and Anti-unification
+MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code
+Grisette: Symbolic Compilation as a Functional Programming Library
+Locally Nameless Sets
+A Bowtie for a Beast: Overloading, Eta Expansion, and Extensible Data Types in F⋈
+Kater: Automating Weak Memory Model Metatheory and Consistency Checking
+An Algebra of Alignment for Relational Verification
+Optimal CHC Solving via Termination Proofs
+Towards a Higher-Order Mathematical Operational Semantics
+Unrealizability Logic
+The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding
+A High-Level Separation Logic for Heap Space under Garbage Collection
+The Path to Durable Linearizability
+DimSum: A Decentralized Approach to Multi-language Semantics and Verification
+A General Noninterference Policy for Polynomial Time
+CoqQ: Foundational Verification of Quantum Programs
+A Core Calculus for Equational Proofs of Cryptographic Protocols
+Making a Type Difference: Subtraction on Intersection Types as Generalized Record Operations
+Qunity: A Unified Language for Quantum and Classical Computing
+FlashFill++: Scaling Programming by Example by Cutting to the Chase
+Witnessability of Undecidable Problems
+Single-Source-Single-Target Interleaved-Dyck Reachability via Integer Linear Programming
+Higher-Order Leak and Deadlock Free Locks
+A Robust Theory of Series Parallel Graphs
+A Compositional Theory of Linearizability
+Conditional Contextual Refinement
+Tail Recursion Modulo Context: An Equational Approach
+Top-Down Synthesis for Library Learning
+Admissible Types-to-PERs Relativization in Higher-Order Logic
+You Only Linearize Once: Tangents Transpose to Gradients
+When Less Is More: Consequence-Finding in a Weak Theory of Arithmetic
+Dynamic Race Detection with O(1) Samples
+Affine Monads and Lazy Structures for Bayesian Programming
+Dargent: A Silver Bullet for Verified Data Layout Refinement
+Recursive Subtyping for All
+Stratified Commutativity in Verification Algorithms for Concurrent Programs
+Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference
+Quantitative Inhabitation for Different Lambda Calculi in a Unifying Framework
+Fast Coalgebraic Bisimilarity Minimization
+An Operational Approach to Library Abstraction under Relaxed Memory Concurrency
+Efficient Dual-Numbers Reverse AD via Well-Known Program Transformations
+A Partial Order View of Message-Passing Communication Models
+Combining Functional and Automata Synthesis to Discover Causal Reactive Programs
+An Order-Theoretic Analysis of Universe Polymorphism
+Statically Resolvable Ambiguity
+The Fine-Grained Complexity of CFL Reachability
+Taking Back Control in an Intermediate Representation for GPU Computing
+Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq
+Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects
+Elements of Quantitative Rewriting
+Deconstructing the Calculus of Relations with Tape Diagrams
+SSA Translation Is an Abstract Interpretation
+Probabilistic Resource-Aware Session Types
+A Calculus for Amortized Expected Runtimes
+Reconciling Shannon and Scott with a Lattice of Computable Information
+Higher-Order MSL Horn Constraints
+Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions
+Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations
+Modular Primal-Dual Fixpoint Logic Solving for Temporal Verification
+Context-Bounded Verification of Context-Free Specifications
+Impredicative Observational Equality
+Accelerating Fuzzing through Prefix-Guided Execution
+Solving Conditional Linear Recurrences for Program Verification: The Periodic Case
+Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier
+Grounded Copilot: How Programmers Interact with Code-Generating Models
+Hybrid Multiparty Session Types: Compositionality for Protocol Specification through Endpoint Projection
+Languages with Decidable Learning: A Meta-theorem
+Enabling Bounded Verification of Doubly-Unbounded Distributed Agreement-Based Systems via Bounded Regions
+User-Customizable Transpilation of Scripting Languages
+Bidirectional Object-Oriented Programming: Towards Programmatic and Direct Manipulation of Objects
+A Gradual Probabilistic Lambda Calculus
+Verus: Verifying Rust Programs using Linear Ghost Types
+Fat Pointers for Temporal Memory Safety of C
+Modular Component-Based Quantum Circuit Synthesis
+A Verification Methodology for the Arm® Confidential Computing Architecture: From a Secure Specification to Safe Implementations
+Compositional Security Definitions for Higher-Order Where Declassification
+Deep Learning Robustness Verification for Few-Pixel Attacks
+Proof Automation for Linearizability in Separation Logic
+Regular Expression Matching using Bit Vector Automata
+Outcome Logic: A Unifying Foundation for Correctness and Incorrectness Reasoning
+Aliasing Limits on Translating C to Safe Rust
+Automated Translation of Functional Big Data Queries to SQL
+Live Pattern Matching with Typed Holes
+Pushing the Limit of 1-Minimality of Language-Agnostic Program Reduction
+Exact Recursive Probabilistic Programming
+Lower Bounds for Possibly Divergent Probabilistic Programs
+Algebro-geometric Algorithms for Template-Based Synthesis of Polynomial Programs
+Randomized Testing of Byzantine Fault Tolerant Algorithms
+Verification-Preserving Inlining in Automatic Separation Logic Verifiers
+Improving Oracle-Guided Inductive Synthesis by Efficient Question Selection
+Back to Direct Style: Typed and Tight
+Fluent APIs in Functional Languages
+Formally Verified Samplers from Probabilistic Programs with Loops and Conditioning
+Mostly Automated Proof Repair for Verified Libraries
+Modular Control Plane Verification via Temporal Invariants
+A Lineage-Based Referencing DSL for Computer-Aided Design
+WasmRef-Isabelle: A Verified Monadic Interpreter and Industrial Fuzzing Oracle for WebAssembly
+cuCatch: A Debugging Tool for Efficiently Catching Memory Safety Violations in CUDA Applications
+Lilac: A Modal Separation Logic for Conditional Probability
+Discrete Adversarial Attack to Models of Code
+HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption
+Garbage-Collection Safety for Region-Based Type-Polymorphic Programs
+CQS: A Formally-Verified Framework for Fair and Abortable Synchronization
+Generalized Policy-Based Noninterference for Efficient Confidentiality-Preservation
+Memento: A Framework for Detectable Recoverability in Persistent Memory
+Recursive State Machine Guided Graph Folding for Context-Free Language Reachability
+Modular Hardware Design with Timeline Types
+Performal: Formal Verification of Latency Properties for Distributed Systems
+Mosaic: An Interoperable Compiler for Tensor Algebra
+Loop Rerolling for Hardware Decompilation
+Architecture-Preserving Provable Repair of Deep Neural Networks
+Better Together: Unifying Datalog and Equality Saturation
+Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations
+Defunctionalization with Dependent Types
+Context Sensitivity without Contexts: A Cut-Shortcut Approach to Fast and Precise Pointer Analysis
+Dynamic Partial Order Reduction for Checking Correctness against Transaction Isolation Levels
+Collecting Cyclic Garbage across Foreign Function Interfaces: Who Takes the Last Piece of Cake?
+Verified Density Compilation for a Probabilistic Programming Language
+Conflict-Driven Synthesis for Layout Engines
+Psym: Efficient Symbolic Exploration of Distributed Systems
+ImageEye: Batch Image Processing using Program Synthesis
+Responsive Parallelism with Synchronization
+A Type System for Safe Intermittent Computing
+Optimal Reads-From Consistency Checking for C11-Style Memory Models
+Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks
+Fair Operational Semantics
+Synthesizing Quantum-Circuit Optimizers
+Trace-Guided Inductive Synthesis of Recursive Functional Programs
+Parallelism in a Region Inference Context
+Don't Look UB: Exposing Sanitizer-Eliding Compiler Optimizations
+Proving and Disproving Equivalence of Functional Programming Assignments
+PureCake: A Verified Compiler for a Lazy Functional Language
+Better Defunctionalization through Lambda Set Specialization
+Taype: A Policy-Agnostic Language for Oblivious Computation
+Derivative Based Nonbacktracking Real-World Regex Matching with Backtracking Semantics
+Automated Expected Value Analysis of Recursive Programs
+Interval Parsing Grammars for File Format Parsing
+Iris-Wasm: Robust and Modular Verification of WebAssembly Programs
+Cakes That Bake Cakes: Dynamic Computation in CakeML
+Compound Memory Models
+Indexed Streams: A Formal Intermediate Representation for Fused Contraction Programs
+flap: A Deterministic Parser with Fused Lexing
+An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits
+Covering All the Bases: Type-Based Verification of Test Input Generators
+CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives
+Reliable Actors with Retry Orchestration
+Search-Based Regular Expression Inference on a GPU
+Beyond Backtracking: Connections in Fine-Grained Concurrent Separation Logic
+Type-Checking CRDT Convergence
+Parameterized Algebraic Protocols
+Leveraging Rust Types for Program Synthesis
+VMSL: A Separation Logic for Mechanised Robust Safety of Virtual Machines Communicating above FF-A
+Scallop: A Language for Neurosymbolic Programming
+Obtaining Information Leakage Bounds via Approximate Model Counting
+Automated Detection of Under-Constrained Circuits in Zero-Knowledge Proofs
+Flux: Liquid Types for Rust
+Efficient Parallel Functional Programming with Effects
+Absynthe: Abstract Interpretation-Guided Synthesis
+Extensible Metatheory Mechanization via Family Polymorphism
+Repairing Regular Expressions for Extraction
+Inductive Program Synthesis via Iterative Forward-Backward Abstract Interpretation
+CommCSL: Proving Information Flow Security for Concurrent Programs using Abstract Commutativity
+Probabilistic Programming with Stochastic Probabilities
+Sound Dynamic Deadlock Prediction in Linear Time
+Merging Inductive Relations
+Cutting the Cake: A Language for Fair Division
+Program Reconditioning: Avoiding Undefined Behaviour When Finding and Reducing Compiler Bugs
+Fuzzing Loop Optimizations in Compilers for C++ and Data-Parallel Languages
+Embedding Hindsight Reasoning in Separation Logic
+Putting Weak Memory in Order via a Promising Intermediate Representation
+Synthesizing MILP Constraints for Efficient and Robust Optimization
+Incremental Verification of Neural Networks
+Prompting Is Programming: A Query Language for Large Language Models
+One Pixel Adversarial Attacks via Sketched Programs
+Register Tiling for Unstructured Sparsity in Neural Network Inference
+Embedding by Unembedding
+Higher-Order Property-Directed Reachability
+Special Delivery: Programming with Mailbox Types
+Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)
+Formal Specification and Testing for Reinforcement Learning
+How to Evaluate Blame for Gradual Types, Part 2
+Explicit Refinement Types
+Typing Records, Maps, and Structs
+LURK: Lambda, the Ultimate Recursive Knowledge (Experience Report)
+FP²: Fully in-Place Functional Programming
+Trustworthy Runtime Verification via Bisimulation (Experience Report)
+Reflecting on Random Generation
+Generic Programming with Extensible Data Types: Or, Making Ad Hoc Extensible Data Types Less Ad Hoc
+Modularity, Code Specialization, and Zero-Cost Abstractions for Program Verification
+The Verse Calculus: A Core Calculus for Deterministic Functional Logic Programming
+With or Without You: Programming with Effect Exclusion
+Asynchronous Modal FRP
+A General Fine-Grained Reduction Theory for Effect Handlers
+HasChor: Functional Choreographic Programming for All (Functional Pearl)
+Modular Models of Monoids with Operations
+MacoCaml: Staging Composable and Compilable Macros
+Dependently-Typed Programming with Logical Equality Reflection
+More Fixpoints! (Functional Pearl)
+Intrinsically Typed Sessions with Callbacks (Functional Pearl)
+Calculating Compilers for Concurrency
+Dependent Session Protocols in Separation Logic from First Principles (Functional Pearl)
+What Happens When Students Switch (Functional) Languages (Experience Report)
+Bit-Stealing Made Legal: Compilation for Custom Memory Representations of Algebraic Data Types
+Verifying Reliable Network Components in a Distributed Separation Logic with Dependent Separation Protocols
+Etna: An Evaluation Platform for Property-Based Testing (Experience Report)
+Timely Computation
+A Graded Modal Dependent Type Theory with a Universe and Erasure, Formalized
+Combinator-Based Fixpoint Algorithms for Big-Step Abstract Interpreters
+Hardware-Aware Static Optimization of Hyperdimensional Computations
+Leaf: Modularity for Temporary Sharing in Separation Logic
+Formally Verifying Optimizations with Block Simulations
+Synthesizing Efficient Memoization Algorithms
+AtomiS: Data-Centric Synchronization Made Practical
+Secure RDTs: Enforcing Access Control Policies for Offline Available JSON Data
+Beacons: An End-to-End Compiler Framework for Predicting and Utilizing Dynamic Loop Characteristics
+Compiling Structured Tensor Algebra
+The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog
+Run-Time Prevention of Software Integration Failures of Machine Learning APIs
+The Bounded Pathwidth of Control-Flow Graphs
+AST vs. Bytecode: Interpreters in the Age of Meta-Compilation
+Mutually Iso-Recursive Subtyping
+Mechanizing Session-Types using a Structural View: Enforcing Linearity without Linearity
+Graph IRs for Impure Higher-Order Languages: Making Aggressive Optimizations Affordable with Precise Effect Dependencies
+Getting into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference
+Continuing WebAssembly with Effect Handlers
+Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network
+Fast and Efficient Boolean Unification for Hindley-Milner-Style Type and Effect Systems
+How Profilers Can Help Navigate Type Migration
+Rhombus: A New Spin on Macros without All the Parentheses
+Towards Better Semantics Exploration for Browser Fuzzing
+Spirea: A Mechanized Concurrent Separation Logic for Weak Persistent Memory
+Adventure of a Lifetime: Extract Method Refactoring for Rust
+Mat2Stencil: A Modular Matrix-Based DSL for Explicit and Implicit Matrix-Free PDE Solvers on Structured Grid
+Melocoton: A Program Logic for Verified Interoperability Between OCaml and C
+Interactive Debugging of Datalog Programs
+Concrete Type Inference for Code Optimization using Machine Learning with SMT Solving
+An Explanation Method for Models of Code
+Modular Verification of Safe Memory Reclamation in Concurrent Separation Logic
+Simple Reference Immutability for System F
+Asparagus: Automated Synthesis of Parametric Gas Upper-Bounds for Smart Contracts
+Inductive Program Synthesis Guided by Observational Program Similarity
+From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers
+A Container-Usage-Pattern-Based Context Debloating Approach for Object-Sensitive Pointer Analysis
+A Cocktail Approach to Practical Call Graph Construction
+Equality Saturation Theory Exploration à la Carte
+Complete First-Order Reasoning for Properties of Functional Programs
+Structural Subtyping as Parametric Polymorphism
+A Pretty Expressive Printer
+Automated Ambiguity Detection in Layout-Sensitive Grammars
+Reusing Just-in-Time Compiled Code
+Bring Your Own Data Structures to Datalog
+A Grounded Conceptual Model for Ownership Types in Rust
+Building Dynamic System Call Sandbox with Partial Order Analysis
+Resource-Aware Soundness for Big-Step Semantics
+Initializing Global Objects: Time and Order
+Formal Abstractions for Packet Scheduling
+Reference Capabilities for Flexible Memory Management
+Mobius: Synthesizing Relational Queries with Recursive and Invented Predicates
+MemPerf: Profiling Allocator-Induced Performance Slowdowns
+Verifying Indistinguishability of Privacy-Preserving Protocols
+Quantifying and Mitigating Cache Side Channel Leakage with Differential Set
+How Domain Experts Use an Embedded DSL
+When Concurrency Matters: Behaviour-Oriented Concurrency
+TASTyTruffle: Just-in-Time Specialization of Parametric Polymorphism
+Validating IoT Devices with Rate-Based Session Types
+Static Analysis of Memory Models for SMT Encodings
+Turaco: Complexity-Guided Data Sampling for Training Neural Surrogates of Programs
+Stuttering for Free
+Inference of Resource Management Specifications
+Rapid: Region-Based Pointer Disambiguation
+Gradual Typing for Effect Handlers
+Synthesizing Specifications
+Compositional Verification of Efficient Masking Countermeasures against Side-Channel Attacks
+Data Extraction via Semantic Regular Expression Synthesis
+Counterexample Driven Quantifier Instantiations with Applications to Distributed Protocols
+Historia: Refuting Callback Reachability with Message-History Logics
+P4R-Type: A Verified API for P4 Control Plane Programs
+Synthesizing Precise Static Analyzers for Automatic Differentiation
+Exploiting the Sparseness of Control-Flow and Call Graphs for Efficient and On-Demand Algebraic Program Analysis
+Saggitarius: A DSL for Specifying Grammatical Domains
+A Deductive Verification Infrastructure for Probabilistic Programs
+Greedy Implicit Bounded Quantification
+Solving String Constraints with Lengths by Stabilization
+Type-Safe Dynamic Placement with First-Class Placed Values
+Explainable Program Synthesis by Localizing Specifications
+Perception Contracts for Safety of ML-Enabled Systems
+Message Chains for Distributed System Verification

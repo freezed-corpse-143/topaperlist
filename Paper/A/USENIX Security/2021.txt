@@ -1,0 +1,248 @@
+30th USENIX Security Symposium, USENIX Security 2021, August 11-13, 2021
+Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication
+'Passwords Keep Me Safe' - Understanding What Children Think about Passwords
+On the Usability of Authenticity Checks for Hardware Security Tokens
+Inexpensive Brainwave Authentication: New Techniques and Insights on User Acceptance
+Why Older Adults (Don't) Use Password Managers
+"It's Stored, Hopefully, on an Encrypted Server": Mitigating Users' Misconceptions About FIDO2 Biometric WebAuthn
+Driving 2FA Adoption at Scale: Optimizing Two-Factor Authentication Notification Design Patterns
+Hiding the Access Pattern is Not Enough: Exploiting Search Pattern Leakage in Searchable Encryption
+A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents
+Fragment and Forge: Breaking Wi-Fi Through Frame Aggregation and Fragmentation
+Card Brand Mixup Attack: Bypassing the PIN in non-Visa Cards by Using Them for Visa Transactions
+Partitioning Oracle Attacks
+Raccoon Attack: Finding and Exploiting Most-Significant-Bit-Oracles in TLS-DH(E)
+A Side Journey To Titan
+PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications
+On the Design and Misuse of Microcoded (Embedded) Processors - A Cautionary Note
+M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles
+Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems
+Jetset: Targeted Firmware Rehosting for Embedded Systems
+LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks
+PACStack: an Authenticated Call Stack
+"It's stressful having all these phones": Investigating Sex Workers' Safety Goals, Risks, and Practices Online
+"Now I'm a bit angry: " Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them
+"It's the Company, the Government, You and I": User Perceptions of Responsibility for Smart Home Privacy and Security
+The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence
+Evaluating In-Workflow Messages for Improving Mental Models of End-to-End Encryption
+PriSEC: A Privacy Settings Enforcement Controller
+Are Privacy Dashboards Good for End Users? Evaluating User Perceptions and Reactions to Google's My Activity
+Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning
+Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
+Dynamic proofs of retrievability with low server storage
+Where's Crypto?: Automated Identification and Classification of Proprietary Cryptographic Primitives in Binary Code
+Towards Formal Verification of State Continuity for Enclave Programs
+Protecting Cryptography Against Compelled Self-Incrimination
+CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT Environments
+Automatic Extraction of Secrets from the Transistor Jungle using Laser-Assisted Side-Channel Attacks
+Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical
+Frontal Attack: Leaking Control-Flow in SGX via the CPU Frontend
+Charger-Surfing: Exploiting a Power Line Side-Channel for Smartphone Information Leakage
+VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface
+CIPHERLEAKS: Breaking Constant-time Cryptography on AMD SEV via the Ciphertext Side Channel
+Cross-VM and Cross-Processor Covert Channels Exploiting Processor Idle Power Management
+Can Systems Explain Permissions Better? Understanding Users' Misperceptions under Smartphone Runtime Permission Model
+"Shhh...be quiet!" Reducing the Unwanted Interruptions of Notification Permission Prompts on Chrome
+Explanation Beats Context: The Effect of Timing & Rationales on Users' Runtime Permission Decisions
+A Large Scale Study of User Behavior, Expectations and Engagement with Android Permissions
+Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries
+Using Amnesia to Detect Credential Database Breaches
+Incrementally Updateable Honey Password Vaults
+Private Blocklist Lookups with Checklist
+Identifying Harmful Media in End-to-End Encrypted Communication: Efficient Private Membership Computation
+Fuzzy Labeled Private Set Intersection with Applications to Private Real-Time Biometric Search
+PrivSyn: Differentially Private Data Synthesis
+Data Poisoning Attacks to Local Differential Privacy Protocols
+How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free
+Locally Differentially Private Analysis of Graph Statistics
+SMASH: Synchronized Many-sided Rowhammer Attacks from JavaScript
+Database Reconstruction from Noisy Volumes: A Cache Side-Channel Attack on SQLite
+PTAuth: Temporal Memory Safety via Robust Points-to Authentication
+Does logic locking work with EDA tools?
+CURE: A Security Architecture with CUstomizable and Resilient Enclaves
+DICE*: A Formally Verified Implementation of DICE Measured Boot
+PEARL: Plausibly Deniable Flash Translation Layer using WOM coding
+Examining the Efficacy of Decoy-based and Psychological Cyber Deception
+Helping Users Automatically Find and Manage Sensitive, Expendable Files in Cloud Storage
+Adapting Security Warnings to Counter Online Disinformation
+"Why wouldn't someone think of democracy as a target?": Security practices & challenges of people involved with U.S. political campaigns
+Security Obstacles and Motivations for Small Businesses from a CISO's Perspective
+Strategies and Perceived Risks of Sending Sensitive Documents
+A Large-Scale Interview Study on Information Security in and Attacks against Small and Medium-sized Enterprises
+On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin
+EOSAFE: Security Analysis of EOSIO Smart Contracts
+EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts
+Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications
+Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited
+Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain
+SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution
+MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design
+DOLMA: Securing Speculation with the Principle of Transient Non-Observability
+Osiris: Automated Discovery of Microarchitectural Side Channels
+Swivel: Hardening WebAssembly against Spectre
+Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks
+Coco: Co-Design and Co-Verification of Masked Software Implementations on CPUs
+Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers
+Blind Backdoors in Deep Learning Models
+Graph Backdoor
+Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection
+You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion
+Poisoning the Unlabeled Dataset of Semi-Supervised Learning
+Double-Cross Attacks: Subverting Active Learning Systems
+Fine Grained Dataflow Tracking with Proximal Gradients
+Static Detection of Unsafe DMA Accesses in Device Drivers
+MAZE: Towards Automated Heap Feng Shui
+SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting
+Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing
+MBA-Blast: Unveiling and Simplifying Mixed Boolean-Arithmetic Obfuscation
+VScape: Assessing and Escaping Virtual Call Protections
+Pretty Good Phone Privacy
+KeyForge: Non-Attributable Email from Forward-Forgeable Signatures
+Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy
+Kalεido: Real-Time Privacy Control for Eye-Tracking Systems
+Communication-Computation Trade-offs in PIR
+I Always Feel Like Somebody's Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors
+The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter
+SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations
+Adversarial Policy Training against Deep Reinforcement Learning
+DRMI: A Dataset Reduction Technology based on Mutual Information for Black-box Attacks
+Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA
+Entangled Watermarks as a Defense against Model Extraction
+Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps
+Hermes Attack: Steal DNN Models with Lossless Inference Accuracy
+ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems
+Automatic Firmware Emulation through Invalidity-guided Knowledge Inference
+Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code
+Understanding and Detecting Disordered Error Handling with Precise Function Pairing
+Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs
+Reducing Test Cases with Attention Mechanism of Neural Networks
+FlowDist: Multi-Staged Refinement-Based Dynamic Information Flow Analysis for Distributed Software Systems
+Privacy and Integrity Preserving Computations with CRISP
+Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics
+GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference
+ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation
+Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
+Muse: Secure Inference Resilient to Malicious Clients
+ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State
+PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking
+T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification
+WaveGuard: Understanding and Mitigating Audio Adversarial Examples
+Cost-Aware Robust Tree Ensembles for Security Applications
+Dompteur: Taming Audio Adversarial Examples
+CADE: Detecting and Explaining Concept Drift Samples for Security Applications
+SIGL: Securing Software Installations Through Deep Graph Learning
+ExpRace: Exploiting Kernel Races through Raising Interrupts
+Undo Workarounds for Kernel Bugs
+An Analysis of Speculative Type Confusion Vulnerabilities in the Wild
+Blinder: Partition-Oblivious Hierarchical Scheduling
+SHARD: Fine-Grained Kernel Specialization with Context-Aware Hardening
+Preventing Use-After-Free Attacks with Fast Forward Allocation
+Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking
+Effective Notification Campaigns on the Web: A Matter of Trust, Framing, and Support
+Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets
+JAW: Studying Client-side CSRF with Hybrid Property Graphs and Declarative Traversals
+AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads
+CACTI: Captcha Avoidance via Client-side TEE Integration
+PolyScope: Multi-Policy Access Control Analysis to Compute Authorized Attack Operations in Android Systems
+Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types
+Systematic Evaluation of Privacy Risks of Machine Learning Models
+Extracting Training Data from Large Language Models
+SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning
+Stealing Links from Graph Neural Networks
+Leakage of Dataset Properties in Multi-Party Machine Learning
+Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations
+Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning
+SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning
+Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing
+UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers
+Token-Level Fuzzing
+APICraft: Fuzz Driver Generation for Closed-source SDK Libraries
+The Use of Likely Invariants as Feedback for Fuzzers
+ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications
+Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses
+Saphire: Sandboxing PHP Applications with Tailored System Call Allowlists
+SandTrap: Securing JavaScript-driven Trigger-Action Platforms
+Can I Take Your Subdomain? Exploring Same-Site Attacks in the Modern Web
+U Can't Debug This: Detecting JavaScript Anti-Debugging Techniques in the Wild
+Abusing Hidden Properties to Attack the Node.js Ecosystem
+Susan Landau, Tufts University
+mID: Tracing Screen Photos via Moiré Patterns
+SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression
+ATLAS: A Sequence-based Learning Approach for Attack Investigation
+ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning
+V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities
+Minerva- An Efficient Risk-Limiting Ballot Polling Audit
+Security Analysis of the Democracy Live Online Voting System
+Hopper: Modeling and Detecting Lateral Movement
+LZR: Identifying Unexpected Internet Services
+Blind In/On-Path Attacks and Applications to VPNs
+The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources
+Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS
+Causal Analysis for Software-Defined Networking Attacks
+Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks
+Automated Discovery of Denial-of-Service Vulnerabilities in Connected Vehicle Protocols
+Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
+Acoustics to the Rescue: Physical Key Inference Attack Revisited
+Messy States of Wiring: Vulnerabilities in Emerging Personal Payment Systems
+Research on the Security of Visual Reasoning CAPTCHA
+Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack
+Domain Shadowing: Leveraging Content Delivery Networks for Robust Blocking-Resistant Communications
+Weaponizing Middleboxes for TCP Reflected Amplification
+Collective Information Security in Large-Scale Urban Protests: the Case of Hong Kong
+How Great is the Great Firewall? Measuring China's DNS Censorship
+Balboa: Bobbing and Weaving around Network Censorship
+Once is Never Enough: Foundations for Sound Statistical Inference in Tor Network Experimentation
+Rollercoaster: An Efficient Group-Multicast Scheme for Mix Networks
+Obfuscation-Resilient Executable Payload Extraction From Packed Malware
+DeepReflect: Discovering Malicious Functionality through Binary Reconstruction
+When Malware Changed Its Mind: An Empirical Study of Variable Program Behaviors in the Real World
+The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle
+Forecasting Malware Capabilities From Cyber Attack Memory Images
+YARIX: Scalable YARA-based Malware Intelligence
+Constraint-guided Directed Greybox Fuzzing
+PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop
+Privacy-Preserving and Standard-Compatible AKA Protocol for 5G
+SEApp: Bringing Mandatory Access Control to Android Apps
+A11y and Privacy don't have to be mutually exclusive: Constraining Accessibility Service Misuse on Android
+An Investigation of the Android Kernel Patch Ecosystem
+Share First, Ask Later (or Never?) Studying Violations of GDPR's Explicit Consent in Android Apps
+DEFInit: An Analysis of Exposed Android Init Routines
+Scalable Detection of Promotional Website Defacements in Black Hat SEO Campaigns
+Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs
+Assessing Browser-level Defense against IDN-based Phishing
+Catching Phishers By Their Bait: Investigating the Dutch Phishing Landscape through Phishing Kit Detection
+PhishPrint: Evading Phishing Detection Crawlers by Prior Profiling
+Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages
+Is Real-time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols
+Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches
+ReDoSHunter: A Combined Static and Dynamic Approach for Regular Expression DoS Detection
+Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries
+Accurately Measuring Global Risk of Amplification Attacks using AmpMap
+A Stealthy Location Identification Attack Exploiting Carrier Aggregation in Cellular Networks
+Disrupting Continuity of Apple's Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi
+Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset
+Formally Verified Memory Protection for a Commodity Multiprocessor Hypervisor
+Automatic Policy Generation for Inter-Service Access Control of Microservices
+CLARION: Sound and Clear Provenance Tracking for Microservice Deployments
+Virtual Secure Platform: A Five-Stage Pipeline Processor over TFHE
+Searching Encrypted Data with Size-Locked Indexes
+Blitz: Secure Multi-Hop Payments Without Two-Phase Commits
+Reducing HSM Reliance in Payments through Proxy Re-Encryption
+Risky Business? Investigating the Security Practices of Vendors on an Online Anonymous Market using Ground-Truth Data
+Deep Entity Classification: Abusive Account Detection for Online Social Networks
+SocialHEISTing: Understanding Stolen Facebook Accounts
+Understanding Malicious Cross-library Data Harvesting on Android
+Swiped: Analyzing Ground-truth Data of a Marketplace for Stolen Debit and Credit Cards
+Having Your Cake and Eating It: An Analysis of Concession-Abuse-as-a-Service
+Capture: Centralized Library Management for Heterogeneous IoT Devices
+MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols
+HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes
+Exposing New Vulnerabilities of Error Handling Mechanism in CAN
+CANARY - a reactive defense mechanism for Controller Area Networks based on Active RelaYs
+ReDMArk: Bypassing RDMA Security Mechanisms
+ALPACA: Application Layer Protocol Confusion - Analyzing and Mitigating Cracks in TLS Authentication
+Experiences Deploying Multi-Vantage-Point Domain Validation at Let's Encrypt
+SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network
+Why Eve and Mallory Still Love Android: Revisiting TLS (In)Security in Android Applications
+Why TLS is better without STARTTLS: A Security Analysis of STARTTLS in the Email Context
+What's in a Name? Exploring CA Certificate Control

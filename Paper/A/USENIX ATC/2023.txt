@@ -1,0 +1,66 @@
+Proceedings of the 2023 USENIX Annual Technical Conference, USENIX ATC 2023, Boston, MA, USA, July 10-12, 2023
+Bifrost: Analysis and Optimization of Network I/O Tax in Confidential Virtual Machines
+SecretFlow-SPU: A Performant and User-Friendly Framework for Privacy-Preserving Machine Learning
+Portunus: Re-imagining Access Control in Distributed Systems
+GLogS: Interactive Graph Pattern Matching Query At Large Scale
+Cyclosa: Redundancy-Free Graph Pattern Mining via Set Dataflow
+SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks
+Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems
+TiDedup: A New Distributed Deduplication Architecture for Ceph
+LoopDelta: Embedding Locality-aware Opportunistic Delta Compression in Inline Deduplication for Highly Efficient Data Reduction
+TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs
+Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training
+Bridging the Gap between Relational OLTP and Graph-based OLAP
+Comosum: An Extensible, Reconfigurable, and Fault-Tolerant IoT Platform for Digital Agriculture
+Oakestra: A Lightweight Hierarchical Orchestration Framework for Edge Computing
+Explore Data Placement Algorithm for Balanced Recovery Load Distribution
+Luci: Loader-based Dynamic Software Updates for Off-the-shelf Shared Objects
+MELF: Multivariant Executables for a Heterogeneous World
+APRON: Authenticated and Progressive System Image Renovation
+zpoline: a system call hook mechanism based on binary rewriting
+Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks
+On-demand Container Loading in AWS Lambda
+Decentralized and Stateful Serverless Computing on the Internet Computer Blockchain
+Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis
+AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure
+Avoiding the Ordering Trap in Systems Performance Measurement
+AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems
+Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters
+Lifting the veil on Meta's microservice architecture: Analyses of topology and request workflows
+Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training
+Calcspar: A Contract-Aware LSM Store for Cloud Storage with Low Latency Spikes
+Adaptive Online Cache Capacity Optimization via Lightweight Working Set Size Estimation at Scale
+SAGE: Software-based Attestation for GPU Execution
+Confidential Computing within an AI Accelerator
+Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators
+oBBR: Optimize Retransmissions of BBR Flows on the Internet
+Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective
+FarReach: Write-back Caching in Programmable Switches
+CXL-ANNS: Software-Hardware Collaborative Memory Disaggregation and Computation for Billion-Scale Approximate Nearest Neighbor Search
+Overcoming the Memory Wall with CXL-Enabled SSDs
+STYX: Exploiting SmartNIC Capability to Reduce Datacenter Memory Tax
+Change Management in Physical Network Lifecycle Automation
+AAsclepius: Monitoring, Diagnosing, and Detouring at the Internet Peering Edge
+Deploying User-space TCP at Cloud Scale with LUNA
+RubbleDB: CPU-Efficient Replication with NVMe-oF
+Distributed Transactions at Scale in Amazon DynamoDB
+Prefix Siphoning: Exploiting LSM-Tree Range Filters For Information Disclosure
+EPF: Evil Packet Filter
+Translation Pass-Through for Near-Native Paging Performance in VMs
+Efficient Memory Overcommitment for I/O Passthrough Enabled VMs via Fine-grained Page Meta-data Management
+LPNS: Scalable and Latency-Predictable Local Storage Virtualization for Unpredictable NVMe SSDs in Clouds
+P2CACHE: Exploring Tiered Memory for In-Kernel File Systems Caching
+Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory
+Zhuque: Failure is Not an Option, it's an Exception
+EnvPipe: Performance-preserving DNN Training Framework for Saving Energy
+Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices
+UnFaaSener: Latency and Cost Aware Offloading of Functions from Serverless Platforms
+LLFree: Scalable and Optionally-Persistent Page-Frame Allocation
+SingularFS: A Billion-Scale Distributed File System Using a Single Metadata Server
+The Hitchhiker's Guide to Operating Systems
+Accelerating Distributed MoE Training and Inference with Lina
+SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization
+MSRL: Distributed Reinforcement Learning with Dataflow Fragments
+Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent
+Towards Iterative Relational Algebra on the GPU
+VectorVisor: A Binary Translation Scheme for Throughput-Oriented GPU Acceleration

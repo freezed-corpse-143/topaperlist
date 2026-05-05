@@ -1,0 +1,55 @@
+Proceedings of the Eighteenth European Conference on Computer Systems, EuroSys 2023, Rome, Italy, May 8-12, 2023
+Effective Performance Issue Diagnosis with Value-Assisted Cost Profiling
+Foxhound: Server-Grade Observability for Network-Augmented Applications
+OFence: Pairing Barriers to Find Concurrency Bugs in the Linux Kernel
+Pocket: ML Serving from the Edge
+Efficient and Safe I/O Operations for Intermittent Systems
+ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices
+Diagnosing Kernel Concurrency Failures with AITIA
+WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection
+Model Checking Guided Testing for Distributed Systems
+MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks
+Accelerating Graph Mining Systems with Subgraph Morphing
+TEA: A General-Purpose Temporal Graph Random Walk Engine
+ALT: Breaking the Wall between Data Layout and Loop Optimizations for Deep Learning Compilation
+REFL: Resource-Efficient Federated Learning
+Tabi: An Efficient Multi-Level Inference System for Large Language Models
+Fast and Efficient Model Serving Using Multi-GPUs with Direct-Host-Access
+DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation
+vTMM: Tiered Memory Management for Virtual Machines
+Making Dynamic Page Coalescing Effective on Virtualized Clouds
+Omni-Paxos: Breaking the Barriers of Partial Connectivity
+CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections
+OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers
+Palette Load Balancing: Locality Hints for Serverless Functions
+With Great Freedom Comes Great Opportunity: Rethinking Resource Allocation for Serverless Functions
+Groundhog: Efficient Request Isolation in FaaS
+Understanding and Optimizing Workloads for Unified Resource Management in Large Cloud Platforms
+Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems
+LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns
+Aggregate VM: Why Reduce or Evict VM's Resources When You Can Borrow Them From Other Nodes?
+R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage
+Safe and Practical GPU Computation in TrustZone
+Dissecting BFT Consensus: In Trusted Components we Trust!
+Diablo: A Benchmark Suite for Blockchains
+FrozenHot Cache: Rethinking Cache Management for Modern Hardware
+Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs
+Unikernel Linux (UKL)
+FlexPass: A Case for Flexible Credit-based Transport for Datacenter Networks
+Saba: Rethinking Datacenter Network Allocation from Application's Perspective
+A2TP: Aggregator-aware In-network Aggregation for Multi-tenant Learning
+Viper: A Fast Snapshot Isolation Checker
+Integrating Non-Volatile Main Memory in a Deterministic Database
+Morty: Scaling Concurrency Control with Re-Execution
+RIO: Order-Preserving and CPU-Efficient Remote Storage Access
+Chipmunk: Investigating Crash-Consistency in Persistent-Memory File Systems
+Mumak: Efficient and Black-Box Bug Detection for Persistent Memory
+NearPM: A Near-Data Processing System for Storage-Class Applications
+FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines
+All-Flash Array Key-Value Cache for Large Objects
+DyTIS: A Dynamic Dataset Targeted Index Structure Simultaneously Efficient for Search, Insert, and Scan
+DRAMHiT: A Hash Table Architected for the Speed of DRAM
+Lyra: Elastic Scheduling for Deep Learning Clusters
+Egeria: Efficient DNN Training with Knowledge-Guided Layer Freezing
+Hi-Speed DNN Training with Espresso: Unleashing the Full Potential of Gradient Compression with Near-Optimal Usage Strategies
+SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters

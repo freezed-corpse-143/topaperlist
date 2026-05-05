@@ -1,0 +1,109 @@
+Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, SC 2024, Atlanta, GA, USA, November 17-22, 2024
+ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability
+Boosting Earth System Model Outputs And Saving PetaBytes in Their Storage Using Exascale Climate Emulators
+A Performance-Portable Kilometer-Scale Global Ocean Model on ORISE and New Sunway Heterogeneous Supercomputers
+Democratizing AI: Open-source Scalable LLM Training on GPU-based Supercomputers
+Pushing the Limit of Quantum Mechanical Simulation to the Raman Spectra of a Biological System with 100 Million Atoms
+Toward Capturing Genetic Epistasis From Multivariate Genome-Wide Association Studies Using Mixed-Precision Kernel Ridge Regression
+MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization
+Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System
+Breaking the Million-Electron and 1 EFLOP/s Barriers: Biomolecular-Scale Ab Initio Molecular Dynamics Using MP2 Potentials
+M3XU: Achieving High-Precision and Complex Matrix Multiplication with Low-Precision MXUs
+Hydrogen: Contention-Aware Hybrid Memory for Heterogeneous CPU-GPU Architectures
+EcoLife: Carbon-Aware Serverless Function Scheduling for Sustainable Computing
+cuSZ-i: High-Ratio Scientific Lossy Compression on GPUs with Optimized Multi-Level Interpolation
+Tango: A Cross-layer Approach to Managing I/O Interference over Local Ephemeral Storage
+cuSZp2: A GPU Lossy Compressor with Extreme Throughput and Optimized Compression Ratio
+LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services
+DFTracer: An Analysis-Friendly Data Flow Tracer for AI-Driven Workflows
+Efficient Weighted Graph Matching on GPUs
+Automated Code Generation of High-Order Stencils for a Dataflow Architecture
+Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations
+autoGEMM: Pushing the Limits of Irregular Matrix Multiplication on Arm Architectures
+Accurate and Convenient Energy Measurements for GPUs: A Detailed Study of NVIDIA GPU's Built-In Power Sensor
+A Digital Twin Framework for Liquid-cooled Supercomputers as Demonstrated at Exascale
+Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer
+Towards Highly Compatible I/O-Aware Workflow Scheduling on HPC Systems
+PAL: A Variability-Aware Policy for Scheduling ML Workloads in GPU Clusters
+Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution
+Matrix-Free Finite Volume Kernels on a Dataflow Architecture
+Rapid GPU-Based Pangenome Graph Layout
+Scaling Molecular Dynamics with ab initio Accuracy to 149 Nanoseconds per Day
+An Evaluation of the Effect of Network Cost Optimization for Leadership Class Supercomputers
+Application-Driven Exascale: The JUPITER Benchmark Suite
+Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects
+MCFuser: High-Performance and Rapid Fusion of Memory-Bound Compute-Intensive Operators
+Static Generation of Efficient OpenMP Offload Data Mappings
+HiRace: Accurate and Fast Data Race Checking for GPU Programs
+Boosting Data Center Performance via Intelligently Managed Multi-backend Disaggregated Memory
+SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing
+Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing
+PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation
+RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules
+ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments
+CUDASTF: Bridging the Gap Between CUDA and Task Parallelism
+KaMPIng: Flexible and (Near) Zero-Overhead C++ Bindings for MPI
+NetCL: A Unified Programming Framework for In-Network Computing
+Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication
+A Sparsity-Aware Distributed-Memory Algorithm for Sparse-Sparse Matrix Multiplication
+A Conflict-aware Divide-and-Conquer Algorithm for Symmetric Sparse Matrix-Vector Multiplication
+Accelerating Distributed DLRM Training with Optimized TT Decomposition and Micro-Batching
+Scaling New Heights: Transformative Cross-GPU Sampling for Training Billion-Edge Graphs
+A Scalable Algorithm for Active Learning
+AmgT: Algebraic Multigrid Solver on Tensor Cores
+LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores
+High Performance Unstructured SpMM Computation Using Tensor Cores
+Versatile Datapath Soft Error Detection on the Cheap for HPC Applications
+MCBound: An Online Framework to Characterize and Classify Memory/Compute-bound HPC Jobs
+GVARP: Detecting Performance Variance on Large-Scale Heterogeneous Systems
+Mille-feuille: A Tile-Grained Mixed Precision Single-Kernel Conjugate Gradient Solver on GPUs
+DBSR: An Efficient Storage Format for Vectorizing Sparse Triangular Solvers on Structured Grids
+Many-Body Electronic Correlation Energy using Krylov Subspace Linear Solvers
+Enabling 13K-Atom Excited-State GW Calculations via Low-Rank Approximations and HPC on the New Sunway Supercomputer
+Reshaping High Energy Physics Applications for Near-Interactive Execution Using TaskVine
+Towards Exascale Simulations of Nanoelectronic Devices in the GW Approximation
+LLAMP: Assessing Network Latency Tolerance of HPC Applications with Linear Programming
+A Workflow Roofline Model for End-to-End Workflow Performance Analysis
+Learning Generalizable Program and Architecture Representations for Performance Modeling
+LexiQL: Quantum Natural Language Processing on NISQ-era Machines
+Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures
+On the Efficacy of Surface Codes in Compensating for Radiation Events in Superconducting Devices
+Revisiting Computation for Research: Practices and Trends
+Understanding Data Movement Patterns in HPC: A NERSC Case Study
+HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications
+Parallax: A Compiler for Neutral Atom Quantum Computers under Hardware Constraints
+MixQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction
+Long Exposure: Accelerating Parameter-Efficient Fine-Tuning for LLMs under Shadowy Sparsity
+Adaptive Patching for High-resolution Image Segmentation with Transformers
+TorchGT: A Holistic System for Large-Scale Graph Transformer Training
+Exploring Efficient Partial Differential Equation Solution Using Speed Galerkin Transformer
+Surpassing Sycamore: Achieving Energetic Superiority Through System-Level Circuit Simulation
+Realizing Quantum Kernel Models at Scale with Matrix Product State Simulation
+Atlas: Hierarchical Partitioning for Quantum Circuit Simulation on GPUs
+Unlocking High Performance with Low-Bit NPUs and CPUs for Highly Optimized HPL-MxP on Cloud Brain II
+Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
+A Probabilistic Approach To Selecting Build Configurations in Package Managers
+A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization
+Error-controlled Progressive Retrieval of Scientific Data under Derivable Quantities of Interest
+CARP: Range Query-Optimized Indexing for Streaming Data
+Optimizing Distributed ML Communication with Fused Computation-Collective Operations
+Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression
+APTMoE: Affinity-Aware Pipeline Tuning for MoE Models on Bandwidth-Constrained GPU Nodes
+Accelerated Atomistic Kinetic Monte Carlo Simulations of Resistive Memory Arrays
+Large Language Models for Anomaly Detection in Computational Workflows: From Supervised Fine-Tuning to In-Context Learning
+Designing a GPU-Accelerated Communication Layer for Efficient Fluid-Structure Interaction Computations on Heterogeneous Systems
+Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link
+COAXIAL: A CXL-Centric Memory System for Scalable Servers
+Switch-Less Dragonfly on Wafers: A Scalable Interconnection Architecture based on Wafer-Scale Integration
+Fast and Efficient Scaling for Microservices with SurgeGuard
+Realizing Joint Extreme-Scale Simulations on Multiple Supercomputers - Two Superfacility Case Studies
+AutoCheck: Automatically Identifying Variables for Checkpointing by Data Dependency Analysis
+Enumeration of Billions of Maximal Bicliques in Bipartite Graphs without Using GPUs
+Doubling Graph Traversal Efficiency to 198 TeraTEPS on the Supercomputer Fugaku
+Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization
+Network-Offloaded Bandwidth-Optimal Broadcast and Allgather for Distributed AI
+hZCCL: Accelerating Collective Communication with Co-Designed Homomorphic Compression
+UNR: Unified Notifiable RMA Library for HPC
+EXO: Accelerating Storage Paravirtualization with eBPF
+CoRD: Combining Raid and Delta for Fast Partial Updates in Erasure-Coded Storage Clusters
+MegaMmap: Blurring the Boundary Between Memory and Storage for Data-Intensive Workloads

@@ -1,0 +1,73 @@
+ISSTA '22: 31st ACM SIGSOFT International Symposium on Software Testing and Analysis, Virtual Event, South Korea, July 18 - 22, 2022
+jTrans: jump-aware transformer for binary code similarity detection
+FDG: a precise measurement of fault diagnosability gain of test cases
+TeLL: log level suggestions via modeling multi-level code block information
+An extensive study on pre-trained models for program understanding and generation
+Metamorphic relations via relaxations: an approach to obtain oracles for action-policy testing
+Hunting bugs with accelerated optimal graph vertex matching
+Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)
+Combining solution reuse and bound tightening for efficient analysis of evolving systems
+On the use of evaluation measures for defect prediction studies
+Evolution-aware detection of order-dependent flaky tests
+ε-weakened robustness of deep neural networks
+Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study)
+Improving cross-platform binary analysis using representation learning via graph alignment
+BET: black-box efficient testing for convolutional neural networks
+DocTer: documentation-guided fuzzing for testing deep learning API functions
+ASRTest: automated testing for deep-neural-network-driven speech recognition systems
+AEON: a method for automatic evaluation of NLP test cases
+Human-in-the-loop oracle learning for semantic bugs in string processing programs
+HybridRepair: towards annotation-efficient repair for deep learning models
+Cross-lingual transfer learning for statistical type inference
+Unicorn: detect runtime errors in time-series databases with hybrid input synthesis
+On the use of mutation analysis for evaluating student test suite quality
+Test mimicry to assess the exploitability of library vulnerabilities
+Automated test generation for REST APIs: no time to rest yet
+Finding bugs in Gremlin-based graph database systems via Randomized differential testing
+RegMiner: towards constructing a large regression dataset from code evolution history
+One step further: evaluating interpreters using metamorphic testing
+SnapFuzz: high-throughput fuzzing of network applications
+Almost correct invariants: synthesizing inductive invariants by fuzzing proofs
+SLIME: program-sensitive energy allocation for fuzzing
+MDPFuzz: testing models solving Markov decision processes
+TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving
+PrIntFuzz: fuzzing Linux drivers via automated virtual device simulation
+Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation
+Understanding device integration bugs in smart home system
+A large-scale empirical analysis of the vulnerabilities introduced by third-party components in IoT firmware
+Deadlock prediction via generalized dependency
+Automated testing of image captioning systems
+LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems
+Detecting multi-sensor fusion errors in advanced driver-assistance systems
+Precise and efficient atomicity violation detection for interrupt-driven programs via staged path pruning
+Path-sensitive code embedding via contrastive learning for software vulnerability detection
+A large-scale study of usability criteria addressed by static analysis tools
+An empirical study on the effectiveness of static C code analyzers for vulnerability detection
+Testing Dafny (experience paper)
+Combining static analysis error traces with dynamic symbolic execution (experience paper)
+The raise of machine learning hyperparameter constraints in Python code
+PermDroid: automatically testing permission-related behaviour of Android applications
+Detecting and fixing data loss issues in Android apps
+Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study)
+NCScope: hardware-assisted analyzer for native code in Android apps
+Detecting resource utilization bugs induced by variant lifecycles in Android
+Patch correctness assessment in automated program repair based on the impact of patches on production and test code
+ATR: template-based repair for Alloy specifications
+CIRCLE: continual repair across programming languages
+Program vulnerability repair via inductive inference
+WASAI: uncovering vulnerabilities in Wasm smart contracts
+Finding permission bugs in smart contracts with role mining
+eTainter: detecting gas-related vulnerabilities in smart contracts
+Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution
+SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability
+ATUA: an update-driven app testing tool
+Automatic generation of smoke test suites for kubernetes
+ESBMC-CHERI: towards verification of C programs for CHERI platforms with ESBMC
+ESBMC-Jimple: verifying Kotlin programs via jimple intermediate representation
+Faster mutation analysis with MeMu
+iFixDataloss: a tool for detecting and fixing data loss issues in Android apps
+Maestro: a platform for benchmarking automatic program repair tools on software vulnerabilities
+Pytest-Smell: a smell detection tool for Python unit tests
+QMutPy: a mutation testing tool for Quantum algorithms and applications in Qiskit
+SpecChecker-ISA: a data sharing analyzer for interrupt-driven embedded software
+UniRLTest: universal platform-independent testing with reinforcement learning via image understanding

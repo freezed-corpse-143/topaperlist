@@ -1,0 +1,118 @@
+InfraFix: Technology-Agnostic Repair of Infrastructure as Code
+Kitten: A Simple Yet Effective Baseline for Evaluating LLM-Based Compiler Testing Techniques
+GoPV: A Static Analyzer for Finding Blocking Concurrency Bugs Due to Misuse of Shared-Memory Synchronization in Go
+TBFV4J: An Automated Testing-Based Formal Verification Tool for Java
+PatchScope – A Modular Tool for Annotating and Analyzing Contributions
+Code2API: A Tool for Generating Reusable APIs from Stack Overflow Code Snippets
+LiPSBOMaker: A Prototype of Multi-Stage Linux Distribution Package SBOM Generator
+ASTRAL: A Tool for the Automated Safety Testing of Large Language Models
+ReGraph: A Tool for Binary Similarity Identification
+Teaching Software Testing and Debugging with the Serious Game Sojourner under Sabotage
+XAVIER: Grammar-Based Testing for XML Injection Attacks
+Adding Spatial Memory Safety to EDK II through Checked C (Experience Paper)
+AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent
+A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing
+ALMOND: Learning an Assembly Language Model for 0-Shot Code Obfuscation Detection
+A Low-Cost Feature Interaction Fault Localization Approach for Software Product Lines
+An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection
+Are Autonomous Web Agents good testers?
+Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles
+AudioTest: Prioritizing Audio Test Cases
+Automated Attack Synthesis for Constant Product Market Makers
+Automated Test Transfer Across Android Apps Using Large Language Models
+Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs
+BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction
+BinQuery: A Novel Framework for Natural Language-Based Binary Code Retrieval
+Bridge the Islands: Pointer Analysis for Microservice Systems
+Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better
+Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks
+Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation
+ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation
+Clause2Inv: A Generate-Combine-Check Framework for Loop Invariant Inference
+ConTested: Consistency-Aided Tested Code Generation with LLM
+Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
+CrossProbe: LLM-empowered Cross-Project Bug Detection for Deep Learning Frameworks
+DataHook: An Efficient and Lightweight System Call Hooking Technique without Instruction Modification
+DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code
+DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction
+DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems
+Detecting Isolation Anomalies in Relational DBMSs
+Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration
+Dynamically Fusing Python HPC Kernels
+Effective REST APIs Testing with Error Message Analysis
+Enhanced Prompting Framework for Code Summarization with Large Language Models
+Enhancing Smart Contract Security Analysis with Execution Property Graphs
+Enhancing Vulnerability Detection via Inter-procedural Semantic Completion
+Extended Reality Cybersickness Assessment via User Review Analysis
+Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models
+FANDANGO: Evolving Language-Based Testing
+Finding 709 Defects in 258 Projects: An Experience Report on Applying CodeQL to Open-Source Embedded Software (Experience Paper)
+Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management
+Freesia: Verifying Correctness of TEE Communication with Concurrent Separation Logic
+FreeWavm: Enhanced WebAssembly Runtime Fuzzing Guided by Parse Tree Mutation and Snapshot
+Gamifying Testing in IntelliJ: A Replicability Study
+GoPV: Detecting Blocking Concurrency Bugs Related to Shared-Memory Synchronization in Go
+GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs
+Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis
+ICEPRE: ICS protocol reverse engineering via data-driven concolic execution
+Identifying Multi-Parameter Constraint Errors in Python Data Science Library API Documentations
+Improving Deep Learning Framework Testing with Model-Level Metamorphic Testing
+Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation
+Intention-based GUI Test Migration for Mobile Apps using Large Language Models
+KEENHash: Hashing Programs into Function-aware Embeddings for Large-scale Binary Code Similarity Analysis
+KRAKEN: Program-Adaptive Parallel Fuzzing
+LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models
+LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation
+LogBase: A Large-Scale Benchmark for Semantic Log Parsing
+MLLM-Based UI2Code Automation Guided by UI Layout Information
+Model Checking Guided Incremental Testing for Distributed Systems
+MoDitector: Module-Directed Testing for Autonomous Driving Systems
+More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph
+NADA: Neural Acceptance-driven Approximate Specification Mining
+No Bias Left Behind: Fairness Testing for Deep Recommender Systems Targeting General Disadvantaged Groups
+OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution
+OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
+PatchScope: LLM-Enhanced Fine-Grained Stable Patch Classification for Linux Kernel
+Pepper: Preference-Aware Active Trapping for Ransomware
+Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS
+Preventing Disruption of System Backup Against Ransomware Attacks
+Productively Deploying Emerging Models on Emerging Platforms: A Top-Down Approach for Testing and Debugging
+Program Analysis Combining Generalized Bit-Level and Word-Level Abstractions
+Program Feature-based Benchmarking for Fuzz Testing
+QTRAN: Extending Metamorphic-Oracle based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support
+Quantum Concolic Testing
+REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models
+Recurring Vulnerability Detection: How Far Are We?
+Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator
+Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective
+Robust Vulnerability Detection Across Compilations: LLVM-IR vs. Assembly with Transformer Model
+RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search
+Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs
+S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models
+Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
+SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
+Static Program Reduction via Type-Directed Slicing
+Structure-Aware, Diagnosis-Guided ECU Firmware Fuzzing
+STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs
+SWE-GPT: A Process-Centric Language Model for Automated Software Improvement
+Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems
+The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation
+The Incredible Shrinking Context... in a decompiler near you
+Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection
+Tracezip: Efficient Distributed Tracing via Trace Compression
+Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles
+Type-Alias Analysis: Enabling LLVM IR with Accurate Types
+Uncovering API-Scope Misalignment in the App-in-App Ecosystem
+Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection
+Understanding Practitioners’ Expectations on Clear Code Review Comments
+Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG
+Validating Network Protocol Parsers with Traceable RFC Document Interpretation
+VerLog: Enhancing Release Note Generation for Android Apps using Large Language Models
+Walls Have Ears: Demystifying Notification Listener Usage in Android Apps
+Wemby’s Web: Hunting for Memory Corruption in WebAssembly
+What Happened in This Pipeline? Diffing Build Logs With CiDiff
+Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
+WildSync: Automated Fuzzing Harness Synthesis via Wild API Usage Recovery
+xFUZZ: A Flexible Framework for Fine-Grained, Runtime-Adaptive Fuzzing Strategy Composition
+You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects
+ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference

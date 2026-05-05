@@ -1,0 +1,49 @@
+PPoPP '21: 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Virtual Event, Republic of Korea, February 27- March 3, 2021
+Efficient algorithms for persistent transactional memory
+Investigating the semantics of futures in transactional memory systems
+Constant-time snapshots with applications to concurrent data structures
+Reasoning about recursive tree traversals
+Synthesizing optimal collective algorithms
+Parallel binary code analysis
+Compiler support for near data computing
+Scaling implicit parallelism via dynamic control replication
+Understanding and bridging the gaps in current GNN performance optimizations
+A fast work-efficient SSSP algorithm for GPUs
+ShadowVM: accelerating data plane for data analytics with bare metal CPUs and GPUs
+BiPart: a parallel and deterministic hypergraph partitioner
+NBR: neutralization based reclamation
+Efficiently reclaiming memory in concurrent search data structures while bounding wasted memory
+OrcGC: automatic lock-free memory reclamation
+Are dynamic memory managers on GPUs slow?: a survey and benchmarks
+GPTune: multitask learning for autotuning exascale applications
+I/O lower bounds for auto-tuning of convolutions in CNNs
+ApproxTuner: a compiler and runtime system for adaptive approximations
+EGEMM-TC: accelerating scientific computing on tensor cores with extended precision
+Efficiently running SpMV on long vector architectures
+Improving communication by optimizing on-node data movement with data layout
+Sparta: high-performance, element-wise sparse tensor contraction on heterogeneous memory
+Advanced synchronization techniques for task-based runtime systems
+An ownership policy and deadlock detector for promises
+Understanding a program's resiliency through error propagation
+Lightweight preemptive user-level threads
+TurboTransformers: an efficient GPU serving system for transformer models
+Extracting clean performance models from tainted programs
+Modernizing parallel code with pattern analysis
+DAPPLE: a pipelined data parallel approach for training large models
+On group mutual exclusion for dynamic systems
+Bundled references: an abstraction for highly-concurrent linearizable range queries
+Verifying C11-style weak memory libraries
+A lock-free relaxed concurrent queue for fast work distribution
+A more pragmatic implementation of the lock-free, ordered, linked list
+Extending MapReduce framework with locality keys
+On the parallel I/O optimality of linear algebra kernels: near-optimal LU factorization
+Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics
+In-situ workflow auto-tuning through combining component models
+Simplifying low-level GPU programming with GAS
+Corder: cache-aware reordering for optimizing graph analytics
+DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing
+An efficient uncertain graph processing framework for heterogeneous architectures
+Dynamic scaling for low-precision learning
+Exploring deep reuse in winograd CNN inference
+A novel memory-efficient deep learning training framework via error-bounded lossy compression
+FFT blitz: the tensor cores strike back

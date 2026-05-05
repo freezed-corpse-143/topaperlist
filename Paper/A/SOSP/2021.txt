@@ -1,0 +1,55 @@
+SOSP '21: ACM SIGOPS 28th Symposium on Operating Systems Principles, Virtual Event / Koblenz, Germany, October 26-29, 2021
+Basil: Breaking up BFT with ACID (transactions)
+Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks
+Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation
+iGUARD: In-GPU Advanced Race Detection
+Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis
+Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale
+Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores
+Understanding and Detecting Software Upgrade Failures in Distributed Systems
+Crash Consistent Non-Volatile Memory Express
+Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing
+Regular Sequential Serializability and Regular Sequential Consistency
+Caracal: Contention Management with Deterministic Concurrency Control
+The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems
+Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock
+PRISM: Rethinking the RDMA Interface for Distributed Systems
+Kangaroo: Caching Billions of Tiny Objects on Flash
+lODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage
+FragPicker: A New Defragmentation Tool for Modern Storage Devices
+dSpace: Composable Abstractions for Smart Spaces
+Random Walks on Huge Graphs at Cache Efficiency
+Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy
+HEALER: Relation Learning Guided Kernel Fuzzing
+Gradient Compression Supercharged High-Performance Data Parallel DNN Training
+Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks
+HeMem: Scalable Tiered Memory Management for Big Data Applications and Real NVM
+J-NVM: Off-heap Persistent Objects in Java
+PACTree: A High Performance Persistent Range Index Using PAC Guidelines
+Exploiting Nil-Externality for Fast Replicated Storage
+Geometric Partitioning: Explore the Boundary of Optimal Erasure Code Repair
+Rabia: Simplifying State-Machine Replication Through Randomization
+MIND: In-Network Memory Management for Disaggregated Data Centers
+RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation
+Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP
+Log-structured Protocols in Delos
+Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications
+Forerunner: Constraint-based Speculative Transaction Execution for Ethereum
+ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling
+Syrup: User-Defined Scheduling Across the Stack
+When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone
+TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM
+Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage
+Coeus: A System for Oblivious Document Ranking and Retrieval
+Boki: Stateful Serverless Computing with Shared Logs
+Bladerunner: Stream Processing at Scale for a Live View of Backend Data Mutations at the Edge
+Faster and Cheaper Serverless Computing on Harvested Resources
+Xenic: SmartNIC-Accelerated Distributed Transactions
+LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism
+Automated SmartNIC Offloading Insights for Network Functions
+The Aurora Single Level Store Operating System
+WineFS: a hugepage-aware file system for persistent memory that ages gracefully
+Scale and Performance in a Filesystem Semi-Microkernel
+Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3
+CLoF: A Compositional Lock Framework for Multi-level NUMA Systems
+Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware

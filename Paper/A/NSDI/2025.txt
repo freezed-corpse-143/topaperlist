@@ -1,0 +1,84 @@
+22nd USENIX Symposium on Networked Systems Design and Implementation, NSDI 2025, Philadelphia, PA, USA, April 28-30, 2025
+PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters
+Rajomon: Decentralized and Coordinated Overload Control for Latency-Sensitive Microservices
+Learnings from Deploying Network QoS Alignment to Application Priorities for Storage Services
+DISC: Backpressure Mitigation In Multi-tier Applications With Distributed Shared Connection
+Enabling Silent Telemetry Data Transmission with InvisiFlow
+Unlocking ECMP Programmability for Precise Traffic Control
+Enabling Portable and High-Performance SmartNIC Programs with Alkali
+Scaling IP Lookup to Large Databases using the CRAM Lens
+Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing
+Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs
+Making Serverless Pay-For-Use a Reality with Leopard
+GRANNY: Granular Management of Compute-Intensive Applications in the Cloud
+On Temporal Verification of Stateful P4 Programs
+NDD: A Decision Diagram for Network Verification
+Smart Casual Verification of the Confidential Consortium Framework
+VEP: A Two-stage Verification Toolchain for Full eBPF Programmability
+MeshTest: End-to-End Testing for Service Mesh Traffic Management
+Preventing Network Bottlenecks: Accelerating Datacenter Services with Hotspot-Aware Placement for Compute and Storage
+Enhancing Network Failure Mitigation with Performance-Aware Ranking
+One-Size-Fits-None: Understanding and Enhancing Slow-Fault Tolerance in Modern Distributed Systems
+Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter
+eTran: Extensible Kernel Transport with eBPF
+White-Boxing RDMA with Packet-Granular Software Control
+SIRD: A Sender-Informed, Receiver-Driven Datacenter Transport Protocol
+Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation
+Optimizing RLHF Training for Large Language Models with Stage Fusion
+Minder: Faulty Machine Detection for Large-scale Distributed Model Training
+Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
+SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision
+ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development
+Mowgli: Passively Learned Rate Control for Real-Time Video
+Dissecting and Streamlining the Interactive Loop of Mobile Cloud Gaming
+Region-based Content Enhancement for Efficient Video Analytics at the Edge
+Tooth: Toward Optimal Balance of Video QoE and Redundancy Cost by Fine-Grained FEC in Cloud Gaming Streaming
+AsTree: An Audio Subscription Architecture Enabling Massive-Scale Multi-Party Conferencing
+AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training
+OptiReduce: Resilient and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud
+Efficient Direct-Connect Topologies for Collective Communications
+SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads
+Pineapple: Unifying Multi-Paxos and Atomic Shared Registers
+Ladder: A Convergence-based Structured DAG Blockchain for High Throughput and Low Latency
+Vegeta: Enabling Parallel Smart Contract Execution in Leaderless Blockchains
+Shoal++: High Throughput DAG BFT Can Be Fast and Robust!
+Learning Production-Optimized Congestion Control Selection for Alibaba Cloud CDN
+GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale
+Evolution of Aegis: Fault Diagnosis for AI Model Training Service in Production
+PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality
+HA/TCP: A Reliable and Scalable Framework for TCP Network Functions
+High-level Programming for Application Networks
+State-Compute Replication: Parallelizing High-Speed Stateful Packet Processing
+MTP: Transport for In-Network Computing
+ONCache: A Cache-Based Low-Overhead Container Overlay Network
+GREEN: Carbon-efficient Resource Scheduling for Machine Learning Clusters
+The Benefits and Limitations of User Interrupts for Preemptive Userspace Scheduling
+Securing Public Cloud Networks with Efficient Role-based Micro-Segmentation
+Mitigating Scalability Walls of RDMA-based Container Networks
+Eden: Developer-Friendly Application-Integrated Far Memory
+Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs
+ODRP: On-Demand Remote Paging with Programmable RDMA
+Understanding and Profiling NVMe-over-TCP Using ntprof
+Building an Elastic Block Storage over EBOFs Using Shadow Views
+Pushing the Limits of In-Network Caching for Key-Value Stores
+CellReplay: Towards accurate record-and-replay for cellular networks
+Large Network UWB Localization: Algorithms and Implementation
+Towards Energy Efficient 5G vRAN Servers
+Building Massive MIMO Baseband Processing on a Single-Node Supercomputer
+Efficient Multi-WAN Transport for 5G with OTTER
+Verifying maximum link loads in a changing world
+A Layered Formal Methods Approach to Answering Queue-related Queries
+Runtime Protocol Refinement Checking for Distributed Protocol Implementations
+CEGS: Configuration Example Generalizing Synthesizer
+Suppressing BGP Zombies with Route Status Transparency
+ValidaTor: Domain Validation over Tor
+From Address Blocks to Authorized Prefixes: Redesigning RPKI ROV with a Hierarchical Hashing Scheme for Fast and Memory-Efficient Validation
+PreAcher: Secure and Practical Password Pre-Authentication by Content Delivery Networks
+ClubHeap: A High-Speed and Scalable Priority Queue for Programmable Packet Scheduling
+Self-Clocked Round-Robin Packet Scheduling
+Everything Matters in Programmable Packet Scheduling
+When P4 Meets Run-to-completion Architecture
+Mutant: Learning Congestion Control from Existing Protocols via Online Reinforcement Learning
+CATO: End-to-End Optimization of ML-Based Traffic Analysis Pipelines
+Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model
+BFTBrain: Adaptive BFT Consensus with Reinforcement Learning

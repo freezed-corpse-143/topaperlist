@@ -1,0 +1,122 @@
+IEEE International Symposium on High Performance Computer Architecture, HPCA 2025, Las Vegas, NV, USA, March 1-5, 2025
+The Importance of Generalizability in Machine Learning for Systems
+Veritas - Demystifying Silent Data Corruptions: μArch-Level Modeling and Fleet Data of Modern x86 CPUs
+ChameleonEC: Exploiting Tunability of Erasure Coding for Low-Interference Repair
+DPUaudit: DPU-assisted Pull-based Architecture for Near-Zero Cost System Auditing
+Delinquent Loop Pre-execution Using Predicated Helper Threads
+Mascot: Predicting Memory Dependencies and Opportunities for Speculative Memory Bypassing
+Architecting Value Prediction around In-Order Execution
+Efficient Optimization with Encoded Ising Models
+SPARK: Sparsity Aware, Low Area, Energy-Efficient, Near-memory Architecture for Accelerating Linear Programming Problems
+LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof
+Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms
+HATT: Hamiltonian Adaptive Ternary Tree for Optimizing Fermion-to-Qubit Mapping
+QuCLEAR: Clifford Extraction and Absorption for Quantum Circuit Optimization
+Gaze into the Pattern: Characterizing Spatial Patterns with Internal Temporal Correlations for Hardware Prefetching
+To Cross, or Not to Cross Pages for Prefetching?
+Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency
+VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering
+IRIS: Unleashing ISP-Software Cooperation to Optimize the Machine Vision Pipeline
+Uni-Render: A Unified Accelerator for Real-Time Rendering Across Diverse Neural Renderers
+Interleaved Logical Qubits in Atom Arrays
+Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization
+BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap
+LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing
+R.I.P. Geomean Speedup Use Equal-Work (Or Equal-Time) Harmonic Mean Speedup Instead
+eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models
+EXION: Exploiting Inter-and Intra-Iteration Output Sparsity for Diffusion Models
+Ditto: Accelerating Diffusion Model via Temporal Value Similarity
+Gaussian Blending Unit: An Edge GPU Plug-in for Real-Time Gaussian-Based Rendering in AR/VR
+GSArch: Breaking Memory Barriers in 3D Gaussian Splatting Training via Architectural Support
+Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design
+SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction
+BrokenSleep: Remote Power Timing Attack Exploiting Processor Idle States
+Efficient Memory Side-Channel Protection for Embedding Generation in Machine Learning
+Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications
+Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments
+Grad: Intelligent Microservice Scaling by Harnessing Resource Fungibility
+Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing
+ER-DCIM: Error-Resilient Digital CIM Architecture with Run-Time MAC-Cell Error Correction
+AsyncDIMM: Achieving Asynchronous Execution in DIMM-Based Near-Memory Processing
+SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators
+Adyna: Accelerating Dynamic Neural Networks with Adaptive Scheduling
+EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration
+SkyByte: Architecting an Efficient Memory-Semantic CXL-based SSD with OS and Hardware Co-design
+Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)
+Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration
+UniNDP: A Unified Compilation and Simulation Tool for Near DRAM Processing Architectures
+Piccolo: Large-Scale Graph Processing with Fine-Grained in-Memory Scatter-Gather
+GoPIM: GCN-Oriented Pipeline Optimization for PIM Accelerators
+LUT-DLA: Lookup Table as Efficient Extreme Low-Bit Deep Learning Accelerator
+Exploring the Performance Improvement of Tensor Processing Engines through Transformation in the Bit-weight Dimension of MACs
+Panacea: Novel DNN Accelerator using Accuracy-Preserving Asymmetric Quantization and Energy-Saving Bit-Slice Sparsity
+From Optimal to Practical: Efficient Micro-op Cache Replacement Policies for Data Center Applications
+Rethinking Dead Block Prediction for Intermittent Computing
+Efficient Caching with A Tag-enhanced DRAM
+PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference
+CogSys: Efficient and Scalable Neurosymbolic Cognition System via Algorithm-Hardware Co-Design
+NeuVSA: A Unified and Efficient Accelerator for Neural Vector Search
+Prosperity: Accelerating Spiking Neural Networks via Product Sparsity
+Bit-slice Architecture for DNN Acceleration with Slice-level Sparsity Enhancement and Exploitation
+A Hardware-Software Design Framework for SpMV Acceleration with Flexible Access Pattern Portfolio
+Variable Read Disturbance: An Experimental Analysis of Temporal Variation in DRAM Read Disturbance
+Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions
+Chronus: Understanding and Securing the Cutting-Edge Industry Solutions to DRAM Read Disturbance
+NOVA: A Novel Vertex Management Architecture for Scalable Graph Processing
+MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows
+Cambricon-DG: An Accelerator for Redundant-Free Dynamic Graph Neural Networks Based on Nonlinear Isolation
+TB-STC: Transposable Block-wise N: M Structured Sparse Tensor Core
+CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels
+AccelES: Accelerating Top-K SpMV for Embedding Similarity via Low-bit Pruning
+AutoRFM: Scaling Low-Cost in-DRAM Trackers to Ultra-Low Rowhammer Thresholds
+DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense
+QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues
+I-DGNN: A Graph Dissimilarity-based Framework for Designing Scalable and Efficient DGNN Accelerators
+Mithril: A Scalable System for Deep GNN Training
+Buffalo: Enabling Large-Scale GNN Training via Memory-Efficient Bucketization
+BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration
+FIGLUT: An Energy-Efficient Accelerator Design for FP-INT GEMM Using Look-Up Tables
+M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type
+FHENDI: A Near-DRAM Accelerator for Compiler-Generated Fully Homomorphic Encryption Applications
+EFFACT: A Highly Efficient Full-Stack FHE Acceleration Platform
+Anaheim: Architecture and Algorithms for Processing Fully Homomorphic Encryption in Memory
+Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA
+WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores
+MLPerf Power: Benchmarking the Energy Efficiency of Machine Learning Systems from μWatts to MWatts for Sustainable AI
+Enterprise Class Modular Cache Hierarchy
+Predicting DRAM-Caused Risky VMs in Large-Scale Clouds
+Enhancing Large-Scale AI Training Efficiency: The C4 Solution for Real-Time Anomaly Detection and Communication Optimization
+Revisiting Reliability in Large-Scale Machine Learning Research Clusters
+HILP: Accounting for Workload-Level Parallelism in System-on-Chip Design Space Exploration
+CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems
+Architecting Space Microdatacenters: A System-level Approach
+ARTEMIS: Agile Discovery of Efficient Real-Time Systems-on-Chips in the Heterogeneous Era
+LEGO: Spatial Accelerator Generation and Optimization for Tensor Applications
+DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency
+throttLL'eM: Predictive GPU Throttling for Energy Efficient LLM Inference Serving
+RpcNIC: Enabling Efficient Datacenter RPC Offloading on PCIe-attached SmartNICs
+NVMePass: A Lightweight, High-performance and Scalable NVMe Virtualization Architecture with I/O Queues Passthrough
+Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
+Cooperative Warp Execution in Tensor Core for RISC-V GPGPU
+SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads
+HSMU-SpGEMM: Achieving High Shared Memory Utilization for Parallel Sparse General Matrix-Matrix Multiplication on Modern GPUs
+Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format
+LAD: Efficient Accelerator for Generative Inference of LLM with Locality Aware Decoding
+VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference
+InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
+TidalMesh: Topology-Driven AllReduce Collective Communication for Mesh Topology
+Push Multicast: A Speculative and Coherent Interconnect for Mitigating Manycore CPU Communication Bottleneck
+PIMnet: A Domain-Specific Network for Efficient Collective Communication in Scalable PIM
+EIGEN: Enabling Efficient 3DIC Interconnect with Heterogeneous Dual-Layer Network-on-Active-Interposer
+Ariadne: A Hotness-Aware and Size-Adaptive Compressed Swap Technique for Fast Application Relaunch and Reduced CPU Usage on Mobile Devices
+Gemina: A Coordinated and High-Performance Memory Deduplication Engine
+No Rush in Executing Atomic Instructions
+Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory
+Let-Me-In: (Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety
+Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
+OASIS: Object-Aware Page Management for Multi-GPU Systems
+NearFetch: Saving Inter-Module Bandwidth in Many-Chip-Module GPUs
+PAISE: PIM-Accelerated Inference Scheduling Engine for Transformer-based LLM
+FACIL: Flexible DRAM Address Mapping for SoC-PIM Cooperative On-device LLM Inference
+Lincoln: Real-Time 50~100B LLM Inference on Consumer Devices with LPDDR-Interfaced, Compute-Enabled Flash Memory
+Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM

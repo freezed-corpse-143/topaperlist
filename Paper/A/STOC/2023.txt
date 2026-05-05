@@ -1,0 +1,156 @@
+Proceedings of the 55th Annual ACM Symposium on Theory of Computing, STOC 2023, Orlando, FL, USA, June 20-23, 2023
+Almost Chor-Goldreich Sources and Adversarial Random Walks
+A New Berry-Esseen Theorem for Expander Walks
+Near-Optimal Derandomization of Medium-Width Branching Programs
+Approximating Iterated Multiplication of Stochastic Matrices in Small Space
+Extractors for Images of Varieties
+When Arthur Has Neither Random Coins Nor Time to Spare: Superfast Derandomization of Proof Systems
+Hardness Self-Amplification: Simplified, Optimized, and Unified
+Sum-of-Squares Lower Bounds for Densest k-Subgraph
+Exact Phase Transitions for Stochastic Block Models and Reconstruction on Trees
+Parallel Discrete Sampling via Continuous Walks
+Sampling from Convex Sets with a Cold Start using Multiscale Decompositions
+On Regularity Lemma and Barriers in Streaming and Dynamic Matching
+Optimal Eigenvalue Approximation via Sketching
+Streaming Euclidean MST to a Constant Factor
+Streaming Euclidean Max-Cut: Dimension vs Data Reduction
+(Noisy) Gap Cycle Counting Strikes Back: Random Order Streaming Lower Bounds for Connected Components and Beyond
+Chaining, Group Leverage Score Overestimates, and Fast Spectral Hypergraph Sparsification
+Spectral Hypergraph Sparsification via Chaining
+Locally Consistent Decomposition of Strings with Applications to Edit Distance Sketching
+Directed Isoperimetric Theorems for Boolean Functions on the Hypergrid and an Õ(n√d) Monotonicity Tester
+Stochastic Minimum Vertex Cover in General Graphs: A 3/2-Approximation
+Sublinear Algorithms for (1.5+ε)-Approximate Matching
+Sublinear Time Algorithms and Complexity of Approximate Maximum Matching
+Almost-Optimal Sublinear Additive Spanners
+A Unified Framework for Light Spanners
+New Algorithms for All Pairs Approximate Shortest Paths
+Parallel Breadth-First Search and Exact Shortest Paths and Stronger Notions for Approximate Distances
+A New Approach to Learning Linear Dynamical Systems
+Planning and Learning in Partially Observable Systems via Filter Stability
+Optimistic MLE: A Generic Model-Based Algorithm for Partially Observable Sequential Decision Making
+Weighted Edit Distance Computation: Strings, Trees, and Dyck
+Stronger 3-SUM Lower Bounds for Approximate Distance Oracles via Additive Combinatorics
+Removing Additive Structure in 3SUM-Based Reductions
+Fredman's Trick Meets Dominance Product: Fine-Grained Complexity of Unweighted APSP, 3SUM Counting, and More
+Faster Isomorphism for 𝑝-Groups of Class 2 and Exponent 𝑝
+Linear Independence, Alternants, and Applications
+Faster Walsh-Hadamard and Discrete Fourier Transforms from Matrix Non-rigidity
+A Borsuk-Ulam Lower Bound for Sign-Rank and Its Applications
+Optimal Differentially Private Learning of Thresholds and Quasi-Concave Optimization
+Privately Estimating a Gaussian: Efficient, Robust, and Optimal
+Robustness Implies Privacy in Statistical Estimation
+Concurrent Composition Theorems for Differential Privacy
+Stability Is Stable: Connections between Replicability, Privacy, and Adaptive Generalization
+An Improved Parameterized Algorithm for Treewidth
+The Complexity of Pattern Counting in Directed Graphs, Parameterised by the Outdegree
+Parameterized Inapproximability of the Minimum Distance Problem over All Fields and the Shortest Vector Problem in All ℓp Norms
+First-Order Model Checking on Structurally Sparse Graph Classes
+The Randomized k-Server Conjecture Is False!
+Doubly Efficient Private Information Retrieval and Fully Homomorphic RAM Computation from Ring LWE
+SDPs and Robust Satisfiability of Promise CSP
+Approximate Graph Colouring and the Hollow Shadow
+On Approximability of Satisfiable k-CSPs: II
+On Approximability of Satisfiable k-CSPs: III
+An Analogue of Bonami's Lemma for Functions on Spaces of Linear Maps, and 2-2 Games
+Noise Stability on the Boolean Hypercube via a Renormalized Brownian Motion
+A Proof of the Nisan-Ronen Conjecture
+A Constant Factor Prophet Inequality for Online Combinatorial Auctions
+Complexity of Equilibria in First-Price Auctions under General Tie-Breaking Rules
+Computing Better Approximate Pure Nash Equilibria in Cut Games via Semidefinite Programming
+Credible Decentralized Exchange Design via Verifiable Sequencing Rules
+On the Optimal Fixed-Price Mechanism in Bilateral Trade
+Improved Approximation Ratios of Fixed-Price Mechanisms in Bilateral Trades
+Improved and Deterministic Online Service with Deadlines or Delay
+Online Unrelated-Machine Load Balancing and Generalized Flow with Recourse
+Pandora Box Problem with Nonobligatory Inspection: Hardness and Approximation Scheme
+Pandora's Problem with Nonobligatory Inspection: Optimal Structure and a PTAS
+Local and Global Expansion in Random Geometric Graphs
+New High Dimensional Expanders from Covers
+Towards the Erdős-Gallai Cycle Decomposition Conjecture
+An Optimal "It Ain't Over Till It's Over" Theorem
+Randomized versus Deterministic Decision Tree Size
+Optimal Explicit Small-Depth Formulas for the Coin Problem
+Depth-d Threshold Circuits vs. Depth-(d+1) AND-OR Trees
+Good Quantum LDPC Codes with Linear Time Decoders
+An Efficient Decoder for a Linear Distance Quantum LDPC Code
+Certified Randomness from Quantum Supremacy
+A Polynomial-Time Classical Algorithm for Noisy Random Circuit Sampling
+Nearly All k-SAT Functions Are Unate
+Kneser Graphs Are Hamiltonian
+Random Walks on Rotating Expanders
+Algorithmic Applications of Hypergraph and Partition Containers
+Subsampling Suffices for Adaptive Data Analysis
+The Power of Multi-step Vizing Chains
+Capturing One-Way Functions via NP-Hardness of Meta-Complexity
+A Duality between One-Way Functions and Average-Case Symmetry of Information
+Unprovability of Strong Complexity Lower Bounds in Bounded Arithmetic
+Range Avoidance, Remote Point, and Hard Partial Truth Table via Satisfying-Pairs Algorithms
+NP-Hardness of Approximating Meta-Complexity: A Cryptographic Approach
+Indistinguishability Obfuscation, Range Avoidance, and Bounded Arithmetic
+NLTS Hamiltonians from Good Quantum Codes
+Memory-Sample Lower Bounds for Learning with Classical-Quantum Hybrid Memory
+Quantum Depth in the Random Oracle Model
+Multidimensional Quantum Walks
+Mind the Gap: Achieving a Super-Grover Quantum Speedup by Jumping to the End
+Approximating Binary Longest Common Subsequence in Almost-Linear Time
+A New Deterministic Algorithm for Fully Dynamic All-Pairs Shortest Paths
+Deterministic Incremental APSP with Polylogarithmic Update Time and Stretch
+Dynamic ((1+ε) ln n)-Approximation Algorithms for Minimum Set Cover and Dominating Set
+Improved Dynamic Colouring of Sparse Graphs
+Dynamic Maxflow via Dynamic Interior Point Methods
+Fast Algorithms via Dynamic-Oracle Matroids
+Hard Languages in NP ∩ coNP and NIZK Proofs from Unstructured Hardness
+On the Consistency of Circuit Lower Bounds for Non-deterministic Time
+Shellability Is Hard Even for Balls
+The Complexity of Counting Planar Graph Homomorphisms of Domain Size 3
+Approximating Nash Social Welfare by Matching and Local Search
+Multi-agent Contracts
+Approximate Max-Flow Min-Multicut Theorem for Graphs of Bounded Treewidth
+A PTAS for Minimizing Weighted Flow Time on a Single Machine
+Random Graph Matching at Otter's Threshold via Counting Chandeliers
+Uniformly Random Colourings of Sparse Graphs
+Maximum Length-Constrained Flows and Disjoint Paths: Distributed, Deterministic, and Fast
+Tight Conditional Lower Bounds for Vertex Connectivity Problems
+Approximate Distance Sensitivity Oracles in Subquadratic Space
+External Memory Fully Persistent Search Trees
+The Rate of Interactive Codes Is Bounded Away from 1
+A Near-Cubic Lower Bound for 3-Query Locally Decodable Codes from Semirandom CSP Refutation
+Efficient Interactive Coding Achieving Optimal Error Resilience over the Binary Channel
+A High Dimensional Goldreich-Levin Theorem
+Binary Error-Correcting Codes with Minimal Noiseless Feedback
+Generic Reed-Solomon Codes Achieve List-Decoding Capacity
+Optimal Bounds for Noisy Sorting
+Lattice Problems beyond Polynomial Time
+The Round Complexity of Statistical MPC with Optimal Resiliency
+Constant-Round Arguments from One-Way Functions
+Boosting Batch Arguments and RAM Delegation
+Succinct Computational Secret Sharing
+Obfuscation of Pseudo-Deterministic Quantum Circuits
+Commitments to Quantum States
+Quantum Cryptography in Algorithmica
+Quantum Free Games
+Quantum Advantage from Any Non-local Game
+The Power of Unentangled Quantum Proofs with Non-negative Amplitudes
+Testing Distributional Assumptions of Learning Algorithms
+A Moment-Matching Approach to Testable Learning and a New Characterization of Rademacher Complexity
+Learning Polynomial Transformations via Generalized Tensor Decompositions
+Average-Case Complexity of Tensor Decomposition for Low-Degree Polynomials
+What Makes a Good Fisherman? Linear Regression under Self-Selection Bias
+A Characterization of List Learnability
+A Unifying Theory of Distance from Calibration
+A Strongly Polynomial Algorithm for Approximate Forster Transforms and Its Application to Halfspace Learning
+Lifting Uniform Learners via Distributional Decomposition
+Hausdorff and Gromov-Hausdorff Stable Subsets of the Medial Axis
+Faster Deterministic Distributed MIS and Approximate Matching
+Finding a Small Vertex Cut on Distributed Networks
+New Subset Selection Algorithms for Low Rank Approximation: Offline and Online
+Resolving Matrix Spencer Conjecture Up to Poly-logarithmic Rank
+A (1.5+ε)-Approximation Algorithm for Weighted Connectivity Augmentation
+Cheeger Inequalities for Directed Graphs and Hypergraphs using Reweighted Eigenvalues
+An Improved Approximation Guarantee for Prize-Collecting TSP
+Better Trees for Santa Claus
+Interior Point Methods with a Gradient Oracle
+The Smoothed Complexity of Policy Iteration for Markov Decision Processes
+Upper and Lower Bounds on the Smoothed Complexity of the Simplex Method
+Algorithms Approaching the Threshold for Semi-random Planted Clique

@@ -1,0 +1,115 @@
+42nd IEEE Symposium on Security and Privacy, SP 2021, San Francisco, CA, USA, 24-27 May 2021
+Using Selective Memoization to Defeat Regular Expression Denial of Service (ReDoS)
+Co-Inflow: Coarse-grained Information Flow Control for Java-like Languages
+When Function Signature Recovery Meets Compiler Optimization
+How Did That Get In My Phone? Unwanted App Distribution on Android Devices
+Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings
+Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization
+Detecting AI Trojans Using Meta Neural Analysis
+Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding
+Machine Unlearning
+Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision
+Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks
+CANNON: Reliable and Stealthy Remote Shutdown Attacks via Unaltered Automotive Microcontrollers
+SoK: Quantifying Cyber Risk
+Self-Supervised Euphemism Detection and Identification for Content Moderation
+SoK: Hate, Harassment, and the Changing Landscape of Online Abuse
+Keep the Dirt: Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement
+Merkle2: A Low-Latency Transparency Log System
+Post-quantum WireGuard
+Invisible Probe: Timing Attacks with PCIe Congestion Side-channel
+CacheOut: Leaking Data on Intel CPUs via Cache Evictions
+PLATYPUS: Software-based Power Side-Channel Attacks on x86
+Defensive Technology Use by Political Activists During the Sudanese Revolution
+DP-Sniper: Black-Box Discovery of Differential Privacy Violations using Classifiers
+Is Private Learning Possible with Instance Encoding?
+High-Frequency Trading on Decentralized On-Chain Exchanges
+Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma
+Red Belly: A Secure, Fair and Scalable Open Blockchain
+Diane: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices
+Data Privacy in Trigger-Action Systems
+Which Privacy and Security Attributes Most Impact Consumers' Risk Perception and Willingness to Purchase IoT Devices?
+An Interactive Prover for Protocol Verification in the Computational Model
+SmartPulse: Automated Checking of Temporal Properties in Smart Contracts
+An I/O Separation Model for Formal Verification of Kernel Implementations
+Diogenes: Lightweight Scalable RSA Modulus Generation with a Dishonest Majority
+Refresh When You Wake Up: Proactive Threshold Wallets with Offline Devices
+Compact Certificates of Collective Knowledge
+One Engine to Fuzz 'em All: Generic Language Processor Testing with Semantic Validation
+StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting
+NtFuzz: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis
+Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems
+Hear "No Evil", See "Kenansville"*: Efficient and Transferable Black-Box Attacks on Speech Recognition and Voice Identification Systems
+SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems
+Cross-Domain Access Control Encryption: Arbitrary-policy, Constant-size, Efficient
+Lightweight Techniques for Private Heavy Hitters
+SoK: Computer-Aided Cryptography
+ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis
+OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary
+SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask
+Learning Differentially Private Mechanisms
+Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning
+Manipulation Attacks in Local Differential Privacy
+Bitcoin-Compatible Virtual Channels
+On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols
+Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures
+Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It
+Bomberman: Defining and Defeating Hardware Ticking Timebombs at Design-time
+Systematic Analysis of Randomization-based Protected Cache Architectures
+SiRnn: A Math Library for Secure RNN Inference
+CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU
+Proof-of-Learning: Definitions and Practice
+PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption
+Wolverine: Fast, Scalable, and Communication-Efficient Zero-Knowledge Proofs for Boolean and Arithmetic Circuits
+SoK: Fully Homomorphic Encryption Compilers
+CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing
+Black Widow: Blackbox Data-driven Web Scanning
+Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors
+A Security Model and Fully Verified Implementation for the IETF QUIC Record Layer
+Cross Layer Attacks and How to Use Them (for DNS Cache Poisoning, Device Tracking and More)
+Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis
+SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically
+MAD-HTLC: Because HTLC is Crazy-Cheap to Attack
+Compositional Security for Reentrant Applications
+HackEd: A Pedagogical Analysis of Online Vulnerability Discovery Exercises
+DifuzzRTL: Differential Fuzz Testing to Find CPU Bugs
+When LoRa Meets EMR: Electromagnetic Covert Channels Can Be Super Resilient
+Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols
+Method Confusion Attack on Bluetooth Pairing
+CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability
+They Would do Better if They Worked Together: The Case of Interaction Problems Between Password Managers and Websites
+Improving Password Guessing via Representation Learning
+ARBITRAR: User-Guided API Misuse Detection
+Compositional Non-Interference for Fine-Grained Concurrent Programs
+SoK: Security and Privacy in the Age of Commercial Drones
+A First Look at Zoombombing
+Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities
+Breaking the Specification: PDF Certification
+Response-Hiding Encrypted Ranges: Revisiting Security via Parametrized Leakage-Abuse Attacks
+A Decentralized and Encrypted National Gun Registry
+Zero Knowledge for Everything and Everyone: Fast ZK Processor with Cached ORAM for ANSI C Programs
+Survivalism: Systematic Analysis of Windows Malware Living-Off-The-Land
+Runtime Recovery of Web Applications under Zero-Day ReDoS Attacks
+Good Bot, Bad Bot: Characterizing Automated Browsing Activity
+Trouble Over-The-Air: An Analysis of FOTA Apps in the Android Ecosystem
+Doing good by fighting fraud: Ethical anti-fraud systems for mobile payments
+Happer: Unpacking Android Apps via a Hardware-Assisted Approach
+The Provable Security of Ed25519: Theory and Practice
+Epochal Signatures for Deniable Group Chats
+BUFFing signature schemes beyond unforgeability and the case of post-quantum signatures
+Detecting Filter List Evasion with Event-Loop-Turn Granularity JavaScript Signatures
+Reading Between the Lines: An Extensive Evaluation of the Security and Privacy Implications of EPUB Reading Systems
+Did you mix me? Formally Verifying Verifiable Mix Nets in Electronic Voting
+The EMV Standard: Break, Fix, Verify
+A Secure and Formally Verified Linux KVM Hypervisor
+Many-out-of-Many Proofs and Applications to Anonymous Zether
+On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols
+A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs
+CrossTalk: Speculative Data Leaks Across Cores Are Real
+Hardware-Software Contracts for Secure Speculation
+High-Assurance Cryptography in the Spectre Era
+A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across User-Kernel Spaces
+DynPTA: Combining Static and Dynamic Analysis for Practical Selective Data Protection
+DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis
+Real-World Snapshots vs. Theory: Questioning the t-Probing Security Model
+CRYLOGGER: Detecting Crypto Misuses Dynamically

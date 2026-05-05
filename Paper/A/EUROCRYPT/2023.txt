@@ -1,0 +1,108 @@
+Deniable Authentication when Signing Keys Leak
+Privately Puncturing PRFs from Lattices: Adaptive Security and Collusion Resistant Pseudorandomness
+Almost Tight Multi-User Security under Adaptive Corruptions & Leakages in the Standard Model
+One-Hot Conversion: Towards Faster Table-based A2B Conversion
+Non-uniformity and Quantum Advice in the Quantum Random Oracle Model
+From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+Meet-in-the-Middle Preimage Attacks on Sponge-based Hashing
+Asymmetric Group Message Franking: Definitions & Constructions
+On Polynomial Functions Modulo pe and Faster Bootstrapping for Homomorphic Encryption
+Non-Adaptive Universal One-Way Hash Functions from Arbitrary One-Way Functions
+Coefficient Grouping: Breaking Chaghri and More
+Analysis of RIPEMD-160: New Collision Attacks and Finding Characteristics with MILP
+From Farfalle to Megafono via Ciminion: The PRF Hydra for MPC Applications
+Just how hard are rotations of Z^n? Algorithms and cryptography with the simplest lattice
+Public Key Encryption with Secure Key Leasing
+On the Hardness of the Finite Field Isomorphism Problem
+New Time-Memory Trade-Offs for Subset Sum -- Improving ISD in Theory and Practice
+Chopsticks: Fork-Free Two-Round Multi-Signatures from Non-Interactive Assumptions
+Functional Commitments for All Functions, with Transparent Setup and from SIS
+Multi-key and Multi-input Predicate Encryption from Learning with Errors
+On Differential Privacy and Adaptive Data Analysis with Bounded Space
+Pitfalls and Shortcomings for Decompositions and Alignment
+A Lower Bound on the Length of Signatures Based on Group Actions and Generic Isogenies
+Breaking SIDH in polynomial time
+Improved Power Analysis Attacks on Falcon
+New algorithms for the Deuring correspondence: Towards practical and secure SQISign signatures
+Short Signatures from Regular Syndrome Decoding in the Head
+Optimal Single-Server Private Information Retrieval
+Unbounded Quadratic Functional Encryption and More from Pairings
+SNARGs and PPAD Hardness from the Decisional Diffie-Hellman Assumption
+Reverse Firewalls for Oblivious Transfer Extension and Applications to Zero-Knowledge
+Rai-Choo! Evolving Blind Signatures to the Next Level
+Sublinear-Communication Secure Multiparty Computation does not require FHE
+Constrained Pseudorandom Functions from Homomorphic Secret Sharing
+A direct key recovery on SIDH
+SuperPack: Dishonest Majority MPC with Constant Online Communication
+Better Steady than Speedy: Full break of SPEEDY-7-192
+Oblivious Transfer with Constant Computational Overhead
+On Valiant’s Conjecture: Impossibility of Incrementally Verifiable Computation from Random Oracles
+HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates
+Speak Much, Remember Little: Cryptography in the Bounded Storage Model, Revisited
+Unique-Path Identity Based Encryption With Applications to Strongly Secure Messaging
+The Return of the SDitH
+Black-Box Separations for Non-Interactive Commitments in a Quantum World
+Optimal Security for Keyed Hash Functions: Avoiding Time-Space Tradeoffs for Finding Collisions
+On Non-uniform Security for Black-box Non-Interactive CCA Commitments
+Exploiting Non-Full Key Additions: Full-Fledged Automatic Demirci-Sel{\c{c}}uk Meet-in-the-Middle Cryptanalysis of SKINNY
+Lower Bound Framework for Differentially Private and Oblivious Data Structures
+Complete Characterization of Broadcast and Pseudo-Signatures from Correlations
+Fully Adaptive Decentralized Multi-Authority ABE
+Finding the Impossible: Automated Search for Full Impossible-Differential, Zero-Correlation, and Integral Attacks
+A New Framework for Quantum Oblivious Transfer
+Lower Bounds for (Batch) PIR with Private Preprocessing
+Detect, Pack and Batch: Perfectly-Secure MPC with Linear Communication and Constant Expected Time
+Minimizing Setup in Broadcast-Optimal Two Round MPC
+Revisiting BBS Signatures
+Registered Attribute-Based Encryption
+Generic Attack on Duplex-Based AEAD Modes using Random Function Statistics
+M-SIDH and MD-SIDH: countering SIDH attacks by masking information
+A Theory of Composition for Differential Obliviousness
+Non-interactive Blind Signatures for Random Messages
+Proof of Mirror Theory for a Wide Range of ξmax
+Batch Bootstrapping I: A New Framework for SIMD Bootstrapping in Polynomial Modulus
+Speed-Stacking: Fast Sublinear Zero-Knowledge Proofs for Disjunctions
+Batch Bootstrapping II: Bootstrapping in Polynomial Modulus Only Requires O~(1) FHE Multiplications in Amortization
+Polynomial-Time Cryptanalysis of the Subspace Flooding Assumption for Post-Quantum iO
+NanoGRAM: Garbled RAM with O~(log⁡N) Overhead
+Privacy-Preserving Blueprints
+Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More
+Spartan and Bulletproofs are simulation-extractable (for free!)
+Traitor Tracing with N^(1/3)-size Ciphertext and O(1)-size Keys from k-Lin
+Proof-Carrying Data From Arithmetized Random Oracles
+Fine-Grained Non-Interactive Key-Exchange: Constructions and Lower Bounds
+Threshold and Multi-Signature Schemes from Linear Hash Functions
+Black-Box Reusable NISC with Random Oracles
+Context Discovery and Commitment Attacks: How to Break CCM, EAX, SIV, and More
+Actively Secure Half-Gates with Minimum Overhead under Duplex Networks
+Succinct Vector, Polynomial, and Functional Commitments from Lattices
+Half-Tree: Halving the Cost of Tree Expansion in COT and DPF
+Efficient FHEW Bootstrapping with Small Evaluation Keys, and Applications to Threshold Homomorphic Encryption
+Efficient Detection of High Probability Statistical Properties of Cryptosystems via Surrogate Differentiation
+Maliciously-Secure MrNISC in the Plain Model
+Password-Authenticated TLS via OPAQUE and Post-Handshake Authentication
+Randomized Half-Ideal Cipher on Groups with applications to UC (a)PAKE
+On the Optimal Succinctness and Efficiency of Functional Encryption and Attribute-Based Encryption
+Truncated Boomerang Attacks and Application to AES-based Ciphers
+Disorientation faults in CSIDH
+Effective and Efficient Masking with Low Noise using Small-Mersenne-Prime Ciphers
+Witness-Succinct Universally-Composable SNARKs
+New Ways to Garble Arithmetic Circuits
+Finding many Collisions via Reusable Quantum Walks - Application to Lattice Sieving
+Supersingular Curves You can Trust
+End to End Secure Messaging with Traceability Only for Illegal Content
+A New Algebraic Approach to the Regular Syndrome Decoding Problem and Implications for PCG Constructions
+Let Attackers Program Ideal Models: Modularity and Composability for Adaptive Compromise
+Actively Secure Arithmetic Computation and VOLE with Constant Computational Overhead
+Endemic Oblivious Transfer via Random Oracles, Revisited
+Impossibility of Indifferentiable Iterated Blockciphers from 3 or Less Primitive Calls
+Efficient Laconic Cryptography from Learning With Errors
+Worst-Case Subexponential Attacks on PRGs of Constant Degree or Constant Locality
+An Incremental PoSW for General Weight Distributions
+An efficient key recovery attack on SIDH
+Broadcast, Trace and Revoke with Optimal Parameters from Polynomial Hardness
+How to Compress Encrypted Data
+XOCB: Beyond-Birthday-Bound Secure Authenticated Encryption Mode with Rate-One Computation
+End-to-End Encrypted Zoom Meetings: Proving Security and Strengthening Liveness
+Collision Attacks on Round-Reduced SHA-3 Using Conditional Internal Differentials
+Weighted ORAM, with Applications to Searchable Symmetric Encryption

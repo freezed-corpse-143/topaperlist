@@ -1,0 +1,101 @@
+Proceedings of the 2025 USENIX Annual Technical Conference, USENIX ATC 2025, Boston, MA, USA, July 7-9, 2025
+Fast ACS: Low-Latency File-Based Ordered Message Delivery at Scale
+Poby: SmartNIC-accelerated Image Provisioning for Coldstart in Clouds
+Burst Computing: Quick, Sudden, Massively Parallel Processing on Serverless Resources
+DEEPSERVE: Serverless Large Language Model Serving at Scale
+Cosmic: Cost-Effective Support for Cloud-Assisted 3D Printing
+GMI-DRL: Empowering Multi-GPU DRL with Adaptive-Grained Parallelism
+mTuner: Accelerating Parameter-Efficient Fine-Tuning on Multi-GPU Servers with Elastic Tensor
+JENGA: Enhancing LLM Long-Context Fine-tuning with Contextual Token Sparsity
+FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs
+Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation
+Towards Optimal Rack-scale μs-level CPU Scheduling through In-Network Workload Shaping
+TGW: Operating an Efficient and Resilient Cloud Gateway at Scale
+MARC: Motion-Aware Rate Control for Mobile E-commerce Cloud Rendering
+Accelerating Distributed Graph Learning by Using Collaborative In-Network Multicast and Aggregation
+Opening Up Kernel-Bypass TCP Stacks
+GPREEMPT: GPU Preemptive Scheduling Made General and Efficient
+μEFI: A Microkernel-Style UEFI with Isolation and Transparency
+PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF
+ASTERINAS: A Linux ABI-Compatible, Rust-Based Framekernel OS with a Small and Sound TCB
+Rex: Closing the language-verifier gap with safe and usable kernel extensions
+Barre: Empowering Simplified and Versatile Programmable Congestion Control in High-Speed AI Clusters
+FLB: Fine-grained Load Balancing for Lossless Datacenter Networks
+SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System
+Minos : A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes
+GeneralSparse: Bridging the Gap in SpMM for Pruned Large Language Model Inference on GPUs
+HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines
+The Koala Benchmarks for the Shell: Characterization and Implications
+KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider
+LogCrisp: Fast Aggregated Analysis on Large-scale Compressed Logs by Enabling Two-Phase Pattern Extraction and Vectorized Queries
+HotRAP: Hot Record Retention and Promotion for LSM-trees with Tiered Storage
+Mitigating Resource Usage Dependency in Sorting-based KV Stores on Hybrid Storage Devices via Operation Decoupling
+SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup
+Z-LFS: A Zoned Namespace-tailored Log-structured File System for Commodity Small-zone ZNS SSDs
+CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge
+Weaver: Efficient Multi-LLM Serving with Attention Offloading
+Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference
+Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference
+QFactory: Accelerating Quantized Large Language Model Serving with Qtile Graphs
+PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules
+Obscura: Concealing Recomputation Overhead in Training of Large Language Models with Bubble-filling Pipeline Transformation
+PPipe: Efficient Video Analytics Serving on Heterogeneous GPU Clusters via Pool-Based Pipeline Parallelism
+Voltrix: Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization
+NetKeeper: Enhancing Network Resilience with Autonomous Network Configuration Update on Traffic Patterns and Anomalies
+GREYHOUND: Hunting Fail-Slows in Hybrid-Parallel Training at Scale
+Crash Consistency in Block-Level Caching Systems: An Open CAS Case Study
+FiDe: Reliable and Fast Crash Failure Detection to Boost Datacenter Coordination
+LEOCraft: Towards Designing Performant LEO Networks
+Emulating Space Computing Networks with RHONE
+Roaming Free in the VR World with MP2
+STORM: a Multipath QUIC Scheduler for Quick Streaming Media Transport under Unstable Mobile Networks
+Internet Connection Splitting: What's Old is New Again
+WIC: Hiding Producer-Consumer Synchronization Delays with Warp-Level Interrupt-based GPU Communications
+Primus: Unified Training System for Large-Scale Deep Learning Recommendation Models
+Chitu: Avoiding Unnecessary Fallback in Byzantine Consensus
+Fast Distributed Transactions for RDMA-based Disaggregated Memory
+Cuckoo for Clients: Disaggregated Cuckoo Hashing
+LITESHIELD: Secure Containers via Lightweight, Composable Userspace μKernel Services
+Accelerating Nested Virtualization with HyperTurtle
+Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception
+AnchorNet: Bridging Live and Collaborative Streaming with a Unified Architecture
+Katz: Efficient Workflow Serving for Diffusion Models with Many Adapters
+PopFetcher: Towards Accelerated Mixture-of-Experts Training Via Popularity Based Expert-Wise Prefetch
+HypeReca: Distributed Heterogeneous In-Memory Embedding Database for Training Recommender Models
+CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training
+Unveiling Compiler Faults via Attribute-Guided Compilation Space Exploration
+Understanding and Detecting Fail-Slow Hardware Failure Bugs in Cloud Systems
+Converos: Practical Model Checking for Verifying Rust OS Kernel Concurrency
+Bin2Wrong: a Unified Fuzzing Framework for Uncovering Semantic Errors in Binary-to-C Decompilers
+HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation
+Para-ksm: Parallelized Memory Deduplication with Data Streaming Accelerator
+DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
+Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling
+SwCC: Software-Programmable and Per-Packet Congestion Control in RDMA Engine
+DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication
+ShieldReduce: Fine-Grained Shielded Data Reduction
+MemoryTrap: Booby Trapping Memory to Counter Memory Disclosure Attacks with Hardware Support
+Separate but Together: Integrating Remote Attestation into TLS
+DDLumos: Understanding and Detecting Atomic DDL Bugs in DBMSs
+SpaceExit: Enabling Efficient Adaptive Computing in Space with Early Exits
+XRT: An Accelerator-Aware Runtime for Accelerated Chip Multiprocessors
+DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing
+Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization
+CAFault: Enhance Fault Injection Technique in Practical Distributed Systems via Abundant Fault-Dependent Configurations
+Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations
+Inferring Likely Counting-related Atomicity Program Properties for Persistent Memory
+Optimizing Input Minimization in Kernel Fuzzing
+IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing
+On-Demand Container Partitioning for Distributed ML
+PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search
+Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism
+Towards High-Performance Transactional Stateful Serverless Workflows with Affinity-Aware Leasing
+Swift: Fast Performance Tuning with GAN-Generated Configurations
+PMR: Fast Application Response via Parallel Memory Reclaim on Mobile Devices
+SAVE: Software-Implemented Fault Tolerance for Model Inference against GPU Memory Bit Flips
+Identifying and Analyzing Pitfalls in GNN Systems
+Bluetooth Low Energy Security Testing with Combinatorial Methods
+Resource Multiplexing in Tuning and Serving Large Language Models
+Colocating ML Inference and Training with Fast GPU Memory Handover
+AssyLLM: Efficient Federated Fine-tuning of LLMs via Assembling Pre-trained Blocks
+Learning-Enhanced High-Throughput Pattern Matching Based on Programmable Data Plane

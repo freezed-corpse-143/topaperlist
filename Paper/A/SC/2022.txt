@@ -1,0 +1,88 @@
+SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Dallas, TX, USA, November 13-18, 2022
+Extreme-Scale Many-against-Many Protein Similarity Search
+Reshaping Geostatistical Modeling and Prediction for Extreme-Scale Environmental Applications
+Pushing the Frontier in the Design of Laser-Based Electron Accelerators with Groundbreaking Mesh-Refined Particle-In-Cell Simulations on Exascale-Class Supercomputers
+Extreme Scale Earthquake Simulation with Uncertainty Quantification
+2.5 Million-Atom Ab Initio Electronic-Structure Simulation of Complex Metallic Heterostructures with DGDFT
+Exaflops Biomedical Knowledge Graph Analytics
+Scaling Correlated Fragment Molecular Orbital Calculations on Summit
+Image Gradient Decomposition for Parallel and Memory-Efficient Ptychographic Reconstruction
+P-Massive: A Real-Time Search Engine for a Multi-Terabyte Mass Spectrometry Database
+Building Blocks for Network-Accelerated Distributed File Systems
+HammingMesh: A Network Topology for Large-Scale Deep Learning
+PolarFly: A Cost-Effective and Flexible Low-Diameter Topology
+Combining Hard and Soft Constraints in Quantum Constraint-Satisfaction Systems
+Large-Scale Simulation of Quantum Computational Chemistry on a New Sunway Supercomputer
+Charter: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility
+A Taxonomy of Error Sources in HPC I/O Machine Learning Models
+Mitigating Silent Data Corruptions in HPC Applications across Multiple Program Inputs
+Optimizing Random Access to Hierarchically-Compressed Data on GPU
+Scaling Graph 500 SSSP to 140 Trillion Edges with over 40 Million Cores
+Study of Workload Interference with Intelligent Routing on Dragonfly
+SERVIZ: A Shared In Situ Visualization Service
+DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts
+LabStor: A Modular and Extensible Platform for Developing High-Performance, Customized I/O Stacks in Userspace
+Towards Scalable Resource Management for Supercomputers
+Deinsum: Practically I/O Optimal Multi-Linear Algebra
+Addressing Irregular Patterns of Matrix Computations on GPUs and Their Impact on Applications Powered by Sparse Direct Solvers
+Accelerating Elliptic Curve Digital Signature Algorithms on GPUs
+CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication
+Symmetric Block-Cyclic Distribution: Fewer Communications Leads to Faster Dense Cholesky Factorization
+Scalable Distributed High-Order Stencil Computations
+Memory Optimizations in an Array Language
+Vectorizing Sparse Matrix Computations with Partially-Strided Codelets
+Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization
+Mapping Out the HPC Dependency Chaos
+Using Answer Set Programming for HPC Dependency Solving
+SPATL: Salient Parameter Aggregation and Transfer Learning for Heterogeneous Federated Learning
+Efficient Quantized Sparse Matrix Operations on Tensor Cores
+LightSeq2: Accelerated Training for Transformer-Based Models on GPUs
+CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs
+Using Unused: Non-Invasive Dynamic FaaS Infrastructure with HPC-Whisk
+Canary: Fault-Tolerant FaaS for Stateful Time-Sensitive Applications
+SFS: Smart OS Scheduling for Serverless Functions
+ProbGraph: High-Performance and High-Accuracy Graph Mining with Probabilistic Set Representations
+Blaze: Fast Graph Processing on Fast SSDs
+GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow
+DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale
+HyLo: A Hybrid Low-Rank Natural Gradient Descent Method
+AI for Quantum Mechanics: High Performance Quantum Many-Body Simulations via Deep Learning
+UniQ: A Unified Programming Model for Efficient Quantum Circuit Simulation
+Scalable Irregular Parallelism with GPUs: Getting CPUs Out of the Way
+Parla: A Python Orchestration System for Heterogeneous Architectures
+VSGM: View-Based GPU-Accelerated Subgraph Matching on Large Graphs
+STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimizations
+WholeGraph: A Fast Graph Neural Network Training Framework with Multi-GPU Distributed Shared Memory Architecture
+SeqDLM: A Sequencer-Based Distributed Lock Manager for Efficient Shared File Access in a Parallel File System
+MetaWBC: POSIX-Compliant Metadata Write-Back Caching for Distributed File Systems
+GUFI: Fast, Secure File System Metadata Search for Both Privileged and Unprivileged Users
+AD for an Array Language with Nested Parallelism
+SpDISTAL: Compiling Distributed Sparse Tensor Computations
+Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation
+Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5
+Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets
+vGraph: Memory-Efficient Multicore Graph Processing for Traversal-Centric Algorithms
+Boosting Performance Optimization with Interactive Data Movement Visualization
+Not All GPUs Are Created Equal: Characterizing Variability in Large-Scale, Accelerator-Rich Systems
+AlphaSparse: Generating High Performance SpMV Codes Directly from Sparse Matrices
+Approximate Computing Through the Lens of Uncertainty Quantification
+Positive-Phase Temperature Scaling for Quantum-Assisted Boltzmann Machine Training
+QoS-Aware Irregular Collaborative Inference for Improving Throughput of DNN Services
+EL-Rec: Efficient Large-Scale Recommendation Model Training via Tensor-Train Embedding Table
+STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training
+HGL: Accelerating Heterogeneous GNN Training with Holistic Representation and Optimization
+Productive Performance Engineering for Weather and Climate Modeling with Python
+Optimization of Full-Core Reactor Simulations on Summit
+A GPU-Accelerated AMR Solver for Gravitational Wave Propagation
+From Correctable Memory Errors to Uncorrectable Memory Errors: What Error Bits Tell
+Lessons Learned on MPI+Threads Communication
+Climbing the Summit and Pushing the Frontier of Mixed Precision Benchmarks at Extreme Scale
+Scalable Deep Learning-Based Microarchitecture Simulation on GPUs
+TD-NUCA: Runtime Driven Management of NUCA Caches in Task Dataflow Programming Models
+ReSemble: Reinforced Ensemble Framework for Data Prefetching
+W-Cycle SVD: A Multilevel Algorithm for Batched SVD on GPUs
+Scalable Linear Time Dense Direct Solver for 3-D Problems without Trailing Sub-Matrix Dependencies
+Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations
+Graph Neural Networks Based Memory Inefficiency Detection Using Selective Sampling
+Predicting Reuse Interval for Optimized Web Caching: An LSTM-Based Machine Learning Approach
+Out of Hypervisor (OoH): Efficient Dirty Page Tracking in Userspace Using Hardware Virtualization Features

@@ -1,0 +1,167 @@
+Cyclic proofs, system t, and the power of contraction
+Diamonds are not forever: liveness in reactive programming with guarded recursion
+𝜆ₛ: computable semantics for differentiable programming with higher-order functions and datatypes
+Verifying observational robustness against a c11-style memory model
+On algebraic abstractions for concurrent separation logics
+Efficient and provable local capability revocation using uninitialized capabilities
+Fully abstract from static to gradual
+Deciding accuracy of differential privacy schemes
+A computational interpretation of compact closed categories: reversible programming with negative and fractional types
+Mechanized logical relations for termination-insensitive noninterference
+Probabilistic programming semantics for name generation
+Internalizing representation independence with univalence
+Transfinite step-indexing for termination
+Generating collection transformations from proofs
+Learning the boundary of inductive invariants
+Precise subtyping for asynchronous multiparty sessions
+Verifying correct usage of context-free API protocols
+Provably space-efficient parallel functional programming
+Data flow refinement type inference
+Simplifying dependent reductions in the polyhedral model
+On the semantic expressiveness of recursive types
+Intrinsically typed compilation with nameless labels
+egg: Fast and extensible equality saturation
+Asynchronous effects
+Modeling and analyzing evaluation cost of CUDA kernels
+Dijkstra monads forever: termination-sensitive specifications for interaction trees
+A unifying type-theory for higher-order (amortized) cost analysis
+Automatic differentiation in PCF
+An approach to generate correctly rounded math libraries for new floating point variants
+Semantics-guided synthesis
+An abstract interpretation for SPMD divergence on reducible control flow graphs
+Intersection types and (positive) almost-sure termination
+A separation logic for effect handlers
+The fine-grained and parallel complexity of andersen's pointer analysis
+Giving semantics to program-counter labels via secure effects
+Optimal prediction of synchronization-preserving races
+A verified optimizer for Quantum circuits
+Automata and fixpoints for asynchronous hyperproperties
+Relatively complete verification of probabilistic programs: an expressive language for expectation-based reasoning
+Verified code generation for the polyhedral model
+Petr4: formal foundations for p4 data planes
+Distributed causal memory: modular specification and verification in higher-order distributed separation logic
+PerSeVerE: persistency semantics for verification under ext4
+Context-bounded verification of liveness properties for multithreaded shared-memory programs
+A practical mode system for recursive definitions
+Formally verified speculation and deoptimization in a JIT compiler
+Taming x86-TSO persistency
+Deciding ω-regular properties on linear recurrence sequences
+Automatically eliminating speculative leaks from cryptographic code with blade
+A graded dependent type system with a usage-aware semantics
+The (In)Efficiency of interaction
+A pre-expectation calculus for probabilistic sensitivity
+Corpse reviver: sound and efficient gradual typing via contract verification
+Combining the top-down propagation and bottom-up enumeration for inductive program synthesis
+Intensional datatype refinement: with application to scalable verification of pattern-match safety
+Deciding reachability under persistent x86-TSO
+Functorial semantics for partial theories
+Paradoxes of probabilistic programming: and how to condition on events of measure zero with infinitesimal probabilities
+On the complexity of bidirected interleaved Dyck-reachability
+The taming of the rew: a type theory with computational assumptions
+Abstracting gradual typing moving forward: precise and space-efficient
+An order-aware dataflow model for parallel Unix pipelines
+Getting to the point: index sets and parallelism-preserving autodiff for pointful array programming
+Of JavaScript AOT compilation performance
+Generalized evidence passing for effect handlers: efficient compilation of effect handlers to C
+Symbolic and automatic differentiation of languages
+Algebras for weighted search
+Reasoning about effect interaction by fusion
+Compositional optimizations for CertiCoq
+Contextual modal types for algebraic effects and handlers
+Higher-order probabilistic adversarial computations: categorical semantics and program logics
+Newly-single and loving it: improving higher-order must-alias analysis with heap fragments
+Efficient tree-traversals: reconciling parallelism and dense data representations
+Formal verification of a concurrent bounded queue in a weak memory model
+Steel: proof-oriented programming in a dependently typed concurrent separation logic
+A theory of higher-order subtyping with type intervals
+Propositions-as-types and shared state
+Theorems for free from separation logic specifications
+Modular, compositional, and executable formal semantics for LLVM IR
+Catala: a programming language for the law
+Persistent software transactional memory in Haskell
+CPS transformation with affine types for call-by-value implicit polymorphism
+ProbNV: probabilistic verification of network control planes
+How to evaluate blame for gradual types
+GhostCell: separating permissions from data in Rust
+Distributing intersection and union types with splits and duality (functional pearl)
+Automatic amortized resource analysis with the Quantum physicist's method
+On continuation-passing transformations and expected cost analysis
+Skipping the binder bureaucracy with mixed embeddings in a semantics course (functional pearl)
+Calculating dependently-typed compilers (functional pearl)
+Grafs: declarative graph analytics
+An existential crisis resolved: type inference for first-class existential types
+Client-server sessions in linear logic
+Certifying the synthesis of heap-manipulating programs
+Deriving efficient program transformations from rewrite rules
+Reasoning about the garden of forking paths
+Static detection of silent misconfigurations with deep interaction analysis
+Data-driven abductive inference of library specifications
+What we eval in the shadows: a large-scale study of eval in R programs
+ECROs: building global scale systems from sequential code
+Reconciling optimization with secure compilation
+Compilation of sparse array programming models
+Making pointer analysis more precise by unleashing the power of selective context sensitivity
+VESPA: static profiling for binary optimization
+SimTyper: sound type inference for Ruby using type equality prediction
+LooPy: interactive program synthesis with control structures
+A multiparty session typing discipline for fault-tolerant event-driven distributed programming
+Much ADO about failures: a fault-aware model for compositional verification of strongly consistent distributed systems
+Efficient compilation of algebraic effect handlers
+Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode
+Programming and execution models for parallel bounded exhaustive testing
+Interpretable noninterference measurement and its application to processor designs
+Reachability types: tracking aliasing and separation in higher-order functional programs
+Rewrite rule inference using equality saturation
+Type stability in Julia: avoiding performance pathologies in JIT compilation
+Multi-modal program inference: a marriage of pre-trained language models and component-based synthesis
+Fully automated functional fuzzing of Android apps for detecting non-crashing logic bugs
+SecRSL: security separation logic for C11 release-acquire concurrency
+Generative type-aware mutation for testing SMT solvers
+Modular specification and verification of closures in Rust
+Synthesizing contracts correct modulo a test generator
+Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers
+Specifying and testing GPU workgroup progress models
+Study of the subtyping machine of nominal subtyping with variance
+A derivative-based parser generator for visibly Pushdown grammars
+Automatic migration from synchronous to asynchronous JavaScript APIs
+Compacting points-to sets through object clustering
+Durable functions: semantics for stateful serverless
+Semantic programming by example with pre-trained models
+UDF to SQL translation through compositional lazy inductive synthesis
+Permchecker: a toolchain for debugging memory managers with typestate
+Rich specifications for Ethereum smart contract verification
+Making weak memory models fair
+The semantics of shared memory in Intel CPU/FPGA systems
+Coarsening optimization for differentiable programming
+APIfix: output-oriented program synthesis for combating breaking changes in libraries
+Transitioning from structural to nominal code with efficient gradual typing
+Generalizable synthesis through unification
+One down, 699 to go: or, synthesising compositional desugarings
+The reads-from equivalence for the TSO and PSO memory models
+JavaDL: automatically incrementalizing Java bug pattern detection
+How statically-typed functional programmers write code
+Scalability and precision by combining expressive type systems and deductive verification
+Program analysis via efficient symbolic abstraction
+Dynaplex: analyzing program complexity using dynamically inferred recurrence relations
+Compiling with continuations, correctly
+Promises are made to be broken: migrating R to strict semantics
+Efficient automatic scheduling of imaging and vision pipelines for the GPU
+Gauss: program synthesis by reasoning over graphs
+QuickSilver: modeling and parameterized verification for distributed agreement-based systems
+SpecSafe: detecting cache side channels in a speculative world
+Label dependent lambda calculus and gradual typing
+Not so fast: understanding and mitigating negative impacts of compiler optimizations on code reuse gadget sets
+FPL: fast Presburger arithmetic through transprecision
+Translating C to safer Rust
+Relational nullable types with Boolean unification
+LXM: better splittable pseudorandom number generators (and almost as fast)
+Safer at any speed: automatic context-aware safety enhancement for Rust
+Verifying concurrent multicopy search structures
+Formal verification of high-level synthesis
+Synbit: synthesizing bidirectional programs using unidirectional sketches
+Statically bounded-memory delayed sampling for probabilistic streams
+Solver-based gradual type migration
+Symbolic value-flow static analysis: deep, precise, complete modeling of Ethereum smart contracts
+A type system for extracting functional specifications from memory-safe imperative programs
+Gradually structured data
+MonkeyDB: effectively testing correctness under weak isolation levels

@@ -1,0 +1,143 @@
+64th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2023, Santa Cruz, CA, USA, November 6-9, 2023
+Graph Colouring Is Hard on Average for Polynomial Calculus and Nullstellensatz
+Clique Is Hard on Average for Unary Sherali-Adams
+On Lifting Integrality Gaps to SSEH Hardness for Globally Constrained CSPs
+On small-depth Frege proofs for PHP
+Thin Trees for Laminar Families
+One Tree to Rule Them All: Poly-Logarithmic Universal Steiner Tree
+Optimal Fault-Tolerant Spanners in Euclidean and Doubling Metrics: Breaking the Ω (log n) Lightness Barrier
+Sub-quadratic (1+ϵ)-approximate Euclidean Spanners, with Applications
+Envy-Free Cake-Cutting for Four Agents
+Convergence of Approximate and Packet Routing Equilibria to Nash Flows Over Time
+Simultaneous Auctions are Approximately Revenue-Optimal for Subadditive Bidders
+Constant Approximation for Private Interdependent Valuations
+Randomly Punctured Reed-Solomon Codes Achieve the List Decoding Capacity over Polynomial-Size Alphabets
+A proof that Reed-Muller codes achieve Shannon capacity on symmetric channels
+Gilbert and Varshamov Meet Johnson: List-Decoding Explicit Nearly-Optimal Binary Codes
+Optimal Testing of Generalized Reed-Muller Codes in Fewer Queries
+Separating MAX 2-AND, MAX DI-CUT and MAX CUT
+Triplet Reconstruction and all other Phylogenetic CSPs are Approximation Resistant
+Improved Hardness of Approximating k-Clique under ETH
+Efficient Algorithms for Semirandom Planted CSPs at the Refutation Threshold
+The minimal canonical form of a tensor network
+Query-optimal estimation of unitary channels in diamond distance
+When Does Adaptivity Help for Quantum State Learning?
+Exponential quantum speedup in simulating coupled classical oscillators*
+Attribute-Based Encryption for Circuits of Unbounded Depth from Lattices
+ABE for Circuits with poly (λ) -sized Keys from LWE
+Learning in Pessiland via Inductive Inference
+Kolmogorov Comes to Cryptomania: On Interactive Kolmogorov Complexity and Key-Agreement
+A Randomized Algorithm for Single-Source Shortest Path on Undirected Real-Weighted Graphs
+Faster High Accuracy Multi-Commodity Flow from Single-Commodity Techniques
+A Deterministic Almost-Linear Time Algorithm for Minimum-Cost Flow
+Negative-Weight Single-Source Shortest Paths in Near-Linear Time: Now Faster!
+Advisor-Verifier-Prover Games and the Hardness of Information Theoretic Cryptography
+On Pseudolinear Codes for Correcting Adversarial Errors
+A New Approach to Post-Quantum Non-Malleability
+Towards Separating Computational and Statistical Differential Privacy
+Bridge Girth: A Unifying Notion in Network Design
+Planar Disjoint Paths, Treewidth, and Kernels
+Flip-width: Cops and Robber on dense graphs
+Folklore Sampling is Optimal for Exact Hopsets: Confirming the √n Barrier
+Fourier Growth of Communication Protocols for XOR Functions
+SAT Reduces to the Minimum Circuit Size Problem with a Random Oracle
+Doubley-Efficient Interactive Proofs for Distribution Properties
+IOPs with Inverse Polynomial Soundness Error
+Lipschitz Continuous Algorithms for Graph Problems
+Compressing CFI Graphs and Lower Bounds for the Weisfeiler-Leman Refinements
+Strong Spatial Mixing for Colorings on Trees and its Algorithmic Applications
+Singular Value Approximation and Sparsifying Random Walks on Directed Graphs
+Improved Streaming Algorithms for Maximum Directed Cut via Smoothed Snapshots
+Streaming Lower Bounds and Asymmetric Set-Disjointness
+Streaming Euclidean k-median and k-means with o(log n) Space
+Hidden Permutations to the Rescue: Multi-Pass Streaming Lower Bounds for Approximate Matchings
+Strong Bounds for 3-Progressions
+The Subspace Flatness Conjecture and Faster Integer Programming
+Certified Hardness vs. Randomness for Log-Space
+Derandomization vs Refutation: A Unified Framework for Characterizing Derandomization
+Top-Down Lower Bounds for Depth-Four Circuits
+Toward Better Depth Lower Bounds: A KRW-like theorem for Strong Composition
+Handling Correlated Rounding Error via Preclustering: A 1.73-approximation for Correlation Clustering
+Deterministic Clustering in High Dimensional Spaces: Sketches and Approximation
+The Price of Explainability for Clustering
+Agnostic proper learning of monotone functions: beyond the black-box correction barrier
+Near Optimal Memory-Regret Tradeoff for Online Learning
+Tight Time-Space Lower Bounds for Constant-Pass Learning
+Optimal PAC Bounds without Uniform Convergence
+Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting
+Explicit orthogonal and unitary designs
+Polynomial-Time Pseudodeterministic Construction of Primes
+Two Source Extractors for Asymptotically Optimal Entropy, and (Many) More
+Traversing combinatorial 0/1-polytopes via optimization
+The Vector Balancing Constant for Zonotopes
+A deterministic near-linear time approximation scheme for geometric transportation
+Computing linear sections of varieties: quantum entanglement, tensor decompositions and beyond
+Parallel Repetition for the GHZ Game: Exponential Decay
+Bounding the Quantum Value of Compiled Nonlocal Games: From CHSH to BQP Verification
+stateQIP = statePSPACE
+Constant-Factor Approximation Algorithms for Convex Cover and Hidden Set in a Simple Polygon
+Improved Approximations for Vector Bin Packing via Iterative Randomized Rounding
+Parameterized Approximation Schemes for Clustering with General Norm Objectives
+Memory-Query Tradeoffs for Randomized Convex Optimization
+Quartic Samples Suffice for Fourier Interpolation
+Fast Numerical Multivariate Multipoint Evaluation
+Locally Uniform Hashing
+Generalizations of Matrix Multiplication can solve the Light Bulb Problem
+Tight Space Lower Bound for Pseudo-Deterministic Approximate Counting
+Extracting Randomness from Samplable Distributions, Revisited
+Pseudorandom Hashing for Space-bounded Computation with Applications in Streaming
+Work-Efficient Parallel Derandomization I: Chernoff-like Concentrations via Pairwise Independence
+Dynamic (1+ϵ)-Approximate Matching Size in Truly Sublinear Update Time
+Super-Logarithmic Lower Bounds for Dynamic Graph Problems
+The Complexity of Dynamic Least-Squares Regression
+Approximating Edit Distance in the Fully Dynamic Model
+From Grassmannian to Simplicial High-Dimensional Expanders
+HDX Condensers
+Optimal mixing of the down-up walk on independent sets of a given size
+List Decoding of Tanner and Expander Amplified Codes from Distance Certificates
+Chasing Positive Bodies
+Dynamic "Succincter"
+Dynamic treewidth
+Sensitivity and Dynamic Distance Oracles via Generic Matrices and Frobenius Form
+A strong composition theorem for junta complexity and the boosting of property testers
+New Lower Bounds for Adaptive Tolerant Junta Testing
+Testing Graph Properties with the Container Method
+A d1/2+o(1) Monotonicity Tester for Boolean Functions on d-Dimensional Hypergrids
+Strongly History-Independent Storage Allocation: New Upper and Lower Bounds
+Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries
+Online Ordinal Problems: Optimality of Comparison-based Algorithms and their Cardinal Complexity
+Collapsing the Hierarchy of Compressed Data Structures: Suffix Arrays in Optimal Compressed Space
+Canonical decompositions of 3-connected graphs
+Proof of the Clustered Hadwiger Conjecture
+Slicing all Edges of an n-cube Requires n2/3 Hyperplanes
+Directed Acyclic Outerplanar Graphs Have Constant Stack Number
+Sparsifying Sums of Norms
+Towards derandomising Markov chain Monte Carlo
+Uniqueness and Rapid Mixing in the Bipartite Hardcore Model (extended abstract)
+Sampling from the Potts model at low temperatures via Swendsen-Wang dynamics
+Interior-point methods on manifolds: theory and applications
+ReSQueing Parallel and Private Stochastic Convex Optimization
+The Bit Complexity of Efficient Continuous Optimization
+Sparse Submodular Function Minimization
+On Symmetric Factorizations of Hankel Matrices
+Krylov Methods are (nearly) Optimal for Low-Rank Approximation
+Matrix Completion in Almost-Verification Time
+Faster Matrix Multiplication via Asymmetric Hashing
+Query lower bounds for log-concave sampling
+Algorithmic Decorrelation and Planted Clique in Dependent Random Graphs: The Case of Extra Triangles
+The Full Landscape of Robust Mean Testing: Sharp Separations between Oblivious and Adaptive Contamination
+Faster high-accuracy log-concave sampling via algorithmic warm starts
+Optimal Algorithms for Bounded Weighted Edit Distance
+Faster Algorithms for Text-to-Pattern Hamming Distances
+All-Pairs Max-Flow is no Harder than Single-Pair Max-Flow: Gomory-Hu Trees in Almost-Linear Time
+Why we couldn't prove SETH hardness of the Closest Vector Problem for even norms!
+Covering Planar Metrics (and Beyond): O(1) Trees Suffice
+Planar and Minor-Free Metrics Embed into Metrics of Polylogarithmic Treewidth with Expected Multiplicative Distortion Arbitrarily Close to 1
+Path-Reporting Distance Oracles with Logarithmic Stretch and Size O(n log log n)
+Deterministic Fully Dynamic SSSP and More
+Local Computation Algorithms for Maximum Matching: New Lower Bounds
+Secure Computation Meets Distributed Universal Optimality
+Distribution of the threshold for the symmetric perceptron
+Properly learning decision trees with queries is NP-hard
+Beyond Moments: Robustly Learning Affine Transformations with Asymptotically Optimal Error
+Stability and Replicability in Learning

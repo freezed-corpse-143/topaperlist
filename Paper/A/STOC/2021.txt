@@ -1,0 +1,152 @@
+STOC '21: 53rd Annual ACM SIGACT Symposium on Theory of Computing, Virtual Event, Italy, June 21-25, 2021
+Computational thinking in programming language and compiler design (keynote)
+Climbing algorithms (invited talk)
+A polynomial-time approximation algorithm for counting words accepted by an NFA (invited paper)
+Chasing convex bodies with linear competitive ratio (invited paper)
+Neural tangent kernel: convergence and generalization in neural networks (invited paper)
+Simplicity creates inequity: implications for fairness, stereotypes, and interpretability (invited paper)
+The ghost in the radiation: robust encodings of the black hole interior (invited paper)
+A new analysis of differential privacy's generalization guarantees (invited paper)
+Load balancing guardrails: keeping your heavy traffic on the road to low response times (invited paper)
+Learnability can be independent of set theory (invited paper)
+Log-concave polynomials in theory and applications (tutorial)
+Statistical physics of random CSPs (tutorial)
+Discrepancy minimization via a self-balancing walk
+Separating words and trace reconstruction
+A (slightly) improved approximation algorithm for metric TSP
+The complexity of gradient descent: CLS = PPAD ∩ PLS
+Indistinguishability obfuscation from well-founded assumptions
+Linear bandits with limited adaptivity and learning distributional optimal design
+Efficiently learning halfspaces with Tsybakov noise
+Robust linear regression: optimal rates in polynomial time
+Statistical query complexity of manifold estimation
+When is memorization of irrelevant training data necessary for high-accuracy learning?
+Sample-optimal and efficient learning of tree Ising models
+Near-optimal learning of tree-structured distributions by Chow-Liu
+Learning Ising models from one or multiple samples
+A new coreset framework for clustering
+Sample-efficient proper PAC learning with approximate differential privacy
+Log-rank and lifting for AND-functions
+Automating algebraic proof systems is NP-hard
+Strong co-nondeterministic lower bounds for NP cannot be proved feasibly
+Iterated lower bound formulas: a diagonalization-based approach to proof complexity
+New separations results for external information
+Polynomial time deterministic identity testing algorithm for Σ[3]ΠΣΠ[2] circuits via Edelstein-Kelly type theorem for quadratic polynomials
+An improved derandomization of the switching lemma
+Simple and fast derandomization from very hard functions: eliminating randomness at almost no cost
+Average-case hardness of NP from exponential worst-case hardness assumptions
+Pseudodeterministic algorithms and the structure of probabilistic time
+Vertex connectivity in poly-logarithmic max-flows
+Finding large induced sparse subgraphs in c>t -free graphs in quasipolynomial time
+Clan embeddings into trees, and low treewidth graphs
+Tree embeddings for hop-constrained network design
+Bridging the gap between tree and connectivity augmentation: unified and stronger approaches
+Deterministic mincut in almost-linear time
+Support of closed walks and second eigenvalue multiplicity of graphs
+Log-concave polynomials IV: approximate exchange, tight mixing times, and near-optimal sampling of forests
+Breaking the quadratic barrier for matroid intersection
+Fractionally log-concave and sector-stable polynomials: counting planar matchings and more
+Adversarial laws of large numbers and optimal regret in online classification
+Stronger calibration lower bounds via sidestepping
+Hardness of learning DNFs using halfspaces
+Boosting simple learners
+Algorithmic foundations for the diffraction limit
+VC dimension and distribution-free sample-based testing
+Settling the robust learnability of mixtures of Gaussians
+A theory of universal learning
+Optimal testing of discrete distributions with high probability
+Information theoretic limits of cardinality estimation: Fisher meets Shannon
+Almost optimal super-constant-pass streaming lower bounds for reachability
+Robust testing of low dimensional functions
+Towards tight bounds for spectral sparsification of hypergraphs
+Graph streaming lower bounds for parameter estimation and property testing via a streaming XOR lemma
+Decremental all-pairs shortest paths in deterministic near-linear time
+Improved dynamic algorithms for longest increasing subsequence
+Fully dynamic approximation of LIS in polylogarithmic time
+A framework for dynamic matching in weighted graphs
+Online stochastic matching, poisson arrivals, and the natural linear program
+Continuous LWE
+SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE
+Cryptography from sublinear-time average-case hardness of time-bounded Kolmogorov complexity
+Indistinguishability obfuscation from circular security
+Fiat-Shamir via list-recoverable codes (or: parallel repetition of GMW is not zero-knowledge)
+Inverse-exponential correlation bounds and extremely rigid matrices from a new derandomized XOR lemma
+Kronecker products, low-depth circuits, and matrix rigidity
+Lower bounds for monotone arithmetic circuits via communication complexity
+Structure vs. randomness for bilinear maps
+Reconstruction algorithms for low-rank tensors and depth-3 multilinear circuits
+A faster algorithm for solving general LPs
+Combinatorial Bernoulli factories: matchings, flows, and other polytopes
+Capacity lower bounds via productization
+Minimum cost flows, MDPs, and ℓ1-regression in nearly linear time for dense instances
+A framework for quadratic form maximization over convex sets through nonconvex relaxations
+The randomized communication complexity of randomized auctions
+Greedy adversarial equilibrium: an efficient alternative to nonconvex-nonconcave min-max optimization
+Contextual search in the presence of irrational agents
+How much data is sufficient to learn high-performing algorithms? generalization guarantees for data-driven algorithm design
+The communication complexity of payment computation
+Exponential communication separations between notions of selfishness
+Reducing isotropy and volume to KLS: an o*(n3ψ2) volume algorithm
+A new algorithm for Euclidean shortest paths in the plane
+Stronger bounds for weak epsilon-nets in higher dimensions
+Dynamic planar point location in optimal time
+When is approximate counting for conjunctive queries tractable?
+Near-linear time approximation schemes for Steiner tree and forest in low-dimensional spaces
+A (2 + ε)-approximation algorithm for preemptive weighted flow time on a single machine
+A quasipolynomial (2 + ε)-approximation for planar sparsest cut
+Flow time scheduling with uncertain processing time
+The limits of pan privacy and shuffle privacy for learning and estimation
+Outcome indistinguishability
+Optimal labelling schemes for adjacency, comparability, and reachability
+Bipartite perfect matching as a real polynomial
+Efficient and near-optimal algorithms for sampling connected subgraphs
+Distributed weighted min-cut in nearly-optimal time
+A deterministic algorithm for the MST problem in constant rounds of congested clique
+Universally-optimal distributed algorithms for known topologies
+Efficient randomized distributed coloring in CONGEST
+The communication complexity of multiparty set disjointness under product distributions
+Hop-constrained oblivious routing
+Efficient randomized DCAS
+Optimal error resilience of adaptive message exchange
+How asymmetry helps buffer management: achieving optimal tail size in cup games
+Load balancing with dynamic set of balls and bins
+Fiber bundle codes: breaking the n1/2 polylog(n) barrier for Quantum LDPC codes
+An optimal separation of randomized and Quantum query complexity
+k-forrelation optimally separates Quantum and classical query complexity
+New cosystolic expanders from tensors imply explicit Quantum LDPC codes with Ω(√n logk n) distance
+Degree vs. approximate degree and Quantum implications of Huang's sensitivity theorem
+Eliminating intermediate measurements in space-bounded Quantum computation
+(Sub)Exponential advantage of adiabatic Quantum computation with no sign problem
+Succinct blind Quantum computation using a random oracle
+Sampling matrices from Harish-Chandra-Itzykson-Zuber densities with applications to Quantum inference and differential privacy
+Improved Quantum data analysis
+Approximating Nash social welfare under rado valuations
+Settling the complexity of Nash equilibrium in congestion games
+Revelation gap for pricing from samples
+Efficient two-sided markets with limited information
+The complexity of constrained min-max optimization
+On codes decoding a constant fraction of errors on the BSC
+Decoding multivariate multiplicity codes on product sets
+Efficient list-decoding with constant alphabet and list sizes
+Explicit uniquely decodable codes for space bounded channels that achieve list-decoding capacity
+Near-linear time decoding of Ta-Shma's codes via splittable regularity
+Optimal mixing of Glauber dynamics: entropy factorization via high-dimensional expansion
+Entropy decay in the Swendsen-Wang dynamics on ℤd
+Sampling constraint satisfaction solutions in the local lemma regime
+Frozen 1-RSB structure of the symmetric Ising perceptron
+Perfectly sampling k ≥ (8/3 + o(1))Δ-colorings in graphs
+The metric relaxation for 0-extension admits an Ω(log2/3k) gap
+Optimal inapproximability of satisfiable k-LIN over non-abelian groups
+Playing unique games on certified small-set expanders
+Expander random walks: a Fourier-analytic approach
+Local concentration inequalities and Tomaszewski's conjecture
+Improving Schroeppel and Shamir's algorithm for subset sum via orthogonal vectors
+Settling SETH vs. approximate sparse directed unweighted diameter (up to (NU)NSETH)
+Tight conditional lower bounds for approximating diameter in directed graphs
+Sparse nonnegative convolution is equivalent to dense nonnegative convolution
+Subcubic algorithms for Gomory-Hu tree in unweighted graphs
+Approximate Gomory-Hu tree is faster than n - 1 max-flows
+Constant approximating k-clique is w[1]-hard
+Vertex deletion parameterized by elimination distance and even less
+A full complexity dichotomy for immanant families
+A nearly-linear time algorithm for linear programs with small treewidth: a multiscale representation of robust central path

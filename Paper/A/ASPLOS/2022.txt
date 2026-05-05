@@ -1,0 +1,81 @@
+ASPLOS '22: 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Lausanne, Switzerland, 28 February 2022 - 4 March 2022
+TaskStream: accelerating task-parallel workloads by recovering program structure
+DOTA: detect and omit weak attentions for scalable transformer acceleration
+A full-stack search technique for domain optimized deep learning accelerators
+FINGERS: exploiting fine-grained parallelism in graph mining accelerators
+BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge
+Software-defined address mapping: a case on 3D memory
+Parallel virtualized memory translation with nested elastic cuckoo page tables
+CARAT CAKE: replacing paging via compiler/kernel cooperation
+NVAlloc: rethinking heap metadata management in persistent memory allocators
+Every walk's a hit: making page walks single-access cache hits
+GPM: leveraging persistent memory from a GPU
+GPUReplay: a 50-KB GPU stack for client ML
+ValueExpert: exploring value patterns in GPU-accelerated applications
+SparseCore: stream ISA and processor specialization for sparse computation
+JSONSki: streaming semi-structured data with bit-parallel fast-forwarding
+MineSweeper: a "clean sweep" for drop-in use-after-free prevention
+Revizor: testing black-box CPUs against speculation contracts
+Protecting adaptive sampling from information leakage on low-power sensors
+One size does not fit all: security hardening of MIPS embedded systems via static binary debloating for shared libraries
+ViK: practical mitigation of temporal memory safety violations through object ID inspection
+Eavesdropping user credentials via GPU side channels on smartphones
+CRISP: critical slice prefetching
+Pinned loads: taming speculative loads in secure processors
+DAGguise: mitigating memory timing side channels
+RecShard: statistical feature-based memory optimization for industry-scale neural recommendation
+AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures
+NASPipe: high performance and reproducible pipeline parallel supernet training via causal synchronous parallelism
+VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling
+Breaking the computation and communication abstraction barrier in distributed machine learning workloads
+Clio: a hardware-software co-designed disaggregated memory system
+Enzian: an open, general, CPU/FPGA platform for systems software research
+Efficient and scalable core multiplexing with M³v
+FlexOS: towards flexible OS isolation
+Adelie: continuous address space layout re-randomization for Linux drivers
+Suppressing ZZ crosstalk of Quantum computers through pulse and scheduling co-optimization
+QUEST: systematically approximating Quantum circuits for higher output fidelity
+HAMMER: boosting fidelity of noisy Quantum circuits by exploiting Hamming behavior of erroneous outcomes
+LILLIPUT: a lightweight low-latency lookup-table decoder for near-term Quantum error correction
+Paulihedral: a generalized block-wise compiler optimization framework for Quantum simulation kernels
+Astraea: towards QoS-aware and resource-efficient multi-stage GPU services
+Memory-harvesting VMs in cloud platforms
+IOCost: block IO control for containers in datacenters
+TMO: transparent memory offloading in datacenters
+SOL: safe on-node learning in cloud platforms
+GenStore: a high-performance in-storage processing system for genome sequence analysis
+ProSE: the architecture and design of a protein discovery engine
+A one-for-all and o(v log(v ))-cost solution for parallel merge style operations on sorted key-value arrays
+Client-optimized algorithms and acceleration for encrypted compute offloading
+Finding missed optimizations through the lens of dead code elimination
+A tree clock data structure for causal orderings in concurrent executions
+RSSD: defend against ransomware with hardware-isolated network-storage codesign and post-attack analysis
+Creating concise and efficient dynamic analyses with ALDA
+IceBreaker: warming serverless functions better with heterogeneity
+INFless: a native serverless system for low-latency, high-throughput inference
+FaaSFlow: enable efficient workflow execution for function-as-a-service
+Serverless computing on heterogeneous computers
+CoolEdge: hotspot-relievable warm water cooling for energy-efficient edge datacenters
+Yashme: detecting persistency races
+EXAMINER: automatically locating inconsistent instructions between real devices and CPU emulators for ARM
+Path-sensitive and alias-aware typestate analysis for detecting OS bugs
+Efficiently detecting concurrency bugs in persistent memory programs
+Who goes first? detecting go concurrency bugs via message reordering
+CryoWire: wire-driven microarchitecture designs for cryogenic computing
+REVAMP: a systematic framework for heterogeneous CGRA realization
+PLD: fast FPGA compilation to make reconfigurable acceleration compatible with modern incremental refinement software development
+Debugging in the brave new world of reconfigurable hardware
+Temporal and SFQ pulse-streams encoding for area-efficient superconducting accelerators
+Understanding and exploiting optimal function inlining
+CirFix: automatically repairing defects in hardware design code
+Vector instruction selection for digital signal processors using program synthesis
+HeteroGen: transpiling C to heterogeneous HLS code with automated test generation and program repair
+Tree traversal synthesis using domain-specific symbolic compilation
+SRAM has no chill: exploiting power domain separation to steal on-chip secrets
+Randomized row-swap: mitigating Row Hammer by breaking spatial correlation between aggressor and victim rows
+ShEF: shielded enclaves for cloud FPGAs
+Invisible bits: hiding secret messages in SRAM's analog domain
+Taurus: a data plane architecture for per-packet ML
+FlexDriver: a network driver for your accelerator
+The benefits of general-purpose on-NIC memory
+Domain specific run time optimization for software data planes

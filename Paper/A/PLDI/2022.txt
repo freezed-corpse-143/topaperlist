@@ -1,0 +1,69 @@
+PLDI '22: 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, San Diego, CA, USA, June 13 - 17, 2022
+Modular information flow through ownership
+ANOSY: approximated knowledge synthesis with refinement types for declassification
+Hardening attack surfaces with formally proven binary format parsers
+P4BID: information flow control in p4
+Turning manual concurrent memory reclamation into automatic reference counting
+Low-latency, high-throughput garbage collection
+Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters
+PaC-trees: supporting parallel and compressed purely-functional collections
+Type-directed program synthesis for RESTful APIs
+Visualization question answering using introspective program synthesis
+WebRobot: web robotic process automation using interactive programming-by-demonstration
+Synthesizing analytical SQL queries from computation demonstration
+Finding typing compiler bugs
+IRDL: an IR definition language for SSA compilers
+Sequential reasoning for optimizing compilers under weak memory concurrency
+Can reactive synthesis and syntax-guided synthesis be friends?
+Recursion synthesis with unrealizability witnesses
+"Synthesizing input grammars": a replication study
+Autoscheduling for sparse tensor algebra with an asymptotic cost model
+DISTAL: the distributed tensor algebra compiler
+All you need is superword-level parallelism: systematic control-flow vectorization with SLP
+Warping cache simulation of polyhedral programs
+Certified mergeable replicated data types
+Hamband: RDMA replicated data types
+RunTime-assisted convergence in replicated data types
+Adore: atomic distributed objects with certified reconfiguration
+CycleQ: an efficient basis for cyclic equational reasoning
+Finding the dwarf: recovering precise types from WebAssembly binaries
+Abstract interpretation repair
+Differential cost analysis with simultaneous potentials and anti-potentials
+A flexible type system for fearless concurrency
+A study of real-world data races in Golang
+Checking robustness to weak persistency models
+Sound sequentialization for concurrent program verification
+Choosing mathematical function implementations for speed and accuracy
+Guaranteed bounds for posterior inference in universal probabilistic programming
+Progressive polynomial approximations for fast correctly rounded math libraries
+A typed continuation-passing translation for lexical effect handlers
+Deep and shallow types for gradual languages
+Kleene algebra modulo theories: a framework for concrete KATs
+Semantic soundness for language interoperability
+Quartz: superoptimization of Quantum circuits
+Giallar: push-button verification for the qiskit Quantum compiler
+Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra
+PyLSE: a pulse-transfer level language for superconductor electronics
+Bind the gap: compiling real software to hardware FFT accelerators
+Exocompilation for productive programming of hardware accelerators
+PDL: a high-level hardware design language for pipelined processors
+Software-hardware codesign for efficient in-memory regular pattern matching
+Deoptless: speculation with dispatched on-stack replacement and specialized continuations
+Karp: a language for NP reductions
+WARio: efficient code generation for intermittent computing
+Compass: strong and compositional library specifications in relaxed memory separation logic
+Diaframe: automated verification of fine-grained concurrent programs in Iris
+Islaris: verification of machine code against authoritative ISA semantics
+RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code
+Efficient approximations for cache-conscious data placement
+FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs
+Lasagne: a static binary translator for weak memory model architectures
+Verifying optimizations of concurrent programs in the promising semantics
+Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code
+Formally verified lifting of C-compiled x86-64 binaries
+Leapfrog: certified equivalence for protocol parsers
+Computing correctly with inductive relations
+Interpreter-guided differential JIT compiler unit testing
+Landmarks and regions: a robust approach to data extraction
+Odin: on-demand instrumentation with on-the-fly recompilation
+Quickstrom: property-based acceptance testing with LTL specifications

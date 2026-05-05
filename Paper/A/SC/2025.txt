@@ -1,0 +1,182 @@
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2025, St. Louis, MO, USA, November 16-21, 2025
+Ab-initio Quantum Transport with the GW Approximation, 42, 240 Atoms, and Sustained Exascale Performance
+Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization
+Cosmological Hydrodynamics at Exascale: A Trillion-Particle Leap in Capability
+Multiscale Light-Matter Dynamics in Quantum Materials: From Electrons to Topological Superlattices
+Advancing Quantum Many-Body GW Calculations on Exascale Supercomputing Platforms
+Real-Time Bayesian Inference at Extreme Scale: A Digital Twin for Tsunami Early Warning Applied to the Cascadia Subduction Zone
+AERIS: Argonne Earth Systems Model for Reliable and Skillful Predictions
+ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling
+Destination Earth: The Climate Change Adaptation Digital Twin
+Kilometer-Scale AI-Powered and Performance-Portable Earth System Model (AP3ESM) to Achieve Year-Scale Simulation Speed on Heterogeneous Supercomputers
+Computing the Full Earth System at 1km Resolution
+PerfDojo: Automated ML Library Generation for Heterogeneous Architectures
+Automatic Generation of Mappings for Distributed Fourier Operations
+A Sample-Free Compilation Framework for Efficient Dynamic Tensor Computation
+Constraint-Driven Auto-Tuning of GEMM-like Operators for MT-3000 Many-core Processor
+Plexus: Taming Billion-edge Graphs with 3D Parallel Full-graph GNN Training
+PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training
+TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network
+Moment: Co-optimizing Physical Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training
+mLR: Scalable Laminography Reconstruction based on Memoization
+Scaling the memory wall using mixed-precision - HPG-MxP on an exascale machine
+CPU- and GPU-initiated Communication Strategies for Conjugate Gradient Methods on Large GPU Clusters
+Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis
+C.A.T.S.: Memory and Control Flow Tracing for Whole-Program Performance Analysis
+ATLAHS: An Application-centric Network Simulator Toolchain for AI, HPC, and Distributed Storage
+RedSan: A Redundant Memory Instruction Sanitizer for GPU Programs
+TraceFlow: Efficient Trace Analysis for Large-Scale Parallel Applications via Interaction Pattern-Aware Trace Distribution
+Insights from Optimizing HPL Performance on Exascale Systems: A Comparative Analysis of Panel Factorization
+Breaking the System Noise Barrier at Exascale
+Addressing Reproducibility Challenges in HPC with Continuous Integration
+ChatHPC: Building the Foundations for a Productive and Trustworthy AI-Assisted HPC Ecosystem
+GreenMix: Energy-Efficient Serverless Computing via Randomized Sketching on Asymmetric Multi-Cores
+HELM: Characterizing Unified Memory Accesses to Improve GPU Performance under Memory Oversubscription
+Minimizing Power Waste in Heterogenous Computing via Adaptive Uncore Scaling
+BOER: Enhancing Resource Utilization for Deep Learning Inference with Hybrid Spatial GPU Sharing
+XaaS Containers: Performance-Portable Representation With Source and IR Containers
+Bridging the Gap Between Binary and Source Based Package Management in Spack
+EDDE: Container Deployment Framework Beyond the Cloud
+coMtainer: Compilation-assisted HPC Container Images with Enhanced Adaptability
+Sparsified Preconditioned Conjugate Gradient Solver on GPUs
+FaSTCC: Fast Sparse Tensor Contractions on CPUs
+StraGCN: GPU-Accelerated Strassen's Sparse-Dense Matrix Multiplication for Graph Convolutional Network Training
+Bridging the Gap between Unstructured SpMM and Structured Sparse Tensor Cores
+RAPTOR: Practical Numerical Profiling of Scientific Applications
+Numerical Performance of the Implicitly Restarted Arnoldi Method in OFP8, Bfloat16, Posit, and Takum Arithmetics
+High-Performance Branch-Free Algorithms for Extended-Precision Floating-Point Arithmetic
+A Nested Krylov Method Using Half-Precision Arithmetic
+Qonductor: A Cloud Orchestrator for Quantum Computing
+QDockBank: A dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers
+Augmenting Simulated Noisy Quantum Data Collection by Orders of Magnitude Using Pre-Trajectory Sampling with Batched Execution
+Optimizing Quantum Circuit Mapping to Reduce Inter-Module Communications in Distributed Architectures
+UpANNS: Enhancing Billion-Scale ANNS Efficiency with Real-World PIM Architecture
+MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories
+DRIM-ANN: An Approximate Nearest Neighbor Search Engine based on Commercial DRAM-PIMs
+Optimizing Data Acquisitions in Multi-Robot Systems
+ThirstyFLOPS: Water Footprint Modeling and Analysis Toward Sustainable HPC Systems
+Core Hours and Carbon Credits: Incentivizing Sustainability in HPC
+Benchmark-driven Models for Energy Analysis and Attribution of GPU-Accelerated Supercomputing
+Characterizing Performance, Power, and Energy of AMD CDNA3 GPU Family
+Distributed Cross-Channel Hierarchical Aggregation for Foundation Models
+Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes
+Towards Efficient LLM Inference via Collective and Adaptive Speculative Decoding
+TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+ODOS-MPI: HPC-Friendly SmartNIC Offloading of Computation/Communication Kernels
+AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration
+LCI: a Lightweight Communication Interface for Efficient Asynchronous Multithreaded Communication
+COSMOS: Performance Portable Graph Pattern Matching with Domain-Specific Software Distributed Shared Memory
+Fine-grained Automated Failure Management for Extreme-Scale GPU Accelerated Systems
+FT-Transformer: Resilient and Reliable Transformer with End-to-End Fault Tolerant Attention
+Deploying Lightweight Input-Aware Selective Instruction Duplication in HPC Applications
+LowDiff: Efficient Frequent Checkpointing via Low-Cost Differential for High-Performance Distributed Training Systems
+Demystifying the Resilience of Large Language Model Inference: An End-to-End Perspective
+Story of Two GPUs: Characterizing the Resilience of Hopper H100 and Ampere A100 GPUs
+Exploring and Mitigating Failure Behavior of Large Language Model Training Workloads in HPC Systems
+Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing
+Uno: A One-Stop Solution for Inter- and Intra-Data Center Congestion Control and Reliable Connectivity
+ACTINA: Adapting Circuit-Switching Techniques for AI Networking Architectures
+SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication
+Scaling Out Chip Interconnect Networks with Implicit Sequence Numbers
+STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems
+Phoenix: A Refactored I/O Stack for GPU Direct Storage without Phony Buffers
+gParaKV: A GPGPU-accelerated Key-Value Separation-based KV Store with Optimized Compaction and Garbage Collection
+MANS: Efficient and Portable ANS Encoding for Multi-Byte Integer Data on CPUs and GPUs
+X-MoE: Enabling Scalable Training for Emerging Mixture-of-Experts Architectures on HPC Platforms
+TT-LoRA MoE: Using Parameter-Efficient Fine-Tuning and Sparse Mixture-Of-Experts
+Balanced and Elastic End-to-end Training of Dynamic LLMs
+HPC-R1: Characterizing R1-like Large Reasoning Models on HPC
+MLP-Offload: Multi-Level, Multi-Path Offloading for LLM Pre-training to Break the GPU Memory Wall
+RingX: Scalable Parallel Attention for Long-Context Learning on HPC
+SlimPipe: Memory-Thrifty and Efficient Pipeline Parallelism for Long-Context LLM Training
+BurstEngine: An efficient distributed framework for training transformers On extremely Long sequences of over 1M tokens
+Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation
+Utilizing Sparsity in the GPU-accelerated Assembly of Schur Complement Matrices in Domain Decomposition Methods
+Caracal: A GPU-Resident Sparse LU Solver with Lightweight Fine-Grained Scheduling
+SparStencil: Retargeting Sparse Tensor Cores to Scientific Stencil Computations via Structured Sparsity Transformation
+Fringe-SGC: Counting Subgraphs with Fringe Vertices
+SIGMo: High-Throughput Batched Subgraph Isomorphism on GPUs for Molecular Matching
+Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing
+Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting
+KAMI: Communication-Avoiding General Matrix Multiplication within a Single GPU
+MXBLAS: Accelerating 8-bit Deep Learning with a Unified Micro-Scaled GEMM Library
+HyTiS: Hybrid Tile Scheduling for GPU GEMM with Enhanced Wave Utilization and Cache Locality
+LiquidGEMM: Hardware-Efficient W4A8 GEMM Kernel for High-Performance LLM Serving
+TENSORMD: Accelerating Molecular Dynamics with a High-Performance Machine Learning Interatomic Potential
+NNQS-SCI: Tackling Trillion-Dimensional Hilbert Space with Adaptive Neural Network Quantum States
+MISA-AKMC : Achieve Kinetic Monte Carlo Simulation of 20 Quadrillion Atoms on GPU Clusters
+MaverIQ: Fingerprint-Guided Extrapolation and Fragmentation-Aware Layering for Intent-Based LLM Serving
+Compile-Time QoS Scheme for Deep Learning Inferences
+Hetis: Serving LLMs in Heterogeneous GPU Clusters with Fine-grained and Dynamic Parallelism
+gLLM: Global Balanced Pipeline Parallelism Systems for Distributed LLMs Serving with Token Throttling
+SIREN: Software Identification and Recognition in HPC Systems
+Hypertron: Efficiently Scaling Large Models by Exploring High-Dimensional Parallelization Space
+UltraAttn: Efficiently Parallelizing Attention through Hierarchical Context-Tiling
+TianheEngine: Hierarchy-aware Adaptive Partitioning System for Trillion-scale Graph Processing
+Parallel Rank-Adaptive Higher Order Orthogonal Iteration
+HStencil: Matrix-Vector Stencil Computation with Interleaved Outer Product and MLA
+Rethinking Back Transformation in 2-stage Eigenvalue Decomposition on Heterogeneous Architectures
+DAS-ILU: A Distributed Asynchronous Parallel ILU Factorization Based on Domain Decomposition
+The First Star-by-star $N$-body/Hydrodynamics Simulation of Our Galaxy Coupling with a Surrogate Model
+Million-Atom Ab Initio Electron Dynamics: Discontinuous Galerkin Real-Time Time-Dependent Density Functional Theory
+Deep Learning-Enabled Supercritical Flame Simulation at Detailed Chemistry and Real-Fluid Accuracy Towards Trillion-Cell Scale
+Bine Trees: Enhancing Collective Operations by Optimizing Communication Locality
+DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce
+A Streaming Collectives Interface Targeting Dataflow Acceleration and HPC Workloads
+Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching
+What to Support When You're Compressing: The State of Practice Gaps and Opportunities for Scientific Data Compression
+Generative Latent Diffusion for Efficient Spatiotemporal Data Reduction
+Stability-preserving Lossy Compression for Large-scale Partial Differential Equations
+lsCOMP: Efficient Light Source Compression
+Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration
+STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data
+GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast
+HP-MDR: High-performance and Portable Data Refactoring and Progressive Retrieval with Advanced GPUs
+AMRaCut: Scalable Partitioning for Adaptive Mesh Refinement
+Wasp: Efficient Asynchronous Single-Source Shortest Path on Multicore Systems via Work Stealing
+Matrix Is All You Need: Rearchitecting Quantum Chemistry to Scale on AI Accelerators
+BLAZE: Exploiting Hybrid Parallelism and Size-customized Kernels to Accelerate BLASTP on GPUs
+Microscopic-Level Mouse Whole Cortex Simulation Composed of 9 Million Biophysical Neurons and 26 Billion Synapses on the Supercomputer Fugaku
+Trillion Ligands per Day: Performance-Portable Virtual Screening via Compound Database Optimization and Multi-Target Docking
+T2-RELION: Task Parallelism, Tensor Core Accelerated RELION for Cryo-EM 3D Reconstruction
+Workload Intelligence: Workload-Aware IaaS abstraction for Cloud Efficiency
+cMPI: Using CXL Memory Sharing for MPI One-Sided and Two-Sided Inter-Node Communications
+DHAP: Towards Efficient OLAP in a Disaggregated and Heterogeneous Environment
+Make Updates Faster: A Fast Multi-Stripe Updates Framework in Erasure-Coded Storage Clusters
+Reproducibility Report for SC25 Paper Uno: A One-Stop Solution for Inter- and Intra- Data Center Congestion Control and Reliable Connectivity
+Reproducibility Report for SC25 Paper ATLAHS: An Application-centric Network Simulator Toolchain for AI, HPC, and Distributed Storage
+Reproducibility Report for SC25 Paper TensorMD: Accelerating Molecular Dynamics with a High-Performance Machine Learning Interatomic Potential
+Reproducibility Report for SC25 Paper TurboFNO: High-Performance Fourier Neural Operator with Fused FFT-GEMM-iFFT on GPU
+Reproducibility Report for SC25 Paper X-MoE: Enabling Scalable Training for Emerging Mixture-of-Experts Architectures on HPC Platforms
+Reproducibility Report for SC25 Paper SIGMo: High-Throughput Batched Subgraph Isomorphism on GPUs for Molecular Matching
+Reproducibility Report for SC25 Paper MLP-Offload: Multi-Level, Multi-Path Offloading for LLM Pre-training to Break the GPU Memory Wall
+Reproducibility Report for SC25 Paper STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data
+Reproducibility Report for SC25 Paper Story of Two GPUs: Characterizing the Resilience of Hopper H100 and Ampere A100 GPUs
+Reproducibility Report for SC25 Paper Optimizing Quantum Circuit Mapping to Reduce Inter-Module Communications in Distributed Architectures
+Reproducibility Report for SC25 Paper MXBLAS: Accelerating 8-bit Deep Learning with a Unified Micro-Scaled GEMM Library
+Reproducibility Report for SC25 Paper C.A.T.S.: Memory and Control Flow Tracing for Whole-Program Performance Analysis
+Reproducibility Report for SC25 Paper Numerical Performance of the Implicitly Restarted Arnoldi Method in OFP8, Bfloat16, Posit, and Takum Arithmetics
+Reproducibility Report for SC25 Paper Moment: Co-optimizing Physical Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training
+Reproducibility Report for SC25 Paper Sparsified Preconditioned Conjugate Gradient Solver on GPUs
+Reproducibility Report for SC25 Paper MANS: Efficient and Portable ANS Encoding for Multi-Byte Integer Data on CPUs and GPUs
+Reproducibility Report for SC25 Paper Caracal: A GPU-Resident Sparse LU Solver with Lightweight Fine-Grained Scheduling
+Reproducibility Report for SC25 Paper MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories
+Reproducibility Report for SC25 Paper CPU- and GPU-initiated Communication Strategies for Conjugate Gradient Methods on Large GPU Clusters
+Reproducibility Report for SC25 Paper lsCOMP: Efficient Light Source Compression
+Reproducibility Report for SC25 Paper lsCOMP: Efficient Light Source Compression
+Reproducibility Report for SC25 Paper Zero-Value Code Specialization via Profile-Guided Control Data Flow Analysis
+Reproducibility Report for SC25 Paper High-Performance Branch-Free Algorithms for Extended-Precision Floating-Point Arithmetic
+Reproducibility Report for SC25 Paper GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast
+Reproducibility Report for SC25 Paper Ab-initio Quantum Transport with the GW Approximation, 42, 240 Atoms, and Sustained Exascale Performance
+Reproducibility Report for SC25 Paper KAMI: Communication-Avoiding General Matrix Multiplication within a Single GPU
+Reproducibility Report for SC25 Paper Demystifying the Resilience of Large Language Model Inference: An End-to-End Perspective
+Reproducibility Report for SC25 Paper HP-MDR: High-performance and Portable Data Refactoring and Progressive Retrieval with Advanced GPUs
+Reproducibility Report for SC25 Paper Bridging the Gap Between Binary and Source Based Package Management in Spack
+Reproducibility Report for SC25 Paper FaSTCC: Fast Sparse Tensor Contractions on CPUs
+Reproducibility Report for SC25 Paper RedSan: A Redundant Memory Instruction Sanitizer for GPU Programs
+Reproducibility Report for SC25 Paper RAPTOR: Practical Numerical Profiling of Scientific Applications
+Reproducibility Report for SC25 Paper Addressing Reproducibility Challenges in HPC with Continuous Integration
+Reproducibility Report for SC25 Paper ThirstyFLOPS: Water Footprint Modeling and Analysis Toward Sustainable HPC Systems
+Reproducibility Report for SC25 Paper DRIM-ANN: An Approximate Nearest Neighbor Search Engine based on Commercial DRAM-PIMs
+Reproducibility Report for SC25 Paper Bine Trees: Enhancing Collective Operations by Optimizing Communication Locality
+Reproducibility Report for SC25 Paper XaaS Containers: Performance-Portable Representation With Source and IR Containers

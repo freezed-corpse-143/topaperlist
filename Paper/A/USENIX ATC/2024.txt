@@ -1,0 +1,78 @@
+Proceedings of the 2024 USENIX Annual Technical Conference, USENIX ATC 2024, Santa Clara, CA, USA, July 10-12, 2024
+Harmonizing Efficiency and Practicability: Optimizing Resource Utilization in Serverless Computing with Jiagu
+ALPS: An Adaptive Learning, Priority OS Scheduler for Serverless Functions
+Starburst: A Cost-aware Scheduler for Hybrid Cloud
+StreamBox: A Lightweight GPU SandBox for Serverless Inference Workflow
+Power-aware Deep Learning Model Serving with μ-Serve
+Fast Inference for Probabilistic Graphical Models
+Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention
+PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch
+ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs
+FastCommit: resource-efficient, performant and cost-effective file system journaling
+ZMS: Zone Abstraction for Mobile Flash Storage
+Ethane: An Asymmetric File System for Disaggregated Persistent Memory
+PeRF: Preemption-enabled RDMA Framework
+CyberStar: Simple, Elastic and Cost-Effective Network Functions Management in Cloud Network at Scale
+OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs
+ETC: An Elastic Transmission Control Using End-to-End Available Bandwidth Perception
+More is Different: Prototyping and Analyzing a New Form of Edge Server with Massive Mobile SoCs
+HiP4-UPF: Towards High-Performance Comprehensive 5G User Plane Function on P4 Programmable Switches
+KEPC-Push: A Knowledge-Enhanced Proactive Content Push Strategy for Edge-Assisted Video Feed Streaming
+High-density Mobile Cloud Gaming on Edge SoC Clusters
+Limitations and Opportunities of Modern Hardware Isolation Mechanisms
+FetchBPF: Customizable Prefetching Policies in Linux with eBPF
+Fast (Trapless) Kernel Probes Everywhere
+HydraRPC: RPC in the CXL Era
+ExtMem: Enabling Application-Aware Virtual Memory Management for Data-Intensive Applications
+Telescope: Telemetry for Gargantuan Memory Footprint Applications
+An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise
+Scalable and Effective Page-table and TLB management on NUMA Systems
+UniMem: Redesigning Disaggregated Memory within A Unified Local-Remote Memory Hierarchy
+WingFuzz: Implementing Continuous Fuzzing for DBMSs
+Balancing Analysis Time and Bug Detection: Daily Development-friendly Bug Detection in Linux
+Kivi: Verification for Cluster Management
+Monarch: A Fuzzing Framework for Distributed File Systems
+Accelerating the Training of Large Language Models using Efficient Activation Rematerialization and Optimal Hybrid Parallelism
+Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
+FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences
+A Secure, Fast, and Resource-Efficient Serverless Platform with Function REWIND
+SimEnc: A High-Performance Similarity-Preserving Encryption Approach for Deduplication of Encrypted Docker Images
+mmTLS: Scaling the Performance of Encrypted Network Traffic Inspection
+Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement
+OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model
+MAGPY: Compiling Eager Mode DNN Programs by Monitoring Execution States
+Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs
+QDSR: Accelerating Layer-7 Load Balancing by Direct Server Return with QUIC
+Evaluating Chiplet-based Large-Scale Interconnection Networks via Cycle-Accurate Packet-Parallel Simulation
+Config-Snob: Tuning for the Best Configurations of Networking Protocol Stack
+Conspirator: SmartNIC-Aided Control Plane for Distributed ML Workloads
+FBMM: Making Memory Management Extensible With Filesystems
+Mangosteen: Fast Transparent Durability for Linearizable Applications using NVM
+FlexMem: Adaptive Page Profiling and Migration for Tiered Memory
+SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation
+Removing Obstacles before Breaking Through the Memory Wall: A Close Look at HBM Errors in the Field
+MSFRD: Mutation Similarity based SSD Failure Rating and Diagnosis for Complex and Volatile Production Environments
+Diagnosing Application-network Anomalies for Millions of IPs in Production Clouds
+Data Caching for Enterprise-Grade Petabyte-Scale OLAP
+Full Lifecycle Data Analysis on a Large-scale and Leadership Supercomputer: What Can We Learn from It?
+Panorama: Optimizing Internet-scale Users' Routes from End to End
+Enhancing Resource Management of the World's Largest PCDN System for On-Demand Video Streaming
+TileClipper: Lightweight Selection of Regions of Interest from Videos for Traffic Surveillance
+Expeditious High-Concurrency MicroVM SnapStart in Persistent Memory with an Augmented Hypervisor
+Taming Hot Bloat Under Virtualization with HUGESCOPE
+CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation
+Efficient Decentralized Federated Singular Vector Decomposition
+Models on the Move: Towards Feasible Embedded AI for Intrusion Detection on Vehicular CAN Bus
+CPC: Flexible, Secure, and Efficient CVM Maintenance with Confidential Procedure Calls
+RL-Watchdog: A Fast and Predictable SSD Liveness Watchdog on Storage Systems
+Exploit both SMART Attributes and NAND Flash Wear Characteristics to Effectively Forecast SSD-based Storage Failures in Clusters
+StreamCache: Revisiting Page Cache for File Scanning on Fast Storage Devices
+Scalable Billion-point Approximate Nearest Neighbor Search Using SmartSSDs
+gVulkan: Scalable GPU Pooling for Pixel-Grained Rendering in Ray Tracing
+vFPIO: A Virtual I/O Abstraction for FPGA-accelerated I/O Devices
+ScalaCache: Scalable User-Space Page Cache Management with Software-Hardware Coordination
+Centimani: Enabling Fast AI Accelerator Selection for DNN Training with a Novel Performance Predictor
+A Difference World: High-performance, NVM-invariant, Software-only Intermittent Computation
+Efficient Large Graph Processing with Chunk-Based Graph Representation Model
+SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes
+Every Mapping Counts in Large Amounts: Folio Accounting

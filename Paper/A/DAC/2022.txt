@@ -1,0 +1,247 @@
+DAC '22: 59th ACM/IEEE Design Automation Conference, San Francisco, California, USA, July 10 - 14, 2022
+Frontmatter
+QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization
+Optimizing quantum circuit synthesis for permutations using recursion
+A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers
+Optimizing quantum circuit placement via machine learning
+HERO: hessian-enhanced robust optimization for unifying and improving generalization and quantization performance
+Neural computation for robust and holographic face detection
+FHDnn: communication efficient and robust federated learning for AIoT networks
+ODHD: one-class brain-inspired hyperdimensional computing for outlier detection
+High-level synthesis performance prediction using GNNs: benchmarking, modeling, and advancing
+Automated accelerator optimization aided by graph neural networks
+Functionality matters in netlist representation learning
+EMS: efficient memory subsystem synthesis for spatial accelerators
+DA PUF: dual-state analog PUF
+PathFinder: side channel protection through automatic leaky paths identification and obfuscation
+LOCK&ROLL: deep-learning power side-channel attack mitigation using emerging reconfigurable devices and logic locking
+Efficient access scheme for multi-bank based NTT architecture through conflict graph
+InfoX: an energy-efficient ReRAM accelerator design with information-lossless low-bit ADCs
+PHANES: ReRAM-based photonic accelerator for deep neural networks
+CP-SRAM: charge-pulsation SRAM marco for ultra-high energy-efficiency computing-in-memory
+CREAM: computing in ReRAM-assisted energy and area-efficient SRAM for neural network acceleration
+Chiplet actuary: a quantitative cost model and multi-chiplet architecture exploration
+PANORAMA: divide-and-conquer approach for mapping complex loop kernels on CGRA
+A fast parameter tuning framework via transfer learning and multi-objective bayesian optimization
+PriMax: maximizing DSL application performance with selective primitive acceleration
+Accelerating and pruning CNNs for semantic segmentation on FPGA
+SoftSNN: low-cost fault tolerance for spiking neural network accelerators under soft errors
+A joint management middleware to improve training performance of deep recommendation systems with SSDs
+The larger the fairer?: small neural networks can achieve fairness for edge devices
+SCAIE-V: an open-source SCAlable interface for ISA extensions for RISC-V processors
+A scalable symbolic simulation tool for low power embedded systems
+Designing critical systems with iterative automated safety analysis
+Efficient ensembles of graph neural networks
+Sign bit is enough: a learning synchronization framework for multi-hop all-reduce with ultimate compression
+GLite: a fast and efficient automatic graph-level optimizer for large-scale DNNs
+Contrastive quant: quantization makes stronger contrastive learning
+Serpens: a high bandwidth memory based accelerator for general-purpose sparse matrix-vector multiplication
+An energy-efficient seizure detection processor using event-driven multi-stage CNN classification and segmented data processing with adaptive channel selection
+PatterNet: explore and exploit filter patterns for efficient deep neural networks
+E2SR: an end-to-end video CODEC assisted system for super resolution acceleration
+MATCHA: a fast and energy-efficient accelerator for fully homomorphic encryption over the torus
+VirTEE: a full backward-compatible TEE with native live migration and secure I/O
+Apple vs. EMA: electromagnetic side channel attacks on apple CoreCrypto
+Algorithm/architecture co-design for energy-efficient acceleration of multi-task DNN
+EBSP: evolving bit sparsity patterns for hardware-friendly inference of quantized deep neural networks
+A time-to-first-spike coding and conversion aware training for energy-efficient deep spiking neural network processor design
+XMA: a crossbar-aware multi-task adaption framework via shift-based mask learning method
+SWIM: selective write-verify for computing-in-memory neural accelerators
+Enabling efficient deep convolutional neural network-based sensor fusion for autonomous driving
+Zhuyi: perception processing rate estimation for safety in autonomous vehicles
+Processing-in-SRAM acceleration for ultra-low power visual 3D perception
+Response time analysis for dynamic priority scheduling in ROS2
+Voltage prediction of drone battery reflecting internal temperature
+A near-storage framework for boosted data preprocessing of mass spectrum clustering
+MetaZip: a high-throughput and efficient accelerator for DEFLATE
+Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations
+Eventor: an efficient event-based monocular multi-view stereo accelerator on FPGA platform
+GEML: GNN-based efficient mapping method for large loop applications on CGRA
+Mixed-granularity parallel coarse-grained reconfigurable architecture
+GuardNN: secure accelerator architecture for privacy-preserving deep learning
+SRA: a secure ReRAM-based DNN accelerator
+ABNN2: secure two-party arbitrary-bitwidth quantized neural network predictions
+Adaptive neural recovery for highly robust brain-like representation
+Efficiency attacks on spiking neural networks
+L-QoCo: learning to optimize cache capacity overloading in storage systems
+Pipette: efficient fine-grained reads for SSDs
+CDB: critical data backup design for consumer devices with high-density flash based hybrid storage
+SS-LRU: a smart segmented LRU caching
+NobLSM: an LSM-tree with non-blocking writes for SSDs
+TailCut: improving performance and lifetime of SSDs using pattern-aware state encoding
+HIMap: a heuristic and iterative logic synthesis approach
+Improving LUT-based optimization for ASICs
+NovelRewrite: node-level parallel AIG rewriting
+Search space characterization for approximate logic synthesis
+SEALS: sensitivity-driven efficient approximate logic synthesis
+Beyond local optimality of buffer and splitter insertion for AQFP circuits
+NAX: neural architecture and memristive xbar based accelerator co-design
+MC-CIM: a reconfigurable computation-in-memory for efficient stereo matching cost computation
+iMARS: an in-memory-computing architecture for recommendation systems
+ReGNN: a ReRAM-based heterogeneous architecture for general graph neural networks
+You only search once: on lightweight differentiable architecture search for resource-constrained embedded platforms
+EcoFusion: energy-aware adaptive sensor fusion for efficient autonomous vehicle perception
+Human emotion based real-time memory and computation management on resource-limited edge devices
+Hierarchical memory-constrained operator scheduling of neural architecture search networks
+MIME: adapting a single neural network for multi-task inference with memory-efficient dynamic pruning
+Sniper: cloud-edge collaborative inference scheduling with neural network similarity modeling
+LPCA: learned MRC profiling based cache allocation for file storage systems
+Equivalence checking paradigms in quantum circuit design: a case study
+Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification
+Handling non-unitaries in quantum circuit equivalence checking
+A bridge-based algorithm for simultaneous primal and dual defects compression on topologically quantum-error-corrected circuits
+FaSe: fast selective flushing to mitigate contention-based cache timing attacks
+Conditional address propagation: an efficient defense mechanism against transient execution attacks
+Timed speculative attacks exploiting store-to-load forwarding bypassing cache-based countermeasures
+DARPT: defense against remote physical attack based on TDC in multi-tenant scenario
+GNNIE: GNN inference engine with load-balancing and graph-specific caching
+SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences
+NN-LUT: neural approximation of non-linear operations for efficient transformer inference
+Self adaptive reconfigurable arrays (SARA): learning flexible GEMM accelerator configuration and mapping-space using ML
+Enabling hard constraints in differentiable neural network and accelerator co-exploration
+Heuristic adaptability to input dynamics for SpMM on CPUs
+H2H: heterogeneous model to heterogeneous system mapping with computation and communication awareness
+PARIS and ELSA: an elastic scheduling algorithm for reconfigurable multi-GPU inference servers
+Pursuing more effective graph spectral sparsifiers via approximate trace reduction
+Accelerating nonlinear DC circuit simulation with reinforcement learning
+An efficient yield optimization method for analog circuits via gaussian process classification and varying-sigma sampling
+Partition and place finite element model on wafer-scale engine
+CNN-inspired analytical global placement for large-scale heterogeneous FPGAs
+High-performance placement for large-scale heterogeneous FPGAs with clock constraints
+Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility
+QOC: quantum on-chip training with parameter shift and gradient pruning
+Memory-efficient training of binarized neural networks on the edge
+DeepGate: learning neural representations of logic gates
+Bipolar vector classifier for fault-tolerant deep neural networks
+HDLock: exploiting privileged encoding to protect hyperdimensional computing models against IP stealing
+Terminator on SkyNet: a practical DVFS attack on DNN hardware IP for UAV object detection
+AL-PA: cross-device profiled side-channel attack using adversarial learning
+DETERRENT: detecting trojans using reinforcement learning
+Exploiting data locality in memory for ORAM to reduce memory access overheads
+HWST128: complete memory safety accelerator on RISC-V with metadata compression
+RegVault: hardware assisted selective data randomization for operating system kernels
+ASAP: reconciling asynchronous real-time operations and proofs of execution in simple embedded systems
+Towards a formally verified hardware root-of-trust for data-oblivious computing
+A scalable SIMD RISC-V based processor with customized vector extensions for CRYSTALS-kyber
+Hexagons are the bestagons: design automation for silicon dangling bond logic
+Improving compute in-memory ECC reliability with successive correction
+Energy efficient data search design and optimization based on a compact ferroelectric FET content addressable memory
+CamSkyGate: camouflaged skyrmion gates for protecting ICs
+GNN-based concentration prediction for random microfluidic mixers
+Designing ML-resilient locking at register-transfer level
+O'clock: lock the clock via clock-gating for SoC IP protection
+ALICE: an automatic design flow for eFPGA redaction
+DELTA: DEsigning a stealthy trigger mechanism for analog hardware trojans and its detection analysis
+VIPR-PCB: a machine learning based golden-free PCB assurance framework
+CLIMBER: defending phase change memory against inconsistent write attacks
+Rethinking key-value store for byte-addressable optane persistent memory
+libcrpm: improving the checkpoint performance of NVM
+Scalable crash consistency for secure persistent memory
+Don't open row: rethinking row buffer policy for improving performance of non-volatile memories
+SMART: on simultaneously marching racetracks to improve the performance of racetrack-based main memory
+SAPredictor: a simple and accurate self-adaptive predictor for hierarchical hybrid memory system
+AVATAR: an aging- and variation-aware dynamic timing analyzer for application-based DVAFS
+A defect tolerance framework for improving yield
+Winograd convolution: a perspective from fault tolerance
+Towards resilient analog in-memory deep learning via data layout re-organization
+SEM-latch: a lost-cost and high-performance latch design for mitigating soft errors in nanoscale CMOS process
+BlueSeer: AI-driven environment detection via BLE scans
+Compressive sensing based asymmetric semantic image compression for resource-constrained IoT system
+R2B: high-efficiency and fair I/O scheduling for multi-tenant with differentiated demands
+Fast and scalable human pose estimation using mmWave point cloud
+VWR2A: a very-wide-register reconfigurable-array architecture for low-power embedded devices
+Alleviating datapath conflicts and design centralization in graph analytics acceleration
+Hyperdimensional hashing: a robust and efficient dynamic hash table
+In-situ self-powered intelligent vision system with inference-adaptive energy scheduling for BNN-based always-on perception
+Adaptive window-based sensor attack detection for cyber-physical systems
+Design-while-verify: correct-by-construction control learning with verification in the loop
+GaBAN: a generic and flexibly programmable vector neuro-processor on FPGA
+ADEPT: automatic differentiable DEsign of photonic tensor cores
+Unicorn: a multicore neuromorphic processor with flexible fan-in and unconstrained fan-out for neurons
+Effective zero compression on ReRAM-based sparse DNN accelerators
+Y-architecture-based flip-chip routing with dynamic programming-based bend minimization
+Towards collaborative intelligence: routability estimation based on decentralized private data
+A2-ILT: GPU accelerated ILT with spatial attention mechanism
+Generic lithography modeling with dual-band optics-inspired neural networks
+Statistical computing framework and demonstration for in-memory computing systems
+Write or not: programming scheme optimization for RRAM-based neuromorphic computing
+ReSMA: accelerating approximate string matching using ReRAM-based content addressable memory
+VStore: in-storage graph based vector search accelerator
+Scaled-CBSC: scaled counting-based stochastic computing multiplication for improved accuracy
+Tailor: removing redundant operations in memristive analog neural network accelerators
+Domain knowledge-infused deep learning for automated analog/radio-frequency circuit parameter optimization
+A cost-efficient fully synthesizable stochastic time-to-digital converter design based on integral nonlinearity scrambling
+Using machine learning to optimize graph execution on NUMA machines
+HCG: optimizing embedded code generation of simulink with SIMD instruction synthesis
+Raven: a novel kernel debugging tool on RISC-V
+GTuner: tuning DNN computations on GPU via graph attention network
+Pref-X: a framework to reveal data prefetching in commercial in-order cores
+Architecting DDR5 DRAM caches for non-volatile memory systems
+GraphRing: an HMC-ring based graph processing framework with optimized data movement
+AxoNN: energy-aware execution of neural network inference on multi-accelerator heterogeneous SoCs
+PIPF-DRAM: processing in precharge-free DRAM
+TAIM: ternary activation in-memory computing hardware with 6T SRAM array
+PIM-DH: ReRAM-based processing-in-memory architecture for deep hashing acceleration
+YOLoC: deploy large-scale neural network by ROM-based computing-in-memory using residual branch on a chip
+ASTERS: adaptable threshold spike-timing neuromorphic design with twin-column ReRAM synapses
+SATO: spiking neural network acceleration via temporal-oriented dataflow and architecture
+LeHDC: learning-based hyperdimensional computing classifier
+GENERIC: highly efficient learning engine on edge using hyperdimensional computing
+Solving traveling salesman problems via a parallel fully connected ising machine
+PATH: evaluation of boolean logic using path-based in-memory computing
+A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining
+HDPG: hyperdimensional policy-based reinforcement learning for continuous control
+CarM: hierarchical episodic memory for continual learning
+Shfl-BW: accelerating deep neural network inference with tensor-core aware weight pruning
+QuiltNet: efficient deep learning inference on multi-chip accelerators using model partitioning
+Glimpse: mathematical embedding of hardware specification for neural compilation
+Bringing source-level debugging frameworks to hardware generators
+Verifying SystemC TLM peripherals using modern C++ symbolic execution tools
+Formal verification of modular multipliers using symbolic computer algebra and boolean satisfiability
+Silicon validation of LUT-based logic-locked IP cores
+Efficient bayesian yield analysis and optimization with active learning
+Accelerated synthesis of neural network-based barrier certificates using collaborative learning
+A timing engine inspired graph neural network model for pre-routing slack prediction
+Accurate timing prediction at placement stage with look-ahead RC network
+Timing macro modeling with graph neural networks
+Worst-case dynamic power distribution network noise prediction using convolutional neural network
+GATSPI: GPU accelerated gate-level simulation for power improvement
+PPATuner: pareto-driven tool parameter auto-tuning in physical design via gaussian process transfer learning
+Efficient maximum data age analysis for cause-effect chains in automotive systems
+Optimizing parallel PREM compilation over nested loop structures
+Scheduling and analysis of real-time tasks with parallel critical sections
+BlueScale: a scalable memory architecture for predictable real-time computing on highly integrated SoCs
+Precise and scalable shared cache contention analysis for WCET estimation
+Predictable sharing of last-level cache partitions for multi-core safety-critical systems
+Thermal-aware optical-electrical routing codesign for on-chip signal communications
+Power-aware pruning for ultrafast, energy-efficient, and accurate optical neural network design
+REACT: a heterogeneous reconfigurable neural network accelerator with software-configurable NoCs for training and inference on wearables
+LHNN: lattice hypergraph neural network for VLSI congestion prediction
+Floorplanning with graph attention
+Xplace: an extremely fast and extensible global placement framework
+Differentiable-timing-driven global placement
+TAAS: a timing-aware analytical strategy for AQFP-capable placement automation
+A cross-layer approach to cognitive computing: invited
+Generative self-supervised learning for gate sizing: invited
+Hammer: a modular and reusable physical design flow tool: invited
+mflowgen: a modular flow generator and ecosystem for community-driven physical design: invited
+A distributed approach to silicon compilation: invited
+Improving GNN-based accelerator design automation with meta learning
+Accelerator design with decoupled hardware customizations: benefits and challenges: invited
+ScaleHLS: a scalable high-level synthesis framework with multi-level transformations and optimizations: invited
+The SODA approach: leveraging high-level synthesis for hardware/software co-design and hardware specialization: invited
+Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes
+The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus
+Secure by construction: addressing security vulnerabilities introduced during high-level synthesis: invited
+High-level design methods for hardware security: is it the right choice? invited
+Trusting the trust anchor: towards detecting cross-layer vulnerabilities with hardware fuzzing
+Automating hardware security property generation: invited
+Efficient timing propagation with simultaneous structural and pipeline parallelisms: late breaking results
+A fast and low-cost comparison-free sorting engine with unary computing: late breaking results
+Flexible chip placement via reinforcement learning: late breaking results
+FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results
+Hardware-efficient stochastic rounding unit design for DNN training: late breaking results
+Placement initialization via a projected eigenvector algorithm: late breaking results
+Subgraph matching based reference placement for PCB designs: late breaking results
+Thermal-aware drone battery management: late breaking results
+Waveform-based performance analysis of RISC-V processors: late breaking results

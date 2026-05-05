@@ -1,0 +1,63 @@
+Proceedings of the ACM SIGCOMM 2024 Conference, ACM SIGCOMM 2024, Sydney, NSW, Australia, August 4-8, 2024
+Crux: GPU-Efficient Communication Scheduling for Deep Learning Training
+Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem
+CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving
+RDMA over Ethernet for Distributed Training at Meta Scale
+RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering
+Transferable Neural WAN TE for Changing Topologies
+MegaTE: Extending WAN Traffic Engineering to Millions of Endpoints in Virtualized Cloud
+FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering
+Keeping an Eye on Congestion Control in the Wild with Nebby
+SUSS: Improving TCP Performance by Speeding Up Slow-Start
+Principles for Internet Congestion Management
+CCAnalyzer: An Efficient and Nearly-Passive Congestion Control Classifier
+Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation
+Relational Network Verification
+A General and Efficient Approach to Verifying Traffic Load Properties under Arbitrary k Failures
+Algorithms for In-Place, Consistent Network Update
+RD-Probe: Scalable Monitoring With Sufficient Coverage In Complex Datacenter Networks
+μMon: Empowering Microsecond-level Network Monitoring with Wavelets
+Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement
+Bad Packets Come Back, Worse Ones Don't
+Integrated Two-way Radar Backscatter Communication and Sensing with Low-power IoT Tags
+Dissecting Carrier Aggregation in 5G Networks: Measurement, QoE Implications and Prediction
+Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE
+dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks
+Realizing RotorNet: Toward Practical Microsecond Scale Optical Networking
+NegotiaToR: Towards A Simple Yet Effective On-demand Reconfigurable Datacenter Network
+Uniform-Cost Multi-Path Routing for Reconfigurable Data Center Networks
+Shale: A Practical, Scalable Oblivious Reconfigurable Network
+ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization
+The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities
+Prudentia: Findings of an Internet Fairness Watchdog
+Ten years of the Venezuelan crisis - An Internet perspective
+Turbo: Efficient Communication Framework for Large-scale Data Processing Cluster
+R-Pingmesh: A Service-Aware RoCE Network Monitoring and Diagnostic System
+Fast, Scalable, and Accurate Rate Limiter for RDMA NICs
+Understanding the Host Network
+Practical Rateless Set Reconciliation
+SODA: An Adaptive Bitrate Controller for Consistent High-Quality Video Streaming
+An Architecture For Edge Networking Services
+NetLLM: Adapting Large Language Models for Networking
+MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud
+Alibaba HPN: A Data Center Network for Large Language Model Training
+Accelerating Model Training in Multi-cluster Environments with Consumer-grade GPUs
+NetEdit: An Orchestration Platform for eBPF Network Functions at Scale
+In-Network Address Caching for Virtual Networks
+Triton: A Flexible Hardware Offloading Architecture for Accelerating Apsara vSwitch in Alibaba Cloud
+Zoom2Net: Constrained Network Telemetry Imputation
+IPD: Detecting Traffic Ingress Points at ISPs
+The Next Generation of BGP Data Collection Platforms
+m3: Accurate Flow-Level Performance Estimation using Machine Learning
+TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification
+YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud
+Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture
+TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices
+Topaz: Declarative and Verifiable Authoritative DNS at CDN-Scale
+OptimusPrime: Unleash Dataplane Programmability through a Transformable Architecture
+P4runpro: Enabling Runtime Programmability for RMT Programmable Switches
+A Decentralized SDN Architecture for the WAN
+PPT: A Pragmatic Transport for Datacenters
+An exabyte a day: throughput-oriented, large scale, managed data transfers with Effingo
+vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks
+Efficient Policy-Rich Rate Enforcement with Phantom Queues

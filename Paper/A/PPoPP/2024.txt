@@ -1,0 +1,46 @@
+Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2024, Edinburgh, United Kingdom, March 2-6, 2024
+Sparsity in Deep Neural Nets (Keynote)
+Scaling Up Transactions with Slower Clocks
+Locks as a Resource: Fairly Scheduling Lock Occupation with CFL
+Are Your Epochs Too Epic? Batch Free Can Be Harmful
+Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference
+A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs
+Language-Agnostic Static Deadlock Detection for Futures
+Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts
+OsirisBFT: Say No to Task Replication for Scalable Byzantine Fault Tolerant Analytics
+Towards Scalable Unstructured Mesh Computations on Shared Memory Many-Cores
+Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System
+Pure: Evolving Message Passing To Better Leverage Shared Memory Within Nodes
+INFINEL: An efficient GPU-based processing method for unpredictable large output graph queries
+GraphCube: Interconnection Hierarchy-aware Graph Processing
+Exploiting Fine-Grained Redundancy in Set-Centric Graph Pattern Mining
+Memory Bounds for Concurrent Bounded Queues
+VERLIB: Concurrent Versioned Pointers
+Practical Hardware Transactional vEB Trees
+Tetris: Accelerating Sparse Convolution by Exploiting Memory Reuse on GPU
+Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips
+Training one DeePMD Model in Minutes: a Step towards Online Learning
+ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms
+Parallel k-Core Decomposition with Batched Updates and Asynchronous Reads
+Parallel Integer Sort: Theory and Practice
+Fast American Option Pricing using Nonlinear Stencils
+ConvStencil: Transform Stencil Computation to Matrix Multiplication on Tensor Cores
+CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers
+Gallatin: A General-Purpose GPU Memory Manager
+A Row Decomposition-based Approach for Sparse Matrix Multiplication on GPUs
+Fast Kronecker Matrix-Matrix Multiplication on GPUs
+Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication
+FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters
+AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping
+POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs
+POSTER: Enabling Extreme-Scale Phase Field Simulation with In-situ Feature Extraction
+POSTER: FineCo: Fine-grained Heterogeneous Resource Management for Concurrent DNN Inferences
+POSTER: Optimizing Collective Communications with Error-bounded Lossy Compression for GPU Clusters
+POSTER: Optimizing Sparse Tensor Contraction with Revisiting Hash Table Design
+POSTER: LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization
+POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions
+POSTER: Pattern-Aware Sparse Communication for Scalable Recommendation Model Training
+POSTER: ParGNN: Efficient Training for Large-Scale Graph Neural Network on GPU Clusters
+POSTER: RadiK: Scalable Radix Top-K Selection on GPUs
+POSTER: RELAX: Durable Data Structures with Swift Recovery
+POSTER: StructMG: A Fast and Scalable Structured Multigrid

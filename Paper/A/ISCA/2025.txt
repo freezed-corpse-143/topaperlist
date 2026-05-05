@@ -1,0 +1,136 @@
+Proceedings of the 52nd Annual International Symposium on Computer Architecture, ISCA 2025, Tokyo, Japan, June 21-25, 2025
+WSC-LLM: Efficient LLM Service and Architecture Co-exploration for Wafer-scale Chips
+LightML: A Photonic Accelerator for Efficient General Purpose Machine Learning
+FRED: A Wafer-scale Fabric for 3D Parallel DNN Training
+PD Constraint-aware Physical/Logical Topology Co-Design for Network on Wafer
+Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design
+Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs
+FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit
+Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core
+Heliostat: Harnessing Ray Tracing Accelerators for Page Table Walks
+Forest: Access-aware GPU UVM Management
+Avant-Garde: Empowering GPUs with Scaled Numeric Formats
+CoopRT: Accelerating BVH Traversal for Ray Tracing via Cooperative Threads
+The XOR Cache: A Catalyst for Compression
+H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
+Precise exceptions in relaxed architectures
+Rethinking Prefetching for Intermittent Computing
+Hardware-aware Calibration Protocol for Quantum Computers
+Constant-Rate Entanglement Distillation for Fast Quantum Interconnects
+S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices
+ARTERY: Fast Quantum Feedback using Branch Prediction
+Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing
+HiPER: Hierarchically-Composed Processing for Efficient Robot Learning-Based Control
+Dadu-Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation
+Process Only Where You Look: Hardware and Algorithm Co-optimization for Efficient Gaze-Tracked Foveated Rendering in Virtual Reality
+RTSpMSpM: Harnessing Ray Tracing for Efficient Sparse Matrix Computations
+AQB8: Energy-Efficient Ray Tracing Accelerator through Multi-Level Quantization
+ANVIL: An In-Storage Accelerator for Name-Value Data Stores
+ArtMem: Adaptive Migration in Reinforcement Learning-Enabled Tiered Memory
+UPP: Universal Predicate Pushdown to Smart Storage
+XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting
+In-Storage Acceleration of Retrieval Augmented Generation as a Service
+SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting
+Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization
+Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models
+LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference
+AiF: Accelerating On-Device LLM Inference Using In-Flash Processing
+LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading
+Enabling Ahead Prediction with Practical Energy Constraints
+Profile-Guided Temporal Prefetching
+WarmCache: Exploiting STT-RAM Cache for Low-Power Intermittent Systems
+Magellan: A High-Performance Loop-Guided Prefetcher for Indirect Memory Access
+Leveraging control-flow similarity to reduce branch predictor cold effects in microservices
+Cramming a Data Center into One Cabinet, a Co-Exploration of Computing and Hardware Architecture of Waferscale Chip
+Fair-CO2: Fair Attribution for Cloud Carbon Emissions
+Dynamic Load Balancer in Intel Xeon Scalable Processor: Performance Analyses, Enhancements, and Guidelines
+A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
+Single-Address-Space FaaS with Jord
+HardHarvest: Hardware-Supported Core Harvesting for Microservices
+MoPAC: Efficiently Mitigating Rowhammer with Probabilistic Activation Counting
+When Mitigations Backfire: Timing Channel Attacks and Defense for PRAC-Based RowHammer Mitigations
+PuDHammer: Experimental Analysis of Read Disturbance Effects of Processing-using-DRAM in Real DRAM Chips
+DREAM: Enabling Low-Overhead Rowhammer Mitigation via Directed Refresh Management
+Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression
+Hybe: GPU-NPU Hybrid System for Efficient LLM Inference with Million-Token Context Window
+MeshSlice: Efficient 2D Tensor Parallelism for Distributed DNN Training
+Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems
+AIM: Software and Hardware Co-design for Architecture-level IR-drop Mitigation in High-performance PIM
+OptiPIM: Optimizing Processing-in-Memory Acceleration Using Integer Linear Programming
+HeterRAG: Heterogeneous Processing-in-Memory Acceleration for Retrieval-augmented Generation
+ATiM: Autotuning Tensor Programs for Processing-in-DRAM
+Single Spike Artificial Neural Networks
+Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks
+Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-constrained Pruning
+Hermes: Algorithm-System Co-design for Efficient Retrieval-Augmented Generation At-Scale
+RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving
+Transitive Array: An Efficient GEMM Accelerator with Result Reuse
+Light-weight Cache Replacement for Instruction Heavy Workloads
+The Sparsity-Aware LazyGPU Architecture
+Evaluating Ruche Networks: Physically Scalable, Cost-Effective, Bandwidth-Flexible NoCs
+Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads
+NetCrafter: Tailoring Network Traffic for Non-Uniform Bandwidth Multi-GPU Systems
+Caravan: A Hardware/Software Co-Design for Efficient SIMD Neighbor Search on Point Clouds
+ANSMET: Approximate Nearest Neighbor Search with Near-Memory Processing and Hybrid Early Termination
+DReX: Accurate and Scalable Dense Retrieval Acceleration via Algorithmic-Hardware Codesign
+EOD: Enabling Low Latency GNN Inference via Near-Memory Concatenate Aggregation
+RAP: Reconfigurable Automata Processor
+Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution
+REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing
+MicroScopiQ: Accelerating Foundational Models through Outlier-Aware Microscaling Quantization
+Topology-Aware Virtualization over Inter-Core Connected Neural Processing Units
+Chip Architectures Under Advanced Computing Sanctions✱
+DiTile-DGNN: An Efficient Accelerator for Distributed Dynamic Graph Neural Network Inference
+Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table
+FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with Flexible Numerical DAta TypE
+WindServe: Efficient Phase-Disaggregated LLM Serving with Stream-based Dynamic Scheduling
+Neoscope: How Resilient Is My SoC to Workload Churn?
+CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering
+Nyx: Virtualizing dataflow execution on shared FPGA platforms
+HPVM-HDC: A Heterogeneous Programming System for Accelerating Hyperdimensional Computing
+UGPU: Dynamically Constructing Unbalanced GPUs for Enhanced Resource Efficiency
+Synchronization for Fault-Tolerant Quantum Computers
+SWIPER: Minimizing Fault-Tolerant Quantum Program Latency via Speculative Window Decoding
+CaliQEC: In-situ Qubit Calibration for Surface Code Quantum Error Correction
+Variational Quantum Algorithms in the era of Early Fault Tolerance
+Resource Analysis of Low-Overhead Transversal Architectures for Reconfigurable Atom Arrays
+SwitchQNet: Optimizing Distributed Quantum Computing for Quantum Data Centers with Switch Networks
+Assassyn: A Unified Abstraction for Architectural Simulation and Implementation
+Concorde: Fast and Accurate CPU Performance Modeling with Compositional Analytical-ML Fusion
+AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs
+GCStack+GCScaler: Fast and Accurate GPU Performance Analyses Using Fine-Grained Stall Cycle Accounting and Interval Analysis
+TrioSim: A Lightweight Simulator for Large-Scale DNN Workloads on Multi-GPU Systems
+Accelerating Simulation of Quantum Circuits under Noise via Computational Reuse
+QPlacer: Frequency-Aware Component Placement for Superconducting Quantum Computers
+QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization
+Genesis: A Compiler for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers
+Reinforcement Learning-Guided Graph State Generation in Photonic Quantum Computers
+HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches
+NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access
+DX100: Programmable Data Access Accelerator for Indirection
+SEAL: A Single-Event Architecture for In-Sensor Visual Localization
+IDEA-GP: Instruction-Driven Architecture with Efficient Online Workload Allocation for Geometric Perception
+Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences
+Scaling Llama 3 Training with Efficient Parallelism Strategies
+DCPerf: An Open-Source, Battle-Tested Performance Benchmark Suite for Datacenter Workloads
+Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+Avalanche: Optimizing Cache Utilization via Matrix Reordering for Sparse Matrix Multiplication Accelerator
+Debunking the CUDA Myth Towards GPU-based AI Systems: Evaluation of the Performance and Programmability of Intel's Gaudi NPU for AI Model Serving
+GPUs All Grown-Up: Fully Device-Driven SpMV Using GPU Work Graphs
+Telos: A Dataflow Accelerator for Sparse Triangular Solver of Partial Differential Equations
+MagiCache: A Virtual In-Cache Computing Engine
+Folded Banks: 3D-Stacked HBM Design for Fine-Grained Random-Access Bandwidth
+NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly
+Reconfigurable Stream Network Architecture
+DS-TPU: Dynamical System for on-Device Lifelong Graph Learning with Nonlinear Node Interaction
+TRACI: Network Acceleration of Input-Dynamic Communication for Large-Scale Deep Learning Recommendation Model
+FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering
+BingoGCN: Towards Scalable and Efficient GNN Acceleration with Fine-Grained Partitioning and SLT
+Lumina: Real-Time Neural Rendering by Exploiting Computational Redundancy
+LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization
+MD-pipe: A Strong Scaling Enhanced Pipeline Architecture for Ab Initio Accuracy Molecular Dynamics
+InfiniMind: A Learning-Optimized Large-Scale Brain-Computer Interface
+Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs
+Adaptive CHERI Compartmentalization for Heterogeneous Accelerators
+Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors
+SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization

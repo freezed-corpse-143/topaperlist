@@ -1,0 +1,53 @@
+Proceedings of the 34th International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2025, University of Notre Dame Conference Facilities, Notre Dame, IN, USA, July 20-23, 2025
+Virtualization So Light, it Floats! Accelerating Floating Point Virtualization
+FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs
+LiteForm: Lightweight and Automatic Format Composition for Sparse Matrix-Matrix Multiplication on GPUs
+Optimization of GNN Training Through Half-precision
+SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training
+ModelX : A Novel Transfer Learning Approach Across Heterogeneous Datasets
+FT2: First-Token-Inspired Online Fault Tolerance on Critical Layers for Generative Large Language Models
+Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE
+TSUE: A Two-Stage Data Update Method for an Erasure Coded Cluster File System
+AutoSSD: CXL-Enhanced Autonomous SSDs for Low Tail Latency
+DPU-KV: On the Benefits of DPU Offloading for In-Memory Key-Value Stores at the Edge
+CarbonEdge: Leveraging Mesoscale Spatial Carbon-Intensity Variations for Low Carbon Edge Computing
+Advancing Scientific Data Compression via Cross-Field Prediction
+Parameterized Algorithms for Non-uniform All-to-all
+Top-Down SBP: Turning Graph Clustering Upside Down
+F3: An FPGA-accelerated FaaS Framework
+PathFence: Reducing Cross-Path Dependencies in Microservices
+FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing
+Grudon: A System for Deploying Graph Workloads on Disaggregated Architectures with Near-Data Processing
+HYPERF: End-to-End Autotuning Framework for High-Performance Computing
+Bringing Differential Privacy to HPC: Privacy-Preserving Transformations of HPC Traces
+Weight-Sharing NAS with Architecture-Agnostic Intermediate Representation
+Out-of-Core Parallel Spatial Join Outperforming In-Memory Systems: A BFS-DFS Hybrid Approach
+IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications
+LegoIndex: A Scalable and Modular Indexing Framework for Efficient Analysis of Extreme-Scale Particle Data
+SpeedLLM: An FPGA Co-design of Large Language Model Inference Accelerator
+On Optimizing Checkpoint Restoration for HPC Applications: Leveraging Merkle Trees and Asynchronous I/O
+Advancing the GEOtiled Framework Through Scalable Terrain Parameter Computation
+Understanding Error Sensitivity in Checkpointing for Linear System Solvers
+Adaptive GPU Power Capping: Balancing Energy Efficiency, Thermal Control and Performance
+Refactoring TEZip: Integrating Python-Based Predictive Compression into an HPC C++/LibTorch Environment
+Flux Emulator: First Insights into Optimizing Scheduling for Exascale HPC
+Multi-Node Spot Instances Availability Score Collection System
+SibylOpt: Managing Green Data Centers Using Off-Online Deep Reinforcement Learning
+Assigning Cartesian grid area to processes
+Performance Evaluation of Machine Learning Applications Using WebAssembly Across Different Programming Languages
+Factors Impacting I/O Time Proportion in AI Workloads
+Thicket Workflow for Classifying Parallel Sorting Algorithms
+XPF: Agentic AI System for Business Workflow Automation
+BanditWare: A Contextual Bandit-based Framework for Hardware Prediction
+Can Large Language Models Predict Parallel Code Performance?
+On Matching in Multipartite Quantum Routers
+Scaling Grover's Search for Large Solution Spaces
+A Quantum Virtual Machine for Execution of Oracles
+Quantum-Based SMT Solving for String Theory
+High-level quantum algorithm programming using Silq
+Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing
+Rusty-Cracker: A Multi-core Connected Components Library in Rust
+Towards a Federated Approach to Complex Digital Twins
+RAPTOR: Reconfigurable Advanced Platform for Transdisciplinary Open Research
+Building Flexible Physics-Informed Neural Networks with Fast Fourier Transform Analysis
+Efficient and Cost-Effective HPC on the Cloud

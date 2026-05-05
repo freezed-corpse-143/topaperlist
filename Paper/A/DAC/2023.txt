@@ -1,0 +1,323 @@
+60th ACM/IEEE Design Automation Conference, DAC 2023, San Francisco, CA, USA, July 9-13, 2023
+Late Breaking Results: An Efficient Bridge-based Compression Algorithm for Topologically Quantum Error Corrected Circuits
+PTStore: Lightweight Architectural Support for Page Table Isolation
+Mitigating Distribution Shift for Congestion Optimization in Global Placement
+SPET: Transparent SRAM Allocation and Model Partitioning for Real-time DNN Tasks on Edge TPU
+AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity
+PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment
+HTVM: Efficient Neural Network Deployment On Heterogeneous TinyML Platforms
+INVITED: Design Automation Needs for Monolithic 3D ICs: Accomplishments and Gaps
+Algorithms and Hardware for Efficient Processing of Logic-based Neural Networks
+Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)
+RQ-DNN: Reliable Quantization for Fault-tolerant Deep Neural Networks
+HammerDodger: A Lightweight Defense Framework against RowHammer Attack on DNNs
+APP: Enabling Soft Real-Time Execution on Densely-Populated Hybrid Memory System
+Invited: A Scalable Formal Approach for Correctness-Assured Hardware Design
+FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling
+Work or Sleep: Freshness-Aware Energy Scheduling for Wireless Powered Communication Networks with Interference Consideration
+XPert: Peripheral Circuit & Neural Architecture Co-search for Area and Energy-efficient Xbar-based Computing
+Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities
+COSA:Co-Operative Systolic Arrays for Multi-head Attention Mechanism in Neural Network using Hybrid Data Reuse and Fusion Methodologies
+EagleRec: Edge-Scale Recommendation System Acceleration with Inter-Stage Parallelism Optimization on GPUs
+Physics-Informed Optical Kernel Regression Using Complex-valued Neural Fields
+PUFFER: A Routability-Driven Placement Framework via Cell Padding with Multiple Features and Strategy Exploration
+C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference
+HDSuper: Algorithm-Hardware Co-design for Light-weight High-quality Super-Resolution Accelerator
+VITAL: Vision Transformer Neural Networks for Accurate Smartphone Heterogeneity Resilient Indoor Localization
+TD-Magic: From Pictures of Timing Diagrams To Formal Specifications
+An Iterative Method for Mapping-Aware Frequency Regulation in Dataflow Circuits
+Graph Representation Learning for Microarchitecture Design Space Exploration
+ActiWate: Adaptive and Design-agnostic Active Watermarking for IP Ownership in Modern SoCs
+Lightning Talk: Efficiency and Programmability of DNN Accelerators and GPUs
+BP-NTT: Fast and Compact in-SRAM Number Theoretic Transform with Bit-Parallel Modular Multiplication
+UpTime: Towards Flow-based In-Memory Computing with High Fault-Tolerance
+Ever more optimized simulations of fermionic systems on a quantum computer
+Lightning Talk 6: Bringing Together Foundation Models and Edge Devices
+A digital 3D TCAM accelerator for the inference phase of Random Forest
+CHAM: A Customized Homomorphic Encryption Accelerator for Fast Matrix-Vector Product
+GDSII-Guard: ECO Anti-Trojan Optimization with Exploratory Timing-Security Trade-Offs
+CorcPUM: Efficient Processing Using Cross-Point Memory via Cooperative Row-Column Access Pipelining and Adaptive Timing Optimization in Subarrays
+EENet: Energy Efficient Neural Networks with Run-time Power Management
+EDGE: Efficient DAG-based Global Routing Engine
+Late Breaking Results: COPPER: Computation Obfuscation by Producing Permutations for Encoding Randomly
+Efficient ILT via Multi-level Lithography Simulation
+RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs
+Late Breaking Results: RL-LPO: Reinforcement Learning Based Leakage Power Optimization Framework with Graph Neural Network
+Machine Learning-based Thermally-Safe Cache Contention Mitigation in Clustered Manycores
+Lightning Talk 21: EDA with ML, Rule-Based, or Both?
+Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing
+A Universal Method for Task Allocation on FP-FPS Multiprocessor Systems with Spin Locks
+On a Moreau Envelope Wirelength Model for Analytical Global Placement
+Condense: A Framework for Device and Frequency Adaptive Neural Network Models on the Edge
+EP-ORAM: Efficient NVM-Friendly Path Eviction for Ring ORAM in Hybrid Memory
+Physics-aware Roughness Optimization for Diffractive Optical Neural Networks
+Dynamic Sparse Training via Balancing the Exploration-Exploitation Trade-off
+IFHE: Intermediate-Feature Heterogeneity Enhancement for Image Synthesis in Data-Free Knowledge Distillation
+Fair Will Go On: A Collaboration-Aware Fairness Scheme for NVMe SSD in Cloud Storage System
+Primer: Fast Private Transformer Inference on Encrypted Data
+Fault-Tolerance-Oriented Physical Design for Fully Programmable Valve Array Biochips
+Lightning Talk: The Incredible Shrinking Black Box Model
+Map-and-Conquer: Energy-Efficient Mapping of Dynamic Neural Nets onto Heterogeneous MPSoCs
+Heterogeneous Reconfigurable Accelerators: Trends and Perspectives
+Lamellar DSA-aware Detailed Routing Considering Double Patterning and Short Template Minimization
+FIONA: Fine-grained Incoherent Optical DNN Accelerator Search for Superior Efficiency and Robustness
+Invited: Compute Express Link™ (CXL™): An Open Interconnect for Cloud Infrastructure
+A Database Dependent Framework for K-Input Maximum Fanout-Free Window Rewriting
+Disjoint-Path and Golden-Pin Based Irregular PCB Routing with Complex Constraints
+Hardware Support for Durable Atomic Instructions for Persistent Parallel Programming
+MixPipe: Efficient Bidirectional Pipeline Parallelism for Training Large-Scale Models
+OpenDRC: An Efficient Open-Source Design Rule Checking Engine with Hierarchical GPU Acceleration
+ReRAM-based graph attention network with node-centric edge searching and hamming similarity
+An Extension to Basis-Hypervectors for Learning from Circular Data in Hyperdimensional Computing
+Hybrid Obfuscation of Chiplet-Based Systems
+Reinforcement Learning-based Analog Circuit Optimizer using gm/ID for Sizing
+Profile-Driven Banded Smith-Waterman acceleration for Short Read Alignment
+AVX Timing Side-Channel Attacks against Address Space Layout Randomization
+Fault Injection in Native Logic-in-Memory Computation on Neuromorphic Hardware
+Rubick: A Synthesis Framework for Spatial Architectures via Dataflow Decomposition
+ChaosINTC: A Secure Interrupt Management Mechanism against Interrupt-based Attacks on TEE
+vPIM: Efficient Virtual Address Translation for Scalable Processing-in-Memory Architectures
+An FPGA-Compatible TRNG with Ultra-High Throughput and Energy Efficiency
+NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM
+Bit-Serial Cache: Exploiting Input Bit Vector Repetition to Accelerate Bit-Serial Inference
+Morphable CIM: Improving Operation Intensity and Depthwise Capability for SRAM-CIM Architecture
+SEO: Safety-Aware Energy Optimization Framework for Multi-Sensor Neural Controllers at the Edge
+Toward Optimal Filler Cell Insertion with Complex Implant Layer Constraints
+Sparse Hamming Graph: A Customizable Network-on-Chip Topology
+PIM-HLS: An Automatic Hardware Generation Tool for Heterogeneous Processing-In-Memory-based Neural Network Accelerators
+PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search
+Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates
+MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line
+Scalable Optimal Layout Synthesis for NISQ Quantum Processors
+Late Breaking Results: Fast Fair Medical Applications? Hybrid Vision Models Achieve the Fairness on the Edge
+NMExplorer: An Efficient Exploration Framework for DIMM-based Near-Memory Tensor Reduction
+Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models
+Accelerating Sparse LU Factorization with Density-Aware Adaptive Matrix Multiplication for Circuit Simulation
+AccShield: a New Trusted Execution Environment with Machine-Learning Accelerators
+Sidekick: Near Data Processing for Clustering Enhanced by Automatic Memory Disaggregation
+FPDsim: A Structural Simulator For Power Grid Analysis Of Flat Panel Display
+Memory-Efficient and Real-Time SPAD-based dToF Depth Sensor with Spatial and Statistical Correlation
+Invited: Algorithms and Architectures for Accelerating Long Read Sequence Analysis
+Uint-Packing: Multiply Your DNN Accelerator Performance via Unsigned Integer DSP Packing
+Invited: Buried Power Rails and Back-side Power Grids: Prospects and Challenges
+RMP-MEM: A HW/SW Reconfigurable Multi-Port Memory Architecture for Multi-PEA Oriented CGRA
+Energy-Efficient On-Chip Training for Customized Home-based Rehabilitation Systems
+BLITZCRANK: Factor Graph Accelerator for Motion Planning
+A Matching Based Escape Routing Algorithm with Variable Design Rules and Constraints
+Unified Agile Accuracy Assessment in Computing-in-Memory Neural Accelerators by Layerwise Dynamical Isometry
+Lightning Talk: Unlocking the Potential of the Analog Domain: Exploring the Next Frontier in Hardware Security
+Fast FPGA Accelerator of Graph Cut Algorithm with Out-of-order Parallel Execution in Folding Grid Architecture
+HBP: Hierarchically Balanced Pruning and Accelerator Co-Design for Efficient DNN Inference
+Late Breaking Results: Configurable Ring Oscillators as a Side-Channel Countermeasure
+STCG: State-Aware Test Case Generation for Simulink Models
+Formal Verification of Restoring Dividers made Fast and Simple
+A High-accurate Multi-objective Exploration Framework for Design Space of CPU
+A Model-Specific End-to-End Design Methodology for Resource-Constrained TinyML Hardware
+MES-Attacks: Software-Controlled Covert Channels based on Mutual Exclusion and Synchronization
+Accelerating DNN Inference with Heterogeneous Multi-DPU Engines
+Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement
+Learning-based Data Separation for Write Amplification Reduction in Solid State Drives
+Automating Constraint-Aware Datapath Optimization using E-Graphs
+ZKROWNN: Zero Knowledge Right of Ownership for Neural Networks
+TF-MVP: Novel Sparsity-Aware Transformer Accelerator with Mixed-Length Vector Pruning
+PATRONoC: Parallel AXI Transport Reducing Overhead for Networks-on-Chip targeting Multi-Accelerator DNN Platforms at the Edge
+Lightning Talk: All Routes to Timing Closure
+Restructure-Tolerant Timing Prediction via Multimodal Fusion
+Lightning Talk: Trinity - Assured Neuro-symbolic Model Inspired by Hierarchical Predictive Coding
+Graph-Based Simultaneous Placement and Routing for Two-Dimensional Directed Self-Assembly Technology
+WinoTrain: Winograd-Aware Training for Accurate Full 8-bit Convolution Acceleration
+An Efficient Accelerator for Point-based and Voxel-based Point Cloud Neural Networks
+Property-Based Timing Analysis and Optimization for Complex Cyber-Physical Real-Time Systems
+Architecture 2.0: Challenges and Opportunities
+Invited: Waving the Double-Edged Sword: Building Resilient CAVs with Edge and Cloud Computing
+Neurogenesis Dynamics-inspired Spiking Neural Network Training Acceleration
+HyperAttack: An Efficient Attack Framework for HyperDimensional Computing
+Don't-Care Aware ESOP Extraction via Reduced Decomposition-Tree Exploration
+Thermal Scaffolding for Ultra-Dense 3D Integrated Circuits
+Fault Tolerance in Time-Sensitive Networking with Mixed-Critical Traffic
+PUMICE: Processing-using-Memory Integration with a Scalar Pipeline for Symbiotic Execution
+BWA-NIMC: Budget-based Workload Allocation for Hybrid Near/In-Memory-Computing
+Lightning Talk: Private and Secure Edge AI with Hyperdimensional Computing
+Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning
+SimLL: Similarity-Based Logic Locking Against Machine Learning Attacks
+HAWEN: Hardware Accelerator for Thread Wake-Ups in Linux Event Notification
+Design Automation for Cryogenic CMOS Circuits
+Intermittent-Aware Neural Network Pruning
+Efficient Non-Linear Adder for Stochastic Computing with Approximate Spatial-Temporal Sorting Network
+NetBooster: Empowering Tiny Deep Learning By Standing on the Shoulders of Deep Giants
+Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks
+DSPIMM: A Fully Digital SParse In-Memory Matrix Vector Multiplier for Communication Applications
+BlueFace: Integrating an Accelerator into the Core's Pipeline through Algorithm-Interface Co-Design for Real-Time SoCs
+Don't Cross Me! Cross-layer System Security
+DmTSAR-ILP: Allocating a Unified Domain Platform for Streaming Applications
+On the Unpredictability of SPICE Simulations for Side-Channel Leakage Verification of Masked Cryptographic Circuits
+TFix: Exploiting the Natural Redundancy of Ternary Neural Networks for Fault Tolerant In-Memory Vector Matrix Multiplication
+Towards A Formally Verified Fully Homomorphic Encryption Compute Engine
+Safe DNN-type Controller Synthesis for Nonlinear Systems via Meta Reinforcement Learning
+Lightweight Structural Choices Operator for Technology Mapping
+Occamy: Memory-efficient GPU Compiler for DNN Inference
+Fine-Grained QoS Control via Tightly-Coupled Bandwidth Monitoring and Regulation for FPGA-based Heterogeneous SoCs
+PIE-DRAM: Postponing IECC to Enhance DRAM performance with access table
+Contention-Free Configured Grant Scheduling for 5G URLLC Traffic
+Smart Detection of Obfuscated Thermal Covert Channel Attacks in Many-core Processors
+Lightning Talk: Efficient Embedded Machine Learning Deployment on Edge and IoT Devices
+LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition
+Discerning Limitations of GNN-based Attacks on Logic Locking
+Compact and High-Performance TCAM Based on Scaled Double-Gate FeFETs
+ANAS: Asynchronous Neuromorphic Hardware Architecture Search Based on a System-Level Simulator
+PseudoSC: A Binary Approximation to Stochastic Computing within Latent Operation-Space for Ultra-Lightweight on-Edge DNNs
+Neuromorphic Swarm on RRAM Compute-in-Memory Processor for Solving QUBO Problem
+Lightning Talk: Can memory technologies meet demands of data abundant applications?
+Lightning Talk: Power and Performance Reconciliation - from Tradeoff to Win-Win
+Flex-SFU: Accelerating DNN Activation Functions by Non-Uniform Piecewise Approximation
+AccALS: Accelerating Approximate Logic Synthesis by Selection of Multiple Local Approximate Changes
+Mixed-cell-height Placement with Minimum-Implant-Area and Drain-to-Drain Abutment Constraints
+MPass: Bypassing Learning-based Static Malware Detectors
+Late Breaking Results: Scalable and Efficient Hyperdimensional Computing for Network Intrusion Detection
+Ising-CF: A Pathbreaking Collaborative Filtering Method Through Efficient Ising Machine Learning
+DARIC: A Data Reuse-Friendly CGRA for Parallel Data Access via Elastic FIFOs
+VideoFlip: Adversarial Bit Flips for Reducing Video Service Quality
+Late Breaking Results: Analytical Placement for 3D ICs with Multiple Manufacturing Technologies
+Lightning Talk: The New Era of Computational Cognitive Intelligence
+Faster and Stronger Lossless Compression with Optimized Autoregressive Framework
+PowerPruning: Selecting Weights and Activations for Power-Efficient Neural Network Acceleration
+Input-Aware Dynamic Timestep Spiking Neural Networks for Efficient In-Memory Computing
+TiPU: A Spatial-Locality-Aware Near-Memory Tile Processing Unit for 3D Point Cloud Neural Network
+Lift: Exploiting Hybrid Stacked Memory for Energy-Efficient Processing of Graph Convolutional Networks
+APPEND: Rethinking ASIP Synthesis in the Era of AI
+ML-CGRA: An Integrated Compilation Framework to Enable Efficient Machine Learning Acceleration on CGRAs
+Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms
+DistHD: A Learner-Aware Dynamic Encoding Method for Hyperdimensional Classification
+Partition Based Differential Testing for Finding Embedded Code Generation Bugs in Simulink
+Architecting Selective Refresh based Multi-Retention Cache for Heterogeneous System (ARMOUR)
+STRIVE: Enabling Choke Point Detection and Timing Error Resilience in a Low-Power Tensor Processing Unit
+Lightning Talk: The Next Wave of High-level Synthesis
+AmgR: Algebraic Multigrid Accelerated on ReRAM
+Invited: Pre-silicon Side Channel and Fault Analysis
+Layout Decomposition via Boolean Satisfiability
+NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation
+CUDA Quantum: The Platform for Integrated Quantum-Classical Computing
+Invited: Accelerating Genome Analysis via Algorithm-Architecture Co-Design
+Invited: Autonomous Driving Digital Twin Empowered Design Automation: An Industry Perspective
+SCAGuard: Detection and Classification of Cache Side-Channel Attacks via Attack Behavior Modeling and Similarity Comparison
+PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography
+How to Boost Deep Neural Networks for Computer Vision
+PVC-RAM:Process Variation Aware Charge Domain In-Memory Computing 6T-SRAM for DNNs
+INVITED: Generalizing the ISA to the ILA: A Software/Hardware Interface for Accelerator-rich Platforms
+FSPA: An FeFET-based Sparse Matrix-Dense Vector Multiplication Accelerator
+Lightning Talk: Memory-Centric Computing
+Venus: A Versatile Deep Neural Network Accelerator Architecture Design for Multiple Applications
+IP Protection in TinyML
+Any-Angle Routing for Redistribution Layers in 2.5D IC Packages
+Late Breaking Results: PVT-Sensitive Delay Fitting for High-Performance Computing
+Automatic End-to-End Joint Optimization for Kernel Compilation on DSPs
+PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining
+G-QED: Generalized QED Pre-silicon Verification beyond Non-Interfering Hardware Accelerators
+ACGraph: Accelerating Streaming Graph Processing via Dependence Hierarchy
+Improving Standard-Cell Design Flow using Factored Form Optimization
+Processor Vulnerability Discovery
+General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism
+Accelerating Sparse Attention with a Reconfigurable Non-volatile Processing-In-Memory Architecture
+Automated Design of Complex Analog Circuits with Multiagent based Reinforcement Learning
+A Fast Secure Deletion Strategy for High-Density Flash Memory through WOM-v Codes
+SE3: Sequential Equivalence Checking for Non-Cycle-Accurate Design Transformations †
+HAIMA: A Hybrid SRAM and DRAM Accelerator-in-Memory Architecture for Transformer
+TOTAL: Multi-Corners Timing Optimization Based on Transfer and Active Learning
+UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification
+Power Side-Channel Vulnerability Assessment of Lightweight Cryptographic Scheme, XOODYAK
+R-TOSS: A Framework for Real-Time Object Detection using Semi-Structured Pruning
+Mckeycutter: A High-throughput Key Generator of Classic McEliece on Hardware
+Rethinking Programming Frameworks for In-Storage Processing
+Robust Tickets Can Transfer Better: Drawing More Transferable Subnetworks in Transfer Learning
+ALMOST: Adversarial Learning to Mitigate Oracle-less ML Attacks via Synthesis Tuning
+Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network
+Hybrid Gate-Pulse Model for Variational Quantum Algorithms
+AGD: A Learning-based Optimization Framework for EDA and its Application to Gate Sizing
+Optimal Synthesis of Multi-Controlled Qudit Gates
+ZoneKV: A Space-Efficient Key-Value Store for ZNS SSDs
+Response Time Analysis and Optimization of DAG Tasks Exploiting Mutually Exclusive Execution
+PIMCOMP: A Universal Compilation Framework for Crossbar-based PIM DNN Accelerators
+Reinforcement Learning-Assisted Management for Convertible SSDs
+Fast Adversarial Training with Dynamic Batch-level Attack Control
+Lightning Talk: Bridging Neuro-Dynamics and Cognition
+Stalker: A Framework to Analyze Fragility of Cryptographic Libraries under Hardware Fault Models
+Late Breaking Results From Hybrid Design Automation for Field-coupled Nanotechnologies
+Victor: A Variation-resilient Approach Using Cell-Clustered Charge-domain computing for High-density High-throughput MLC CiM
+Emerging Trends in Multi-Accelerator and Distributed System for ML: Devices, Architectures, Tools and Applications
+Late Breaking Results: Test Selection For RTL Coverage By Unsupervised Learning From Fast Functional Simulation
+ASMCap: An Approximate String Matching Accelerator for Genome Sequence Analysis Based on Capacitive Content Addressable Memory
+System-level Innovation for the Next Decade AI Performance, Power, Area with Co-optimization
+Invited: Algorithm-Software-Hardware Co-Design for Deep Learning Acceleration
+HUNTER: Releasing Persistent Memory Write Performance with A Novel PM-DRAM Collaboration Architecture
+RL-MUL: Multiplier Design Optimization with Deep Reinforcement Learning
+GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs
+Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs
+Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors
+Specialization meets Flexibility: a Heterogeneous Architecture for High-Efficiency, High-flexibility AR/VR Processing
+Processing-In-Hierarchical-Memory Architecture for Billion-Scale Approximate Nearest Neighbor Search
+Chiplets: How Small is too Small?
+Equality Saturation for Datapath Synthesis: A Pathway to Pareto Optimality
+Glass Interposer Integration of Logic and Memory Chiplets: PPA and Power/Signal Integrity Benefits
+Late Breaking Results: Weight Decay is ALL You Need for Neural Network Sparsification
+Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC
+Seeking the Yield Barrier: High-Dimensional SRAM Evaluation Through Optimal Manifold
+ExploreFault: Identifying Exploitable Fault Models in Block Ciphers with Reinforcement Learning
+When Monte-Carlo Dropout Meets Multi-Exit: Optimizing Bayesian Neural Networks on FPGA
+Lightning Talk: Model, Framework and Integration for In-Storage Computing with Computational SSDs
+MeG2: In-Memory Acceleration for Genome Graphs Analysis
+SpMMPlu: A Compiler Plug-in with Sparse IR for Efficient Sparse Matrix Multiplication
+Range-Invariant Approximation of Non-Linear Operations for Efficient BERT Fine-Tuning
+On-Device Unsupervised Image Segmentation
+Rethinking AIG Resynthesis in Parallel
+Mantra: Mutation Testing of Hardware Design Code Based on Real Bugs
+Correlation-guided Placement for Nonvolatile FPGAs
+Privacy-Preserving DNN Training with Prefetched Meta-Keys on Heterogeneous Neural Network Accelerators
+Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning
+SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing
+Global Floorplanning via Semidefinite Programming
+CPE: An Energy-Efficient Edge-Device Training with Multi-dimensional Compression Mechanism
+Pathfinding Model and Lagrangian-Based Global Routing
+Holistic WCRT Analysis for Global Fixed-Priority Preemptive Multiprocessor Scheduling
+DRPTM: A Decoupled Read-efficient High-scalable Persistent Transactional Memory
+Return-to-Non-Secure Vulnerabilities on ARM Cortex-M TrustZone: Attack and Defense
+DriverJar: Lightweight Device Driver Isolation for ARM
+In-Memory Neural Network Accelerator based on eDRAM Cell with Enhanced Retention Time
+AutoDCIM: An Automated Digital CIM Compiler
+A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization
+(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems
+PROPHET: Predictive On-Chip Power Meter in Hardware Accelerator for DNN
+Stochastic-HMDs: Adversarial-Resilient Hardware Malware Detectors via Undervolting
+High Performance, Low Power Matrix Multiply Design on ACAP: from Architecture, Design Challenges and DSE Perspectives
+CSQ: Growing Mixed-Precision Quantization Scheme with Bi-level Continuous Sparsification
+Invited: Caching in Automated Data Centric Vehicles for Edge Computing Scenarios
+Critical Paths Prediction under Multiple Corners Based on BiLSTM Network
+Leaky MDU: ARM Memory Disambiguation Unit Uncovered and Vulnerabilities Exposed
+Optimizing the Performance of NDP Operations by Retrieving File Semantics in Storage
+Invited: Automated Code generation for Information Technology Tasks in YAML through Large Language Models
+RLAlloc: A Deep Reinforcement Learning-Assisted Resource Allocation Framework for Enhanced Both I/O Throughput and QoS Performance of Multi-Streamed SSDs
+OmniBoost: Boosting Throughput of Heterogeneous Embedded Devices under Multi-DNN Workload
+Emerging Hardware Technologies and 3D System Integration for Ubiquitous Machine Intelligence
+RoSE: Robust Analog Circuit Parameter Optimization with Sampling-Efficient Reinforcement Learning
+MARS: Exploiting Multi-Level Parallelism for DNN Workloads on Adaptive Multi-Accelerator Systems
+Efficient Transformer Inference with Statically Structured Sparse Attention
+cVTS: A Constrained Voronoi Tree Search Method for High Dimensional Analog Circuit Synthesis
+Toward Parallelism-Optimal Topology Generation for Wavelength-Routed Optical NoC Designs
+Lightning Talk: A Perspective on Neuromorphic Computing
+DeepOHeat: Operator Learning-based Ultra-fast Thermal Simulation in 3D-IC Design
+BERRY: Bit Error Robustness for Energy-Efficient Reinforcement Learning-Based Autonomous Systems
+Bumblebee: A MemCache Design for Die-stacked and Off-chip Heterogeneous Memory Systems
+On EDA-Driven Learning for SAT Solving
+Compiler Optimization for Quantum Computing Using Reinforcement Learning
+AdaGL: Adaptive Learning for Agile Distributed Training of Gigantic GNNs
+Comprehensive Integration of Hyperdimensional Computing with Deep Learning towards Neuro-Symbolic AI
+A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression
+HexaMesh: Scaling to Hundreds of Chiplets with an Optimized Chiplet Arrangement
+ADAPTIVE: Agent-Based Learning for Bounding Time in Mixed-Criticality Systems
+RL-CCD: Concurrent Clock and Data Optimization using Attention-Based Self-Supervised Reinforcement Learning
+DiffPattern: Layout Pattern Generation via Discrete Diffusion
+Invited: Building Robust Quantum System Software for Technology-Specific Characteristics
+Optimizing Data Reuse for CGRA Mapping Using Polyhedral-based Loop Transformations
+Reaction Time Analysis of Event-Triggered Processing Chains with Data Refreshing
+DBPS: Dynamic Block Size and Precision Scaling for Efficient DNN Training Supported by RISC-V ISA Extensions
+Advances and Trends on On-Chip Compute-in-Memory Macros and Accelerators
+A Comprehensive Automated Exploration Framework for Systolic Array Designs

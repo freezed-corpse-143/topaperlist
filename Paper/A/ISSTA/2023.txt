@@ -1,0 +1,139 @@
+Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2023, Seattle, WA, USA, July 17-21, 2023
+CydiOS: A Model-Based Testing Framework for iOS Apps
+Improving Bit-Blasting for Nonlinear Integer Constraints
+CONCORD: Clone-Aware Contrastive Learning for Source Code
+Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond
+Understanding and Tackling Label Errors in Deep Learning-Based Vulnerability Detection (Experience Paper)
+Pattern-Based Peephole Optimizations with Java JIT Tests
+Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing
+Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree
+Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection
+Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis
+Green Fuzzing: A Saturation-Based Stopping Criterion using Vulnerability Prediction
+Testing Graph Database Engines via Query Partitioning
+Semantic-Based Neural Network Repair
+GDsmith: Detecting Bugs in Cypher Graph Database Engines
+Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning
+CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation
+Concept-Based Automated Grading of CS-1 Programming Assignments
+Beware of the Unexpected: Bimodal Taint Analysis
+DeUEDroid: Detecting Underground Economy Apps Based on UTG Similarity
+Dependency-Aware Metamorphic Testing of Datalog Engines
+Fuzzing Deep Learning Compilers with HirGen
+API2Vec: Learning Representations of API Sequences for Malware Detection
+June: A Type Testability Transformation for Improved ATG Performance
+A Comprehensive Study on Quality Assurance Tools for Java
+Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing
+FairRec: Fairness Testing for Deep Recommender Systems
+ItyFuzz: Snapshot-Based Fuzzer for Smart Contract
+Who Judges the Judge: An Empirical Study on Online Judge Tests
+Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation
+Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis
+Definition and Detection of Defects in NFT Smart Contracts
+Eunomia: Enabling User-Specified Fine-Grained Search in Symbolically Executing WebAssembly Binaries
+Type Batched Program Reduction
+Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning
+Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
+Exploring Missed Optimizations in WebAssembly Optimizers
+PhysCov: Physical Test Coverage for Autonomous Vehicles
+Building Critical Testing Scenarios for Autonomous Driving from Real Accidents
+CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement
+BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems
+In Defense of Simple Techniques for Neural Network Test Case Selection
+ConfFix: Repairing Configuration Compatibility Issues in Android Apps
+Vectorizing Program Ingredients for Better JVM Testing
+What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications
+Testing the Compiler for a New-Born Programming Language: An Industrial Case Study (Experience Paper)
+Quantitative Policy Repair for Access Control on the Cloud
+Validating Multimedia Content Moderation Software via Semantic Fusion
+Towards More Realistic Evaluation for Neural Test Oracle Generation
+Back Deduction Based Testing for Word Sense Disambiguation Ability of Machine Translation Systems
+DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization
+Systematically Producing Test Orders to Detect Order-Dependent Flaky Tests
+Security Checking of Trigger-Action-Programming Smart Home Integrations
+LiResolver: License Incompatibility Resolution for Open Source Software
+More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes
+Silent Compiler Bug De-duplication via Three-Dimensional Analysis
+ACETest: Automated Constraint Extraction for Testing Deep Learning Operators
+DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps
+To Kill a Mutant: An Empirical Study of Mutation Testing Kills
+iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements
+RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring
+CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems
+ROME: Testing Image Captioning Systems via Recursive Object Melting
+GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper)
+COME: Commit Message Generation with Modification Embedding
+OCFI: Make Function Entry Identification Hard Again
+Catamaran: Low-Overhead Memory Safety Enforcement via Parallel Acceleration
+Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing
+Simulation-Based Validation for Autonomous Driving Systems
+Automated Program Repair from Fuzzing Perspective
+1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing
+A Bayesian Framework for Automated Debugging
+That's a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly
+GenCoG: A DSL-Based Approach to Generating Computation Graphs for TVM Testing
+Alligator in Vest: A Practical Failure-Diagnosis Framework via Arm Hardware Features
+Guiding Greybox Fuzzing with Mutation Testing
+Testing Automated Driving Systems by Breaking Many Laws Efficiently
+DeepAtash: Focused Test Generation for Deep Learning Systems
+SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations
+SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis
+ωTest: WebView-Oriented Testing for Android Applications
+ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems
+AGORA: Automated Generation of Test Oracles for REST APIs
+Fuzzing Embedded Systems using Debug Interfaces
+Splendor: Static Detection of Stored XSS in Modern Web Applications
+Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)
+Finding Short Slow Inputs Faster with Grammar-Based Search
+Transforming Test Suites into Croissants
+Tai-e: A Developer-Friendly Static Analysis Framework for Java by Harnessing the Good Designs of Classics
+Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis
+Data Constraint Mining for Automatic Reconciliation Scripts Generation
+Guided Retraining to Enhance the Detection of Difficult Android Malware
+DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols
+Beyond "Protected" and "Private": An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts
+Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing
+A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation
+SlipCover: Near Zero-Overhead Code Coverage for Python
+Systematic Testing of the Data-Poisoning Robustness of KNN
+GrayC: Greybox Fuzzing of Compilers and Analysers for C
+Enhancing REST API Testing with NLP Techniques
+Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode
+Toward Automated Detecting Unanticipated Price Feed in Smart Contract
+Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications
+How Effective Are Neural Networks for Fixing Security Vulnerabilities
+Rare Path Guided Fuzzing
+CGuard: Scalable and Precise Object Bounds Protection for C
+An Empirical Study of Functional Bugs in Android Apps
+NodeRT: Detecting Races in Node.js Applications Practically
+An Empirical Study on Concurrency Bugs in Interrupt-Driven Embedded Software
+CodeGrid: A Grid Representation of Code
+Detecting Condition-Related Bugs with Control Flow Graph Neural Network
+Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?
+Green Fuzzer Benchmarking
+Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?
+An Empirical Study on the Effects of Obfuscation on Static Machine Learning-Based Malicious JavaScript Detectors
+Understanding Breaking Changes in the Wild
+Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction
+Extracting Inline Tests from Unit Tests
+DDLDroid: A Static Analyzer for Automatically Detecting Data Loss Issues in Android Applications
+Behaviorally Typed State Machines in TypeScript for Heterogeneous Swarms
+ECSTATIC: Automatic Configuration-Aware Testing and Debugging of Static Analysis Tools
+RustSmith: Random Differential Compiler Testing for Rust
+KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization
+KDAlloc: The KLEE Deterministic Allocator: Deterministic Memory Allocation during Symbolic Execution and Test Case Replay
+EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer
+MetaData262: Automatic Test Suite Selection for Partial JavaScript Implementations
+RobotBT: Behavior-Tree-Based Test-Case Specification for the Robot Framework
+TreeLine and SlackLine: Grammar-Based Performance Fuzzing on Coffee Break
+Oven: Safe and Live Communication Protocols in Scala, using Synthetic Behavioural Type Analysis
+SymRustC: A Hybrid Fuzzer for Rust
+EvoSpex: A Search-Based Tool for Postcondition Inference
+PExReport-Maven: Creating Pruned Executable Cross-Project Failure Reports in Maven Build System
+Quantitative Robustness Analysis of Neural Networks
+Automatic Testing and Benchmarking for Configurable Static Analysis Tools
+Type Automata
+Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis
+Fairness Testing for Recommender Systems
+Quantitative Symbolic Similarity Analysis
+Reasoning about MLIR Semantics through Effects and Handlers

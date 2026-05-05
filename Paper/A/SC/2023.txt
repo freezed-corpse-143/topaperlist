@@ -1,0 +1,100 @@
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2023, Denver, CO, USA, November 12-17, 2023
+Large-Scale Materials Modeling at Quantum Accuracy: Ab Initio Simulations of Quasicrystals and Interacting Extended Defects in Metallic Alloys
+Scaling the Leading Accuracy of Deep Equivariant Models to Biomolecular Simulations of Realistic Size
+Exascale Multiphysics Nuclear Reactor Simulations for Advanced Designs
+Toward Exascale Computation for Turbomachinery Flows
+Exploring the Ultimate Regime of Turbulent Rayleigh-Bénard Convection Through Unprecedented Spectral-Element Simulations
+Scaling the "Memory Wall" for Multi-Dimensional Seismic Processing with Algebraic Compression on Cerebras CS-2 Systems
+The Simple Cloud-Resolving E3SM Atmosphere Model Running on the Frontier Exascale System
+Big Data Assimilation: Real-time 30-second-refresh Heavy Rain Forecast Using Fugaku During Tokyo Olympics and Paralympics
+Establishing a Modeling System in 3-km Horizontal Resolution for Global Atmospheric Circulation triggered by Submarine Volcanic Eruptions with 400 Billion Smoothed Particle Hydrodynamics
+69.7-PFlops Extreme Scale Earthquake Simulation with Crossing Multi-faults and Topography on Sunway
+Large-Scale Simulation of Structural Dynamics Computing on GPU Clusters
+ANT-MOC: Scalable Neutral Particle Transport Using 3D Method of Characteristics on Multi-GPU Systems
+Legate Sparse: Distributed Sparse Computing in Python
+Itoyori: Reconciling Global Address Space and Global Fork-Join Task Parallelism
+Automated Mapping of Task-Based Programs onto Distributed and Heterogeneous Machines
+Efficient Maximal Biclique Enumeration on GPUs
+A GPU Algorithm for Detecting Strongly Connected Components
+PeeK: A Prune-Centric Approach for K Shortest Path Computation
+Toward Sustainable HPC: Carbon Footprint Estimation and Environmental Implications of HPC Systems
+Clover: Toward Sustainable AI with Carbon-Aware Machine Learning Inference Service
+GreenNFV: Energy-Efficient Network Function Virtualization with Service Level Agreement Constraints
+The Graph Database Interface: Scaling Online Transactional and Analytical Graph Workloads to Hundreds of Thousands of Cores
+Graph3PO: A Temporal Graph Data Processing Method for Latency QoS Guarantee in Object Cloud Storage System
+MBFGraph: An SSD-based External Graph System for Evolving Graphs
+Mirage: Towards Low-interruption Services on Batch GPU Clusters with Reinforcement Learning
+Prodigy: Towards Unsupervised Anomaly Detection in Production HPC Systems
+DPS: Adaptive Power Management for Overprovisioned Systems
+Scalable Tuning of (OpenMP) GPU Applications via Kernel Record and Replay
+HPAC-Offload: Accelerating HPC Applications with Portable Approximate Computing on the GPU
+Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware Approach
+Bringing Order to Sparsity: A Sparse Matrix Reordering Study on Multicore CPUs
+GraphSet: High Performance Graph Mining through Equivalent Set Transformations
+Space Efficient Sequence Alignment for SRAM-Based Computing: X-Drop on the Graphcore IPU
+Optimizing MPI Collectives on Shared Memory Multi-Cores
+Embracing Irregular Parallelism in HPC with YGM
+HEAR: Homomorphically Encrypted Allreduce
+BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training
+TANGO: re-thinking quantization for graph neural network training on GPUs
+DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training
+Portable and Scalable All-Electron Quantum Perturbation Simulations on Exascale Supercomputers
+Enhancing Adaptive Physics Refinement Simulations Through the Addition of Realistic Red Blood Cell Counts
+NNQS-Transformer: an Efficient and Scalable Neural Network Quantum States Approach for Ab initio Quantum Chemistry
+cuSZp: An Ultra-fast GPU Error-bounded Lossy Compression Framework with Optimized End-to-End Performance
+AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications
+ADT-FSE: A New Encoder for SZ
+Understanding the Effects of Permanent Faults in GPU's Parallelism Management and Control Units
+Design Considerations and Analysis of Multi-Level Erasure Coding in Large-Scale Data Centers
+Unity ECC: Unified Memory Protection Against Bit and Chip Errors
+Optimizing High-Performance Linpack for Exascale Accelerated Architectures
+Unified Communication Optimization Strategies for Sparse Triangular Solver on CPU and GPU Clusters
+PanguLU: A Scalable Regular Two-Dimensional Block-Cyclic Sparse Direct Solver on Distributed Heterogeneous Systems
+Frontier: Exploring Exascale
+Experiences readying applications for Exascale
+5 ExaFlop/s HPL-MxP Benchmark with Linear Scalability on the 40-Million-Core Sunway Supercomputer
+EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs
+Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency
+High Throughput Training of Deep Surrogates from Large Ensemble Runs
+Data Flow Lifecycles for Optimizing Workflow Coordination
+Accelerating Communications in Federated Applications with Transparent Object Proxies
+A Quantitative Approach for Adopting Disaggregated Memory in HPC Systems
+GRAPHINE: Enhanced Neutral Atom Quantum Computing using Application-Specific Rydberg Atom Arrangement
+Mitigating Coupling Map Constrained Correlated Measurement Errors on Quantum Devices
+Experimental Evaluation of Xanadu X8 Photonic Quantum Computer: Error Measurement, Characterization and Implications
+Automatic Generation of Distributed-Memory Mappings for Tensor Computations
+Application Performance Modeling via Tensor Completion
+High-Performance and Programmable Attentional Graph Neural Networks with Global Tensor Formulations
+Rethinking Deployment for Serverless Functions: A Performance-First Perspective
+FISCO-BCOS: An Enterprise-grade Permissioned Blockchain System with High-performance
+SYnergy: Fine-grained Energy-Efficient Heterogeneous Computing for Scalable Energy Saving
+Optimizing Direct Convolutions on ARM Multi-Cores
+Calculon: a methodology and tool for high-level co-design of systems and large language models
+VENOM: A Vectorized N: M Format for Unleashing the Power of Sparse Tensor Cores
+DASP: Specific Dense Matrix Multiply-Accumulate Units Accelerated General Sparse Matrix-Vector Multiplication
+High-Performance SVD Partial Spectrum Computation
+ReFloat: Low-Cost Floating-Point Processing in ReRAM for Accelerating Iterative Linear Solvers
+Parallel Top-K Algorithms on GPU: A Comprehensive Study and New Methods
+A High-Performance MST Implementation for GPUs
+Adaptive Workload-Balanced Scheduling Strategy for Global Ocean Data Assimilation on Massive GPUs
+Rapid simulations of atmospheric data assimilation of hourly-scale phenomena with modern neural networks
+Breaking Boundaries: Distributed Domain Decomposition with Scalable Physics-Informed Neural PDE Solvers
+FORGE: Pre-Training Open Foundation Models for Science
+Cloud Computing to Enable Wearable-Driven Longitudinal Hemodynamic Maps
+Optimizing Reconfigurable Optical Datacenters: The Power of Randomization
+Leveraging the Compute Power of Two HPC Systems for Higher-Dimensional Grid-Based Simulations with the Widely-Distributed Sparse Grid Combination Technique
+Structural Coding: A Low-Cost Scheme to Protect CNNs from Large-Granularity Memory Faults
+Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication
+Co-design Hardware and Algorithm for Vector Search
+FuzzyFlow: Leveraging Dataflow To Find and Squash Program Optimization Bugs
+Runtime Composition of Iterations for Fusing Loop-carried Sparse Dependence
+TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling
+Phases, Modalities, Spatial and Temporal Locality: Domain Specific ML Prefetcher for Accelerating Graph Analytics
+Choosing the Best Parallelization and Implementation Styles for Graph Analytics Codes: Lessons Learned from 1106 Programs
+DGAP: Efficient Dynamic Graph Analysis on Persistent Memory
+I/O in WRF: A Case Study in Modern Parallel I/O Techniques
+Fine-grained Policy-driven I/O Sharing for Burst Buffers
+Xfast: Extreme File Attribute Stat Acceleration for Lustre
+Enhance the Strong Scaling of LAMMPS on Fugaku
+FASDA: An FPGA-Aided, Scalable and Distributed Accelerator for Range-Limited Molecular Dynamics
+Enabling Real World Scale Structural Superlubricity All-Atom Simulation on the Next-Generation Sunway Supercomputer

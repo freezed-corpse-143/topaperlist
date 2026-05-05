@@ -1,0 +1,113 @@
+21st USENIX Symposium on Networked Systems Design and Implementation, NSDI 2024, Santa Clara, CA, April 15-17, 2024
+Horus: Granular In-Network Task Scheduler for Cloud Datacenters
+Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining
+LoLKV: The Logless, Linearizable, RDMA-based Key-Value Storage System
+Making Kernel Bypass Practical for the Cloud with Junction
+Sifter: An Inversion-Free and Large-Capacity Programmable Packet Scheduler
+Flow Scheduling with Imprecise Knowledge
+Pudica: Toward Near-Zero Queuing Delay in Congestion Control for Cloud Gaming
+Revisiting Congestion Control for Lossless Ethernet
+Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices
+Jolteon: Unleashing the Promise of Serverless for Serverless Workflows
+Can't Be Late: Optimizing Spot Instance Savings under Deadlines
+Towards Intelligent Automobile Cockpit via A New Container Architecture
+MuCache: A General Framework for Caching in Microservice Graphs
+A large-scale deployment of DCTCP
+TECC: Towards Efficient QUIC Tunneling via Collaborative Transmission Control
+iStack: A General and Stateful Name-based Protocol Stack for Named Data Networking
+Cloudcast: High-Throughput, Cost-Aware Overlay Multicast in the Cloud
+Understanding Routable PCIe Performance for Composable Infrastructures
+Alea-BFT: Practical Asynchronous Byzantine Fault Tolerance
+Harmony: A Congestion-free Datacenter Architecture
+SwiftPaxos: Fast Geo-Replicated State Machines
+The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation
+DINT: Fast In-Kernel Distributed Transactions with eBPF
+Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed
+The Eternal Tussle: Exploring the Role of Centralization in IPFS
+BBQ: A Fast and Scalable Integer Priority Queue for Hardware Packet Scheduling
+Sirius: Composing Network Function Chains into P4-Capable Edge Gateways
+Empower Programmable Pipeline for Advanced Stateful Packet Processing
+GRACE: Loss-Resilient Real-Time Video through Neural Codecs
+LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing
+MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations
+Gemino: Practical and Robust Neural Compression for Video Conferencing
+ARTEMIS: Adaptive Bitrate Ladder Optimization for Live Video Streaming
+Credence: Augmenting Datacenter Switch Buffer Sharing with ML Predictions
+Seer: Enabling Future-Aware Online Caching in Networked Systems
+Reverie: Low Pass Filter-Based Switch Buffer Sharing for Datacenters with RDMA and TCP Traffic
+Precise Data Center Traffic Engineering with Constrained Hardware Resources
+Multitenant In-Network Acceleration with SwitchVM
+Characterization of Large Language Model Development in the Datacenter
+QuickUpdate: a Real-Time Personalization System for Large-Scale Recommendation Models
+MegaScale: Scaling Large Language Model Training to More Than 10, 000 GPUs
+Resiliency at Scale: Managing Google's TPUv4 Machine Learning Supercomputer
+NN-Defined Modulator: Reconfigurable and Portable Software Modulator on IoT Gateways
+Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks
+Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval
+Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things
+Application-Level Service Assurance with 5G RAN Slicing
+CHISEL: An optical slice of the wide-area network
+LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds
+Sprinter: Speeding Up High-Fidelity Crawling of the Modern Web
+Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming
+Finding Adversarial Inputs for Heuristics using Multi-level Optimization
+Towards provably performant congestion control
+EPVerifier: Accelerating Update Storms Verification with Edge-Predicate
+Netcastle: Network Infrastructure Testing At Scale
+MESSI: Behavioral Testing of BGP Implementations
+A High-Performance Design, Implementation, Deployment, and Evaluation of The Slim Fly Network
+Crescent: Emulating Heterogeneous Production Network at Scale
+Reasoning about Network Traffic Load Property at Production Scale
+POSEIDON: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree
+OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy
+Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances
+Accelerating Neural Recommendation Training with Embedding Scheduling
+DISTMM: Accelerating Distributed Multimodal Model Training
+Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models
+THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression
+Accelerating Skewed Workloads With Performance Multipliers in the TurboDB Distributed Database
+SIEVE is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches
+Harvesting Idle Memory for Application-managed Soft State with Midas
+Efficient Exposure of Partial Failure Bugs in Distributed Systems with Inferred Abstract States
+Load is not what you should balance: Introducing Prequal
+Orthcatter: High-throughput In-band OFDM Backscatter with Over-the-Air Code Division
+EdgeRIC: Empowering Real-time Intelligent Optimization and Control in NextG Cellular Networks
+ADR-X: ANN-Assisted Wireless Link Rate Adaptation for Compute-Constrained Embedded Gaming Devices
+RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
+SMUFF: Towards Line Rate Wi-Fi Direct Transport with Orchestrated On-device Buffer Management
+Vulcan: Automatic Query Planning for Live ML Analytics
+CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters
+Towards Domain-Specific Network Transport for Distributed DNN Training
+Swing: Short-cutting Rings for Higher Bandwidth Allreduce
+LitePred: Transferable and Scalable Latency Prediction for Hardware-Aware Neural Architecture Search
+Harmonic: Hardware-assisted RDMA Performance Isolation for Public Clouds
+LDB: An Efficient Latency Profiling Tool for Multithreaded Applications
+UFO: The Ultimate QoS-Aware Core Management for Virtualized and Oversubscribed Public Clouds
+Automatic Parallelization of Software Network Functions
+AutoSketch: Automatic Sketch-Oriented Compiler for Query-driven Network Telemetry
+Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate
+Sequence Abstractions for Flexible, Line-Rate Network Monitoring
+OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores
+NR-Surface: NextG-ready µW-reconfigurable mmWave Metasurface
+Cyclops: A Nanomaterial-based, Battery-Free Intraocular Pressure (IOP) Monitoring System inside Contact Lens
+Habitus: Boosting Mobile Immersive Content Delivery through Full-body Pose Tracking and Multipath Networking
+BFMSense: WiFi Sensing Using Beamforming Feedback Matrix
+mmComb: High-speed mmWave Commodity WiFi Backscatter
+Where The Wild Things Are: Brute-Force SSH Attacks In The Wild And How To Stop Them
+A System to Detect Forged-Origin BGP Hijacks
+NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security
+TANGO: Secure Collaborative Route Control across the Public Internet
+Sidekick: In-Network Assistance for Secure End-to-End Transport Protocols
+VILAM: Infrastructure-assisted 3D Visual Localization and Mapping for Autonomous Driving
+Catch Me If You Can: Laser Tethering with Highly Mobile Targets
+MobileConfig: Remote Configuration Management for Mobile Apps at Hyperscale
+Passengers' Safety Matters: Experiences of Deploying a Large-Scale Indoor Delivery Monitoring System
+AUGUR: Practical Mobile Multipath Transport Service for Low Tail Latency in Real-Time Streaming
+Zombie: Middleboxes that Don't Snoop
+Solving Max-Min Fair Resource Allocations Quickly on Large Graphs
+Cloud-LoRa: Enabling Cloud Radio Access LoRa Networks Using Reinforcement Learning Based Bandwidth-Adaptive Compression
+Cloudy with a Chance of Cyberattacks: Dangling Resources Abuse on Cloud Platforms
+CAPA: An Architecture For Operating Cluster Networks With High Availability
+NetAssistant: Dialogue Based Network Diagnosis in Data Center Networks
+Klonet: an Easy-to-Use and Scalable Platform for Computer Networks Education
+ExChain: Exception Dependency Analysis for Root Cause Diagnosis

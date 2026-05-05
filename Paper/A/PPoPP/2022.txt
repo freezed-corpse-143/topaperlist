@@ -1,0 +1,47 @@
+PPoPP '22: 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Seoul, Republic of Korea, April 2 - 6, 2022
+Stream processing with dependency-guided synchronization
+CASE: a compiler-assisted SchEduling framework for multi-GPU systems
+Dopia: online parallelism management for integrated CPU/GPU architectures
+Mashup: making serverless computing useful for HPC workflows via hybrid execution
+Parallel block-delayed sequences
+RTNN: accelerating neighbor search using hardware ray tracing
+TileSpGEMM: a tiled algorithm for parallel sparse general matrix-matrix multiplication on GPUs
+QGTC: accelerating quantized graph neural networks via GPU tensor core
+FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models
+Near-optimal sparse allreduce for distributed deep learning
+Vapro: performance variance detection and diagnosis for production-run parallel applications
+Interference relation-guided SMT solving for multi-threaded program verification
+PerFlow: a domain specific framework for automatic performance analysis of parallel applications
+BaGuaLu: targeting brain scale pretrained models with over 37 million cores
+Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms
+LOTUS: locality optimizing triangle counting
+Scaling graph traversal to 281 trillion edges with 40 million cores
+Deadlock-free asynchronous message reordering in rust with multiparty session types
+Detectable recovery of lock-free data structures
+Lock-free locks revisited
+Asymmetry-aware scalable locking
+FliT: a library for simple and efficient persistent algorithms
+Understanding and detecting deep memory persistency bugs in NVM programs with DeepMC
+The performance power of software combining in persistence
+Multi-queues can be state-of-the-art priority schedulers
+Bundling linked data structures for linearizable range queries
+PathCAS: an efficient middle ground for concurrent search data structures
+Jiffy: a lock-free skip list with batch updates and snapshots
+Elimination (a, b)-trees with fast, durable updates
+Automatic synthesis of parallel unix commands and pipelines with KumQuat
+Towards OmpSs-2 and OpenACC interoperation
+LB-HM: load balance-aware data placement on heterogeneous memory for task-parallel HPC applications
+Hardening selective protection across multiple program inputs for HPC applications
+A parallel branch-and-bound algorithm with history-based domination
+Remote OpenMP offloading
+High performance GPU concurrent B+tree
+The problem-based benchmark suite (PBBS), V2
+An LLVM-based open-source compiler for NVIDIA GPUs
+ParGeo: a library for parallel computational geometry
+Parallel algorithms for masked sparse matrix-matrix products
+Rethinking graph data placement for graph neural network training on multiple GPUs
+Optimizing consistency for partially replicated data stores
+Optimizing sparse computations jointly
+wCQ: a fast wait-free queue with bounded memory usage
+Automatic differentiation of parallel loops with formal methods
+A W-cycle algorithm for efficient batched SVD on GPUs

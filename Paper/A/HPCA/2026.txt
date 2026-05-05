@@ -1,0 +1,123 @@
+IEEE International Symposium on High Performance Computer Architecture, HPCA 2026, Sydney, Australia, January 31 - Feb. 4, 2026
+MemSOS: OS-Guided Selective Memory Mirroring
+Advancing Full-Stack Acceleration for SchröDinger-Style Quantum Simulation
+LoCaLUT: Harnessing Capacity-Computation Tradeoffs for LUT-Based Inference in DRAM-PIM
+SCALE: Tackling Communication Bottlenecks in Confidential Distributed Machine Learning
+CROPHE: Cross-Operator Dataflow Optimization for Fully Homomorphic Encryption Accelerators
+LRM-GPU: Alleviating Synchronization Overhead for Multi-Chiplet GPU Architecture
+Scaling Graph Neural Network Training via Geometric Optimization
+Pinball: A Cryogenic Predecoder for Quantum Error Correction Decoding Under Circuit-Level Noise
+The Memory Processing Unit: A Generalized Interface for End-to-End In-Memory Execution
+PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion
+SpotCC: Facilitating Coded Computation for Prediction Serving Systems on Spot Instances
+PinDrop: Breaking the Silence on SDCs in a Large-Scale Fleet
+GRTX: Efficient Ray Tracing for 3D Gaussian-Based Rendering
+FACE: Fully Overlapped PD Scheduling and Multi-Level Architecture Co-Exploration on Wafer
+Towards Resource-Efficient Serverless LLM Inference with SLINFER
+Peregrine: Accelerating TFHE Bootstrapping on GPUs via Multi-Level External Product Co-Design
+The Last-Level Branch Predictor Revisited
+UniFHE: Faster Accelerator for FHE with Diverse Algebraic Structure and Balanced Memory System
+BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism
+TraceRTL: Agile Performance Evaluation for Microarchitecture Exploration
+NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture
+ORANGE: Exploring Ockham's Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads
+LiLo: Harnessing the on-Chip Accelerators in Intel CPUs for Compressed LLM Inference Acceleration
+SALT: Track-and-Mitigate Subarrays, Not Rows, for Blast-Radius-Free Rowhammer Defense
+TurboFuzz: FPGA Accelerated Hardware Fuzzing for Processor Agile Verification
+AUM: Unleashing the Efficiency Potential of Shared Processors with Accelerator Units for LLM Serving
+SPLATONIC: Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing
+Pulse: Fine-Grained Hierarchical Hashing Index for Disaggregated Memory
+Cohet: A CXL-Driven Coherent Heterogeneous Computing Framework with Hardware-Calibrated Full-System Simulation
+µShare: Non-Intrusive Kernel Co-Locating on NVIDIA GPUs
+TENET-v2: Applying Relation-Centric Notation to Model and Optimize Data Swizzle in the Cache of Modern NPU
+CLINE: Improving Control Flow Compilation of Quantum Programs with Control Line Encoding
+COMET: Communication and Memory Co-Design for Fine-Grained AI Inference in MCM Accelerators
+Nugget: Portable Program Snippets
+Tempranillo: Non-Speculative Early Register Release
+Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD
+Secret Caching Sauce for High-Performance Secure Memory
+NPUWattch: ML-Based Power, Area, and Timing Modeling for Neural Accelerators
+C³: CXL Coherence Controllers for Heterogeneous Architectures
+SSBleed: Non-Speculative Side-Channel Attacks via Speculative Store Bypass on Armv9 CPUs
+SFD: Towards Segment Fusion Dataflow for Spatial Accelerators
+Protean: A Programmable Spectre Defense
+LEGO: Supporting LLM-Enhanced Games with One Gaming GPU
+MoEntwine: Unleashing the Potential of Wafer-Scale Chips for Large-Scale Expert Parallel Inference
+Conflux: A High-Performance Keyword Private Retrieval System for Dynamic Datasets
+An Efficient and Scalable Hardware Architecture for Number Theoretic Transform on FPGA with Design Automation
+zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates
+Enterprise Class On-Chip Accelerator Integration
+eGPU: Production-Scale Elastic Sharing Over 10,000 GPUs
+GyRot: Leveraging Hidden Synergy Between Rotation and Fine-Grained Group Quantization for Low-Bit LLM Inference
+HERO-Sign: Hierarchical Tuning and Efficient Compiler-Time GPU Optimizations for SPHINCS+ Signature Generation
+ELORA: Efficient LoRA and KV Cache Management for Multi-LoRA LLM Serving
+N-DIPPER: A Distributed Inter-Die Peak Power Management Network for Nand Systems
+V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval
+Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates
+ASPA: Reassigning DDR5 Parity Bandwidth
+VectorLiteRAG: Latency-Aware and Fine-Grained Resource Partitioning for Efficient RAG
+RidgeWalker: Perfectly Pipelined Graph Random Walks on FPGAs
+Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
+Area Bloating and the Future of Specialization
+FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing
+VeloxGNN: Efficient Out-of-Core GNN Training with Delayed Gradient Propagation
+QuCo: Efficient and Flexible Hardware-Driven Automatic Configuration of Tile Transfers in GPUs
+Leveraging ASIC AI Chips for Homomorphic Encryption
+TEMP: A Memory Efficient Physical-Aware Tensor Partition-Mapping Framework on Wafer-Scale Chips
+ReThermal: Co-Design of Thermal-Aware Static and Dynamic Scheduling for LLM Training on Liquid-Cooled Wafer-Scale Chips
+PIMphony: Overcoming Bandwidth and Capacity Inefficiency in PIM-Based Long-Context LLM Inference System
+Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems
+HR-DCIM: High-Reliability Floating-Point Digital CIM Architecture With Unified Low-Cost Iterative Error Correction
+GustavSNN: Unleashing the Power of Gustavson's Algorithm on SNN Acceleration with Column-Parallel Tick-Batch Dataflow
+Swift: High-Performance Sparse-Dense Matrix Multiplication on GPUs
+A Deadlock-Free Bridge Module for Inter-Chiplet Cache-Coherent Communication in an Open Chiplet Ecosystem
+AutoHAAP: Automated Heterogeneity-Aware Asymmetric Partitioning for LLM Training
+WATOS: Efficient LLM Training Strategies and Architecture Co-Exploration for Wafer-Scale Chip
+MIRZA: Efficiently Mitigating Rowhammer with Randomization and ALERT
+SMTcheck: Accurate SMT Interference Prediction to Improve Scheduling Efficiency in Datacenters
+ARIADNE: Adaptive UVM Management for Efficient GPU Memory Oversubscription
+SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis
+ReScue: Reliable and Secure CXL Memory
+Athena: Synergizing Data Prefetching and Off-Chip Prediction via Online Reinforcement Learning
+FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection
+REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence
+AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
+PIM-Malloc: A Fast and Scalable Dynamic Memory Allocator for Processing-In-Memory (PIM) Architectures
+Count2Multiply: Reliable In-Memory High-Radix Counting
+Compression-Aware Gradient Splitting for Collective Communications in Distributed Training
+DSAssassin: Cross-VM Side-Channel Attacks by Exploiting Intel Data Streaming Accelerator
+D'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
+CoCoTree: A Computation-Capable Architecture for Collective Communication in Scalable PIM
+HDPAT: Hierarchical Distributed Page Address Translation for Wafer-Scale GPUs
+AQPIM: Breaking the PIM Capacity Wall for LLMs with in-Memory Activation Quantization
+I-POP: Ignite Positive Prefetchers
+Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes
+Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models
+DC-MBQC: A Distributed Compilation Framework for Measurement-Based Quantum Computing
+Cambricon-GS: An Accelerator for 3D Gaussian Splatting Training With Gaussian-Pixel Hybrid Parallelism
+VAR-Turbo: Unlocking the Potential of Visual Autoregressive Models Through Dual Redundancy
+TraceQ: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface-Code Fault-Tolerant Quantum Computing
+Sassy: SmartNIC-Assisted Notification Delivery for μs-Scale RDMA Workloads
+BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache
+Streamlined on-Chip Temporal Prefetching
+A PN-Free Digital 3-SAT Accelerator Using Crossbar Architecture and Frequency-Controlled Counters
+The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective
+RPU - A Reasoning Processing Unit
+ESTroM: Element-Flow Architecture for Processing Sparse Tractable Probabilistic Models
+DRACO: A Hardware-Efficient Robot Rigid Body Dynamics Accelerator with Precision-Aware Quantization Framework
+Cambricon-CIM: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases
+Predicting DRAM Failures at Scale: A Two-Stage Approach for Heterogeneous Systems
+GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping
+RoMe: Row Granularity Access Memory System for Large Language Models
+Cyclone: Designing Efficient and Highly Parallel QCCD Architectural Codesigns for Fault Tolerant Quantum Memory
+Exploration of LLM Workload Reliability Based on di/dt Effects and Voltage Droops
+AccelFlow: Orchestrating an On-Package Ensemble of Fine-Grained Accelerators for Microservices
+PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models
+Intermittence-Aware Cache Compression
+PhasedStore: Supporting High-Performance Write-Through Cache-Coherence Protocols Under TSO
+Characterizing Cloud-Native LLM Inference at Bytedance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators
+IVE: An Accelerator for Single-Server Private Information Retrieval Using Versatile Processing Elements
+LowCarb: Carbon-Aware Scheduling of Serverless Functions
+DP-HLS: A High-Level Synthesis Framework for Accelerating Dynamic Programming Algorithms in Bioinformatics
+Uni-STC: Unified Sparse Tensor Core
+Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in Solid State Drives

@@ -1,0 +1,139 @@
+Proceedings of the 21st European Conference on Computer Systems, EuroSys 2026, McEwan Hall/The University of Edinburgh, Edinburgh, Scotland, UK, April 27-30, 2026
+MegaScale-Data: Scaling DataLoader for Multisource Large Foundation Model Training
+CofferOS: Hardening OS-level Virtualization with Rust
+AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
+High Throughput and Low Latency LLM Serving via Adaptive KV Caching
+FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
+Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design
+Learn-to-Probe: Achieving Signal Distinguishability in Learning-based Congestion Control
+On-device Semantic Selection Made Low Latency and Memory Efficient with Monolithic Forwarding
+iRoute: Local Routing Table-based Workflow Management in Serverless Computing
+MesaFS: An I/O-Efficient Metadata Service for Distributed File Systems
+Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading
+Practical and Efficient x86-64 Emulation on RISC-V
+RaidenSwap: A Multi-Swap Remote System for Multi-core Applications
+REPS: Recycled Entropy Packet Spraying for Adaptive Load Balancing and Failure Mitigation
+TierScape: Harnessing Multiple Compressed Tiers to Tame Server Memory TCO
+Handling Network Faults in Distributed AI Training: Failover is Now an Option
+Chimera: Transparent and High-Performance ISAX Heterogeneous Computing via Binary Rewriting
+From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents
+Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy
+Proteus: Heterogeneous FPGA Virtualization
+Mitigating CDN Cache Misses with Scheduling: An Origin Shield for Billion-QPS Social Platforms
+MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production
+Bridging the GPU Utilization Gap: Predictive Multi-Dimensional Resource Scheduling for AI Workloads
+Laminar: A Scalable Asynchronous RL Post-Training Framework
+PARD: Enhancing Goodput for Inference Pipeline via Proactive Request Dropping
+Effective On-Hardware Fuzzing of Embedded Operating Systems
+Fuzzing Enterprise-Grade Blockchain Systems: Industrial Practice and Solutions
+GeDES: GPU-Driven Discrete Event Network Simulator
+Digital Hole: Bypassing Commercial Audio DRM Solutions with DReaMcatcher
+TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling
+A Case for Elastic Quantum Error Correction Decoders
+EMVOD: Elastic Multi-Path QUIC Scheduling for CDN Video-on-Demand Service
+Federated Fine-Tuning of Sparsely-Activated Large Language Models on Resource-Constrained Devices
+Multipath Collective Communication Beyond Scale-up Networks in GPU Clouds
+LoRAFusion: Efficient LoRA Fine-Tuning for LLMs
+SKernel: An Elastic and Efficient Secure Container System at Scale with a Split-Kernel Architecture
+Untangling GPU Power Consumption: Job-Level Inference in Cloud Shared Settings
+TrustWeave: Integrity Measurement and Attestation For Multi-Cloud LLMs
+TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone
+MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production
+Enabling Packet Spraying over Commodity RNICs with In-Network Support
+Wayfinder: Automated Operating System Specialization
+STAlloc: Enhancing Memory Efficiency in Large-Scale Model Training with Spatio-Temporal Planning
+Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach
+HetAuto: Cross-Cluster Auto-Parallelism for Heterogeneous Distributed Training
+PatternSketch: General and Runtime Reconfigurable Time-series Network Traffic Pattern Detection
+Concord: Learning Network Configuration Contracts
+Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation
+ECOTE: Priority-Aware Optical Restoration for WAN Traffic Engineering
+LLMFolder: Revisiting Constant Folding in Large Language Models
+LCMP: Distributed Long-Haul Cost-Aware Multi-Path Routing for Inter-Datacenter RDMA Networks
+SmartNS: Enabling Line-rate and Flexible Network Stack with SmartNIC
+Reducing the GPU Memory Bottleneck with Lossless Compression for ML
+Once Rolling Hashing is Enough: Exploiting Rolling Hash Reuse in Delta Compression
+Ethane: Debloating State Data using Compact Trie for Account-based Blockchain
+Accurate and Ultra-Fast Launch-Time Validation of Idempotency for GPU Kernels
+Scheduling Cloud Block Storage Proactively and Reactively with Omar
+Scalable RDMA-accelerated Distributed Locks with Shared Stream Abstraction
+TCO-driven Storage Provisioning for Exascale Data Centers
+No More Translation at Runtime: LLM-Empowered Static Binary Translation
+OptiLog: Assigning Roles in Byzantine Consensus
+FicusDB: Scalable Multi-Versioned Authenticated Archival Storage
+FUR: Fast and Unlimited Reads on Persistent Memory Transactions
+Rearchitecting Programmable Networks For In-Network Computing: From Hardware To Language
+AdaGen: Workload-Adaptive Cluster Scheduler for Latency-Optimal LLM Inference Serving
+AEP: Achieving Hierarchical Fault Tolerance in DSM Through Atomic Execution Protection
+TailorLLM: Collaborative End-Cloud Inference of Large and Small Language Models Based on Low-Rank Adaptation
+HARP: Orchestrating Automated Parallel Training on Heterogeneous GPU Clusters
+swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture
+SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning
+NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines
+Crimson: Collaborative Parameter Updates for Efficient Pipeline Training of Large Language Models
+KUNSERVE: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving
+SwitchFS: Asynchronous Metadata Updates for Distributed Filesystems with In-Network Coordination
+DROPS: Managing Serverless Resource Pools in Microsoft Azure Functions
+FlexiQ: Adaptive Mixed-Precision Quantization for Latency/Accuracy Trade-Offs in Deep Neural Networks
+Five Minutes of DDoS Brings down Tor: DDoS Attacks on the Tor Directory Protocol and Mitigations
+Turnstile: Hybrid Information Flow Control Framework for Managing Privacy in Internet-of-Things Applications
+SkyWalker: A Locality-Aware Cross-Region Load Balancer for LLM Inference
+PASS: A Power Adaptive Storage Server
+A Logically Disaggregated Cache for Replicated Storage Systems
+Everything You Need to Know About Virtual Machine Live Migration Between Heterogeneous Processors
+Million-Scale Text-to-Video Retrieval with Hyperdimensional Computing
+MFS: An Efficient Model Family Serving System for LLMs
+LightDSA: Enabling Efficient DSA Through Hardware-Aware Transparent Optimization
+Squeezy: Rapid VM Memory Reclamation for Serverless Functions
+PointShuffler: Accelerating Point Cloud Neural Networks on General-Purpose GPUs
+FlexiWalker: Extensible GPU Framework for Efficient Dynamic Random Walks with Runtime Adaptation
+TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks
+PaCaR: Improved Buffered I/O Locality on NUMA Systems with Page Cache Replication
+Efficient ML Model Updates for Deeply Embedded Microcontrollers
+Proactive Change Risk Detection in Production Cloud Systems: ByteDance's Experience
+Avicenna: Masking Slowdowns in Replicated State Machines with Counterfactual Evaluation
+RLive: Robust Delivery System for Scaling Live Streaming Services
+Yield Not Thy Core
+Carbon-Aware Continuous Learning for Sustainable Real-Time Machine Learning Analytics
+Canopy: Property-Driven Learning for Congestion Control
+Towards Improving Throughput and Scalability of DAG-based BFT SMR
+Prediction-Informed Power Management for General-Purpose Compute Servers
+SAS: Sparse Attention Synthesizer for Efficient Language Model Inference
+Gopher: Efficient Dynamic Graph Pattern Mining via DAG-Driven Execution
+Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation
+NutCracker: A Compilation Framework for Hybrid DPU Architectures
+Serverless Replication of Object Storage across Multi-Vendor Clouds and Regions
+Fast and Parallelized Crash Consistency with Opportunistic Order Elimination
+viNPU: Optimizing Vision Transformer Inference on Mobile NPUs
+RoPeerTo: A Datacenter-Scale Architecture for Peer-To-Peer DMA between GPUs and FPGAs
+Accelerating Transactional Execution via Processing-In-Memory
+AIMS: Cost-Efficient LLM-Based Agent Deployment in Hybrid Cloud-Edge Environments
+Zeppelin: Balancing Variable-length Workloads in Data Parallel Large Model Training
+Efficient and Adaptable Overlapping for Computation and Communication via Signaling and Reordering
+MTTM: Dynamic Fast Memory Partitioning with Bandwidth Optimization for Multi-tenant Cloud
+BASK: Batch And SmartNIC-offloaded KSM
+CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations
+Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling
+E-Cube: Event Enhanced Efficient Video Streaming for Drones
+Suika: Efficient and High-quality Re-scheduling of 3D-parallelized LLM Training Jobs in Shared Clusters
+LifeFuzz: Lifecycle-Guided Fuzzing for Windows Driver Cross-Handler Vulnerabilities
+MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing
+In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies
+Matrix‑PIC: Harnessing Matrix Outer-product for High‑Performance Particle‑in‑Cell Simulations
+Rose: Reproducing External-Fault-Induced Failures in Distributed Systems with Lightweight Instrumentation
+FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling
+Neuro-C: Neural Inference Shaped by Hardware Limits
+Practical and Scalable RDMA Connection Sharing for HPC Workload
+Scaling LLM Test-Time Compute with Mobile NPU on Smartphones
+Garen: Reliable Cluster Management with Atomic State Reconciliation
+ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights
+ECCB: Boosting Block Propagation of Blockchain with Erasure-Coded Compact Block
+Lessons Learned from Incorporating Formal Methods in Huawei Cloud Reliability
+Not A DPU in Name Only! Unleashing RDMA-capable DPUs in Multi-Tenant Serverless Clouds with NADINO
+Fix: externalizing network I/O in serverless computing
+ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash
+Efficient Multimodal Serving via Module Multiplexing
+CHARM: Chiplet Heterogeneity-Aware Runtime Mapping System
+2DIO: Configurable and Cache-Accurate Trace Generation for Storage Benchmarking
+Automated End-to-End Model Serving with Cooperative Compilation and Scheduling
+PiLLM: Resource-Efficient LLM Inference Using Workload Prediction

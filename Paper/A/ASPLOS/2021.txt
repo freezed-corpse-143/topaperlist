@@ -1,0 +1,76 @@
+ASPLOS '21: 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Virtual Event, USA, April 19-23, 2021
+PacketMill: toward per-Core 100-Gbps networking
+Autonomous NIC offloads
+Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs
+BCD deduplication: effective memory compression using partial cache-line deduplication
+KLOCs: kernel-level object contexts for heterogeneous memory systems
+Rethinking software runtimes for disaggregated memory
+DiAG: a dataflow-inspired architecture for general-purpose processors
+LifeStream: a high-performance stream processing engine for periodic streams
+When application-specific ISA meets FPGAs: a multi-layer virtualization framework for heterogeneous cloud FPGAs
+Sage: practical and scalable ML-driven performance debugging in microservices
+Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices
+Sinan: ML-based and QoS-aware resource management for cloud microservices
+NOREBA: a compiler-informed non-speculative out-of-order commit processor
+Fast local page-tables for virtualized NUMA servers with vMitosis
+PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds
+In-fat pointer: hardware-assisted tagged-pointer spatial memory safety defense with subobject granularity protection
+Judging a type by its pointer: optimizing GPU virtual functions
+Enclosure: language-based restriction of untrusted libraries
+Switches for HIRE: resource scheduling for data center in-network computing
+Probabilistic profiling of stateful data planes for adversarial testing
+MERCI: efficient embedding reduction on commodity hardware via sub-query memoization
+SherLock: unsupervised synchronization-operation inference
+SIMDRAM: a framework for bit-serial SIMD processing using DRAM
+Clobber-NVM: log less, re-execute more
+Time-optimal Qubit mapping
+Orchestrated trios: compiling for efficient communication in Quantum programs with 3-Qubit gates
+FaasCache: keeping serverless computing alive with greedy-dual caching
+Hippocrates: healing persistent memory bugs without doing any harm
+Jaaru: efficiently model checking persistent memory programs
+Corundum: statically-enforced persistent memory safety
+Qraft: reverse your Quantum circuit and know the correct program output
+Logical abstractions for noisy variational Quantum algorithm simulation
+CutQC: using small Quantum computers for large Quantum circuit evaluations
+PMFuzz: test case generation for persistent memory programs
+Fast, flexible, and comprehensive bug detection for persistent memory programs
+PMEM-spec: persistent memory speculation (strict persistency can trump relaxed persistency)
+VSync: push-button verification and optimization for synchronization primitives on weak memory models
+CubicleOS: a library OS with software componentisation for practical isolation
+Benchmarking, analysis, and optimization of serverless function snapshots
+Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power
+Q-VR: system-level design for future mobile collaborative virtual reality
+Warehouse-scale video acceleration: co-design and deployment in the wild
+Automatically detecting and fixing concurrency bugs in go software systems
+C11Tester: a race detector for C/C++ atomics
+Kard: lightweight data race detection with per-thread memory protection
+Quantifying the design-space tradeoffs in autonomous drones
+Robomorphic computing: a design methodology for domain-specific accelerators parameterized by robot morphology
+Gamma: leveraging Gustavson's algorithm to accelerate sparse matrix multiplication
+Reducing solid-state drive read latency by optimizing read-retry
+RecSSD: near data processing for solid state drive based recommendation inference
+Prolonging 3D NAND SSD lifetime via read latency relaxation
+PIBE: practical kernel control-flow hardening with profile-guided indirect branch elimination
+Computing with time: microarchitectural weird machines
+HerQules: securing programs via hardware-enforced message queues
+Effective simulation and debugging for a high-level hardware language using software compilers
+A compiler infrastructure for accelerator generators
+Compiler-driven FPGA virtualization with SYNERGY
+BayesPerf: minimizing performance monitoring errors using Bayesian statistics
+Training for multi-resolution inference using reusable quantization terms
+A hierarchical neural model of data prefetching
+Vectorization for digital signal processors via equality saturation
+Scalable FSM parallelization via path fusion and higher-order speculation
+VeGen: a vectorizer generator for SIMD and beyond
+Neural architecture search as program transformation exploration
+Analytical characterization and design space exploration for optimization of CNNs
+Mind mappings: enabling efficient algorithm-accelerator mapping space search
+Statistical robustness of Markov chain Monte Carlo accelerators
+NeuroEngine: a hardware-based event-driven simulation system for advanced brain-inspired computing
+Defensive approximation: securing CNNs using approximate computing
+Language-parametric compiler validation with application to LLVM
+Incremental CFG patching for binary rewriting
+Who's debugging the debuggers? exposing debug information bugs in optimized binaries
+Speculative interference attacks: breaking invisible speculation schemes
+Jamais vu: thwarting microarchitectural replay attacks
+Streamline: a fast, flushless cache covert-channel attack by enabling asynchronous collusion

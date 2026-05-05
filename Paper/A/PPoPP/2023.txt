@@ -1,0 +1,44 @@
+Proceedings of the 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2023, Montreal, QC, Canada, 25 February 2023 - 1 March 2023
+Boosting Performance and QoS for Concurrent GPU B+trees by Combining-Based Synchronization
+The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2
+Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores
+2PLSF: Two-Phase Locking with Starvation-Freedom
+Provably Fast and Space-Efficient Parallel Biconnectivity
+Practically and Theoretically Efficient Garbage Collection for Multiversioning
+A Programming Model for GPU Load Balancing
+Exploring the Use of WebAssembly in HPC
+Fast and Scalable Channels in Kotlin Coroutines
+High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs
+A Scalable Hybrid Total FETI Method for Massively Parallel FEM Simulations
+Lifetime-Based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer
+High-Performance Filters for GPUs
+High-Performance and Scalable Agent-Based Simulation with BioDynaMo
+OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code
+Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness
+Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence
+Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing
+TL4x: Buffered Durable Transactions on Disk as Fast as in Memory
+TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition
+Improving Energy Saving of One-Sided Matrix Decompositions on CPU-GPU Heterogeneous Systems
+End-to-End LU Factorization of Large Matrices on GPUs
+Fast Symmetric Eigenvalue Decomposition via WY Representation on Tensor Core
+iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures
+WISE: Predicting the Performance of Sparse Matrix Vector Multiplication with Machine Learning
+Efficient Direct Convolution Using Long SIMD Instructions
+TGOpt: Redundancy-Aware Optimizations for Temporal Graph Attention Networks
+Dynamic N: M Fine-Grained Structured Sparse Attention Mechanism
+Elastic Averaging for Efficient Pipelined DNN Training
+DSP: Efficient GNN Training with Multiple GPUs
+PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs
+AArch64 Atomics: Might They Be Harming Your Performance?
+Efficient All-Reduce for Distributed DNN Training in Optical Interconnect Systems
+Fast Parallel Exact Inference on Bayesian Networks
+Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics
+Stream-K: Work-Centric Parallel Decomposition for Dense Matrix-Matrix Multiplication on the GPU
+High-Throughput GPU Random Walk with Fine-Tuned Concurrent Query Processing
+The ERA Theorem for Safe Memory Reclamation
+Unexpected Scaling in Path Copying Trees
+Transactional Composition of Nonblocking Data Structures
+CuPBoP: A Framework to Make CUDA Portable
+Swift: Expedited Failure Recovery for Large-Scale DNN Training
+Learning to Parallelize in a Shared-Memory Environment with Transformers

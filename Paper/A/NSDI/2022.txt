@@ -1,0 +1,79 @@
+19th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2022, Renton, WA, USA, April 4-6, 2022
+Efficient Scheduling Policies for Microsecond-Scale Tasks
+A Case for Task Sampling based Learning for Cluster Job Scheduling
+Starlight: Fast Container Provisioning on the Edge and over the WAN
+PowerTCP: Pushing the Performance Limits of Datacenter Networks
+RDMA is Turing complete, we just did not know it yet!
+FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism
+Swift: Adaptive Video Streaming with Layered Neural Codecs
+Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers
+YuZu: Neural-Enhanced Volumetric Video Streaming
+NetVRM: Virtual Register Memory for Programmable Networks
+SwiSh: Distributed Shared State Abstractions for Programmable Switches
+Modular Switch Programming Under Resource Constraints
+Privid: Practical, Privacy-Preserving Video Analytics Queries
+Spectrum: High-bandwidth Anonymous Broadcast
+Donar: Anonymous VoIP over Tor
+Closed-loop Network Performance Monitoring and Diagnosis with SpiderMon
+Collie: Finding Performance Anomalies in RDMA Subsystems
+SCALE: Automatically Finding RFC Compliance Bugs in DNS Nameservers
+Decentralized cloud wide-area network traffic engineering with BLASTSHIELD
+Detecting Ephemeral Optical Events with OpTel
+Bluebird: High-performance SDN for Bare-metal Cloud Services
+Cetus: Releasing P4 Programmers from the Chore of Trial and Error Compiling
+Exploiting Digital Micro-Mirror Devices for Ambient Light Communication
+Whisper: IoT in the TV White Space Spectrum
+Learning to Communicate Effectively Between Battery-free Devices
+Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems
+Graham: Synchronizing Clocks by Leveraging Local Clock Properties
+IA-CCF: Individual Accountability for Permissioned Ledgers
+DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks
+Re-architecting Traffic Analysis with Neural Network Interface Cards
+Elixir: A High-performance and Low-cost Approach to Managing Hardware/Software Hybrid Flow Tables Considering Flow Burstiness
+Gearbox: A Hierarchical Packet Scheduler for Approximate Weighted Fair Queuing
+Performance Interfaces for Network Functions
+Automated Verification of Network Function Binaries
+Differential Network Analysis
+Katra: Realtime Verification for Multilayer Networks
+Enabling In-situ Programmability in Network Data Plane: From Architecture to Language
+Runtime Programmable Switches
+IMap: Fast and Scalable In-Network Scanning with Programmable Switches
+Unlocking the Power of Inline Floating-Point Operations on Programmable Switches
+Dynamic Scheduling of Approximate Telemetry Queries
+HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks
+SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches
+An edge-queued datagram service for all datacenter traffic
+Backpressure Flow Control
+Packet Order Matters! Improving Application Performance by Deliberately Delaying Packets
+Buffer-based End-to-end Request Event Monitoring in the Cloud
+Characterizing Physical-Layer Transmission Errors in Cable Broadband Networks
+How to diagnose nanosecond network latencies in rich end-host stacks
+CurvingLoRa to Boost LoRa Network Throughput via Concurrent Transmission
+PLatter: On the Feasibility of Building-scale Power Line Backscatter
+Passive DSSS: Empowering the Downlink Communication for Backscatter Systems
+Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models
+MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters
+Evolvable Network Telemetry at Facebook
+SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge
+In-Network Velocity Control of Industrial Robot Arms
+Enabling IoT Self-Localization Using Ambient 5G Signals
+Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks
+Cocktail: A Multidimensional Optimization for Model Serving in Cloud
+Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems
+Orca: Server-assisted Multicast for Datacenter Networks
+Yeti: Stateless and Generalized Multicast Forwarding
+cISP: A Speed-of-Light Internet Service Provider
+Configanator: A Data-driven Approach to Improving CDN Performance
+C2DN: How to Harness Erasure Codes at the Edge for Efficient Content Delivery
+Optimizing Network Provisioning through Cooperation
+OrbWeaver: Using IDLE Cycles in Programmable Networks for Opportunistic Coordination
+CloudCluster: Unearthing the Functional Structure of a Cloud Service
+Zeta: A Scalable and Robust East-West Communication Framework in Large-Scale Clouds
+Aquila: A unified, low-latency fabric for datacenter networks
+RDC: Energy-Efficient Data Center Network Congestion Relief with Topological Reconfigurability at the Edge
+Isolation Mechanisms for High-Speed Packet-Processing Pipelines
+Justitia: Software Multi-Tenancy in Hardware Kernel-Bypass Networks
+NetHint: White-Box Networking for Multi-Tenant Data Centers
+Tiara: A Scalable and Efficient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing
+Scaling Open vSwitch with a Computational Cache
+Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem

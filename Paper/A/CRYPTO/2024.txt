@@ -1,0 +1,143 @@
+Constant-Round Arguments for Batch-Verification and Bounded-Space Computations from One-Way Functions
+Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PRF with Applications in Ring and Aggregate Signatures
+Adaptively Secure BLS Threshold Signatures from DDH and co-CDH
+Sometimes You Can't Distribute Random Oracle Based Proofs
+Adaptively Sound Zero Knowledge SNARKs for UP
+Feistel-like Structures Revisited: Classification and Cryptanalysis
+MPC in the head using the subfield bilinear collision problem
+Oblivious issuance of proofs
+Adaptive Security in SNARGs via iO and Lossy Functions
+On the practical CPAD security of "exact" and threshold FHE schemes and libraries
+Lossy Cryptography from Code-Based Assumptions
+The One-Wayness of Jacobi Signatures
+Resettable Statistical Zero-Knowledge for NP
+Round-Optimal Fully Secure Distributed Key Generation
+FRIDA: Data Availability Sampling from FRI
+Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation
+Succinctly-Committing Authenticated Encryption
+Formal Security Proofs via Doeblin Coefficients: Optimal Side-channel Factorization from Noisy Leakage to Random Probing
+$k$-SUM in the Sparse Regime: Complexity and Applications
+HAWKEYE – Recovering Symmetric Cryptography From Hardware Circuits
+Towards Permissionless Consensus in the Standard Model via Fine-Grained Complexity
+Non-Interactive Zero-Knowledge from LPN and MQ
+A Modular Approach to Unclonable Cryptography
+Unconditionally secure quantum commitments with preprocessing
+Generic MitM Attack Frameworks on Sponge Constructions
+Quantum Advantage from One-Way Functions
+Zero-knowledge IOPs Approaching Witness Length
+Revisiting Differential-Linear Attacks via a Boomerang Perspective With Application to AES, Ascon, CLEFIA, SKINNY, PRESENT, KNOT, TWINE, WARP, LBlock, Simeck and SERPENT
+Bare PAKE: Universally Composable Key Exchange from just Passwords
+Unconditionally Secure Commitments with Quantum Auxiliary Inputs
+Malicious Security for SCALES: Outsourced Computation with Ephemeral Servers
+Quantum Public-Key Encryption with Tamper-Resilient Public Keys from One-Way Functions
+Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration
+Reusable Online-Efficient Commitments
+Robust Quantum Public-Key Encryption with Applications to Quantum Key Distribution
+Amplification of Non-Interactive Zero Knowledge, Revisited
+Aggregating Falcon Signatures With LaBRADOR
+Quantum Complexity for Discrete Logarithms and Related Problems
+On Sequential Functions and Fine-Grained Cryptography
+That’s not my signature! Fail-stop signatures for a post-quantum world
+Limits of Black-Box Anamorphic Encryption
+Pseudorandom Error-Correcting Codes
+A Formal Treatment of End-to-End Encrypted Cloud Storage
+Generic and Algebraic Computation Models: When AGM Proofs Transfer to the GGM
+BaseFold: Efficient Field-Agnostic Polynomial Commitment Schemes from Foldable Codes
+Collision Resistance from Multi-Collision Resistance for all Constant Parameters
+Certifying Private Probabilistic Mechanisms
+CDS Composition of Multi-Round Protocols
+Limits on the Power of Prime-Order Groups: Separating Q-Type from Static Assumptions
+Secure Multiparty Computation with Identifiable Abort from Vindicating Release
+How (not) to Build Quantum PKE in Minicrypt
+LATKE: A Framework for Constructing Identity-Binding PAKEs
+QFESTA: Efficient Algorithms and Parameters for FESTA using Quaternion Algebras
+MPC for Tech Giants (GMPC): Enabling Gulliver and the Lilliputians to Cooperate Amicably
+Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme
+Pairing-Free Blind Signatures from CDH Assumptions
+Pairing-Free Blind Signatures from Standard Assumptions in the ROM
+Speeding up Preimage and Key-Recovery Attacks with Highly Biased Differential-Linear Approximations
+Fine-Grained Non-Interactive Key-Exchange without Idealized Assumptions
+Leakage Certification Made Simple
+Formally Verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt
+Improving Generic Attacks Using Exceptional Functions
+The Algebraic Freelunch: Efficient Gröbner Basis Attacks Against Arithmetization-Oriented Primitives
+Robust Additive Randomized Encodings from IO and Pseudo Non-Linear Codes
+Polymath: Groth16 Is Not The Limit
+Time-Lock Puzzles from Lattices
+Public-Key Anamorphism in (CCA-secure) Public-Key Encryption and Beyond
+Fully Malicious Authenticated PIR
+Tight Characterizations for Preprocessing against Cryptographic Salting
+On the (In)Security of the BUFF Transform
+More Efficient Zero-Knowledge Protocols over $\mathbb{Z}_{2^k}$ via Galois Rings
+Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions
+Secret Sharing with Certified Deletion
+Accountability in Threshold Decryption via Threshold Traitor Tracing
+Towards Achieving Asynchronous MPC with Linear Communication and Optimal Resilience
+Algebraic Structure of the Iterates of $\chi$
+Polynomial Commitments from Lattices: Post-Quantum Security, Fast Verification and Transparent Setup
+Traceable Secret Sharing: Strong Security and Efficient Constructions
+Game-Theoretically Fair Distributed Sampling
+Is ML-Based Cryptanalysis Inherently Limited? Simulating Cryptographic Adversaries via Gradient-Based Methods
+Laconic Function Evaluation and ABE for RAMs from (Ring-)LWE
+Doubly Efficient Cryptography: Commitments, Arguments and RAM MPC
+PIR with Client-Side Preprocessing: Information-Theoretic Constructions and Lower Bounds
+Threshold Encryption with Silent Setup
+Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit
+Two-Round Threshold Signature from Algebraic One-More Learning with Errors
+Reducing the CRS Size in Registered ABE Systems
+Greyhound: Fast Polynomial Commitments from Lattices
+Quantum Lattice Enumeration in Limited Depth
+Space-Efficient and Noise-Robust Quantum Factoring
+Provable security against decryption failure attacks from LWE
+Field-Agnostic SNARKs from Expand-Accumulate Codes
+Radical Vélu Isogeny Formulae
+On cycles of pairing-friendly abelian varieties
+Black-Box (and Fast) Non-Malleable Zero Knowledge
+Fine-Grained Non-Interactive Key Exchange, Revisited
+Hintless Single-Server Private Information Retrieval
+Cryptanalysis of Lattice-Based Sequentiality Assumptions and Proofs of Sequential Work
+Compact Key Storage: A Modern Approach to Key Backup and Delegation
+Cryptanalysis of Algebraic Verifiable Delay Functions
+Mangrove: A Scalable Framework for Folding-based SNARKs
+Circuit ABE with poly(depth, λ)-sized Ciphertexts and Keys from Lattices
+The Committing Security of MACs with Applications to Generic Composition
+Memory-Sample Lower Bounds for LWE
+HyperNova: Recursive arguments for customizable constraint systems
+10-Party Sublinear Secure Computation from Standard Assumptions
+Improved Alternating-Moduli PRFs and Post-Quantum Signatures
+CryptAttackTester: high-assurance attack analysis
+Computation Efficient Structure-Aware PSI From Incremental Function Secret Sharing
+A Systematic Study of Sparse LWE
+Information-theoretic security with asymmetries
+Flood and submerse: Verifiable short secret sharing and application to robust threshold signatures on lattices
+Compressing Unit-Vector Correlations via Sparse Pseudorandom Generators
+Not Just Regular Decoding: Asymptotics and Improvements of Regular Syndrome Decoding Attacks
+Towards Breaking the Half-barrier of Local Leakage-resilient Shamir's Secret Sharing
+Privacy-Preserving Dijkstra
+Scalable Multiparty Computation from Non-linear Secret Sharing
+How to Construct Quantum FHE, Generically
+STIR: Reed–Solomon Proximity Testing with Fewer Queries
+Adaptively Secure 5 Round Threshold Signatures from MLWE/MSIS and DL with Rewinding
+Structural Lower Bounds on Black-Box Constructions of Pseudorandom Functions
+A Modular Approach to Registered ABE for Unbounded Predicates
+Improved algorithms for finding fixed-degree isogenies between supersingular elliptic curves
+New Approaches for Estimating the Bias of Differential-Linear Distinguishers
+Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations
+Ring Signatures for Deniable AKEM: Gandalf's Fellowship
+Improved Reductions from Noisy to Bounded and Probing Leakages via Hockey-Stick Divergences
+Fully-Succinct Multi-Key Homomorphic Signatures from Standard Assumptions
+On Central Primitives for Quantum Cryptography with Classical Communication
+Attribute Based Encryption for Turing Machines from Lattices
+Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions
+Stochastic Secret Sharing with 1-Bit Shares and Applications to MPC
+Time-memory Trade-offs Sound the Death Knell for GPRS and GSM
+Linear-Communication Asynchronous Complete Secret Sharing with Optimal Resilience
+FuLeakage: Breaking FuLeeca by Learning Attacks
+Polytopes in the Fiat-Shamir with Aborts Paradigm
+On round elimination for special-sound multi-round identification and the generality of the hypercube for MPCitH
+How to Prove Statements Obliviously?
+Universal Composable Transaction Serialization with Order Fairness
+Probabilistic Linearization: Internal Differential Collisions in up to 6 Rounds of SHA-3
+Cheater Identification on a Budget: MPC with Identifiable Abort from Pairwise MACs
+Plaintext-Ciphertext Matrix Multiplication and FHE Bootstrapping: Fast and Fused
+Raccoon: A Masking-Friendly Signature Proven in the Probing Model

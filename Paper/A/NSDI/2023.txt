@@ -1,0 +1,97 @@
+20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, Boston, MA, April 17-19, 2023
+SRNIC: A Scalable Architecture for RDMA NICs
+Hostping: Diagnosing Intra-host Network Bottlenecks in RDMA Servers
+Understanding RDMA Microarchitecture Resources for Performance Isolation
+Empowering Azure Storage with RDMA
+Transparent GPU Sharing in Container Clouds for Deep Learning Workloads
+ARK: GPU-driven Code Execution for Distributed Deep Learning
+BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing
+Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training
+Remote Procedure Call as a Managed System Service
+Canvas: Isolated and Adaptive Swapping for Multi-Applications on Remote Memory
+Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony
+NetRPC: Enabling In-Network Computation in Remote Procedure Calls
+Bolt: Sub-RTT Congestion Control for Ultra-Low Latency
+Understanding the impact of host networking elements on traffic bursts
+Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT
+Rearchitecting the TCP Stack for I/O-Offloaded Content Delivery
+Hydra: Serialization-Free Network Ordering for Strongly Consistent Distributed Applications
+The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems
+DiSh: Dynamic Shell-Script Distribution
+Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication
+LeakyScatter: A Frequency-Agile Directional Backscatter Network Above 100 GHz
+RF-Bouncer: A Programmable Dual-band Metasurface for Sub-6 Wireless Networks
+Scalable Distributed Massive MIMO Baseband Processing
+DChannel: Accelerating Mobile Applications With Parallel High-bandwidth and Low-latency Channels
+SkyPilot: An Intercloud Broker for Sky Computing
+Unlocking unallocated cloud capacity for long, uninterruptible workloads
+Invisinets: Removing Networking from Cloud Networks
+Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs
+OneWAN is better than two: Unifying a split WAN architecture
+RHINE: Robust and High-performance Internet Naming with E2E Authenticity
+Enabling Users to Control their Internet
+xBGP: Faster Innovation in Routing Protocols
+TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches
+Synthesizing Runtime Programmable Switch Updates
+Practical Intent-driven Routing Configuration Synthesis
+Formal Methods for Network Performance Analysis
+Flattened Clos: Designing High-performance Deadlock-free Expander Data Center Networks Using Graph Contraction
+Scalable Tail Latency Estimation for Data Center Networks
+Shockwave: Fair and Efficient Cluster Scheduling for Dynamic Adaptation in Machine Learning
+Protego: Overload Control for Applications with Unpredictable Lock Contention
+TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs
+ModelKeeper: Accelerating DNN Training via Automated Training Warmup
+SHEPHERD: Serving DNNs in the Wild
+Better Together: Jointly Optimizing ML Collective Scheduling and Execution Planning using SYNDICATE
+Addax: A fast, private, and accountable ad exchange infrastructure
+SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized EXchange
+Boomerang: Metadata-Private Messaging under Hardware Trust
+Hamilton: A High-Performance Transaction Processor for Central Bank Digital Currencies
+RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics
+Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics
+Tambur: Efficient loss recovery for videoconferencing via streaming codes
+Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge
+Fast, Approximate Vector Queries on Very Large Unstructured Datasets
+Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling
+SECRECY: Secure collaborative analytics in untrusted clouds
+FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning
+On Modular Learning of Distributed Systems for Predicting End-to-End Latency
+SelfTune: Tuning Cluster Managers
+CausalSim: A Causal Framework for Unbiased Trace-Driven Simulation
+HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube Content Delivery Network
+OpenLoRa: Validating LoRa Implementations through an Extensible and Open-sourced Framework
+VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring
+SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication
+SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing
+A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches
+ExoPlane: An Operating System for On-Rack Switch Resource Augmentation
+Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches
+RingLeader: Efficiently Offloading Intra-Server Orchestration to NICs
+StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks
+POLYCORN: Data-driven Cross-layer Multipath Networking for High-speed Railway through Composable Schedulerlets
+Augmenting Augmented Reality with Non-Line-of-Sight Perception
+Acoustic Sensing and Communication Using Metasurface
+Skyplane: Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays
+Electrode: Accelerating Distributed Protocols with eBPF
+Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes
+Enabling High Quality Real-Time Communications with Adaptive Frame-Rate
+LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed
+Disaggregating Stateful Network Functions
+Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing
+Doing More with Less: Orchestrating Serverless Applications without an Orchestrator
+Enhancing Global Network Monitoring with Magnifier
+NetPanel: Traffic Measurement of Exchange Online Service
+DOTE: Rethinking (Predictive) WAN Traffic Engineering
+Dashlet: Taming Swipe Uncertainty for Robust Short Video Streaming
+CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane
+LOCA: A Location-Oblivious Cellular Architecture
+mmWall: A Steerable, Transflective Metamaterial Surface for NextG mmWave Networks
+Building Flexible, Low-Cost Wireless Access Networks With Magma
+LinkLab 2.0: A Multi-tenant Programmable IoT Testbed for Experimentation with Edge-Cloud Integration
+Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker
+Test Coverage for Network Configurations
+Norma: Towards Practical Network Load Testing
+μMote: Enabling Passive Chirp De-spreading and μW-level Long-Range Downlink for Backscatter Devices
+Channel-Aware 5G RAN Slicing with Customizable Schedulers
+RF-Chord: Towards Deployable RFID Localization System for Logistic Networks
+Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems

@@ -1,0 +1,30 @@
+20th USENIX Conference on File and Storage Technologies, FAST 2022, Santa Clara, CA, USA, February 22-24, 2022
+25 Years of Storage Research and Education: A Retrospective
+NyxCache: Flexible and Efficient Multi-tenant Persistent Memory Caching
+HTMFS: Strong Consistency Comes for Free with Hardware Transactional Memory in Persistent Memory File Systems
+ctFS: Replacing File Indexing with Hardware Memory Translation through Contiguous File Allocation for Persistent Memory
+FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory
+Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression
+TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression
+Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases
+Improving the Reliability of Next Generation SSDs using WOM-v Codes
+GuardedErase: Extending SSD Lifetimes by Protecting Weak Wordlines
+Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs
+Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study
+Hydra : Resilient and Highly Available Remote Memory
+MT^2: Memory Bandwidth Regulation on Hybrid NVM/DRAM Platforms
+Aurogon: Taming Aborts in All Phases for Distributed In-Memory Transactions
+DedupSearch: Two-Phase Deduplication Aware Keyword Search
+DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression
+The what, The from, and The to: The Migration Games in Deduplicated Systems
+DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels
+FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems
+InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems
+ScaleXFS: Getting scalability of XFS back on the ring
+exF2FS: Transaction Support in Log-Structured Filesystem
+A Log-Structured Merge Tree-aware Message Authentication Scheme for Persistent Key-Value Stores
+Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O-Efficient Graph Ordering
+DEPART: Replica Decoupling for Distributed Key-Value Storage
+PAIO: General, Portable I/O Optimizations With Minor Application Modifications
+Separating Data via Block Invalidation Time Inference for Write Amplification Reduction in Log-Structured Storage
+CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime

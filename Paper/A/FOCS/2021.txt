@@ -1,0 +1,119 @@
+62nd IEEE Annual Symposium on Foundations of Computer Science, FOCS 2021, Denver, CO, USA, February 7-10, 2022
+FOCS 2021 Preface
+A Better-Than-2 Approximation for Weighted Tree Augmentation
+Integer programs with bounded subdeterminants and two nonzeros per row
+A constant-factor approximation algorithm for Nash Social Welfare with submodular valuations
+A Polynomial Lower Bound on the Number of Rounds for Parallel Submodular Function Minimization
+Post-Quantum Succinct Arguments: Breaking the Quantum Rewinding Barrier
+On the Impossibility of Post-Quantum Black-Box Zero-Knowledge in Constant Round
+SNARGs for $\mathcal{P}$ from LWE
+Fine-Grained Cryptanalysis: Tight Conditional Bounds for Dense k-SUM and k-XOR
+Demystifying the border of depth-3 algebraic circuits
+Fooling Constant-Depth Threshold Circuits (Extended Abstract)
+Unambiguous DNFs and Alon-Saks-Seymour
+Hardness vs Randomness, Revised: Uniform, Non-Black-Box, and Instance-Wise
+Rapid mixing of Glauber dynamics via spectral independence for all degrees
+Spectral Independence via Stability and Applications to Holant-Type Problems
+A Matrix Trickle-Down Theorem on Simplicial Complexes and Applications to Sampling Colorings
+Towards the sampling Lovász Local Lemma
+A Single-Exponential Time 2-Approximation Algorithm for Treewidth
+Parameterized Problems Complete for Nondeterministic FPT time and Logarithmic Space
+PPSZ is better than you think
+At most 3.55n stable matchings
+An Invariance Principle for the Multi-slice, with Applications
+Applications of Random Algebraic Constructions to Hardness of Approximation
+Almost Optimal Inapproximability of Multidimensional Packing Problems
+Random walks and forbidden minors III: $\text{poly}\left(d\varepsilon ^{-1}\right)$-time partition oracles for minor-free graph classes
+Non-adaptive vs Adaptive Queries in the Dense Graph Testing Model
+Exact and Approximate Pattern Counting in Degenerate Graphs: New Algorithms, Hardness Results, and Complexity Dichotomies
+Testability of relations between permutations
+The Algorithmic Phase Transition of Random k-SAT for Low Degree Polynomials
+One-step replica symmetry breaking of random regular NAE-SAT
+Sharp Thresholds in Random Simple Temporal Graphs
+Proof of the Contiguity Conjecture and Lognormal Limit for the Symmetric Perceptron
+Approximating Maximum Independent Set for Rectangles in the Plane
+A Gap-ETH-Tight Approximation Scheme for Euclidean TSP
+Optimal Approximate Distance Oracle for Planar Graphs
+Covering Polygons is Even Harder
+Robust recovery for stochastic block models
+On statistical inference when fixed points of belief propagation are unstable
+Sum-of-Squares Lower Bounds for Sparse Independent Set
+Chow-Liu++: Optimal Prediction-Centric Learning of Tree Ising Models
+The Minimum Formula Size Problem is (ETH) Hard
+The Hardest Explicit Construction
+Tradeoffs for small-depth Frege proofs
+Group isomorphism is nearly-linear time for most orders
+Fitting Distances by Tree Metrics Minimizing the Total Error within a Constant Factor
+Embeddings of Planar Quasimetrics into Directed ℓ1 and Polylogarithmic Approximation for Directed Sparsest-Cut
+Hop-Constrained Metric Embeddings and their Applications
+A Hitting Set Relaxation for $k$-Server and an Extension to Time-Windows
+Fully Dynamic Electrical Flows: Sparse Maxflow Faster Than Goldberg-Rao
+Faster Sparse Minimum Cost Flow by Electrical Flow Localization
+2-norm Flow Diffusion in Near-Linear Time
+On the Power of Preconditioning in Sparse Linear Regression
+Quantum learning algorithms imply circuit lower bounds
+Exponential Separations Between Learning With and Without Quantum Memory
+Quantum soundness of testing tensor codes
+Quasi-polynomial Time Approximation of Output Probabilities of Geometrically-local, Shallow Quantum Circuits
+Improved Extractors for Small-Space Sources
+Affine Extractors for Almost Logarithmic Entropy
+Tight Bounds for General Computation in Noisy Broadcast Networks
+Constructive Separations and Their Consequences
+A Theory of PAC Learnability of Partial Concept Classes
+Optimal Sub-Gaussian Mean Estimation in $\mathbb{R}$
+Online and Distribution-Free Robustness: Regression and Contextual Bandits with Huber Contamination
+Learning Deep ReLU Networks Is Fixed-Parameter Tractable
+Improved List-Decodability and List-Recoverability of Reed-Solomon Codes via Tree Packings: [Extended Abstract]
+List-decodability with large radius for Reed-Solomon codes
+The zero-rate threshold for adversarial bit-deletions is less than 1/2
+Exponential Lower Bounds for Locally Decodable and Correctable Codes for Insertions and Deletions
+On Worst-Case Learning in Relativized Heuristica
+Amortized Circuit Complexity, Formal Complexity Measures, and Catalytic Algorithms
+LEARN-Uniform Circuit Lower Bounds and Provability in Bounded Arithmetic
+On Classifying Continuous Constraint Satisfaction problems
+Breaking the Cubic Barrier for (Unweighted) Tree Edit Distance
+Superpolynomial Lower Bounds Against Low-Depth Algebraic Circuits
+Combinatorial Contracts
+FIXP-membership via Convex Optimization: Games, Cakes, and Markets
+On the Nisan-Ronen conjecture
+Continuity, Uniqueness and Long-Term Behavior of Nash Flows Over Time
+Fully Dynamic s-t Edge Connectivity in Subpolynomial Time (Extended Abstract)
+Time-Optimal Sublinear Algorithms for Matching and Vertex Cover
+Small-space and streaming pattern matching with $k$ edits
+A Quantum Advantage for a Natural Streaming Problem
+Statistically Near-Optimal Hypothesis Selection
+Properly learning decision trees in almost polynomial time
+Sharper bounds on the Fourier concentration of DNFs
+Smoothed Analysis with Adaptive Adversaries
+Hiding Among the Clones: A Simple and Nearly Optimal Analysis of Privacy Amplification by Shuffling
+Settling the Horizon-Dependence of Sample Complexity in Reinforcement Learning
+Feature Purification: How Adversarial Training Performs Robust Deep Learning
+Minor Sparsifiers and the Distributed Laplacian Paradigm
+Deterministic Decremental SSSP and Approximate Min-Cost Flow in Almost-Linear Time
+Deterministic Distributed Vertex Coloring: Simpler, Faster, and without Network Decomposition
+Hardness of Approximate Diameter: Now for Undirected Graphs
+MAJORITY-3SAT (and Related Problems) in Polynomial Time
+A time and space optimal stable population protocol solving exact majority
+Stochastic and Worst-Case Generalized Sorting Revisited
+Tight Space Complexity of the Coin Problem
+A proof of the Erdös-Faber-Lovász conjecture: Algorithmic aspects
+New data structure for univariate polynomial approximation and applications to root isolation, numerical multipoint evaluation, and other problems
+The supersingular isogeny path and endomorphism ring problems are equivalent
+Harmonic Persistent Homology (extended abstract)
+A Nearly Optimal All-Pairs Min-Cuts Algorithm in Simple Graphs
+APMF < APSP? Gomory-Hu Tree for Unweighted Graphs in Almost-Quadratic Time
+Minimum Cuts in Directed Graphs via Partial Sparsification
+Spectral Hypergraph Sparsifiers of Nearly Linear Size
+Linear Probing Revisited: Tombstones Mark the Demise of Primary Clustering
+Tight Bounds for Adversarially Robust Streams and Sliding Windows via Difference Estimators
+Approximability of all finite CSPs with linear sketches
+Terminal Embeddings in Sublinear Time
+Winning the War by (Strategically) Losing Battles: Settling the Complexity of Grundy-Values in Undirected Geography
+Reachability in Vector Addition Systems is Ackermann-complete
+The Reachability Problem for Petri Nets is Not Primitive Recursive
+Random Order Online Set Cover is as Easy as Offline
+Improved Online Correlated Selection
+Multiway Online Correlated Selection
+A direct product theorem for quantum communication complexity with applications to device-independent QKD
+Quantum supremacy and hardness of estimating output probabilities of quantum circuits
+Noise and the Frontier of Quantum Supremacy

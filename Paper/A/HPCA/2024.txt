@@ -1,0 +1,82 @@
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2024, Edinburgh, United Kingdom, March 2-6, 2024
+Enhancing Collective Communication in MCM Accelerators for Deep Learning Training
+MINOS: Distributed Consistency and Persistency Protocol Implementation & Offloading to SmartNICs
+WASP: Exploiting GPU Pipeline Parallelism with Hardware-Accelerated Automatic Warp Specialization
+Exploitation of Security Vulnerability on Retirement
+Salus: Efficient Security Support for CXL-Expanded GPU Memory
+Revet: A Language and Compiler for Dataflow Threads
+GADGETSPINNER: A New Transient Execution Primitive Using the Loop Stream Detector
+Uncovering and Exploiting AMD Speculative Memory Access Predictors for Fun and Profit
+E2EMap: End-to-End Reinforcement Learning for CGRA Compilation via Reverse Mapping
+An Optimizing Framework on MLIR for Efficient FPGA-based Accelerator Generation
+Celeritas: Out-of-Core Based Unsupervised Graph Neural Network via Cross-Layer Computing 2024
+TALCO: Tiling Genome Sequence Alignment Using Convergence of Traceback Pointers
+PruneGNN: Algorithm-Architecture Pruning Framework for Graph Neural Network Acceleration
+MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization
+Bandwidth-Effective DRAM Cache for GPU s with Storage-Class Memory
+Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators
+Stellar: Energy-Efficient and Low-Latency SNN Algorithm and Hardware Co-Design with Spatiotemporal Computation
+MIMDRAM: An End-to-End Processing-Using-DRAM System for High-Throughput, Energy-Efficient and Programmer-Transparent Multiple-Instruction Multiple-Data Computing
+Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management
+Data Enclave: A Data-Centric Trusted Execution Environment
+Morphling: A Throughput-Maximized TFHE-based Accelerator using Transform-domain Reuse
+Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology
+Functionally-Complete Boolean Logic in Real DRAM Chips: Experimental Characterization and Analysis
+StreamPIM: Streaming Matrix Computation in Racetrack Memory
+SmartDIMM: In-Memory Acceleration of Upper Layer Protocols
+BeaconGNN: Large-Scale GNN Acceleration with Out-of-Order Streaming In-Storage Computing
+Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System
+FlashGNN: An In-SSD Accelerator for GNN Training
+DockerSSD: Containerized In-Storage Processing and Hardware Acceleration for Computational SSDs
+PREFETCHX: Cross-Core Cache-Agnostic Prefetcher-based Side-Channel Attacks
+Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities
+SegScope: Probing Fine-grained Interrupts via Architectural Footprints
+Differential-Matching Prefetcher for Indirect Memory Access
+SPADE: Sparse Pillar-based 3D Object Detection Accelerator for Autonomous Driving
+Rapper: A Parameter-Aware Repair-in-Memory Accelerator for Blockchain Storage Platform
+MOPED: Efficient Motion Planning Engine with Flexible Dimension Support
+Effective Context-Sensitive Memory Dependence Prediction
+A Two Level Neural Approach Combining Off-Chip Prediction with Adaptive Prefetch Filtering
+Gem5-MARVEL: Microarchitecture-Level Resilience Analysis of Heterogeneous SoC Architectures
+Spatial Variation-Aware Read Disturbance Defenses: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions
+START: Scalable Tracking for any Rowhammer Threshold
+CoMeT: Count-Min-Sketch-based Row Tracking to Mitigate RowHammer at Low Cost
+A Quantum Computer Trusted Execution Environment
+Unleashing the Potential of PIM: Accelerating Large Batched Inference of Transformer-Based Generative Models
+Computational CXL-Memory Solution for Accelerating Memory-Intensive Applications
+LearnedFTL: A Learning-Based Page-Level FTL for Reducing Double Reads in Flash-Based SSDs
+Are Superpages Super-fast? Distilling Flash Blocks to Unify Flash Pages of a Superpage in an SSD
+RiF: Improving Read Performance of Modern SSDs Using an On-Die Early-Retry Engine
+Midas Touch: Invalid-Data Assisted Reliability and Performance Boost for 3d High-Density Flash
+ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI
+Lightening-Transformer: A Dynamically-Operated Optically-Interconnected Photonic Transformer Accelerator
+MIRAGE: Quantum Circuit Decomposition and Routing Collaborative Design Using Mirror Gates
+SACHI: A Stationarity-Aware, All-Digital, Near-Memory, Ising Architecture
+BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration
+LUTein: Dense-Sparse Bit-Slice Architecture With Radix-4 LUT-Based Slice-Tensor Processing Units
+FIGNA: Integer Unit-Based Accelerator Design for FP-INT GEMM Preserving Numerical Accuracy
+ASADI: Accelerating Sparse Attention Using Diagonal-based In-Situ Computing
+Enabling Large Dynamic Neural Network Training with Learning-based Memory Management
+Tessel: Boosting Distributed Execution of Large DNN Models via Flexible Schedule Search
+SpecFL: An Efficient Speculative Federated Learning System for Tree-based Model Training
+TinyTS: Memory-Efficient TinyML Model Compiler Framework on Microcontrollers
+CAMEL: Co-Designing AI Models and eDRAMs for Efficient On-Device Learning
+FlipBit: Approximate Flash Memory for IoT Devices
+Usas: A Sustainable Continuous-Learning' Framework for Edge Servers
+Cepheus: Accelerating Datacenter Applications with High-Performance RoCE-Capable Multicast
+LibPreemptible: Enabling Fast, Adaptive, and Hardware-Assisted User-Space Scheduling
+Ursa: Lightweight Resource Management for Cloud-Native Microservices
+An LPDDR-based CXL-PNM Platform for TCO-efficient Inference of Transformer-based Large Language Models
+LightPool: A NVMe-oF-based High-performance and Lightweight Storage Pool Architecture for Cloud-Native Distributed Database
+Enterprise-Class Cache Compression Design
+HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures
+SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding
+Data Motion Acceleration: Chaining Cross-Domain Multi Accelerators
+RELIEF: Relieving Memory Pressure In SoCs Via Data Movement-Aware Accelerator Scheduling
+GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement
+Guser: A GPGPU Power Stressmark Generator
+GPU Scale-Model Simulation
+Agile-DRAM: Agile Trade-Offs in Memory Capacity, Latency, and Energy for Data Centers
+CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning
+Prosper: Program Stack Persistence in Hybrid Memory Systems
+Mitigating Write Disturbance in Non-Volatile Memory via Coupling Machine Learning with Out-of-Place Updates

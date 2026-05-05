@@ -1,0 +1,56 @@
+SIGCOMM '22: ACM SIGCOMM 2022 Conference, Amsterdam, The Netherlands, August 22 - 26, 2022
+Aequitas: admission control for performance-critical RPCs in datacenters
+Time-division TCP for reconfigurable data center networks
+ABM: active buffer management in datacenters
+dcPIM: near-optimal proactive datacenter transport
+Jupiter evolving: transforming google's datacenter network via optical circuit switches and software-defined networking
+Vivisecting mobility management in 5G cellular networks
+Understanding 5G performance for real-world services: a content provider's perspective
+Mobile access bandwidth in practice: measurement, analysis, and implications
+SEED: a SIM-based solution to 5G failures
+L25GC: a low latency 5G core network based on high-performance NFV platforms
+Elasticity detection: a building block for internet congestion control
+Starvation in end-to-end congestion control
+Achieving consistent low latency for wireless real-time communications with the shortest control loop
+PLB: congestion signals are simple and effective for network load balancing
+Cebinae: scalable in-network fairness augmentation
+TIPSY: predicting where traffic will ingress a WAN
+Network entitlement: contract-based network sharing with agility and SLO guarantees
+SDN in the stratosphere: loon's aerospace mesh network
+Software-defined network assimilation: bridging the last mile towards centralized network configuration management with NAssim
+A case for stateless mobile core network functions in space
+Flash: fast, consistent data plane verification for large-scale network settings
+Symbolic router execution
+Meissa: scalable network testing for programmable data planes
+SwitchV: automated SDN switch validation with P4 models
+SimBricks: end-to-end network system evaluation with modular simulation
+Genet: automatic curriculum generation for learning adaptation in networking
+LiteFlow: towards high-performance adaptive neural networks for kernel datapath
+Multi-resource interleaving for deep learning training
+DeepQueueNet: towards scalable and generalized network performance estimation with packet-level visibility
+Practical GAN-based synthetic IP header trace generation using NetShare
+Continuous in-network round-trip time monitoring
+FlyMon: enabling on-the-fly task reconfiguration for network measurement
+Predicting IPv4 services across all ports
+PrintQueue: performance diagnosis via queue measurement in the data plane
+Retina: analyzing 100GbE traffic on commodity hardware
+Underwater messaging using mobile devices
+Empowering smart buildings with self-sensing concrete for structural health monitoring
+Higher-order modulation for acoustic backscatter communication in metals
+RF-protect: privacy against device-free human tracking
+Cyclops: an FSO-based wireless link for VR headsets
+Predictable vFabric on informative data plane
+Using trio: juniper networks' programmable chipset - for emerging in-network applications
+Programmable multi-dimensional table filters for line rate network functions
+Stateful multi-pipelined programmable switches
+FAst in-network GraY failure detection for ISPs
+Aggregate-based congestion control for pulse-wave DDoS defense
+IXP scrubber: learning from blackholing traffic for ML-driven DDoS detection at scale
+SurgeProtector: mitigating temporal algorithmic complexity attacks using adversarial scheduling
+Design and evaluation of IPFS: a storage layer for the decentralized web
+From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud
+Towards μs tail latency and terabit ethernet: disaggregating the host network stack
+SPRIGHT: extracting the server from serverless computing! high-performance eBPF-based event-driven, shared-memory processing
+NeuroScaler: neural video enhancement at scale
+LiveNet: a low-latency video transport network for large-scale live streaming
+GSO-simulcast: global stream orchestration in simulcast video conferencing systems

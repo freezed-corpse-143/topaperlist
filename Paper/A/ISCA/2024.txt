@@ -1,0 +1,88 @@
+51st ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2024, Buenos Aires, Argentina, June 29 - July 3, 2024
+GhOST: a GPU Out-of-Order Scheduling Technique for Stall Reduction
+AVM-BTB: Adaptive and Virtualized Multi-level Branch Target Buffer
+The Maya Cache: A Storage-efficient and Secure Fully-associative Last-level Cache
+DS-GL: Advancing Graph Learning via Harnessing Nature's Power within Scalable Dynamical Systems
+ReAIM: A ReRAM-based Adaptive Ising Machine for Solving Combinatorial Optimization Problems
+Mirage: An RNS-Based Photonic Accelerator for DNN Training
+Constable: Improving Performance and Power Efficiency by Safely Eliminating Load Instruction Execution
+QuTracer: Mitigating Quantum Gate and Measurement Errors by Tracing Subsets of Qubits
+Splitwise: Efficient Generative LLM Inference Using Phase Splitting
+HiFi-DRAM: Enabling High-fidelity DRAM Research by Uncovering Sense Amplifiers with IC Imaging
+Mind the Gap: Attainable Data Movement and Operational Intensity Bounds for Tensor Algorithms
+A Tale of Two Domains: Exploring Efficient Architecture Design for Truly Autonomous Things
+Determining the Minimum Number of Virtual Networks for Different Coherence Protocols
+FEATHER: A Reconfigurable Accelerator with Data Reordering Support for Low-Cost On-Chip Dataflow Switching
+Waferscale Network Switches
+The Case For Data Centre Hyperloops
+PID-Comm: A Fast and Flexible Collective Communication Framework for Commodity Processing-in-DIMM Devices
+Bosehedral: Compiler Optimization for Bosonic Quantum Computing
+Tetris: A Compilation Framework for VQA Applications in Quantum Computing
+Atomique: A Quantum Compiler for Reconfigurable Neutral Atom Arrays
+Suppressing Correlated Noise in Quantum Computers via Context-Aware Compiling
+A SAT Scalpel for Lattice Surgery: Representation and Synthesis of Subroutines for Surface-Code Fault-Tolerant Quantum Computing
+PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models
+pSyncPIM: Partially Synchronous Execution of Sparse Matrix Operations for All-Bank PIM Architectures
+NDSEARCH: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing
+Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing
+Exploiting Similarity Opportunities of Emerging Vision AI Models on Hybrid Bonding Architecture
+ElasticRec: A Microservice-based Model Serving Architecture Enabling Elastic Resource Scaling for Recommendation Models
+Derm: SLA-aware Resource Management for Highly Dynamic Microservices
+SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud
+Designing Cloud Servers for Lower Carbon
+EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency
+AIO: An Abstraction for Performance Analysis Across Diverse Accelerator Architectures
+FireAxe: Partitioned FPGA-Accelerated Simulation of Large-Scale RTL Designs
+Harpocrates: Breaking the Silence of CPU Faults through Hardware-in-the-Loop Program Generation
+The Dataflow Abstract Machine Simulator Framework
+Tartan: Microarchitecting a Robotic Processor
+Collision Prediction for Robotics Accelerators
+BLESS: Bandwidth and Locality Enhanced SMEM Seeding Acceleration for DNA Sequencing
+QUETZAL: Vector Acceleration Framework for Modern Genome Sequence Analysis Algorithms
+HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
+NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures
+UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space
+MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing
+On Error Correction for Nonvolatile Processing-In-Memory
+MetaLeak: Uncovering Side Channels in Secure Processor Architectures Exploiting Metadata
+sNPU: Trusted Execution Environments on Integrated NPUs
+Counter-light Memory Encryption
+Perspective: A Principled Framework for Pliable and Secure Speculation in Operating Systems
+HEAP: A Fully Homomorphic Encryption Accelerator with Parallelized Bootstrapping
+Scalable, Programmable and Dense: The HammerBlade Open-Source RISC-V Manycore
+HADES: Hardware-Assisted Distributed Transactions in the Age of Fast Networks and SmartNICs
+BlitzCoin: Fully Decentralized Hardware Power Management for Accelerator-Rich SoCs
+MAD-Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems
+Barre Chord: Efficient Virtual Memory Translation for Multi-Chip-Module GPUs
+Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product
+Circular Reconfigurable Parallel Processor for Edge Computing : Industrial Product ✶
+Realizing the AMD Exascale Heterogeneous Processor Vision : Industry Product
+TCP: A Tensor Contraction Processor for AI Workloads Industrial Product
+Cambricon-D: Full-Network Differential Acceleration for Diffusion Models
+Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation
+Trapezoid: A Versatile Accelerator for Dense and Sparse Matrix Multiplications
+NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator
+Compiler-Directed Whole-System Persistence
+Memento: An Adaptive, Compiler-Assisted Register File Cache for GPUs
+Soter: Analytical Tensor-Architecture Modeling and Automatic Tensor Program Tuning for Spatial Accelerators
+ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching
+Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference
+MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition
+Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization
+Heterogeneous Acceleration Pipeline for Recommendation System Training
+LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference
+DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands
+(MC)2: Lazy MemCopy at the Memory Controller
+DyLeCT: Achieving Huge-page-like Translation Performance for Hardware-compressed Memory
+Native DRAM Cache: Re-architecting DRAM as a Large-Scale Cache for Data Centers
+PrIDE: Achieving Secure Rowhammer Mitigation with Low-Cost In-DRAM Trackers
+A New Formulation of Neural Data Prefetching
+UDP: Utility-Driven Fetch Directed Instruction Prefetching
+Triangel: A High-Performance, Accurate, Timely On-Chip Temporal Prefetcher
+Alternate Path Fetch
+Alternate Path μ-op Cache Prefetching
+DACAPO: Accelerating Continuous Learning in Autonomous Systems for Video Analytics
+BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling
+BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds
+Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations
+GameStreamSR: Enabling Neural-Augmented Game Streaming on Commodity Mobile Platforms

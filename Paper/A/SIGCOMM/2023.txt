@@ -1,0 +1,108 @@
+Proceedings of the ACM SIGCOMM 2023 Conference, ACM SIGCOMM 2023, New York, NY, USA, 10-14 September 2023
+Enabling Long-Range Underwater Backscatter via Van Atta Acoustic Networks
+Enabling Ubiquitous WiFi Sensing with Beamforming Reports
+Underwater 3D positioning on smart devices
+A Millimeter Wave Backscatter Network for Two-Way Communication and Localization
+Towards Practical and Scalable Molecular Networks
+Taming the transient while reconfiguring BGP
+Lightyear: Using Modularity to Scale BGP Control Plane Verification
+TENSOR: Lightweight BGP Non-Stop Routing
+Lessons from the evolution of the Batfish configuration analysis tool
+P4Testgen: An Extensible Test Oracle For P4-16
+Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification
+DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization
+Hydra: Effective Runtime Network Verification
+NetClone: Fast, Scalable, and Dynamic Request Cloning for Microsecond-Scale RPCs
+BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree
+BitSense: Universal and Nearly Zero-Error Optimization for Sketch Counters with Compressive Sensing
+NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering
+Computers Can Learn from the Heuristic Designs and Master Internet Congestion Control
+Host Congestion Control
+Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission
+Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing
+FlexWAN: Software Hardware Co-design for Cost-Effective and Resilient Optical Backbones
+Hose-based cross-layer backbone network design with Benders decomposition
+EBB: Reliable and Evolvable Express Backbone Network in Meta
+PAINTER: Ingress Traffic Engineering and Routing for Enterprise Cloud Networks
+Teal: Learning-Accelerated Optimization of WAN Traffic Engineering
+Fathom: Understanding Datacenter Application Network Performance
+Ditto: Efficient Serverless Analytics with Elastic Parallelism
+Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code
+Murphy: Performance Diagnosis of Distributed Cloud Applications
+Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference
+AdaInf: Data Drift Adaptive Scheduling for Accurate and SLO-guaranteed Multiple-Model Inference Serving at Edge Servers
+Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models
+Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems
+Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback
+Ekho: Synchronizing cloud gaming media across multiple endpoints
+DBO: Fairness for Cloud-Hosted Financial Exchanges
+Exoshuffle: An Extensible Shuffle Architecture
+Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs
+A Framework for Improving Web Affordability and Inclusiveness
+Destination Unreachable: Characterizing Internet Outages and Shutdowns
+Global, Passive Detection of Connection Tampering
+Converge: QoE-driven Multipath Video Conferencing over WebRTC
+Resilient Baseband Processing in Virtualized RANs with Slingshot
+CellFusion: Multipath Vehicle-to-Cloud Video Streaming with Network Coding in the Wild
+Improving Network Availability with Protective ReRoute
+XRON: A Hybrid Elastic Cloud Overlay Network for Video Conferencing at Planetary Scale
+ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction
+PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale
+Veritas: Answering Causal Queries from Video Streaming Traces
+Sammy: smoothing video traffic to be a friendly internet neighbor
+Achelous: Enabling Programmability, Elasticity, and Reliability in Hyperscale Cloud Networks
+Klotski: Efficient and Safe Network Migration of Large Production Datacenters
+ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks
+Network Load Balancing with In-network Reordering Support for RDMA
+Direct Telemetry Access
+GGFAST: Automating Generation of Flexible Network Traffic Classifiers
+OmniWindow: A General and Efficient Window Mechanism Framework for Network Telemetry
+ChameleMon: Shifting Measurement Attention as Network State Changes
+IPv6 Hitlists at Scale: Be Careful What You Wish For
+Regional IP Anycast: Deployments, Performance, and Potentials
+A Formal Framework for End-to-End DNS Resolution
+Beyond Limits: How to Disable Validators in Secure Networks
+P4LRU: Towards An LRU Cache Entirely in Programmable Data Plane
+Darwin: Flexible Learning-based CDN Caching
+Switchboard: Efficient Resource Management for Conferencing Services
+LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs
+Unleashing SmartNIC Packet Processing Performance in P4
+Memory Management in ActiveRMT: Towards Runtime-programmable Switches
+Cowbird: Freeing CPUs to Compute by Offloading the Disaggregation of Memory
+Understanding the Micro-Behaviors of Hardware Offloaded Network Stacks with Lumina
+Poster: A Peek Backstage: Organizations in DNS Resolver Hierarchies
+Poster: Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks
+Poster: Connectivity topology generation with degree limitation for UOWN
+Poster: Continual Network Learning
+Poster: Designing a Memory Disaggregation System for Cloud
+Poster: Evaluation of IPv6-only-Capable Iterative Resolvers
+Poster: In-Network ML Feature Computation for Malicious Traffic Detection
+Poster: Learning distributions to detect anomalies using all the network traffic
+Poster: LeMon: Global Route Leak Monitoring Service
+Poster: Meili: Towards SmartNIC as a Service
+Poster: Near Non-blocking Performance with All-optical Circuit-switched Core
+Poster: Off-Path DNSSEC Downgrade Attacks
+Poster: P4-DPLL: Accelerating SAT Solving Using Switching ASICs
+Poster: PipeLLM: Pipeline LLM Inference on Heterogeneous Devices with Sequence Slicing
+Poster: PolyCC: Poly-Algorithmic Congestion Control
+Poster: Programmable Cycle-Specified Queue for Deterministic Networking
+Poster: Q-Scanner: A Fast Scanning Tool for Large-Scale SSL/TLS Configurations Measurement
+Poster: Scalability and Congestion Control in Oblivious Reconfigurable Networks
+Poster: Scaling Data Plane Verification with Throughput-Optimized Atomic Predicates
+Poster: Taking the Low Road: How RPKI Invalids Propagate
+Poster: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns
+Poster: Towards Accelerating the 5G Centralized Unit with Programmable Switches
+Poster: Traffic Shaping and YouTube Performance Interaction in GEO Satellite Networks
+Poster: Triton: Accelerating vSwitch with Flexibility through Hardware Assisting not Bypassing Software
+Poster: Understanding Interactions between Overload Control Core Allocation in Low-Latency Network Stacks
+Demo: EdgeRIC: Delivering Realtime RAN Intelligence
+Demo: Enabling Autonomic Network Infrastructures with KIRA
+Demo: EV-DMD: a high-speed VLC system
+Demo: Experimentation with Wideband Real-Time Adaptive Full-Duplex Radios
+Demo: First Demonstration of Real-Time Photonic-Electronic DNN Acceleration on SmartNICs
+Demo: Flexibility-aware Network Management of Time-Sensitive Flows
+Demo: NetVision: Efficient Visualization Front-End for Packet-level Discrete-Event Network Simulation
+Demo: PDNS: A Fully Privacy-Preserving DNS
+Demo: Real-time X-Ray Vision via Augmented Reality with RF Sensing
+Demo: Structural Network Minimization: A Case of Reflective Networking
+Demo: Underwater Backscatter Link Budget Tool

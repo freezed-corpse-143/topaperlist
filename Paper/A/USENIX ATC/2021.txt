@@ -1,0 +1,65 @@
+Proceedings of the 2021 USENIX Annual Technical Conference, USENIX ATC 2021, July 14-16, 2021
+Naos: Serialization-free RDMA networking in Java
+One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory
+MLEE: Effective Detection of Memory Leaks on Early-Exit Paths in OS Kernels
+MigrOS: Transparent Live-Migration Support for Containerised RDMA Applications
+Avocado: A Secure In-Memory Distributed Storage System
+Scaling Large Production Clusters with Partitioned Synchronization
+A Linux Kernel Implementation of the Homa Transport Protocol
+A Case Study of Processing-in-Memory in off-the-Shelf Systems
+Fighting the Fog of War: Automated Incident Detection for Cloud Systems
+RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing
+Zico: Efficient GPU Memory Sharing for Concurrent DNN Training
+Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning
+Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing
+aDFS: An Almost Depth-First-Search Distributed Graph-Querying System
+GLIST: Towards In-Storage Graph Learning
+DART: A Scalable and Adaptive Edge Stream Processing Engine
+CrystalPerf: Learning to Characterize the Performance of Dataflow Computation through Code Analysis
+Controlling Memory Footprint of Stateful Streaming Graph Processing
+SONIC: Application-aware Data Passing for Chained Serverless Applications
+Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices
+ICARUS: Attacking low Earth orbit satellite networks
+RainBlock: Faster Transaction Processing in Public Blockchains
+PYLIVE: On-the-Fly Code Change for Python-based Online Services
+ASAP: Fast Mobile Application Switch via Adaptive Prepaging
+Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism
+INFaaS: Automated Model-less Inference Serving
+Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems
+Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew
+FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute
+Video Analytics with Zero-streaming Cameras
+Prediction-Based Power Oversubscription in Cloud Platforms
+TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing
+Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training
+Characterizing and Optimizing Remote Persistent Memory with RDMA and NVM
+Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training
+ZeRO-Offload: Democratizing Billion-Scale Model Training
+An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts
+Live in the Express Lane
+Understanding Precision Time Protocol in Today's Wi-Fi Networks: A Measurement Study
+AUTO: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network
+Hey, Lumi! Using Natural Language for Intent-Based Network Management
+Boosting Full-Node Repair in Erasure-Coded Storage
+KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive
+Differentiated Key-Value Storage Management for Balanced I/O Performance
+ZNS: Avoiding the Block Interface Tax for Flash-based SSDs
+MapperX: Adaptive Metadata Maintenance for Fast Crash Recovery of DM-Cache Based Hybrid Storage Devices
+Exploring the Design Space of Page Management for Multi-Tiered Memory Systems
+A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices
+Fair Scheduling for AVX2 and AVX-512 Workloads
+SKQ: Event Scheduling for Optimizing Tail Latency in a Traditional OS Kernel
+TIPS: Making Volatile Index Structures Persistent with DRAM-NVMM Tiering
+Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming
+Faastlane: Accelerating Function-as-a-Service Workflows
+Improving Performance of Flash Based Key-Value Stores Using Storage Class Memory as a Volatile Memory Extension
+First Responder: Persistent Memory Simultaneously as High Performance Buffer Cache and Storage
+Hashing Linearity Enables Relative Path Control in Data Centers
+XFUSE: An Infrastructure for Running Filesystem Services in User Space
+Max: A Multicore-Accelerated File System for Flash Storage
+Z-Journal: Scalable Per-Core Journaling
+LODIC: Logical Distributed Counting for Scalable File Access
+UniStore: A fault-tolerant marriage of causal and strong consistency
+Optimistic Concurrency Control for Real-world Go Programs
+Accelerating Encrypted Deduplication via SGX
+Experiences in Managing the Performance and Reliability of a Large-Scale Genomics Cloud Platform
