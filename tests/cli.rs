@@ -6,9 +6,7 @@ fn binary_path() -> &'static str {
 }
 
 fn paper_dir() -> PathBuf {
-    PathBuf::from(env!("CARGO_MANIFEST_DIR"))
-        .join("..")
-        .join("Paper")
+    PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("Paper")
 }
 
 fn run_search(args: &[&str]) -> std::process::Output {
@@ -71,6 +69,29 @@ fn positional_keywords_match_explicit_keyword_option() {
     assert_success(&positional);
     assert_success(&explicit);
     assert_eq!(positional.stdout, explicit.stdout);
+}
+
+#[test]
+fn attention_is_all_you_need_query_returns_expected_record() {
+    let output = run_search(&[
+        "--conference",
+        "EMNLP",
+        "--year",
+        "2020",
+        "attention",
+        "is",
+        "all",
+        "you",
+        "need",
+    ]);
+
+    assert_success(&output);
+    assert_eq!(
+        stdout_lines(&output),
+        vec![
+            "B\tEMNLP\t2020\tAttention Is All You Need for Chinese Word Segmentation.".to_string()
+        ]
+    );
 }
 
 #[test]
