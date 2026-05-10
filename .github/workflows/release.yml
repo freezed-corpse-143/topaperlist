@@ -1,0 +1,80 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build ${{ matrix.name }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: windows-x86_64
+            os: windows-latest
+            binary: search.exe
+            archive: topaperlist-windows-x86_64.zip
+          - name: linux-x86_64
+            os: ubuntu-latest
+            binary: search
+            archive: topaperlist-linux-x86_64.tar.gz
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use stable Rust
+        run: rustup default stable
+
+      - name: Test
+        run: cargo test
+
+      - name: Build
+        run: cargo build --release
+
+      - name: Package Windows
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path package | Out-Null
+          Copy-Item target\release\${{ matrix.binary }} package\
+          Copy-Item Paper package\Paper -Recurse
+          Copy-Item README.md,LICENSE,CHANGELOG.md package\
+          Compress-Archive -Path package\* -DestinationPath ${{ matrix.archive }}
+
+      - name: Package Unix
+        if: runner.os != 'Windows'
+        shell: bash
+        run: |
+          mkdir -p package
+          cp target/release/${{ matrix.binary }} package/
+          cp -R Paper package/Paper
+          cp README.md LICENSE CHANGELOG.md package/
+          tar -czf ${{ matrix.archive }} -C package .
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.archive }}
+          path: ${{ matrix.archive }}
+
+  publish:
+    name: Publish GitHub Release
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" artifacts/*/* \
+            --title "${GITHUB_REF_NAME}" \
+            --generate-notes

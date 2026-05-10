@@ -1,0 +1,10 @@
+[package]
+name = "topaperlist"
+version = "1.0.0-dev"
+edition = "2024"
+
+[[bin]]
+name = "search"
+path = "src/main.rs"
+
+[dependencies]

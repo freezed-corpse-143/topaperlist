@@ -80,7 +80,7 @@
 
 ## How to Search?
 
-The repository includes a Rust CLI under [`search/`](search) for querying accepted paper titles stored in the `Paper/` directory.
+The repository is a root-level Cargo project. The `search` binary is built from [`src/main.rs`](src/main.rs) and queries accepted paper titles stored in the `Paper/` directory.
 
 ### Data layout
 
@@ -92,17 +92,72 @@ Paper/<level>/<conference>/<year>.txt
 
 Each non-empty line in a `.txt` file is treated as one paper title.
 
-### Build and test
+### Install
 
-From the `search/` directory:
+Install Rust/Cargo first:
+
+https://rustwiki.org/en/cargo/getting-started/installation.html
+
+Then run one install script. The script builds the release binary, installs the binary and `Paper/` data, and runs a smoke test. You do not need to run a separate build step.
+
+Windows / PowerShell:
+
+```powershell
+.\install.ps1
+```
+
+By default this builds the release binary, installs it to `%LOCALAPPDATA%\topaperlist\bin\search.exe`, copies `Paper/` to `%LOCALAPPDATA%\topaperlist\Paper`, and adds the bin directory to the user `PATH`. To install without changing `PATH`:
+
+```powershell
+.\install.ps1 -NoPath
+```
+
+To avoid a command name conflict, pass another command name:
+
+```powershell
+.\install.ps1 -CommandName topaper-search
+```
+
+Linux / macOS:
+
+```bash
+sh ./install.sh
+```
+
+By default this builds the release binary, installs the binary and paper data under `$HOME/.local/share/topaperlist`, and creates a `search` wrapper in `$HOME/.local/bin`. If `$HOME/.local/bin` is not in `PATH`, add it in your shell profile.
+
+To avoid a command name conflict, pass another command name:
+
+```bash
+COMMAND_NAME=topaper-search sh ./install.sh
+```
+
+After installation, run from any directory:
+
+```bash
+search --conference AAAI --year 2024 diffusion
+```
+
+Both install scripts finish with a smoke test against the installed command. Installation is considered successful only if this query exits successfully and returns the expected row:
+
+```bash
+search --conference EMNLP --year 2020 attention is all you need
+```
+
+### Development
+
+For development, use Cargo directly:
 
 ```bash
 cargo test
-cargo build --release --target x86_64-unknown-linux-gnu
-cargo build --release --target x86_64-pc-windows-gnu
+cargo build --release
 ```
 
-Integration-style CLI checks live in [`search/tests`](search/tests).
+Integration-style CLI checks live in [`tests`](tests).
+
+### Releases
+
+GitHub Releases are created from version tags. Pushing a tag such as `v1.0.0` runs the release workflow, builds Windows and Linux packages, and uploads them to the GitHub Release page.
 
 ### Output format
 
@@ -126,6 +181,8 @@ By default, the CLI tries to locate `Paper/` in these places and uses the first 
 2. `<current_working_dir>/Paper`
 3. `<executable_dir>/../Paper`
 4. `<current_working_dir>/../Paper`
+
+The install scripts place the binary under a `bin/` directory with `Paper/` as a sibling of `bin/`, so installed commands can resolve the dataset without `--paper-dir`.
 
 You can override this with:
 
@@ -208,12 +265,4 @@ search --exclude-level B --exclude-year 2024
 search --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
 search --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
 search --paper-dir ../Paper --conference ACL --year 2024 transformer
-```
-
-### Windows / PowerShell
-
-After building or copying the Windows binary, PowerShell users can run:
-
-```powershell
-./search.exe --conference AAAI --year 2024 diffusion
 ```
