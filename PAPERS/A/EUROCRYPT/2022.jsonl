@@ -1,85 +1,85 @@
-{"author":"","bib":"","title":"Online-Extractability in the Quantum Random-Oracle Model","url":""}
-{"author":"","bib":"","title":"Beyond quadratic speedups in quantum attacks on symmetric schemes","url":""}
-{"author":"","bib":"","title":"Single-Server Private Information Retrieval with Sublinear Amortized Time","url":""}
-{"author":"","bib":"","title":"Optimal Tightness for Chain-Based Unique Signatures","url":""}
-{"author":"","bib":"","title":"Key Guessing Strategies for Linear Key-Schedule Algorithms in Rectangle Attacks","url":""}
-{"author":"","bib":"","title":"Orientations and the supersingular endomorphism ring problem","url":""}
-{"author":"","bib":"","title":"On Building Fine-Grained One-Way Functions from Strong Average-Case Hardness","url":""}
-{"author":"","bib":"","title":"On the Multi-User Security of Short Schnorr Signatures with Preprocessing","url":""}
-{"author":"","bib":"","title":"CoCoA: Concurrent Continuous Group Key Agreement","url":""}
-{"author":"","bib":"","title":"Quantum Algorithms for Variants of Average-Case Lattice Problems via Filtering","url":""}
-{"author":"","bib":"","title":"A Correlation Attack on Full SNOW-V and SNOW-Vi","url":""}
-{"author":"","bib":"","title":"Constant-round Blind Classical Verification of Quantum Sampling","url":""}
-{"author":"","bib":"","title":"Approximate Divisor Multiples - Factoring with Only a Third of the Secret CRT-Exponents","url":""}
-{"author":"","bib":"","title":"Zero-Knowledge IOPs with Linear-Time Prover and Polylogarithmic-Time Verifier","url":""}
-{"author":"","bib":"","title":"Non-Interactive Zero-Knowledge Proofs with Fine-Grained Security","url":""}
-{"author":"","bib":"","title":"On Succinct Non-Interactive Arguments in Relativized Worlds","url":""}
-{"author":"","bib":"","title":"Anonymous, Robust Post-Quantum Public Key Encryption","url":""}
-{"author":"","bib":"","title":"McEliece needs a Break -- Solving McEliece-1284 and Quasi-Cyclic-2918 with Modern ISD","url":""}
-{"author":"","bib":"","title":"EpiGRAM: Practical Garbled RAM","url":""}
-{"author":"","bib":"","title":"Garbled Circuits With Sublinear Evaluator","url":""}
-{"author":"","bib":"","title":"Families of SNARK-friendly 2-chains of elliptic curves","url":""}
-{"author":"","bib":"","title":"Information-Combining Differential Fault Attacks on DEFAULT","url":""}
-{"author":"","bib":"","title":"Round-Optimal and Communication-Efficient Multiparty Computation","url":""}
-{"author":"","bib":"","title":"Anamorphic Encryption: Private Communication against a Dictator","url":""}
-{"author":"","bib":"","title":"Multi-Designated Receiver Signed Public Key Encryption","url":""}
-{"author":"","bib":"","title":"A Fast and Simple Partially Oblivious PRF, with Applications","url":""}
-{"author":"","bib":"","title":"Fiat-Shamir Bulletproofs are Non-Malleable (in the Algebraic Group Model)","url":""}
-{"author":"","bib":"","title":"Gemini: elastic SNARKs for diverse environments","url":""}
-{"author":"","bib":"","title":"Stacking Sigmas: A Framework to Compose Sigma-Protocols for Disjunctions","url":""}
-{"author":"","bib":"","title":"Authentication in the Bounded Storage Model","url":""}
-{"author":"","bib":"","title":"Round-Optimal Byzantine Agreement","url":""}
-{"author":"","bib":"","title":"A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss","url":""}
-{"author":"","bib":"","title":"Post-Quantum Security of the Even-Mansour Cipher","url":""}
-{"author":"","bib":"","title":"Cryptanalysis of Candidate Obfuscators for Affine Determinant Programs","url":""}
-{"author":"","bib":"","title":"Watermarking PRFs against Quantum Adversaries","url":""}
-{"author":"","bib":"","title":"Indistinguishability Obfuscation from LPN over F_p, DLIN, and PRGs in NC^0","url":""}
-{"author":"","bib":"","title":"Efficient Schemes for Committing Authenticated Encryption","url":""}
-{"author":"","bib":"","title":"Incompressible Cryptography","url":""}
-{"author":"","bib":"","title":"Private Circuits with Quasilinear Randomness","url":""}
-{"author":"","bib":"","title":"Hiding in Plain Sight: Memory-tight Proofs via Randomness Programming","url":""}
-{"author":"","bib":"","title":"Secure Non-interactive Simulation: Feasibility \\& Rate","url":""}
-{"author":"","bib":"","title":"Non-malleable Commitments Against Quantum Attacks","url":""}
-{"author":"","bib":"","title":"Lightweight, Maliciously Secure Verifiable Function Secret Sharing","url":""}
-{"author":"","bib":"","title":"Anonymity of NIST PQC Round 3 KEMs","url":""}
-{"author":"","bib":"","title":"One-Shot Fiat-Shamir-based NIZK Arguments of Composite Residuosity and Logarithmic-Size Ring Signatures in the Standard Model","url":""}
-{"author":"","bib":"","title":"Sine Series Approximation of the Mod Function for Bootstrapping of Approximate HE","url":""}
-{"author":"","bib":"","title":"Limits of Polynomial Packings for $\\mathbb{Z}_{p^k}$ and $\\mathbb{F}_{p^k}$","url":""}
-{"author":"","bib":"","title":"Mitaka: A Simpler, Parallelizable, Maskable Variant of Falcon","url":""}
-{"author":"","bib":"","title":"Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties","url":""}
-{"author":"","bib":"","title":"Short Pairing-Free Blind Signatures with Exponential Security","url":""}
-{"author":"","bib":"","title":"A PCP Theorem for Interactive Proofs and Applications","url":""}
-{"author":"","bib":"","title":"Refined Cryptanalysis of the GPRS Ciphers GEA-1 and GEA-2","url":""}
-{"author":"","bib":"","title":"SNARGs for P from Sub-exponential DDH and QR","url":""}
-{"author":"","bib":"","title":"Group Signature and More from Isogenies and Lattices: Generic, Simple, and Efficient","url":""}
-{"author":"","bib":"","title":"Asymmetric PAKE with low computation and communication","url":""}
-{"author":"","bib":"","title":"Secure Non-Interactive Reduction and Spectral Analysis of Correlations","url":""}
-{"author":"","bib":"","title":"High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization","url":""}
-{"author":"","bib":"","title":"Highly Efficient OT-Based Multiplication Protocols","url":""}
-{"author":"","bib":"","title":"COA-Secure Obfuscation and Applications","url":""}
-{"author":"","bib":"","title":"Practical Post-Quantum Signature Schemes from Isomorphism Problems of Trilinear Forms","url":""}
-{"author":"","bib":"","title":"Dynamic Collusion Bounded Functional Encryption from Identity-Based Encryption","url":""}
-{"author":"","bib":"","title":"Rubato: Noisy Ciphers for Approximate Homomorphic Encryption","url":""}
-{"author":"","bib":"","title":"Property-Preserving Hash Functions for Hamming Distance from Standard Assumptions","url":""}
-{"author":"","bib":"","title":"Round-Optimal Black-Box Protocol Compilers","url":""}
-{"author":"","bib":"","title":"Guaranteed Output in O(sqrt(n)) Rounds for Round-Robin Sampling Protocols","url":""}
-{"author":"","bib":"","title":"On IND-qCCA security in the ROM and its applications: CPA security is sufficient for TLS 1.3","url":""}
-{"author":"","bib":"","title":"Batch-OT with Optimal Rate","url":""}
-{"author":"","bib":"","title":"Unclonable Polymers and Their Cryptographic Applications","url":""}
-{"author":"","bib":"","title":"On the Concrete Security of TLS 1.3 PSK Mode","url":""}
-{"author":"","bib":"","title":"Universally Composable Subversion-Resilient Cryptography","url":""}
-{"author":"","bib":"","title":"Adaptively Secure Computation for RAM Programs","url":""}
-{"author":"","bib":"","title":"Revamped Differential-Linear Cryptanalysis on Reduced Round ChaCha","url":""}
-{"author":"","bib":"","title":"Asymptotically Quasi-Optimal Cryptography","url":""}
-{"author":"","bib":"","title":"Optimal Broadcast Encryption and CP-ABE from Evasive Lattice Assumptions","url":""}
-{"author":"","bib":"","title":"A Novel Completeness Test for Leakage Models and its Application to Side Channel Attacks and Responsibly Engineered Simulators","url":""}
-{"author":"","bib":"","title":"Round-Optimal Multi-Party Computation with Identifiable Abort","url":""}
-{"author":"","bib":"","title":"Embedding the UC Model into the IITM Model","url":""}
-{"author":"","bib":"","title":"On the security of ECDSA with additive key derivation and presignatures","url":""}
-{"author":"","bib":"","title":"Towards Micro-Architectural Leakage Simulators: Reverse Engineering Micro-Architectural Leakage Features is Practical","url":""}
-{"author":"","bib":"","title":"Field Instruction Multiple Data","url":""}
-{"author":"","bib":"","title":"Secure Multiparty Computation with Free Branching","url":""}
-{"author":"","bib":"","title":"On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography","url":""}
-{"author":"","bib":"","title":"A Greater GIFT: Strengthening GIFT against Statistical Cryptanalysis","url":""}
-{"author":"","bib":"","title":"Distributed (Correlation) Samplers: How to Remove a Trusted Dealer in One Round","url":""}
-{"author":"","bib":"","title":"Secure Multiparty Computation with Sublinear Preprocessing","url":""}
+{"author": "Jelle Don; Serge Fehr; Christian Majenz; Christian Schaffner", "bib": "", "title": "Online-Extractability in the Quantum Random-Oracle Model", "url": ""}
+{"author": "Xavier Bonnetain; André Schrottenloher; Ferdinand Sibleyras", "bib": "", "title": "Beyond quadratic speedups in quantum attacks on symmetric schemes", "url": ""}
+{"author": "Henry Corrigan-Gibbs; Alexandra Henzinger; Dmitry Kogan", "bib": "", "title": "Single-Server Private Information Retrieval with Sublinear Amortized Time", "url": ""}
+{"author": "Fuchun Guo; Willy Susilo", "bib": "", "title": "Optimal Tightness for Chain-Based Unique Signatures", "url": ""}
+{"author": "Xiaoyang Dong; Lingyue Qin; Siwei Sun; Xiaoyun Wang", "bib": "", "title": "Key Guessing Strategies for Linear Key-Schedule Algorithms in Rectangle Attacks", "url": ""}
+{"author": "Benjamin Wesolowski", "bib": "", "title": "Orientations and the supersingular endomorphism ring problem", "url": ""}
+{"author": "Geoffroy Couteau; Chris Brzuska", "bib": "", "title": "On Building Fine-Grained One-Way Functions from Strong Average-Case Hardness", "url": ""}
+{"author": "Jeremiah Blocki; Seunghoon Lee", "bib": "", "title": "On the Multi-User Security of Short Schnorr Signatures with Preprocessing", "url": ""}
+{"author": "Joel Alwen; Benedikt Auerbach; Miguel Cueto Noval; Karen Klein; Guillermo Pascual-Perez; Krzysztof Pietrzak; Michael Walter", "bib": "", "title": "CoCoA: Concurrent Continuous Group Key Agreement", "url": ""}
+{"author": "Yilei Chen; Qipeng Liu; Mark Zhandry", "bib": "", "title": "Quantum Algorithms for Variants of Average-Case Lattice Problems via Filtering", "url": ""}
+{"author": "Zhen Shi; Chenhui Jin; Jiyan Zhang; Ting Cui; Lin Ding; Yu Jin", "bib": "", "title": "A Correlation Attack on Full SNOW-V and SNOW-Vi", "url": ""}
+{"author": "Kai-Min Chung; Yi Lee; Han-Hsuan Lin; Xiaodi Wu", "bib": "", "title": "Constant-round Blind Classical Verification of Quantum Sampling", "url": ""}
+{"author": "Alexander May; Julian Nowakowski; Santanu Sarkar", "bib": "", "title": "Approximate Divisor Multiples - Factoring with Only a Third of the Secret CRT-Exponents", "url": ""}
+{"author": "Jonathan Bootle; Alessandro Chiesa; Siqi Liu", "bib": "", "title": "Zero-Knowledge IOPs with Linear-Time Prover and Polylogarithmic-Time Verifier", "url": ""}
+{"author": "Yuyu Wang; Jiaxin Pan", "bib": "", "title": "Non-Interactive Zero-Knowledge Proofs with Fine-Grained Security", "url": ""}
+{"author": "Megan Chen; Alessandro Chiesa; Nicholas Spooner", "bib": "", "title": "On Succinct Non-Interactive Arguments in Relativized Worlds", "url": ""}
+{"author": "Varun Maram; Paul Grubbs; Kenneth G. Paterson", "bib": "", "title": "Anonymous, Robust Post-Quantum Public Key Encryption", "url": ""}
+{"author": "Andre Esser; Floyd Zweydinger; Alexander May", "bib": "", "title": "McEliece needs a Break -- Solving McEliece-1284 and Quasi-Cyclic-2918 with Modern ISD", "url": ""}
+{"author": "David Heath; Vladimir Kolesnikov; Rafail Ostrovsky", "bib": "", "title": "EpiGRAM: Practical Garbled RAM", "url": ""}
+{"author": "Abida Haque; David Heath; Vladimir Kolesnikov; Steve Lu; Rafail Ostrovsky; Akash Shah", "bib": "", "title": "Garbled Circuits With Sublinear Evaluator", "url": ""}
+{"author": "Youssef El Housni; Aurore Guillevic", "bib": "", "title": "Families of SNARK-friendly 2-chains of elliptic curves", "url": ""}
+{"author": "Marcel Nageler; Christoph Dobraunig; Maria Eichlseder", "bib": "", "title": "Information-Combining Differential Fault Attacks on DEFAULT", "url": ""}
+{"author": "Michele Ciampi; Rafail Ostrovsky; Hendrik Waldner; Vassilis Zikas", "bib": "", "title": "Round-Optimal and Communication-Efficient Multiparty Computation", "url": ""}
+{"author": "Giuseppe Persiano; Duong Hieu Phan; Moti Yung", "bib": "", "title": "Anamorphic Encryption: Private Communication against a Dictator", "url": ""}
+{"author": "Ueli Maurer; Christopher Portmann; Guilherme Rito", "bib": "", "title": "Multi-Designated Receiver Signed Public Key Encryption", "url": ""}
+{"author": "Nirvan Tyagi; Sofía Celi; Thomas Ristenpart; Nick Sullivan; Stefano Tessaro; Christopher A. Wood", "bib": "", "title": "A Fast and Simple Partially Oblivious PRF, with Applications", "url": ""}
+{"author": "Chaya Ganesh; Claudio Orlandi; Mahak Pancholi; Akira Takahashi; Daniel Tschudi", "bib": "", "title": "Fiat-Shamir Bulletproofs are Non-Malleable (in the Algebraic Group Model)", "url": ""}
+{"author": "Jonathan Bootle; Alessandro Chiesa; Yuncong Hu; Michele Orrù", "bib": "", "title": "Gemini: elastic SNARKs for diverse environments", "url": ""}
+{"author": "Aarushi Goel; Matthew Green; Mathias Hall-Andersen; Gabriel Kaptchuk", "bib": "", "title": "Stacking Sigmas: A Framework to Compose Sigma-Protocols for Disjunctions", "url": ""}
+{"author": "Willy Quach; Yevgeniy Dodis; Daniel Wichs", "bib": "", "title": "Authentication in the Bounded Storage Model", "url": ""}
+{"author": "Diana Ghinea; Vipul Goyal; Chen-Da Liu-Zhang", "bib": "", "title": "Round-Optimal Byzantine Agreement", "url": ""}
+{"author": "Gilad Asharov; Elaine Shi; Ke Wu", "bib": "", "title": "A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss", "url": ""}
+{"author": "Gorjan Alagic; Chen Bai; Jonathan Katz; Christian Majenz", "bib": "", "title": "Post-Quantum Security of the Even-Mansour Cipher", "url": ""}
+{"author": "Li Yao; Yilei Chen; Yu Yu", "bib": "", "title": "Cryptanalysis of Candidate Obfuscators for Affine Determinant Programs", "url": ""}
+{"author": "Fuyuki Kitagawa; Ryo Nishimaki", "bib": "", "title": "Watermarking PRFs against Quantum Adversaries", "url": ""}
+{"author": "Aayush Jain; Huijia Lin; Amit Sahai", "bib": "", "title": "Indistinguishability Obfuscation from LPN over F_p, DLIN, and PRGs in NC^0", "url": ""}
+{"author": "Mihir Bellare; Viet Tung Hoang", "bib": "", "title": "Efficient Schemes for Committing Authenticated Encryption", "url": ""}
+{"author": "Jiaxin Guan; Daniel Wichs; Mark Zhandry", "bib": "", "title": "Incompressible Cryptography", "url": ""}
+{"author": "Vipul Goyal; Yuval Ishai; Yifan Song", "bib": "", "title": "Private Circuits with Quasilinear Randomness", "url": ""}
+{"author": "Ashrujit Ghoshal; Riddhi Ghosal; Joseph Jaeger; Stefano Tessaro", "bib": "", "title": "Hiding in Plain Sight: Memory-tight Proofs via Randomness Programming", "url": ""}
+{"author": "Hamidreza Amini Khorasgani; Hemanta K. Maji; Hai H. Nguyen", "bib": "", "title": "Secure Non-interactive Simulation: Feasibility \\& Rate", "url": ""}
+{"author": "Nir Bitansky; Huijia Lin; Omri Shmueli", "bib": "", "title": "Non-malleable Commitments Against Quantum Attacks", "url": ""}
+{"author": "Leo de Castro; Anitgoni Polychroniadou", "bib": "", "title": "Lightweight, Maliciously Secure Verifiable Function Secret Sharing", "url": ""}
+{"author": "Keita Xagawa", "bib": "", "title": "Anonymity of NIST PQC Round 3 KEMs", "url": ""}
+{"author": "Benoit Libert; Khoa Nguyen; Thomas Peters; Moti Yung", "bib": "", "title": "One-Shot Fiat-Shamir-based NIZK Arguments of Composite Residuosity and Logarithmic-Size Ring Signatures in the Standard Model", "url": ""}
+{"author": "Charanjit S. Jutla; Nathan Manohar", "bib": "", "title": "Sine Series Approximation of the Mod Function for Bootstrapping of Approximate HE", "url": ""}
+{"author": "Jung Hee Cheon; Keewoo Lee", "bib": "", "title": "Limits of Polynomial Packings for $\\mathbb{Z}_{p^k}$ and $\\mathbb{F}_{p^k}$", "url": ""}
+{"author": "Thomas Espitau; Pierre-Alain Fouque; François Gérard; Mélissa Rossi; Akira Takahashi; Mehdi Tibouchi; Alexandre Wallet; Yang Yu", "bib": "", "title": "Mitaka: A Simpler, Parallelizable, Maskable Variant of Falcon", "url": ""}
+{"author": "Craig Gentry; Shai Halevi; Vadim Lyubashevsky", "bib": "", "title": "Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties", "url": ""}
+{"author": "Stefano Tessaro; Chenzhi Zhu", "bib": "", "title": "Short Pairing-Free Blind Signatures with Exponential Security", "url": ""}
+{"author": "Gal Arnon; Alessandro Chiesa; Eylon Yogev", "bib": "", "title": "A PCP Theorem for Interactive Proofs and Applications", "url": ""}
+{"author": "Itai Dinur; Dor Amzaleg", "bib": "", "title": "Refined Cryptanalysis of the GPRS Ciphers GEA-1 and GEA-2", "url": ""}
+{"author": "James Hulett; Ruta Jawale; Dakshita Khurana; Akshayaram Srinivasan", "bib": "", "title": "SNARGs for P from Sub-exponential DDH and QR", "url": ""}
+{"author": "Shuichi Katsumata; Ward Beullens; Samuel Dobson; Yi-Fu Lai; Federico Pintore", "bib": "", "title": "Group Signature and More from Isogenies and Lattices: Generic, Simple, and Efficient", "url": ""}
+{"author": "Stanislaw Jarecki; Yanqi Gu; Bruno Freitas Dos Santos; Hugo Krawczyk", "bib": "", "title": "Asymmetric PAKE with low computation and communication", "url": ""}
+{"author": "Pratyush Agarwal; Varun Narayanan; Shreya Pathak; Manoj Prabhakaran; Vinod M. Prabhakaran; Mohammad Ali Rehan", "bib": "", "title": "Secure Non-Interactive Reduction and Spectral Analysis of Correlations", "url": ""}
+{"author": "Yongwoo Lee; Joon-Woo Lee; Young-Sik Kim; Yongjune Kim; Jong-Seon No; HyungChul Kang", "bib": "", "title": "High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization", "url": ""}
+{"author": "Iftach Haitner; Nikolaos Makriyannis; Samuel Ranellucci; Eliad Tsfadia", "bib": "", "title": "Highly Efficient OT-Based Multiplication Protocols", "url": ""}
+{"author": "Ran Canetti; Suvradip Chakraborty; Dakshita Khurana; Nishant Kumar; Oxana Poburinnaya; Manoj Prabhakaran", "bib": "", "title": "COA-Secure Obfuscation and Applications", "url": ""}
+{"author": "Gang Tang; Dung Hoang Duong; Antoine Joux; Thomas Plantard; Youming Qiao; Willy Susilo", "bib": "", "title": "Practical Post-Quantum Signature Schemes from Isomorphism Problems of Trilinear Forms", "url": ""}
+{"author": "George Lu; Rachit Garg; Rishab Goyal; Brent Waters", "bib": "", "title": "Dynamic Collusion Bounded Functional Encryption from Identity-Based Encryption", "url": ""}
+{"author": "Jincheol Ha; Seongkwang Kim; Byeonghak Lee; Jooyoung Lee; Mincheol Son", "bib": "", "title": "Rubato: Noisy Ciphers for Approximate Homomorphic Encryption", "url": ""}
+{"author": "Nils Fleischhacker; Kasper Green Larsen; Mark Simkin", "bib": "", "title": "Property-Preserving Hash Functions for Hamming Distance from Standard Assumptions", "url": ""}
+{"author": "Yuval Ishai; Dakshita Khurana; Amit Sahai; Akshayaram Srinivasan", "bib": "", "title": "Round-Optimal Black-Box Protocol Compilers", "url": ""}
+{"author": "Ran Cohen; Jack Doerner; Yashvanth Kondi; abhi shelat", "bib": "", "title": "Guaranteed Output in O(sqrt(n)) Rounds for Round-Robin Sampling Protocols", "url": ""}
+{"author": "Loïs Huguenin-Dumittan; Serge Vaudenay", "bib": "", "title": "On IND-qCCA security in the ROM and its applications: CPA security is sufficient for TLS 1.3", "url": ""}
+{"author": "Zvika Brakerski; Pedro Branco; Nico Döttling; Sihang Pu", "bib": "", "title": "Batch-OT with Optimal Rate", "url": ""}
+{"author": "Ghada Almashaqbeh; Ran Canetti; Yaniv Erlich; Jonathan Gershoni; Tal Malkin; Itsik Pe'er; Anna Roitburd-Berman; Eran Tromer", "bib": "", "title": "Unclonable Polymers and Their Cryptographic Applications", "url": ""}
+{"author": "Hannah Elizabeth Davis; Denis Diemert; Felix Günther; Tibor Jager", "bib": "", "title": "On the Concrete Security of TLS 1.3 PSK Mode", "url": ""}
+{"author": "Suvradip Chakraborty; Bernardo Magri; Jesper Buus Nielsen; Daniele Venturi", "bib": "", "title": "Universally Composable Subversion-Resilient Cryptography", "url": ""}
+{"author": "Laasya Bangalore; Rafail Ostrovsky; Oxana Poburinnaya; Muthuramakrishnan Venkitasubramaniam", "bib": "", "title": "Adaptively Secure Computation for RAM Programs", "url": ""}
+{"author": "Sabyasachi Dey; Hirendra Kumar Garai; Santanu Sarkar; Nitin Kumar Sharma", "bib": "", "title": "Revamped Differential-Linear Cryptanalysis on Reduced Round ChaCha", "url": ""}
+{"author": "Leo de Castro; Carmit Hazay; Yuval Ishai; Vinod Vaikuntanathan; Muthu Venkitasubramaniam", "bib": "", "title": "Asymptotically Quasi-Optimal Cryptography", "url": ""}
+{"author": "Hoeteck Wee", "bib": "", "title": "Optimal Broadcast Encryption and CP-ABE from Evasive Lattice Assumptions", "url": ""}
+{"author": "Si Gao; Elisabeth Oswald", "bib": "", "title": "A Novel Completeness Test for Leakage Models and its Application to Side Channel Attacks and Responsibly Engineered Simulators", "url": ""}
+{"author": "Michele Ciampi; Divya Ravi; Luisa Siniscalchi; Hendrik Waldner", "bib": "", "title": "Round-Optimal Multi-Party Computation with Identifiable Abort", "url": ""}
+{"author": "Daniel Rausch; Ralf Kuesters; Celine Chevalier", "bib": "", "title": "Embedding the UC Model into the IITM Model", "url": ""}
+{"author": "Victor Shoup; Jens Groth", "bib": "", "title": "On the security of ECDSA with additive key derivation and presignatures", "url": ""}
+{"author": "Si Gao; Elisabeth Oswald; Dan Page", "bib": "", "title": "Towards Micro-Architectural Leakage Simulators: Reverse Engineering Micro-Architectural Leakage Features is Practical", "url": ""}
+{"author": "Khin Mi Mi Aung; Enhui Lim; Jun Jie Sim; Benjamin Hong Meng Tan; Huaxiong Wang; Sze Ling Yeo", "bib": "", "title": "Field Instruction Multiple Data", "url": ""}
+{"author": "Aarushi Goel; Mathias Hall-Andersen; Aditya Hegde; Abhishek Jain", "bib": "", "title": "Secure Multiparty Computation with Free Branching", "url": ""}
+{"author": "Léo Ducas; Wessel van Woerden", "bib": "", "title": "On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography", "url": ""}
+{"author": "Ling Sun; Bart Preneel; Wei Wang; Meiqin Wang", "bib": "", "title": "A Greater GIFT: Strengthening GIFT against Statistical Cryptanalysis", "url": ""}
+{"author": "Damiano Abram; Peter Scholl; Sophia Yakoubov", "bib": "", "title": "Distributed (Correlation) Samplers: How to Remove a Trusted Dealer in One Round", "url": ""}
+{"author": "Elette Boyle; Niv Gilboa; Yuval Ishai; Ariel Nof", "bib": "", "title": "Secure Multiparty Computation with Sublinear Preprocessing", "url": ""}

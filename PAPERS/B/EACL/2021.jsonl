@@ -1,326 +1,326 @@
-{"author":"","bib":"","title":"Unsupervised Sentence-embeddings by Manifold Approximation and Projection","url":""}
-{"author":"","bib":"","title":"Contrastive Multi-document Question Generation","url":""}
-{"author":"","bib":"","title":"Disambiguatory signals are stronger in word initial positions","url":""}
-{"author":"","bib":"","title":"If you’ve got it, flaunt it: Making the most of fine-grained sentiment annotations","url":""}
-{"author":"","bib":"","title":"Keep Learning: Self-supervised Meta-learning for Learning from Inference","url":""}
-{"author":"","bib":"","title":"ResPer: Computationally Modelling Resisting Strategies in Persuasive Conversations","url":""}
-{"author":"","bib":"","title":"BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression","url":""}
-{"author":"","bib":"","title":"Telling BERT’s Full Story: from Local Attention to Global Aggregation","url":""}
-{"author":"","bib":"","title":"Effects of Pre- and Post-Processing on type-based Embeddings in Lexical Semantic Change Detection","url":""}
-{"author":"","bib":"","title":"The Gutenberg Dialogue Dataset","url":""}
-{"author":"","bib":"","title":"On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search","url":""}
-{"author":"","bib":"","title":"Maximal Multiverse Learning for Promoting Cross-Task Generalization of Fine-Tuned Language Models","url":""}
-{"author":"","bib":"","title":"Unification-based Reconstruction of Multi-hop Explanations for Science Questions","url":""}
-{"author":"","bib":"","title":"Dictionary-based Debiasing of Pre-trained Word Embeddings","url":""}
-{"author":"","bib":"","title":"Belief-based Generation of Argumentative Claims","url":""}
-{"author":"","bib":"","title":"Non-Autoregressive Text Generation with Pre-trained Language Models","url":""}
-{"author":"","bib":"","title":"Multi-split Reversible Transformers Can Enhance Neural Machine Translation","url":""}
-{"author":"","bib":"","title":"Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference","url":""}
-{"author":"","bib":"","title":"CD^2CR: Co-reference resolution across documents and domains","url":""}
-{"author":"","bib":"","title":"AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization","url":""}
-{"author":"","bib":"","title":"Recipes for building an open-domain chatbot","url":""}
-{"author":"","bib":"","title":"Evaluating the Evaluation of Diversity in Natural Language Generation","url":""}
-{"author":"","bib":"","title":"Retrieval, Re-ranking and Multi-task Learning for Knowledge-Base Question Answering","url":""}
-{"author":"","bib":"","title":"Implicitly Abusive Comparisons – A New Dataset and Linguistic Analysis","url":""}
-{"author":"","bib":"","title":"Exploiting Emojis for Abusive Language Detection","url":""}
-{"author":"","bib":"","title":"Bootstrapping Multilingual AMR with Contextual Word Alignments","url":""}
-{"author":"","bib":"","title":"Semantic Oppositeness Assisted Deep Contextual Modeling for Automatic Rumor Detection in Social Networks","url":""}
-{"author":"","bib":"","title":"ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation","url":""}
-{"author":"","bib":"","title":"Discourse Understanding and Factual Consistency in Abstractive Summarization","url":""}
-{"author":"","bib":"","title":"FEWS: Large-Scale, Low-Shot Word Sense Disambiguation with the Dictionary","url":""}
-{"author":"","bib":"","title":"MONAH: Multi-Modal Narratives for Humans to analyze conversations","url":""}
-{"author":"","bib":"","title":"AdapterFusion: Non-Destructive Task Composition for Transfer Learning","url":""}
-{"author":"","bib":"","title":"CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata","url":""}
-{"author":"","bib":"","title":"Grounding as a Collaborative Process","url":""}
-{"author":"","bib":"","title":"Joint Coreference Resolution and Character Linking for Multiparty Conversation","url":""}
-{"author":"","bib":"","title":"Improving Factual Consistency Between a Response and Persona Facts","url":""}
-{"author":"","bib":"","title":"PolyLM: Learning about Polysemy through Language Modeling","url":""}
-{"author":"","bib":"","title":"Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning","url":""}
-{"author":"","bib":"","title":"The Role of Syntactic Planning in Compositional Image Captioning","url":""}
-{"author":"","bib":"","title":"Is ``hot pizza” Positive or Negative? Mining Target-aware Sentiment Lexicons","url":""}
-{"author":"","bib":"","title":"Document-level Event Entities Extraction with Generative Role-filler Transformers","url":""}
-{"author":"","bib":"","title":"Cross-lingual Entity Alignment with Incidental Supervision","url":""}
-{"author":"","bib":"","title":"Query Generation for Multimodal Documents","url":""}
-{"author":"","bib":"","title":"End-to-End Argument Mining as Biaffine Dependency Parsing","url":""}
-{"author":"","bib":"","title":"FakeFlow: Fake News Detection by Modeling the Flow of Affective Information","url":""}
-{"author":"","bib":"","title":"A Crowdsourced Open-Source Kazakh Speech Corpus and Initial Speech Recognition Baseline","url":""}
-{"author":"","bib":"","title":"Top-down Discourse Parsing via Sequence Labelling","url":""}
-{"author":"","bib":"","title":"TrNews: Heterogeneous User-Interest Transfer Learning for News Recommendation","url":""}
-{"author":"","bib":"","title":"Dialogue Act-based Breakdown Detection in Negotiation Dialogues","url":""}
-{"author":"","bib":"","title":"Neural Data-to-Text Generation with LM-based Text Augmentation","url":""}
-{"author":"","bib":"","title":"Self-Training Pre-Trained Language Models for Zero- and Few-Shot Multi-Dialectal Arabic Sequence Labeling","url":""}
-{"author":"","bib":"","title":"Multiple Tasks Integration: Tagging, Syntactic and Semantic Parsing as a Single Task","url":""}
-{"author":"","bib":"","title":"Coordinate Constructions in Enhanced Universal Dependencies: Analysis and Computational Modeling","url":""}
-{"author":"","bib":"","title":"Jointly Improving Language Understanding and Generation with Quality-Weighted Weak Supervision of Automatic Labeling","url":""}
-{"author":"","bib":"","title":"Continuous Learning in Neural Machine Translation using Bilingual Dictionaries","url":""}
-{"author":"","bib":"","title":"Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks","url":""}
-{"author":"","bib":"","title":"DRAG: Director-Generator Language Modelling Framework for Non-Parallel Author Stylized Rewriting","url":""}
-{"author":"","bib":"","title":"Self-Supervised Knowledge Integration for Clinical Outcome Prediction from Admission Notes","url":""}
-{"author":"","bib":"","title":"Multi-facet Universal Schema","url":""}
-{"author":"","bib":"","title":"Exploring Transitivity in Neural NLI Models through Veridicality","url":""}
-{"author":"","bib":"","title":"A Neural Few-Shot Text Classification Reality Check","url":""}
-{"author":"","bib":"","title":"Hierarchical Multi-head Attentive Network for Evidence-aware Fake News Detection","url":""}
-{"author":"","bib":"","title":"Identifying Named Entities as they are Typed","url":""}
-{"author":"","bib":"","title":"SANDI: Story-and-Images Alignment","url":""}
-{"author":"","bib":"","title":"El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic Parsing","url":""}
-{"author":"","bib":"","title":"Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs","url":""}
-{"author":"","bib":"","title":"Data Augmentation for Hypernymy Detection","url":""}
-{"author":"","bib":"","title":"Few-shot learning through contextual data augmentation","url":""}
-{"author":"","bib":"","title":"Zero-shot Generalization in Dialog State Tracking through Generative Question Answering","url":""}
-{"author":"","bib":"","title":"Zero-shot Neural Passage Retrieval via Domain-targeted Synthetic Question Generation","url":""}
-{"author":"","bib":"","title":"Discourse-Aware Unsupervised Summarization for Long Scientific Documents","url":""}
-{"author":"","bib":"","title":"MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations","url":""}
-{"author":"","bib":"","title":"Analyzing the Forgetting Problem in Pretrain-Finetuning of Open-domain Dialogue Response Models","url":""}
-{"author":"","bib":"","title":"Leveraging End-to-End ASR for Endangered Language Documentation: An Empirical Study on Yolóxochitl Mixtec","url":""}
-{"author":"","bib":"","title":"Mode Effects’ Challenge to Authorship Attribution","url":""}
-{"author":"","bib":"","title":"Generative Text Modeling through Short Run Inference","url":""}
-{"author":"","bib":"","title":"Randomized Deep Structured Prediction for Discourse-Level Processing","url":""}
-{"author":"","bib":"","title":"Automatic Data Acquisition for Event Coreference Resolution","url":""}
-{"author":"","bib":"","title":"Joint Learning of Representations for Web-tables, Entities and Types using Graph Convolutional Network","url":""}
-{"author":"","bib":"","title":"Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation","url":""}
-{"author":"","bib":"","title":"ECOL-R: Encouraging Copying in Novel Object Captioning with Reinforcement Learning","url":""}
-{"author":"","bib":"","title":"Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation","url":""}
-{"author":"","bib":"","title":"NLQuAD: A Non-Factoid Long Question Answering Data Set","url":""}
-{"author":"","bib":"","title":"Debiasing Pre-trained Contextualised Embeddings","url":""}
-{"author":"","bib":"","title":"Language Models for Lexical Inference in Context","url":""}
-{"author":"","bib":"","title":"Few-Shot Semantic Parsing for New Predicates","url":""}
-{"author":"","bib":"","title":"Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models","url":""}
-{"author":"","bib":"","title":"On the Evaluation of Vision-and-Language Navigation Instructions","url":""}
-{"author":"","bib":"","title":"An expert annotated dataset for the detection of online misogyny","url":""}
-{"author":"","bib":"","title":"WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia","url":""}
-{"author":"","bib":"","title":"ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain","url":""}
-{"author":"","bib":"","title":"Syntactic Nuclei in Dependency Parsing – A Multilingual Exploration","url":""}
-{"author":"","bib":"","title":"Evaluating language models for the retrieval and categorization of lexical collocations","url":""}
-{"author":"","bib":"","title":"Civil Rephrases Of Toxic Texts With Self-Supervised Transformers","url":""}
-{"author":"","bib":"","title":"Generating Weather Comments from Meteorological Simulations","url":""}
-{"author":"","bib":"","title":"A phonetic model of non-native spoken word processing","url":""}
-{"author":"","bib":"","title":"Bootstrapping Relation Extractors using Syntactic Search by Examples","url":""}
-{"author":"","bib":"","title":"Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR","url":""}
-{"author":"","bib":"","title":"The Source-Target Domain Mismatch Problem in Machine Translation","url":""}
-{"author":"","bib":"","title":"Understanding Pre-Editing for Black-Box Neural Machine Translation","url":""}
-{"author":"","bib":"","title":"RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding","url":""}
-{"author":"","bib":"","title":"SpanEmo: Casting Multi-label Emotion Classification as Span-prediction","url":""}
-{"author":"","bib":"","title":"Prerequisites for Explainable Machine Reading Comprehension: A Position Paper","url":""}
-{"author":"","bib":"","title":"Multilingual Neural Machine Translation with Deep Encoder and Multiple Shallow Decoders","url":""}
-{"author":"","bib":"","title":"With Measured Words: Simple Sentence Selection for Black-Box Optimization of Sentence Compression Algorithms","url":""}
-{"author":"","bib":"","title":"WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context","url":""}
-{"author":"","bib":"","title":"Self-Supervised and Controlled Multi-Document Opinion Summarization","url":""}
-{"author":"","bib":"","title":"NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles","url":""}
-{"author":"","bib":"","title":"Dependency parsing with structure preserving embeddings","url":""}
-{"author":"","bib":"","title":"Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates","url":""}
-{"author":"","bib":"","title":"Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale","url":""}
-{"author":"","bib":"","title":"Few Shot Dialogue State Tracking using Meta-learning","url":""}
-{"author":"","bib":"","title":"Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries","url":""}
-{"author":"","bib":"","title":"Globalizing BERT-based Transformer Architectures for Long Document Summarization","url":""}
-{"author":"","bib":"","title":"Through the Looking Glass: Learning to Attribute Synthetic Text","url":""}
-{"author":"","bib":"","title":"Alignment verification to improve NMT translation towards highly inflectional languages with limited resources","url":""}
-{"author":"","bib":"","title":"How to Evaluate a Summarizer: Study Design and Statistical Analysis for Manual Linguistic Quality Evaluation","url":""}
-{"author":"","bib":"","title":"Open-Mindedness and Style Coordination in Argumentative Discussions","url":""}
-{"author":"","bib":"","title":"Error Analysis and the Role of Morphology","url":""}
-{"author":"","bib":"","title":"Exploring Supervised and Unsupervised Rewards in Machine Translation","url":""}
-{"author":"","bib":"","title":"Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions","url":""}
-{"author":"","bib":"","title":"Multilingual Entity and Relation Extraction Dataset and Model","url":""}
-{"author":"","bib":"","title":"A New View of Multi-modal Language Analysis: Audio and Video Features as Text “Styles”","url":""}
-{"author":"","bib":"","title":"Multi- And Cross-Lingual Document Classification: A Meta-Learning Approach","url":""}
-{"author":"","bib":"","title":"Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction","url":""}
-{"author":"","bib":"","title":"“Laughing at you or with you”: The Role of Sarcasm in Shaping the Disagreement Space","url":""}
-{"author":"","bib":"","title":"I Beg to Differ: A study of constructive disagreement in online conversations","url":""}
-{"author":"","bib":"","title":"Acquiring a Formality-Informed Lexical Resource for Style Analysis","url":""}
-{"author":"","bib":"","title":"Language Modelling as a Multi-Task Problem","url":""}
-{"author":"","bib":"","title":"ChainCQG: Flow-Aware Conversational Question Generation","url":""}
-{"author":"","bib":"","title":"The Interplay of Task Success and Dialogue Quality: An in-depth Evaluation in Task-Oriented Visual Dialogues","url":""}
-{"author":"","bib":"","title":"“Are you kidding me?”: Detecting Unpalatable Questions on Reddit","url":""}
-{"author":"","bib":"","title":"Neural-Driven Search-Based Paraphrase Generation","url":""}
-{"author":"","bib":"","title":"Word Alignment by Fine-tuning Embeddings on Parallel Corpora","url":""}
-{"author":"","bib":"","title":"A Unified Feature Representation for Lexical Connotations","url":""}
-{"author":"","bib":"","title":"Stock Selection via Time-Aware Modeling of Financial News and Tweets: A Learning to Rank Approach","url":""}
-{"author":"","bib":"","title":"Building Representative Corpora from Illiterate Communities: A Reviewof Challenges and Mitigation Strategies for Developing Countries","url":""}
-{"author":"","bib":"","title":"Process-Level Representation of Scientific Protocols with Interactive Annotation","url":""}
-{"author":"","bib":"","title":"Machine Translationese: Effects of Algorithmic Bias on Linguistic Complexity in Machine Translation","url":""}
-{"author":"","bib":"","title":"Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models","url":""}
-{"author":"","bib":"","title":"Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks","url":""}
-{"author":"","bib":"","title":"Calculating the optimal step of arc-eager parsing for non-projective trees","url":""}
-{"author":"","bib":"","title":"Subword Pooling Makes a Difference","url":""}
-{"author":"","bib":"","title":"Content-based Models of Quotation","url":""}
-{"author":"","bib":"","title":"VoiSeR: A New Benchmark for Voice-Based Search Refinement","url":""}
-{"author":"","bib":"","title":"Event-Driven News Stream Clustering using Entity-Aware Contextual Embeddings","url":""}
-{"author":"","bib":"","title":"Adversarial Learning of Poisson Factorisation Model for Gauging Brand Sentiment in User Reviews","url":""}
-{"author":"","bib":"","title":"Lexical Normalization for Code-switched Data and its Effect on POS Tagging","url":""}
-{"author":"","bib":"","title":"Structural Encoding and Pre-training Matter: Adapting BERT for Table-Based Fact Verification","url":""}
-{"author":"","bib":"","title":"A Study of Automatic Metrics for the Evaluation of Natural Language Explanations","url":""}
-{"author":"","bib":"","title":"Transformer Transferability for Adversarial Attacks on Author Attributes","url":""}
-{"author":"","bib":"","title":"Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks","url":""}
-{"author":"","bib":"","title":"PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media","url":""}
-{"author":"","bib":"","title":"Conceptual Grounding Constraints for Truly Robust Biomedical Name Representations","url":""}
-{"author":"","bib":"","title":"Adaptive Mixed Component LDA for Low Resource Topic Modeling","url":""}
-{"author":"","bib":"","title":"Evaluating Neural Model Robustness for Machine Comprehension","url":""}
-{"author":"","bib":"","title":"Hidden Biases in Unreliable News Detection Datasets","url":""}
-{"author":"","bib":"","title":"Annealing Knowledge Distillation","url":""}
-{"author":"","bib":"","title":"Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT","url":""}
-{"author":"","bib":"","title":"DOCENT: Learning Self-Supervised Entity Representations from Large Document Collections","url":""}
-{"author":"","bib":"","title":"Scientific Discourse Tagging for Evidence Extraction","url":""}
-{"author":"","bib":"","title":"Incremental Beam Manipulation for Natural Language Generation","url":""}
-{"author":"","bib":"","title":"StructSum: Summarization via Structured Representations","url":""}
-{"author":"","bib":"","title":"Mind Reading and Manipulation: Topically-Controllable Language Generation","url":""}
-{"author":"","bib":"","title":"From Toxicity in Online Comments to Incivility in American News: Proceed with Caution","url":""}
-{"author":"","bib":"","title":"A Few Topical Tweets are Enough for Effective User Stance Detection","url":""}
-{"author":"","bib":"","title":"Do Syntax Trees Help Pre-trained Transformers Extract Information?","url":""}
-{"author":"","bib":"","title":"Informative and Controllable Opinion Summarization","url":""}
-{"author":"","bib":"","title":"Coloring the Black Box: What Synesthesia Tells Us about Character Embeddings","url":""}
-{"author":"","bib":"","title":"How Good (really) are Grammatical Error Correction Systems?","url":""}
-{"author":"","bib":"","title":"BERTective: Language Models and Contextual Information for Deception Detection","url":""}
-{"author":"","bib":"","title":"Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning","url":""}
-{"author":"","bib":"","title":"On Hallucination and Predictive Uncertainty in Conditional Language Generation","url":""}
-{"author":"","bib":"","title":"Better Neural Machine Translation by Extracting Linguistic Information from BERT","url":""}
-{"author":"","bib":"","title":"Measuring and Improving Faithfulness of Attention in Neural Machine Translation","url":""}
-{"author":"","bib":"","title":"Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering","url":""}
-{"author":"","bib":"","title":"Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification","url":""}
-{"author":"","bib":"","title":"Segmenting Subtitles for Correcting ASR Segmentation Errors","url":""}
-{"author":"","bib":"","title":"Crisscrossed Captions: Extended Intramodal and Intermodal Semantic Similarity Judgments for MS-COCO","url":""}
-{"author":"","bib":"","title":"ENPAR:Enhancing Entity and Entity Pair Representations for Joint Entity Relation Extraction","url":""}
-{"author":"","bib":"","title":"Representations for Question Answering from Documents with Tables and Text","url":""}
-{"author":"","bib":"","title":"PPT: Parsimonious Parser Transfer for Unsupervised Cross-Lingual Adaptation","url":""}
-{"author":"","bib":"","title":"Modelling Context Emotions using Multi-task Learning for Emotion Controlled Dialog Generation","url":""}
-{"author":"","bib":"","title":"Gender and Racial Fairness in Depression Research using Social Media","url":""}
-{"author":"","bib":"","title":"MTOP: A Comprehensive Multilingual Task-Oriented Semantic ParsingBenchmark","url":""}
-{"author":"","bib":"","title":"Adapting Event Extractors to Medical Data: Bridging the Covariate Shift","url":""}
-{"author":"","bib":"","title":"NoiseQA: Challenge Sets for User-Centric Question Answering","url":""}
-{"author":"","bib":"","title":"Co-evolution of language and agents in referential games","url":""}
-{"author":"","bib":"","title":"Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees","url":""}
-{"author":"","bib":"","title":"DISK-CSV: Distilling Interpretable Semantic Knowledge with a Class Semantic Vector","url":""}
-{"author":"","bib":"","title":"Attention Can Reflect Syntactic Structure (If You Let It)","url":""}
-{"author":"","bib":"","title":"CDA: a Cost Efficient Content-based Multilingual Web Document Aligner","url":""}
-{"author":"","bib":"","title":"Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers","url":""}
-{"author":"","bib":"","title":"Is Supervised Syntactic Parsing Beneficial for Language Understanding Tasks? An Empirical Investigation","url":""}
-{"author":"","bib":"","title":"Enhancing Sequence-to-Sequence Neural Lemmatization with External Resources","url":""}
-{"author":"","bib":"","title":"Summarising Historical Text in Modern Languages","url":""}
-{"author":"","bib":"","title":"The Ineffectiveness of Algorithmic Debiasing for Toxic Language Detection","url":""}
-{"author":"","bib":"","title":"Adaptive Fusion Techniques for Multimodal Data","url":""}
-{"author":"","bib":"","title":"Detecting Scenes in Fiction: A new Segmentation Task","url":""}
-{"author":"","bib":"","title":"LESA: Linguistic Encapsulation and Semantic Amalgamation Based Generalised Claim Detection from Online Content","url":""}
-{"author":"","bib":"","title":"Interpretability for morphological inflection: from character-level predictions to subword-level rules","url":""}
-{"author":"","bib":"","title":"Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates","url":""}
-{"author":"","bib":"","title":"Handling Out-Of-Vocabulary Problem in Hangeul Word Embeddings","url":""}
-{"author":"","bib":"","title":"Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation","url":""}
-{"author":"","bib":"","title":"STAR: Cross-modal [STA]tement [R]epresentation for selecting relevant mathematical premises","url":""}
-{"author":"","bib":"","title":"Variational Weakly Supervised Sentiment Analysis with Posterior Regularization","url":""}
-{"author":"","bib":"","title":"Cognition-aware Cognate Detection","url":""}
-{"author":"","bib":"","title":"A Simple Three-Step Approach for the Automatic Detection of Exaggerated Statements in Health Science News","url":""}
-{"author":"","bib":"","title":"Modeling Coreference Relations in Visual Dialog","url":""}
-{"author":"","bib":"","title":"Increasing Robustness to Spurious Correlations using Forgettable Examples","url":""}
-{"author":"","bib":"","title":"On Robustness of Neural Semantic Parsers","url":""}
-{"author":"","bib":"","title":"Benchmarking a transformer-FREE model for ad-hoc retrieval","url":""}
-{"author":"","bib":"","title":"On the Effect of Statistical Measures on Descriptive Complexity","url":""}
-{"author":"","bib":"","title":"Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?","url":""}
-{"author":"","bib":"","title":"One-class Text Classification with Multi-Modal Deep Support Vector Data Description","url":""}
-{"author":"","bib":"","title":"Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings","url":""}
-{"author":"","bib":"","title":"Mega-COV: A Billion-Scale Dataset of 100+ Languages for COVID-19","url":""}
-{"author":"","bib":"","title":"Complex Question Answering on knowledge graphs using machine translation and multi-task learning","url":""}
-{"author":"","bib":"","title":"Recipes for Adapting Pre-trained Monolingual and Multilingual Models to Machine Translation","url":""}
-{"author":"","bib":"","title":"From characters to words: the turning point of BPE merges","url":""}
-{"author":"","bib":"","title":"Communicative-Function-Based Sentence Classification for Construction of an Academic Formulaic Expression Database","url":""}
-{"author":"","bib":"","title":"Regulatory Compliance through Doc2Doc Information Retrieval: A case study in EU/UK legislation where text similarity has limitations","url":""}
-{"author":"","bib":"","title":"The Chinese Remainder Theorem for Compact, Task-Precise, Efficient and Secure Word Embeddings","url":""}
-{"author":"","bib":"","title":"Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks","url":""}
-{"author":"","bib":"","title":"From the Stage to the Audience: Propaganda on Reddit","url":""}
-{"author":"","bib":"","title":"Probing for idiomaticity in vector space models","url":""}
-{"author":"","bib":"","title":"Why Is MBTI Personality Detection from Texts a Difficult Task?","url":""}
-{"author":"","bib":"","title":"Enconter: Entity Constrained Progressive Sequence Generation via Insertion-based Transformer","url":""}
-{"author":"","bib":"","title":"Meta-Learning for Effective Multi-task and Multilingual Modelling","url":""}
-{"author":"","bib":"","title":"Lifelong Knowledge-Enriched Social Event Representation Learning","url":""}
-{"author":"","bib":"","title":"GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition","url":""}
-{"author":"","bib":"","title":"An End-to-end Model for Entity-level Relation Extraction using Multi-Instance Learning","url":""}
-{"author":"","bib":"","title":"WER-BERT: Automatic WER Estimation with BERT in a Balanced Ordinal Classification Paradigm","url":""}
-{"author":"","bib":"","title":"Two Training Strategies for Improving Relation Extraction over Universal Graph","url":""}
-{"author":"","bib":"","title":"Denoising Pseudo-Captions in Unsupervised Image Captioning","url":""}
-{"author":"","bib":"","title":"Towards More Fine-grained and Reliable NLP Performance Prediction","url":""}
-{"author":"","bib":"","title":"Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features","url":""}
-{"author":"","bib":"","title":"Enhancing Aspect-level Sentiment Analysis with Word Dependencies","url":""}
-{"author":"","bib":"","title":"On the (In)Effectiveness of Images for Natural Language Processing","url":""}
-{"author":"","bib":"","title":"Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples","url":""}
-{"author":"","bib":"","title":"“Talk to me with left, right, and angles”: Lexical entrainment in spoken Hebrew dialogue","url":""}
-{"author":"","bib":"","title":"A Systematic Review of Reproducibility Research in Natural Language Processing","url":""}
-{"author":"","bib":"","title":"Polarized-VAE: Proximity Based Disentangled Representation Learning for Text Generation","url":""}
-{"author":"","bib":"","title":"Knowledge Base Question Answering through Recursive Hypergraphs","url":""}
-{"author":"","bib":"","title":"Does Typological Blinding Impede Cross-Lingual Sharing?","url":""}
-{"author":"","bib":"","title":"Does She Wink or Does She Nod? A Challenging Benchmark for Evaluating Word Understanding of Language Models","url":""}
-{"author":"","bib":"","title":"Predicting Treatment Outcome from Patient Texts:The Case of Internet-Based Cognitive Behavioural Therapy","url":""}
-{"author":"","bib":"","title":"Quality Estimation without Human-labeled Data","url":""}
-{"author":"","bib":"","title":"How Fast can BERT Learn Simple Natural Language Inference?","url":""}
-{"author":"","bib":"","title":"CTC-based Compression for Direct Speech Translation","url":""}
-{"author":"","bib":"","title":"TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics","url":""}
-{"author":"","bib":"","title":"Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning","url":""}
-{"author":"","bib":"","title":"Ellipsis Resolution as Question Answering: An Evaluation","url":""}
-{"author":"","bib":"","title":"Adv-OLM: Generating Textual Adversaries via OLM","url":""}
-{"author":"","bib":"","title":"Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering","url":""}
-{"author":"","bib":"","title":"Combining Deep Generative Models and Multi-lingual Pretraining for Semi-supervised Document Classification","url":""}
-{"author":"","bib":"","title":"Multilingual Machine Translation: Closing the Gap between Shared and Language-specific Encoder-Decoders","url":""}
-{"author":"","bib":"","title":"Clustering Word Embeddings with Self-Organizing Maps. Application on LaRoSeDa - A Large Romanian Sentiment Data Set","url":""}
-{"author":"","bib":"","title":"Elastic weight consolidation for better bias inoculation","url":""}
-{"author":"","bib":"","title":"Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets","url":""}
-{"author":"","bib":"","title":"Detecting Non-Topical Content in Podcasts","url":""}
-{"author":"","bib":"","title":"Cross-lingual Visual Pre-training for Multimodal Machine Translation","url":""}
-{"author":"","bib":"","title":"Memorization vs. Generalization : Quantifying Data Leakage in NLP Performance Evaluation","url":""}
-{"author":"","bib":"","title":"Searching for Search Errors in Neural Morphological Inflection","url":""}
-{"author":"","bib":"","title":"Quantifying Appropriateness of Summarization Data for Curriculum Learning","url":""}
-{"author":"","bib":"","title":"BART-TL: Weakly-Supervised Topic Label Generation","url":""}
-{"author":"","bib":"","title":"Dynamic Graph Transformer for Implicit Tag Recognition","url":""}
-{"author":"","bib":"","title":"Implicit Unlikelihood Training: Improving Neural Text Generation with Reinforcement Learning","url":""}
-{"author":"","bib":"","title":"SICK-NL: A Dataset for Dutch Natural Language Inference","url":""}
-{"author":"","bib":"","title":"Cross-Topic Rumor Detection using Topic-Mixtures","url":""}
-{"author":"","bib":"","title":"Few-shot Learning for Slot Tagging with Attentive Relational Network","url":""}
-{"author":"","bib":"","title":"Exploiting Position and Contextual Word Embeddings for Keyphrase Extraction from Scientific Papers","url":""}
-{"author":"","bib":"","title":"Cross-lingual Zero-shot Topic Models with Contextualized Embeddings","url":""}
-{"author":"","bib":"","title":"MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization","url":""}
-{"author":"","bib":"","title":"BERT Prescriptions to Avoid Unwanted Headaches: A Comparison of Transformer Architectures for Adverse Drug Event Detection","url":""}
-{"author":"","bib":"","title":"Semantic Parsing of Disfluent Speech","url":""}
-{"author":"","bib":"","title":"Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models","url":""}
-{"author":"","bib":"","title":"What Sounds “Right” to Me? Experiential Factors in the Perception of Political Ideology","url":""}
-{"author":"","bib":"","title":"We Need To Talk About Random Splits","url":""}
-{"author":"","bib":"","title":"How Certain is Your {T}ransformer?","url":""}
-{"author":"","bib":"","title":"Data Augmentation for Voice-Assistant NLU using BERT-based Interchangeable Rephrase","url":""}
-{"author":"","bib":"","title":"Applying the Transformer to Character-level Transduction","url":""}
-{"author":"","bib":"","title":"Boosting Low-Resource Biomedical QA via Entity-Aware Masking Strategies","url":""}
-{"author":"","bib":"","title":"Learning Relatedness between Types with Prototypes for Relation Extraction","url":""}
-{"author":"","bib":"","title":"Probing into the Root: A Dataset for Reason Extraction of Structural Events from Financial Documents","url":""}
-{"author":"","bib":"","title":"Paraphrases do not explain word analogies","url":""}
-{"author":"","bib":"","title":"An Empirical Study on the Generalization Power of Neural Representations Learned via Visual Guessing Games","url":""}
-{"author":"","bib":"","title":"First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT","url":""}
-{"author":"","bib":"","title":"On the evolution of syntactic information encoded by BERT’s contextualized representations","url":""}
-{"author":"","bib":"","title":"L2C: Describing Visual Differences Needs Semantic Understanding of Individuals","url":""}
-{"author":"","bib":"","title":"Exploiting Definitions for Frame Identification","url":""}
-{"author":"","bib":"","title":"ADePT: Auto-encoder based Differentially Private Text Transformation","url":""}
-{"author":"","bib":"","title":"Unsupervised Extractive Summarization using Mutual Information","url":""}
-{"author":"","bib":"","title":"Context-aware Neural Machine Translation with Mini-batch Embedding","url":""}
-{"author":"","bib":"","title":"Streaming Models for Joint Speech Recognition and Translation","url":""}
-{"author":"","bib":"","title":"Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing","url":""}
-{"author":"","bib":"","title":"LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction","url":""}
-{"author":"","bib":"","title":"Unsupervised Abstractive Summarization of Bengali Text Documents","url":""}
-{"author":"","bib":"","title":"On the Computational Modelling of Michif Verbal Morphology","url":""}
-{"author":"","bib":"","title":"Complementary Evidence Identification in Open-Domain Question Answering","url":""}
-{"author":"","bib":"","title":"Entity-level Factual Consistency of Abstractive Text Summarization","url":""}
-{"author":"","bib":"","title":"Fine-Grained Event Trigger Detection","url":""}
-{"author":"","bib":"","title":"Extremely Small BERT Models from Mixed-Vocabulary Training","url":""}
-{"author":"","bib":"","title":"Diverse Adversaries for Mitigating Bias in Training","url":""}
-{"author":"","bib":"","title":"`Just because you are right, doesn’t mean I am wrong’: Overcoming a bottleneck in development and evaluation of Open-Ended VQA tasks","url":""}
-{"author":"","bib":"","title":"CLiMP: A Benchmark for Chinese Language Model Evaluation","url":""}
-{"author":"","bib":"","title":"Exploring the Limits of Few-Shot Link Prediction in Knowledge Graphs","url":""}
-{"author":"","bib":"","title":"ProFormer: Towards On-Device LSH Projection Based Transformers","url":""}
-{"author":"","bib":"","title":"On-Device Text Representations Robust To Misspellings via Projections","url":""}
-{"author":"","bib":"","title":"Text Augmentation in a Multi-Task View","url":""}
-{"author":"","bib":"","title":"Modeling Context in Answer Sentence Selection Systems on a Latency Budget","url":""}
-{"author":"","bib":"","title":"Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph","url":""}
-{"author":"","bib":"","title":"EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction","url":""}
-{"author":"","bib":"","title":"Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense","url":""}
-{"author":"","bib":"","title":"Facilitating Terminology Translation with Target Lemma Annotations","url":""}
-{"author":"","bib":"","title":"Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop Sub-Questions?","url":""}
-{"author":"","bib":"","title":"Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models","url":""}
-{"author":"","bib":"","title":"Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Knowledge Integration","url":""}
-{"author":"","bib":"","title":"Graph-based Fake News Detection using a Summarization Technique","url":""}
-{"author":"","bib":"","title":"Disfluency Correction using Unsupervised and Semi-supervised Learning","url":""}
-{"author":"","bib":"","title":"A Large-scale Evaluation of Neural Machine Transliteration for Indic Languages","url":""}
-{"author":"","bib":"","title":"Don’t Change Me! User-Controllable Selective Paraphrase Generation","url":""}
-{"author":"","bib":"","title":"Is the Understanding of Explicit Discourse Relations Required in Machine Reading Comprehension?","url":""}
-{"author":"","bib":"","title":"“Killing Me” Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism","url":""}
-{"author":"","bib":"","title":"BERTese: Learning to Speak to BERT","url":""}
-{"author":"","bib":"","title":"Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation","url":""}
+{"author": "Kayal, Subhradeep", "bib": "", "title": "Unsupervised Sentence-embeddings by Manifold Approximation and Projection", "url": "https://aclanthology.org/2021.eacl-main.1/"}
+{"author": "Cho, Woon Sang; Zhang, Yizhe; Rao, Sudha; Celikyilmaz, Asli; Xiong, Chenyan; Gao, Jianfeng; Wang, Mengdi; Dolan, Bill", "bib": "", "title": "Contrastive Multi-document Question Generation", "url": "https://aclanthology.org/2021.eacl-main.2/"}
+{"author": "", "bib": "", "title": "Disambiguatory signals are stronger in word initial positions", "url": ""}
+{"author": "", "bib": "", "title": "If you’ve got it, flaunt it: Making the most of fine-grained sentiment annotations", "url": ""}
+{"author": "Kedia, Akhil; Chinthakindi, Sai Chetan", "bib": "", "title": "Keep Learning: Self-supervised Meta-learning for Learning from Inference", "url": "https://aclanthology.org/2021.eacl-main.6/"}
+{"author": "Dutt, Ritam; Sinha, Sayan; Joshi, Rishabh; Chakraborty, Surya Shekhar; Riggs, Meredith; Yan, Xinru; Bao, Haogang; Rose, Carolyn", "bib": "", "title": "ResPer: Computationally Modelling Resisting Strategies in Persuasive Conversations", "url": "https://aclanthology.org/2021.eacl-main.7/"}
+{"author": "Xin, Ji; Tang, Raphael; Yu, Yaoliang; Lin, Jimmy", "bib": "", "title": "BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression", "url": "https://aclanthology.org/2021.eacl-main.8/"}
+{"author": "", "bib": "", "title": "Telling BERT’s Full Story: from Local Attention to Global Aggregation", "url": ""}
+{"author": "Kaiser, Jens; Kurtyigit, Sinan; Kotchourko, Serge; Schlechtweg, Dominik", "bib": "", "title": "Effects of Pre- and Post-Processing on type-based Embeddings in Lexical Semantic Change Detection", "url": "https://aclanthology.org/2021.eacl-main.10/"}
+{"author": "Csaky, Richard; Recski, G{\\'a}bor", "bib": "", "title": "The Gutenberg Dialogue Dataset", "url": "https://aclanthology.org/2021.eacl-main.11/"}
+{"author": "Penha, Gustavo; Hauff, Claudia", "bib": "", "title": "On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search", "url": "https://aclanthology.org/2021.eacl-main.12/"}
+{"author": "Malkiel, Itzik; Wolf, Lior", "bib": "", "title": "Maximal Multiverse Learning for Promoting Cross-Task Generalization of Fine-Tuned Language Models", "url": "https://aclanthology.org/2021.eacl-main.14/"}
+{"author": "Valentino, Marco; Thayaparan, Mokanarangan; Freitas, Andr{\\'e}", "bib": "", "title": "Unification-based Reconstruction of Multi-hop Explanations for Science Questions", "url": "https://aclanthology.org/2021.eacl-main.15/"}
+{"author": "Kaneko, Masahiro; Bollegala, Danushka", "bib": "", "title": "Dictionary-based Debiasing of Pre-trained Word Embeddings", "url": "https://aclanthology.org/2021.eacl-main.16/"}
+{"author": "Alshomary, Milad; Chen, Wei-Fan; Gurcke, Timon; Wachsmuth, Henning", "bib": "", "title": "Belief-based Generation of Argumentative Claims", "url": "https://aclanthology.org/2021.eacl-main.17/"}
+{"author": "Su, Yixuan; Cai, Deng; Wang, Yan; Vandyke, David; Baker, Simon; Li, Piji; Collier, Nigel", "bib": "", "title": "Non-Autoregressive Text Generation with Pre-trained Language Models", "url": "https://aclanthology.org/2021.eacl-main.18/"}
+{"author": "Zhao, Yuekai; Zhou, Shuchang; Zhang, Zhihua", "bib": "", "title": "Multi-split Reversible Transformers Can Enhance Neural Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.19/"}
+{"author": "", "bib": "", "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference", "url": "https://aclanthology.org/2021.eacl-main.20/"}
+{"author": "", "bib": "", "title": "CD^2CR: Co-reference resolution across documents and domains", "url": ""}
+{"author": "Bi, Keping; Jha, Rahul; Croft, Bruce; Celikyilmaz, Asli", "bib": "", "title": "AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization", "url": "https://aclanthology.org/2021.eacl-main.22/"}
+{"author": "Roller, Stephen; Dinan, Emily; Goyal, Naman; Ju, Da; Williamson, Mary; Liu, Yinhan; Xu, Jing; Ott, Myle; Smith, Eric Michael; Boureau, Y-Lan; Weston, Jason", "bib": "", "title": "Recipes for building an open-domain chatbot", "url": "https://aclanthology.org/2021.eacl-main.24/"}
+{"author": "Tevet, Guy; Berant, Jonathan", "bib": "", "title": "Evaluating the Evaluation of Diversity in Natural Language Generation", "url": "https://aclanthology.org/2021.eacl-main.25/"}
+{"author": "Wang, Zhiguo; Ng, Patrick; Nallapati, Ramesh; Xiang, Bing", "bib": "", "title": "Retrieval, Re-ranking and Multi-task Learning for Knowledge-Base Question Answering", "url": "https://aclanthology.org/2021.eacl-main.26/"}
+{"author": "", "bib": "", "title": "Implicitly Abusive Comparisons – A New Dataset and Linguistic Analysis", "url": ""}
+{"author": "Wiegand, Michael; Ruppenhofer, Josef", "bib": "", "title": "Exploiting Emojis for Abusive Language Detection", "url": "https://aclanthology.org/2021.eacl-main.28/"}
+{"author": "Sheth, Janaki; Lee, Young-Suk; Fernandez Astudillo, Ram{\\'o}n; Naseem, Tahira; Florian, Radu; Roukos, Salim; Ward, Todd", "bib": "", "title": "Bootstrapping Multilingual AMR with Contextual Word Alignments", "url": "https://aclanthology.org/2021.eacl-main.30/"}
+{"author": "de Silva, Nisansa; Dou, Dejing", "bib": "", "title": "Semantic Oppositeness Assisted Deep Contextual Modeling for Automatic Rumor Detection in Social Networks", "url": "https://aclanthology.org/2021.eacl-main.31/"}
+{"author": "Dong, Qingxiu; Wan, Xiaojun; Cao, Yue", "bib": "", "title": "ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation", "url": "https://aclanthology.org/2021.eacl-main.33/"}
+{"author": "Gabriel, Saadia; Bosselut, Antoine; Da, Jeff; Holtzman, Ari; Buys, Jan; Lo, Kyle; Celikyilmaz, Asli; Choi, Yejin", "bib": "", "title": "Discourse Understanding and Factual Consistency in Abstractive Summarization", "url": "https://aclanthology.org/2021.eacl-main.34/"}
+{"author": "Blevins, Terra; Joshi, Mandar; Zettlemoyer, Luke", "bib": "", "title": "FEWS: Large-Scale, Low-Shot Word Sense Disambiguation with the Dictionary", "url": "https://aclanthology.org/2021.eacl-main.36/"}
+{"author": "Kim, Joshua Y.; Yacef, Kalina; Kim, Greyson; Liu, Chunfeng; Calvo, Rafael; Taylor, Silas", "bib": "", "title": "MONAH: Multi-Modal Narratives for Humans to analyze conversations", "url": "https://aclanthology.org/2021.eacl-main.37/"}
+{"author": "", "bib": "", "title": "AdapterFusion: Non-Destructive Task Composition for Transfer Learning", "url": "https://aclanthology.org/2021.eacl-main.39/"}
+{"author": "Kannan Ravi, Manoj Prabhakar; Singh, Kuldeep; Mulang{'}, Isaiah Onando; Shekarpour, Saeedeh; Hoffart, Johannes; Lehmann, Jens", "bib": "", "title": "CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata", "url": "https://aclanthology.org/2021.eacl-main.40/"}
+{"author": "Benotti, Luciana; Blackburn, Patrick", "bib": "", "title": "Grounding as a Collaborative Process", "url": "https://aclanthology.org/2021.eacl-main.41/"}
+{"author": "Bai, Jiaxin; Zhang, Hongming; Song, Yangqiu; Xu, Kun", "bib": "", "title": "Joint Coreference Resolution and Character Linking for Multiparty Conversation", "url": "https://aclanthology.org/2021.eacl-main.43/"}
+{"author": "Mesgar, Mohsen; Simpson, Edwin; Gurevych, Iryna", "bib": "", "title": "Improving Factual Consistency Between a Response and Persona Facts", "url": "https://aclanthology.org/2021.eacl-main.44/"}
+{"author": "Ansell, Alan; Bravo-Marquez, Felipe; Pfahringer, Bernhard", "bib": "", "title": "PolyLM: Learning about Polysemy through Language Modeling", "url": "https://aclanthology.org/2021.eacl-main.45/"}
+{"author": "Jacovi, Alon; Niu, Gang; Goldberg, Yoav; Sugiyama, Masashi", "bib": "", "title": "Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning", "url": "https://aclanthology.org/2021.eacl-main.47/"}
+{"author": "Bugliarello, Emanuele; Elliott, Desmond", "bib": "", "title": "The Role of Syntactic Planning in Compositional Image Captioning", "url": "https://aclanthology.org/2021.eacl-main.48/"}
+{"author": "", "bib": "", "title": "Is ``hot pizza” Positive or Negative? Mining Target-aware Sentiment Lexicons", "url": ""}
+{"author": "", "bib": "", "title": "Document-level Event Entities Extraction with Generative Role-filler Transformers", "url": ""}
+{"author": "Chen, Muhao; Shi, Weijia; Zhou, Ben; Roth, Dan", "bib": "", "title": "Cross-lingual Entity Alignment with Incidental Supervision", "url": "https://aclanthology.org/2021.eacl-main.53/"}
+{"author": "Kim, Kyungho; Lee, Kyungjae; Hwang, Seung-won; Song, Young-In; Lee, Seungwook", "bib": "", "title": "Query Generation for Multimodal Documents", "url": "https://aclanthology.org/2021.eacl-main.54/"}
+{"author": "Ye, Yuxiao; Teufel, Simone", "bib": "", "title": "End-to-End Argument Mining as Biaffine Dependency Parsing", "url": "https://aclanthology.org/2021.eacl-main.55/"}
+{"author": "Ghanem, Bilal; Ponzetto, Simone Paolo; Rosso, Paolo; Rangel, Francisco", "bib": "", "title": "FakeFlow: Fake News Detection by Modeling the Flow of Affective Information", "url": "https://aclanthology.org/2021.eacl-main.56/"}
+{"author": "Khassanov, Yerbolat; Mussakhojayeva, Saida; Mirzakhmetov, Almas; Adiyev, Alen; Nurpeiissov, Mukhamet; Varol, Huseyin Atakan", "bib": "", "title": "A Crowdsourced Open-Source Kazakh Speech Corpus and Initial Speech Recognition Baseline", "url": "https://aclanthology.org/2021.eacl-main.58/"}
+{"author": "Koto, Fajri; Lau, Jey Han; Baldwin, Timothy", "bib": "", "title": "Top-down Discourse Parsing via Sequence Labelling", "url": "https://aclanthology.org/2021.eacl-main.60/"}
+{"author": "Hu, Guangneng; Yang, Qiang", "bib": "", "title": "TrNews: Heterogeneous User-Interest Transfer Learning for News Recommendation", "url": "https://aclanthology.org/2021.eacl-main.62/"}
+{"author": "Yamaguchi, Atsuki; Iwasa, Kosui; Fujita, Katsuhide", "bib": "", "title": "Dialogue Act-based Breakdown Detection in Negotiation Dialogues", "url": "https://aclanthology.org/2021.eacl-main.63/"}
+{"author": "Chang, Ernie; Shen, Xiaoyu; Zhu, Dawei; Demberg, Vera; Su, Hui", "bib": "", "title": "Neural Data-to-Text Generation with LM-based Text Augmentation", "url": "https://aclanthology.org/2021.eacl-main.64/"}
+{"author": "Khalifa, Muhammad; Abdul-Mageed, Muhammad; Shaalan, Khaled", "bib": "", "title": "Self-Training Pre-Trained Language Models for Zero- and Few-Shot Multi-Dialectal Arabic Sequence Labeling", "url": "https://aclanthology.org/2021.eacl-main.65/"}
+{"author": "Bernard, Timoth{\\'e}e", "bib": "", "title": "Multiple Tasks Integration: Tagging, Syntactic and Semantic Parsing as a Single Task", "url": "https://aclanthology.org/2021.eacl-main.66/"}
+{"author": "", "bib": "", "title": "Coordinate Constructions in Enhanced Universal Dependencies: Analysis and Computational Modeling", "url": ""}
+{"author": "Chang, Ernie; Demberg, Vera; Marin, Alex", "bib": "", "title": "Jointly Improving Language Understanding and Generation with Quality-Weighted Weak Supervision of Automatic Labeling", "url": "https://aclanthology.org/2021.eacl-main.69/"}
+{"author": "Niehues, Jan", "bib": "", "title": "Continuous Learning in Neural Machine Translation using Bilingual Dictionaries", "url": "https://aclanthology.org/2021.eacl-main.70/"}
+{"author": "Kacupaj, Endri; Plepi, Joan; Singh, Kuldeep; Thakkar, Harsh; Lehmann, Jens; Maleshkova, Maria", "bib": "", "title": "Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks", "url": "https://aclanthology.org/2021.eacl-main.72/"}
+{"author": "Singh, Hrituraj; Verma, Gaurav; Garimella, Aparna; Srinivasan, Balaji Vasan", "bib": "", "title": "DRAG: Director-Generator Language Modelling Framework for Non-Parallel Author Stylized Rewriting", "url": "https://aclanthology.org/2021.eacl-main.73/"}
+{"author": "", "bib": "", "title": "Self-Supervised Knowledge Integration for Clinical Outcome Prediction from Admission Notes", "url": ""}
+{"author": "Paul, Rohan; Chang, Haw-Shiuan; McCallum, Andrew", "bib": "", "title": "Multi-facet Universal Schema", "url": "https://aclanthology.org/2021.eacl-main.77/"}
+{"author": "Yanaka, Hitomi; Mineshima, Koji; Inui, Kentaro", "bib": "", "title": "Exploring Transitivity in Neural NLI Models through Veridicality", "url": "https://aclanthology.org/2021.eacl-main.78/"}
+{"author": "Dopierre, Thomas; Gravier, Christophe; Logerais, Wilfried", "bib": "", "title": "A Neural Few-Shot Text Classification Reality Check", "url": "https://aclanthology.org/2021.eacl-main.79/"}
+{"author": "Vo, Nguyen; Lee, Kyumin", "bib": "", "title": "Hierarchical Multi-head Attentive Network for Evidence-aware Fake News Detection", "url": "https://aclanthology.org/2021.eacl-main.83/"}
+{"author": "Arora, Ravneet; Tsai, Chen-Tse; Preotiuc-Pietro, Daniel", "bib": "", "title": "Identifying Named Entities as they are Typed", "url": "https://aclanthology.org/2021.eacl-main.84/"}
+{"author": "Nag Chowdhury, Sreyasi; Razniewski, Simon; Weikum, Gerhard", "bib": "", "title": "SANDI: Story-and-Images Alignment", "url": "https://aclanthology.org/2021.eacl-main.85/"}
+{"author": "Einolghozati, Arash; Arora, Abhinav; Sainz-Maza Lecanda, Lorena; Kumar, Anuj; Gupta, Sonal", "bib": "", "title": "El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic Parsing", "url": "https://aclanthology.org/2021.eacl-main.87/"}
+{"author": "Huang, Kuan-Hao; Chang, Kai-Wei", "bib": "", "title": "Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs", "url": "https://aclanthology.org/2021.eacl-main.88/"}
+{"author": "Kober, Thomas; Weeds, Julie; Bertolini, Lorenzo; Weir, David", "bib": "", "title": "Data Augmentation for Hypernymy Detection", "url": "https://aclanthology.org/2021.eacl-main.89/"}
+{"author": "Arthaud, Farid; Bawden, Rachel; Birch, Alexandra", "bib": "", "title": "Few-shot learning through contextual data augmentation", "url": "https://aclanthology.org/2021.eacl-main.90/"}
+{"author": "Li, Shuyang; Cao, Jin; Sridhar, Mukund; Zhu, Henghui; Li, Shang-Wen; Hamza, Wael; McAuley, Julian", "bib": "", "title": "Zero-shot Generalization in Dialog State Tracking through Generative Question Answering", "url": "https://aclanthology.org/2021.eacl-main.91/"}
+{"author": "Ma, Ji; Korotkov, Ivan; Yang, Yinfei; Hall, Keith; McDonald, Ryan", "bib": "", "title": "Zero-shot Neural Passage Retrieval via Domain-targeted Synthetic Question Generation", "url": "https://aclanthology.org/2021.eacl-main.92/"}
+{"author": "Dong, Yue; Mircea, Andrei; Cheung, Jackie Chi Kit", "bib": "", "title": "Discourse-Aware Unsupervised Summarization for Long Scientific Documents", "url": "https://aclanthology.org/2021.eacl-main.93/"}
+{"author": "Yu, Dian; Yu, Zhou", "bib": "", "title": "MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations", "url": "https://aclanthology.org/2021.eacl-main.94/"}
+{"author": "He, Tianxing; Liu, Jun; Cho, Kyunghyun; Ott, Myle; Liu, Bing; Glass, James; Peng, Fuchun", "bib": "", "title": "Analyzing the Forgetting Problem in Pretrain-Finetuning of Open-domain Dialogue Response Models", "url": "https://aclanthology.org/2021.eacl-main.95/"}
+{"author": "", "bib": "", "title": "Leveraging End-to-End ASR for Endangered Language Documentation: An Empirical Study on Yolóxochitl Mixtec", "url": ""}
+{"author": "", "bib": "", "title": "Mode Effects’ Challenge to Authorship Attribution", "url": ""}
+{"author": "Pang, Bo; Nijkamp, Erik; Han, Tian; Wu, Ying Nian", "bib": "", "title": "Generative Text Modeling through Short Run Inference", "url": "https://aclanthology.org/2021.eacl-main.98/"}
+{"author": "Widmoser, Manuel; Pacheco, Maria Leonor; Honorio, Jean; Goldwasser, Dan", "bib": "", "title": "Randomized Deep Structured Prediction for Discourse-Level Processing", "url": "https://aclanthology.org/2021.eacl-main.100/"}
+{"author": "Choubey, Prafulla Kumar; Huang, Ruihong", "bib": "", "title": "Automatic Data Acquisition for Event Coreference Resolution", "url": "https://aclanthology.org/2021.eacl-main.101/"}
+{"author": "Pramanick, Aniket; Bhattacharya, Indrajit", "bib": "", "title": "Joint Learning of Representations for Web-tables, Entities and Types using Graph Convolutional Network", "url": "https://aclanthology.org/2021.eacl-main.102/"}
+{"author": "Zhu, Wanrong; Wang, Xin; Fu, Tsu-Jui; Yan, An; Narayana, Pradyumna; Sone, Kazoo; Basu, Sugato; Wang, William Yang", "bib": "", "title": "Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation", "url": "https://aclanthology.org/2021.eacl-main.103/"}
+{"author": "Wang, Yufei; Wood, Ian; Wan, Stephen; Johnson, Mark", "bib": "", "title": "ECOL-R: Encouraging Copying in Novel Object Captioning with Reinforcement Learning", "url": "https://aclanthology.org/2021.eacl-main.104/"}
+{"author": "Liu, Ye; Wan, Yao; Zhang, Jianguo; Zhao, Wenting; Yu, Philip", "bib": "", "title": "Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.105/"}
+{"author": "Soleimani, Amir; Monz, Christof; Worring, Marcel", "bib": "", "title": "NLQuAD: A Non-Factoid Long Question Answering Data Set", "url": "https://aclanthology.org/2021.eacl-main.106/"}
+{"author": "Kaneko, Masahiro; Bollegala, Danushka", "bib": "", "title": "Debiasing Pre-trained Contextualised Embeddings", "url": "https://aclanthology.org/2021.eacl-main.107/"}
+{"author": "", "bib": "", "title": "Language Models for Lexical Inference in Context", "url": "https://aclanthology.org/2021.eacl-main.108/"}
+{"author": "Li, Zhuang; Qu, Lizhen; Huang, Shuo; Haffari, Gholamreza", "bib": "", "title": "Few-Shot Semantic Parsing for New Predicates", "url": "https://aclanthology.org/2021.eacl-main.109/"}
+{"author": "Wu, Qingyang; Zhang, Yichi; Li, Yu; Yu, Zhou", "bib": "", "title": "Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models", "url": "https://aclanthology.org/2021.eacl-main.110/"}
+{"author": "Zhao, Ming; Anderson, Peter; Jain, Vihan; Wang, Su; Ku, Alexander; Baldridge, Jason; Ie, Eugene", "bib": "", "title": "On the Evaluation of Vision-and-Language Navigation Instructions", "url": "https://aclanthology.org/2021.eacl-main.111/"}
+{"author": "Guest, Ella; Vidgen, Bertie; Mittos, Alexandros; Sastry, Nishanth; Tyson, Gareth; Margetts, Helen", "bib": "", "title": "An expert annotated dataset for the detection of online misogyny", "url": "https://aclanthology.org/2021.eacl-main.114/"}
+{"author": "Schwenk, Holger; Chaudhary, Vishrav; Sun, Shuo; Gong, Hongyu; Guzm{\\'a}n, Francisco", "bib": "", "title": "WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia", "url": "https://aclanthology.org/2021.eacl-main.115/"}
+{"author": "Fang, Biaoyan; Druckenbrodt, Christian; Akhondi, Saber A; He, Jiayuan; Baldwin, Timothy; Verspoor, Karin", "bib": "", "title": "ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain", "url": "https://aclanthology.org/2021.eacl-main.116/"}
+{"author": "", "bib": "", "title": "Syntactic Nuclei in Dependency Parsing – A Multilingual Exploration", "url": ""}
+{"author": "Espinosa Anke, Luis; Codina-Filba, Joan; Wanner, Leo", "bib": "", "title": "Evaluating language models for the retrieval and categorization of lexical collocations", "url": "https://aclanthology.org/2021.eacl-main.120/"}
+{"author": "Laugier, L{\\'e}o; Pavlopoulos, John; Sorensen, Jeffrey; Dixon, Lucas", "bib": "", "title": "Civil Rephrases Of Toxic Texts With Self-Supervised Transformers", "url": "https://aclanthology.org/2021.eacl-main.124/"}
+{"author": "Murakami, Soichiro; Tanaka, Sora; Hangyo, Masatsugu; Kamigaito, Hidetaka; Funakoshi, Kotaro; Takamura, Hiroya; Okumura, Manabu", "bib": "", "title": "Generating Weather Comments from Meteorological Simulations", "url": "https://aclanthology.org/2021.eacl-main.125/"}
+{"author": "Matusevych, Yevgen; Kamper, Herman; Schatz, Thomas; Feldman, Naomi; Goldwater, Sharon", "bib": "", "title": "A phonetic model of non-native spoken word processing", "url": "https://aclanthology.org/2021.eacl-main.127/"}
+{"author": "Eyal, Matan; Amrami, Asaf; Taub-Tabib, Hillel; Goldberg, Yoav", "bib": "", "title": "Bootstrapping Relation Extractors using Syntactic Search by Examples", "url": "https://aclanthology.org/2021.eacl-main.128/"}
+{"author": "Opitz, Juri; Frank, Anette", "bib": "", "title": "Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR", "url": "https://aclanthology.org/2021.eacl-main.129/"}
+{"author": "Shen, Jiajun; Chen, Peng-Jen; Le, Matthew; He, Junxian; Gu, Jiatao; Ott, Myle; Auli, Michael; Ranzato, Marc{'}Aurelio", "bib": "", "title": "The Source-Target Domain Mismatch Problem in Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.130/"}
+{"author": "Miyata, Rei; Fujita, Atsushi", "bib": "", "title": "Understanding Pre-Editing for Black-Box Neural Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.132/"}
+{"author": "Bollegala, Danushka; Hakami, Huda; Yoshida, Yuichi; Kawarabayashi, Ken-ichi", "bib": "", "title": "RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding", "url": "https://aclanthology.org/2021.eacl-main.133/"}
+{"author": "Alhuzali, Hassan; Ananiadou, Sophia", "bib": "", "title": "SpanEmo: Casting Multi-label Emotion Classification as Span-prediction", "url": "https://aclanthology.org/2021.eacl-main.135/"}
+{"author": "", "bib": "", "title": "Prerequisites for Explainable Machine Reading Comprehension: A Position Paper", "url": ""}
+{"author": "Kong, Xiang; Renduchintala, Adithya; Cross, James; Tang, Yuqing; Gu, Jiatao; Li, Xian", "bib": "", "title": "Multilingual Neural Machine Translation with Deep Encoder and Multiple Shallow Decoders", "url": "https://aclanthology.org/2021.eacl-main.138/"}
+{"author": "Shichel, Yotam; Kalech, Meir; Tsur, Oren", "bib": "", "title": "With Measured Words: Simple Sentence Selection for Black-Box Optimization of Sentence Compression Algorithms", "url": "https://aclanthology.org/2021.eacl-main.139/"}
+{"author": "Breit, Anna; Revenko, Artem; Rezaee, Kiamehr; Pilehvar, Mohammad Taher; Camacho-Collados, Jose", "bib": "", "title": "WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context", "url": "https://aclanthology.org/2021.eacl-main.140/"}
+{"author": "Elsahar, Hady; Coavoux, Maximin; Rozen, Jos; Gall{\\'e}, Matthias", "bib": "", "title": "Self-Supervised and Controlled Multi-Document Opinion Summarization", "url": "https://aclanthology.org/2021.eacl-main.141/"}
+{"author": "Hamborg, Felix; Donnay, Karsten", "bib": "", "title": "NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles", "url": "https://aclanthology.org/2021.eacl-main.142/"}
+{"author": "K{\\'a}d{\\'a}r, {\\'A}kos; Xiao, Lan; Kemertas, Mete; Fancellu, Federico; Jepson, Allan; Fazly, Afsaneh", "bib": "", "title": "Dependency parsing with structure preserving embeddings", "url": "https://aclanthology.org/2021.eacl-main.144/"}
+{"author": "Shelmanov, Artem; Puzyrev, Dmitri; Kupriyanova, Lyubov; Belyakov, Denis; Larionov, Daniil; Khromov, Nikita; Kozlova, Olga; Artemova, Ekaterina; Dylov, Dmitry V.; Panchenko, Alexander", "bib": "", "title": "Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates", "url": "https://aclanthology.org/2021.eacl-main.145/"}
+{"author": "Skitalinskaya, Gabriella; Klaff, Jonas; Wachsmuth, Henning", "bib": "", "title": "Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale", "url": "https://aclanthology.org/2021.eacl-main.147/"}
+{"author": "Dingliwal, Saket; Gao, Shuyang; Agarwal, Sanchit; Lin, Chien-Wei; Chung, Tagyoung; Hakkani-Tur, Dilek", "bib": "", "title": "Few Shot Dialogue State Tracking using Meta-learning", "url": "https://aclanthology.org/2021.eacl-main.148/"}
+{"author": "Heinzerling, Benjamin; Inui, Kentaro", "bib": "", "title": "Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries", "url": "https://aclanthology.org/2021.eacl-main.153/"}
+{"author": "Grail, Quentin; Perez, Julien; Gaussier, Eric", "bib": "", "title": "Globalizing BERT-based Transformer Architectures for Long Document Summarization", "url": "https://aclanthology.org/2021.eacl-main.154/"}
+{"author": "Munir, Shaoor; Batool, Brishna; Shafiq, Zubair; Srinivasan, Padmini; Zaffar, Fareed", "bib": "", "title": "Through the Looking Glass: Learning to Attribute Synthetic Text", "url": "https://aclanthology.org/2021.eacl-main.155/"}
+{"author": "Tambouratzis, George", "bib": "", "title": "Alignment verification to improve NMT translation towards highly inflectional languages with limited resources", "url": "https://aclanthology.org/2021.eacl-main.158/"}
+{"author": "Steen, Julius; Markert, Katja", "bib": "", "title": "How to Evaluate a Summarizer: Study Design and Statistical Analysis for Manual Linguistic Quality Evaluation", "url": "https://aclanthology.org/2021.eacl-main.160/"}
+{"author": "Ben-Haim, Aviv; Tsur, Oren", "bib": "", "title": "Open-Mindedness and Style Coordination in Argumentative Discussions", "url": "https://aclanthology.org/2021.eacl-main.161/"}
+{"author": "Bollmann, Marcel; S{\\o}gaard, Anders", "bib": "", "title": "Error Analysis and the Role of Morphology", "url": "https://aclanthology.org/2021.eacl-main.162/"}
+{"author": "Ive, Julia; Wang, Zixu; Fomicheva, Marina; Specia, Lucia", "bib": "", "title": "Exploring Supervised and Unsupervised Rewards in Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.164/"}
+{"author": "Huguet Cabot, Pere-Llu{\\'i}s; Abadi, David; Fischer, Agneta; Shutova, Ekaterina", "bib": "", "title": "Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions", "url": "https://aclanthology.org/2021.eacl-main.165/"}
+{"author": "Seganti, Alessandro; Firl{\\k{a}}g, Klaudia; Skowronska, Helena; Sat{\\l}awa, Micha{\\l}; Andruszkiewicz, Piotr", "bib": "", "title": "Multilingual Entity and Relation Extraction Dataset and Model", "url": "https://aclanthology.org/2021.eacl-main.166/"}
+{"author": "", "bib": "", "title": "A New View of Multi-modal Language Analysis: Audio and Video Features as Text “Styles”", "url": ""}
+{"author": "", "bib": "", "title": "Multi- And Cross-Lingual Document Classification: A Meta-Learning Approach", "url": ""}
+{"author": "Jiang, Junfeng; Wang, An; Aizawa, Akiko", "bib": "", "title": "Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction", "url": "https://aclanthology.org/2021.eacl-main.170/"}
+{"author": "", "bib": "", "title": "“Laughing at you or with you”: The Role of Sarcasm in Shaping the Disagreement Space", "url": ""}
+{"author": "De Kock, Christine; Vlachos, Andreas", "bib": "", "title": "I Beg to Differ: A study of constructive disagreement in online conversations", "url": "https://aclanthology.org/2021.eacl-main.173/"}
+{"author": "Eder, Elisabeth; Krieg-Holz, Ulrike; Hahn, Udo", "bib": "", "title": "Acquiring a Formality-Informed Lexical Resource for Style Analysis", "url": "https://aclanthology.org/2021.eacl-main.174/"}
+{"author": "Weber, Lucas; Jumelet, Jaap; Bruni, Elia; Hupkes, Dieuwke", "bib": "", "title": "Language Modelling as a Multi-Task Problem", "url": "https://aclanthology.org/2021.eacl-main.176/"}
+{"author": "Gu, Jing; Mirshekari, Mostafa; Yu, Zhou; Sisto, Aaron", "bib": "", "title": "ChainCQG: Flow-Aware Conversational Question Generation", "url": "https://aclanthology.org/2021.eacl-main.177/"}
+{"author": "Testoni, Alberto; Bernardi, Raffaella", "bib": "", "title": "The Interplay of Task Success and Dialogue Quality: An in-depth Evaluation in Task-Oriented Visual Dialogues", "url": "https://aclanthology.org/2021.eacl-main.178/"}
+{"author": "", "bib": "", "title": "“Are you kidding me?”: Detecting Unpalatable Questions on Reddit", "url": ""}
+{"author": "Fabre, Betty; Urvoy, Tanguy; Chevelu, Jonathan; Lolive, Damien", "bib": "", "title": "Neural-Driven Search-Based Paraphrase Generation", "url": "https://aclanthology.org/2021.eacl-main.180/"}
+{"author": "Dou, Zi-Yi; Neubig, Graham", "bib": "", "title": "Word Alignment by Fine-tuning Embeddings on Parallel Corpora", "url": "https://aclanthology.org/2021.eacl-main.181/"}
+{"author": "Allaway, Emily; McKeown, Kathleen", "bib": "", "title": "A Unified Feature Representation for Lexical Connotations", "url": "https://aclanthology.org/2021.eacl-main.184/"}
+{"author": "", "bib": "", "title": "Stock Selection via Time-Aware Modeling of Financial News and Tweets: A Learning to Rank Approach", "url": ""}
+{"author": "Hirmer, Stephanie; Leonard, Alycia; Tumwesige, Josephine; Conforti, Costanza", "bib": "", "title": "Building Representative Corpora from Illiterate Communities: A Reviewof Challenges and Mitigation Strategies for Developing Countries", "url": "https://aclanthology.org/2021.eacl-main.186/"}
+{"author": "Tamari, Ronen; Bai, Fan; Ritter, Alan; Stanovsky, Gabriel", "bib": "", "title": "Process-Level Representation of Scientific Protocols with Interactive Annotation", "url": "https://aclanthology.org/2021.eacl-main.187/"}
+{"author": "Vanmassenhove, Eva; Shterionov, Dimitar; Gwilliam, Matthew", "bib": "", "title": "Machine Translationese: Effects of Algorithmic Bias on Linguistic Complexity in Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.188/"}
+{"author": "de Vassimon Manela, Daniel; Errington, David; Fisher, Thomas; van Breugel, Boris; Minervini, Pasquale", "bib": "", "title": "Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models", "url": "https://aclanthology.org/2021.eacl-main.190/"}
+{"author": "Bauer, Lisa; Bansal, Mohit", "bib": "", "title": "Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks", "url": "https://aclanthology.org/2021.eacl-main.192/"}
+{"author": "Nederhof, Mark-Jan", "bib": "", "title": "Calculating the optimal step of arc-eager parsing for non-projective trees", "url": "https://aclanthology.org/2021.eacl-main.193/"}
+{"author": "{\\'A}cs, Judit; K{\\'a}d{\\'a}r, {\\'A}kos; Kornai, Andras", "bib": "", "title": "Subword Pooling Makes a Difference", "url": "https://aclanthology.org/2021.eacl-main.194/"}
+{"author": "MacLaughlin, Ansel; Smith, David", "bib": "", "title": "Content-based Models of Quotation", "url": "https://aclanthology.org/2021.eacl-main.195/"}
+{"author": "Filice, Simone; Castellucci, Giuseppe; Collins, Marcus; Agichtein, Eugene; Rokhlenko, Oleg", "bib": "", "title": "VoiSeR: A New Benchmark for Voice-Based Search Refinement", "url": "https://aclanthology.org/2021.eacl-main.197/"}
+{"author": "Saravanakumar, Kailash Karthik; Ballesteros, Miguel; Chandrasekaran, Muthu Kumar; McKeown, Kathleen", "bib": "", "title": "Event-Driven News Stream Clustering using Entity-Aware Contextual Embeddings", "url": "https://aclanthology.org/2021.eacl-main.198/"}
+{"author": "Zhao, Runcong; Gui, Lin; Pergola, Gabriele; He, Yulan", "bib": "", "title": "Adversarial Learning of Poisson Factorisation Model for Gauging Brand Sentiment in User Reviews", "url": "https://aclanthology.org/2021.eacl-main.199/"}
+{"author": "", "bib": "", "title": "Lexical Normalization for Code-switched Data and its Effect on POS Tagging", "url": "https://aclanthology.org/2021.eacl-main.200/"}
+{"author": "Dong, Rui; Smith, David", "bib": "", "title": "Structural Encoding and Pre-training Matter: Adapting BERT for Table-Based Fact Verification", "url": "https://aclanthology.org/2021.eacl-main.201/"}
+{"author": "Clinciu, Miruna-Adriana; Eshghi, Arash; Hastie, Helen", "bib": "", "title": "A Study of Automatic Metrics for the Evaluation of Natural Language Explanations", "url": "https://aclanthology.org/2021.eacl-main.202/"}
+{"author": "", "bib": "", "title": "Transformer Transferability for Adversarial Attacks on Author Attributes", "url": ""}
+{"author": "Sun, Jimin; Ahn, Hwijeen; Park, Chan Young; Tsvetkov, Yulia; Mortensen, David R.", "bib": "", "title": "Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks", "url": "https://aclanthology.org/2021.eacl-main.204/"}
+{"author": "Sawhney, Ramit; Joshi, Harshit; Flek, Lucie; Shah, Rajiv Ratn", "bib": "", "title": "PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media", "url": "https://aclanthology.org/2021.eacl-main.205/"}
+{"author": "Fivez, Pieter; Suster, Simon; Daelemans, Walter", "bib": "", "title": "Conceptual Grounding Constraints for Truly Robust Biomedical Name Representations", "url": "https://aclanthology.org/2021.eacl-main.208/"}
+{"author": "Sia, Suzanna; Duh, Kevin", "bib": "", "title": "Adaptive Mixed Component LDA for Low Resource Topic Modeling", "url": "https://aclanthology.org/2021.eacl-main.209/"}
+{"author": "Wu, Winston; Arendt, Dustin; Volkova, Svitlana", "bib": "", "title": "Evaluating Neural Model Robustness for Machine Comprehension", "url": "https://aclanthology.org/2021.eacl-main.210/"}
+{"author": "Zhou, Xiang; Elfardy, Heba; Christodoulopoulos, Christos; Butler, Thomas; Bansal, Mohit", "bib": "", "title": "Hidden Biases in Unreliable News Detection Datasets", "url": "https://aclanthology.org/2021.eacl-main.211/"}
+{"author": "Jafari, Aref; Rezagholizadeh, Mehdi; Sharma, Pranav; Ghodsi, Ali", "bib": "", "title": "Annealing Knowledge Distillation", "url": "https://aclanthology.org/2021.eacl-main.212/"}
+{"author": "Papadimitriou, Isabel; Chi, Ethan A.; Futrell, Richard; Mahowald, Kyle", "bib": "", "title": "Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT", "url": "https://aclanthology.org/2021.eacl-main.215/"}
+{"author": "Zemlyanskiy, Yury; Gandhe, Sudeep; He, Ruining; Kanagal, Bhargav; Ravula, Anirudh; Gottweis, Juraj; Sha, Fei; Eckstein, Ilya", "bib": "", "title": "DOCENT: Learning Self-Supervised Entity Representations from Large Document Collections", "url": "https://aclanthology.org/2021.eacl-main.217/"}
+{"author": "Li, Xiangci; Burns, Gully; Peng, Nanyun", "bib": "", "title": "Scientific Discourse Tagging for Evidence Extraction", "url": "https://aclanthology.org/2021.eacl-main.218/"}
+{"author": "Hargreaves, James; Vlachos, Andreas; Emerson, Guy", "bib": "", "title": "Incremental Beam Manipulation for Natural Language Generation", "url": "https://aclanthology.org/2021.eacl-main.219/"}
+{"author": "Balachandran, Vidhisha; Pagnoni, Artidoro; Lee, Jay Yoon; Rajagopal, Dheeraj; Carbonell, Jaime; Tsvetkov, Yulia", "bib": "", "title": "StructSum: Summarization via Structured Representations", "url": "https://aclanthology.org/2021.eacl-main.220/"}
+{"author": "", "bib": "", "title": "Mind Reading and Manipulation: Topically-Controllable Language Generation", "url": ""}
+{"author": "Hede, Anushree; Agarwal, Oshin; Lu, Linda; Mutz, Diana C.; Nenkova, Ani", "bib": "", "title": "From Toxicity in Online Comments to Incivility in American News: Proceed with Caution", "url": "https://aclanthology.org/2021.eacl-main.225/"}
+{"author": "Samih, Younes; Darwish, Kareem", "bib": "", "title": "A Few Topical Tweets are Enough for Effective User Stance Detection", "url": "https://aclanthology.org/2021.eacl-main.227/"}
+{"author": "Sachan, Devendra; Zhang, Yuhao; Qi, Peng; Hamilton, William L.", "bib": "", "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?", "url": "https://aclanthology.org/2021.eacl-main.228/"}
+{"author": "Amplayo, Reinald Kim; Lapata, Mirella", "bib": "", "title": "Informative and Controllable Opinion Summarization", "url": "https://aclanthology.org/2021.eacl-main.229/"}
+{"author": "Kann, Katharina; Monsalve-Mercado, Mauro M.", "bib": "", "title": "Coloring the Black Box: What Synesthesia Tells Us about Character Embeddings", "url": "https://aclanthology.org/2021.eacl-main.230/"}
+{"author": "Rozovskaya, Alla; Roth, Dan", "bib": "", "title": "How Good (really) are Grammatical Error Correction Systems?", "url": "https://aclanthology.org/2021.eacl-main.231/"}
+{"author": "Fornaciari, Tommaso; Bianchi, Federico; Poesio, Massimo; Hovy, Dirk", "bib": "", "title": "BERTective: Language Models and Contextual Information for Deception Detection", "url": "https://aclanthology.org/2021.eacl-main.232/"}
+{"author": "Arthur, Philip; Cohn, Trevor; Haffari, Gholamreza", "bib": "", "title": "Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning", "url": "https://aclanthology.org/2021.eacl-main.233/"}
+{"author": "Xiao, Yijun; Wang, William Yang", "bib": "", "title": "On Hallucination and Predictive Uncertainty in Conditional Language Generation", "url": "https://aclanthology.org/2021.eacl-main.236/"}
+{"author": "Shavarani, Hassan S.; Sarkar, Anoop", "bib": "", "title": "Better Neural Machine Translation by Extracting Linguistic Information from BERT", "url": "https://aclanthology.org/2021.eacl-main.241/"}
+{"author": "Moradi, Pooya; Kambhatla, Nishant; Sarkar, Anoop", "bib": "", "title": "Measuring and Improving Faithfulness of Attention in Neural Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.243/"}
+{"author": "Xiong, Wenhan; Wang, Hong; Wang, William Yang", "bib": "", "title": "Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering", "url": "https://aclanthology.org/2021.eacl-main.244/"}
+{"author": "Chatterjee, Soumya; Maheshwari, Ayush; Ramakrishnan, Ganesh; Jagarlapudi, Saketha Nath", "bib": "", "title": "Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification", "url": "https://aclanthology.org/2021.eacl-main.247/"}
+{"author": "Wan, David; Kedzie, Chris; Ladhak, Faisal; Turcan, Elsbeth; Galuscakova, Petra; Zotkina, Elena; Jiang, Zhengping; Bell, Peter; McKeown, Kathleen", "bib": "", "title": "Segmenting Subtitles for Correcting ASR Segmentation Errors", "url": "https://aclanthology.org/2021.eacl-main.248/"}
+{"author": "Parekh, Zarana; Baldridge, Jason; Cer, Daniel; Waters, Austin; Yang, Yinfei", "bib": "", "title": "Crisscrossed Captions: Extended Intramodal and Intermodal Semantic Similarity Judgments for MS-COCO", "url": "https://aclanthology.org/2021.eacl-main.249/"}
+{"author": "Wang, Yijun; Sun, Changzhi; Wu, Yuanbin; Zhou, Hao; Li, Lei; Yan, Junchi", "bib": "", "title": "ENPAR:Enhancing Entity and Entity Pair Representations for Joint Entity Relation Extraction", "url": "https://aclanthology.org/2021.eacl-main.251/"}
+{"author": "Zayats, Vicky; Toutanova, Kristina; Ostendorf, Mari", "bib": "", "title": "Representations for Question Answering from Documents with Tables and Text", "url": "https://aclanthology.org/2021.eacl-main.253/"}
+{"author": "Kurniawan, Kemal; Frermann, Lea; Schulz, Philip; Cohn, Trevor", "bib": "", "title": "PPT: Parsimonious Parser Transfer for Unsupervised Cross-Lingual Adaptation", "url": "https://aclanthology.org/2021.eacl-main.254/"}
+{"author": "Varshney, Deeksha; Ekbal, Asif; Bhattacharyya, Pushpak", "bib": "", "title": "Modelling Context Emotions using Multi-task Learning for Emotion Controlled Dialog Generation", "url": "https://aclanthology.org/2021.eacl-main.255/"}
+{"author": "Aguirre, Carlos; Harrigian, Keith; Dredze, Mark", "bib": "", "title": "Gender and Racial Fairness in Depression Research using Social Media", "url": "https://aclanthology.org/2021.eacl-main.256/"}
+{"author": "", "bib": "", "title": "MTOP: A Comprehensive Multilingual Task-Oriented Semantic ParsingBenchmark", "url": ""}
+{"author": "Naik, Aakanksha; Lehman, Jill Fain; Rose, Carolyn", "bib": "", "title": "Adapting Event Extractors to Medical Data: Bridging the Covariate Shift", "url": "https://aclanthology.org/2021.eacl-main.258/"}
+{"author": "", "bib": "", "title": "NoiseQA: Challenge Sets for User-Centric Question Answering", "url": ""}
+{"author": "Dagan, Gautier; Hupkes, Dieuwke; Bruni, Elia", "bib": "", "title": "Co-evolution of language and agents in referential games", "url": "https://aclanthology.org/2021.eacl-main.260/"}
+{"author": "Bai, Jiangang; Wang, Yujing; Chen, Yiren; Yang, Yaming; Bai, Jing; Yu, Jing; Tong, Yunhai", "bib": "", "title": "Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees", "url": "https://aclanthology.org/2021.eacl-main.262/"}
+{"author": "Bashier, Housam Khalifa; Kim, Mi-Young; Goebel, Randy", "bib": "", "title": "DISK-CSV: Distilling Interpretable Semantic Knowledge with a Class Semantic Vector", "url": "https://aclanthology.org/2021.eacl-main.263/"}
+{"author": "Ravishankar, Vinit; Kulmizev, Artur; Abdou, Mostafa; S{\\o}gaard, Anders; Nivre, Joakim", "bib": "", "title": "Attention Can Reflect Syntactic Structure (If You Let It)", "url": "https://aclanthology.org/2021.eacl-main.264/"}
+{"author": "Vu, Thuy; Moschitti, Alessandro", "bib": "", "title": "CDA: a Cost Efficient Content-based Multilingual Web Document Aligner", "url": "https://aclanthology.org/2021.eacl-main.266/"}
+{"author": "Suadaa, Lya Hulliyyatus; Kamigaito, Hidetaka; Okumura, Manabu; Takamura, Hiroya", "bib": "", "title": "Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers", "url": "https://aclanthology.org/2021.eacl-main.267/"}
+{"author": "Glava{\\v{s}}, Goran; Vuli{\\'c}, Ivan", "bib": "", "title": "Is Supervised Syntactic Parsing Beneficial for Language Understanding Tasks? An Empirical Investigation", "url": "https://aclanthology.org/2021.eacl-main.270/"}
+{"author": "Milintsevich, Kirill; Sirts, Kairit", "bib": "", "title": "Enhancing Sequence-to-Sequence Neural Lemmatization with External Resources", "url": "https://aclanthology.org/2021.eacl-main.272/"}
+{"author": "Peng, Xutan; Zheng, Yi; Lin, Chenghua; Siddharthan, Advaith", "bib": "", "title": "Summarising Historical Text in Modern Languages", "url": "https://aclanthology.org/2021.eacl-main.273/"}
+{"author": "", "bib": "", "title": "The Ineffectiveness of Algorithmic Debiasing for Toxic Language Detection", "url": ""}
+{"author": "Sahu, Gaurav; Vechtomova, Olga", "bib": "", "title": "Adaptive Fusion Techniques for Multimodal Data", "url": "https://aclanthology.org/2021.eacl-main.275/"}
+{"author": "", "bib": "", "title": "Detecting Scenes in Fiction: A new Segmentation Task", "url": "https://aclanthology.org/2021.eacl-main.276/"}
+{"author": "Gupta, Shreya; Singh, Parantak; Sundriyal, Megha; Akhtar, Md. Shad; Chakraborty, Tanmoy", "bib": "", "title": "LESA: Linguistic Encapsulation and Semantic Amalgamation Based Generalised Claim Detection from Online Content", "url": "https://aclanthology.org/2021.eacl-main.277/"}
+{"author": "Ruzsics, Tatyana; Sozinova, Olga; Gutierrez-Vasques, Ximena; Samardzic, Tanja", "bib": "", "title": "Interpretability for morphological inflection: from character-level predictions to subword-level rules", "url": "https://aclanthology.org/2021.eacl-main.278/"}
+{"author": "Yu, Xiaojing; Jiang, Anxiao", "bib": "", "title": "Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates", "url": "https://aclanthology.org/2021.eacl-main.279/"}
+{"author": "Kwon, Ohjoon; Kim, Dohyun; Lee, Soo-Ryeon; Choi, Junyoung; Lee, SangKeun", "bib": "", "title": "Handling Out-Of-Vocabulary Problem in Hangeul Word Embeddings", "url": "https://aclanthology.org/2021.eacl-main.280/"}
+{"author": "Ive, Julia; Li, Andy Mingren; Miao, Yishu; Caglayan, Ozan; Madhyastha, Pranava; Specia, Lucia", "bib": "", "title": "Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.281/"}
+{"author": "Ferreira, Deborah; Freitas, Andr{\\'e}", "bib": "", "title": "STAR: Cross-modal [STA]tement [R]epresentation for selecting relevant mathematical premises", "url": "https://aclanthology.org/2021.eacl-main.282/"}
+{"author": "Zeng, Ziqian; Song, Yangqiu", "bib": "", "title": "Variational Weakly Supervised Sentiment Analysis with Posterior Regularization", "url": "https://aclanthology.org/2021.eacl-main.285/"}
+{"author": "Kanojia, Diptesh; Sharma, Prashant; Ghodekar, Sayali; Bhattacharyya, Pushpak; Haffari, Gholamreza; Kulkarni, Malhar", "bib": "", "title": "Cognition-aware Cognate Detection", "url": "https://aclanthology.org/2021.eacl-main.288/"}
+{"author": "Patro, Jasabanta; Baruah, Sabyasachee", "bib": "", "title": "A Simple Three-Step Approach for the Automatic Detection of Exaggerated Statements in Health Science News", "url": "https://aclanthology.org/2021.eacl-main.289/"}
+{"author": "Li, Mingxiao; Moens, Marie-Francine", "bib": "", "title": "Modeling Coreference Relations in Visual Dialog", "url": "https://aclanthology.org/2021.eacl-main.290/"}
+{"author": "Yaghoobzadeh, Yadollah; Mehri, Soroush; Tachet des Combes, Remi; Hazen, T. J.; Sordoni, Alessandro", "bib": "", "title": "Increasing Robustness to Spurious Correlations using Forgettable Examples", "url": "https://aclanthology.org/2021.eacl-main.291/"}
+{"author": "Huang, Shuo; Li, Zhuang; Qu, Lizhen; Pan, Lei", "bib": "", "title": "On Robustness of Neural Semantic Parsers", "url": "https://aclanthology.org/2021.eacl-main.292/"}
+{"author": "Almeida, Tiago; Matos, S{\\'e}rgio", "bib": "", "title": "Benchmarking a transformer-FREE model for ad-hoc retrieval", "url": "https://aclanthology.org/2021.eacl-main.293/"}
+{"author": "", "bib": "", "title": "On the Effect of Statistical Measures on Descriptive Complexity", "url": ""}
+{"author": "Ravichander, Abhilasha; Belinkov, Yonatan; Hovy, Eduard", "bib": "", "title": "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?", "url": "https://aclanthology.org/2021.eacl-main.295/"}
+{"author": "Hu, Chenlong; Feng, Yukun; Kamigaito, Hidetaka; Takamura, Hiroya; Okumura, Manabu", "bib": "", "title": "One-class Text Classification with Multi-Modal Deep Support Vector Data Description", "url": "https://aclanthology.org/2021.eacl-main.296/"}
+{"author": "Xypolopoulos, Christos; Tixier, Antoine; Vazirgiannis, Michalis", "bib": "", "title": "Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings", "url": "https://aclanthology.org/2021.eacl-main.297/"}
+{"author": "Abdul-Mageed, Muhammad; Elmadany, AbdelRahim; Nagoudi, El Moatez Billah; Pabbi, Dinesh; Verma, Kunal; Lin, Rannie", "bib": "", "title": "Mega-COV: A Billion-Scale Dataset of 100+ Languages for COVID-19", "url": "https://aclanthology.org/2021.eacl-main.298/"}
+{"author": "Srivastava, Saurabh; Patidar, Mayur; Chowdhury, Sudip; Agarwal, Puneet; Bhattacharya, Indrajit; Shroff, Gautam", "bib": "", "title": "Complex Question Answering on knowledge graphs using machine translation and multi-task learning", "url": "https://aclanthology.org/2021.eacl-main.300/"}
+{"author": "Cooper Stickland, Asa; Li, Xian; Ghazvininejad, Marjan", "bib": "", "title": "Recipes for Adapting Pre-trained Monolingual and Multilingual Models to Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.301/"}
+{"author": "Gutierrez-Vasques, Ximena; Bentz, Christian; Sozinova, Olga; Samardzic, Tanja", "bib": "", "title": "From characters to words: the turning point of BPE merges", "url": "https://aclanthology.org/2021.eacl-main.302/"}
+{"author": "Iwatsuki, Kenichi; Aizawa, Akiko", "bib": "", "title": "Communicative-Function-Based Sentence Classification for Construction of an Academic Formulaic Expression Database", "url": "https://aclanthology.org/2021.eacl-main.304/"}
+{"author": "Chalkidis, Ilias; Fergadiotis, Manos; Manginas, Nikolaos; Katakalou, Eva; Malakasiotis, Prodromos", "bib": "", "title": "Regulatory Compliance through Doc2Doc Information Retrieval: A case study in EU/UK legislation where text similarity has limitations", "url": "https://aclanthology.org/2021.eacl-main.305/"}
+{"author": "Thaine, Patricia; Penn, Gerald", "bib": "", "title": "The Chinese Remainder Theorem for Compact, Task-Precise, Efficient and Secure Word Embeddings", "url": "https://aclanthology.org/2021.eacl-main.306/"}
+{"author": "Mohiuddin, Tasnim; Jwalapuram, Prathyusha; Lin, Xiang; Joty, Shafiq", "bib": "", "title": "Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks", "url": "https://aclanthology.org/2021.eacl-main.308/"}
+{"author": "Balalau, Oana; Horincar, Roxana", "bib": "", "title": "From the Stage to the Audience: Propaganda on Reddit", "url": "https://aclanthology.org/2021.eacl-main.309/"}
+{"author": "Garcia, Marcos; Kramer Vieira, Tiago; Scarton, Carolina; Idiart, Marco; Villavicencio, Aline", "bib": "", "title": "Probing for idiomaticity in vector space models", "url": "https://aclanthology.org/2021.eacl-main.310/"}
+{"author": "Stajner, Sanja; Yenikent, Seren", "bib": "", "title": "Why Is MBTI Personality Detection from Texts a Difficult Task?", "url": "https://aclanthology.org/2021.eacl-main.312/"}
+{"author": "Hsieh, Lee Hsun; Lee, Yang-Yin; Lim, Ee-Peng", "bib": "", "title": "Enconter: Entity Constrained Progressive Sequence Generation via Insertion-based Transformer", "url": "https://aclanthology.org/2021.eacl-main.313/"}
+{"author": "Tarunesh, Ishan; Khyalia, Sushil; Kumar, Vishwajeet; Ramakrishnan, Ganesh; Jyothi, Preethi", "bib": "", "title": "Meta-Learning for Effective Multi-task and Multilingual Modelling", "url": "https://aclanthology.org/2021.eacl-main.314/"}
+{"author": "Vijayaraghavan, Prashanth; Roy, Deb", "bib": "", "title": "Lifelong Knowledge-Enriched Social Event Representation Learning", "url": "https://aclanthology.org/2021.eacl-main.317/"}
+{"author": "Zhao, Xinyan; Ding, Haibo; Feng, Zhe", "bib": "", "title": "GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition", "url": "https://aclanthology.org/2021.eacl-main.318/"}
+{"author": "Eberts, Markus; Ulges, Adrian", "bib": "", "title": "An End-to-end Model for Entity-level Relation Extraction using Multi-Instance Learning", "url": "https://aclanthology.org/2021.eacl-main.319/"}
+{"author": "Sheshadri, Akshay Krishna; Rao Vijjini, Anvesh; Kharbanda, Sukhdeep", "bib": "", "title": "WER-BERT: Automatic WER Estimation with BERT in a Balanced Ordinal Classification Paradigm", "url": "https://aclanthology.org/2021.eacl-main.320/"}
+{"author": "Dai, Qin; Inoue, Naoya; Takahashi, Ryo; Inui, Kentaro", "bib": "", "title": "Two Training Strategies for Improving Relation Extraction over Universal Graph", "url": "https://aclanthology.org/2021.eacl-main.321/"}
+{"author": "", "bib": "", "title": "Denoising Pseudo-Captions in Unsupervised Image Captioning", "url": ""}
+{"author": "Ye, Zihuiwen; Liu, Pengfei; Fu, Jinlan; Neubig, Graham", "bib": "", "title": "Towards More Fine-grained and Reliable NLP Performance Prediction", "url": "https://aclanthology.org/2021.eacl-main.324/"}
+{"author": "Haider, Thomas", "bib": "", "title": "Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features", "url": "https://aclanthology.org/2021.eacl-main.325/"}
+{"author": "Tian, Yuanhe; Chen, Guimin; Song, Yan", "bib": "", "title": "Enhancing Aspect-level Sentiment Analysis with Word Dependencies", "url": "https://aclanthology.org/2021.eacl-main.326/"}
+{"author": "", "bib": "", "title": "On the (In)Effectiveness of Images for Natural Language Processing", "url": ""}
+{"author": "Mozes, Maximilian; Stenetorp, Pontus; Kleinberg, Bennett; Griffin, Lewis", "bib": "", "title": "Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples", "url": "https://aclanthology.org/2021.eacl-main.13/"}
+{"author": "", "bib": "", "title": "“Talk to me with left, right, and angles”: Lexical entrainment in spoken Hebrew dialogue", "url": ""}
+{"author": "Belz, Anya; Agarwal, Shubham; Shimorina, Anastasia; Reiter, Ehud", "bib": "", "title": "A Systematic Review of Reproducibility Research in Natural Language Processing", "url": "https://aclanthology.org/2021.eacl-main.29/"}
+{"author": "Balasubramanian, Vikash; Kobyzev, Ivan; Bahuleyan, Hareesh; Shapiro, Ilya; Vechtomova, Olga", "bib": "", "title": "Polarized-VAE: Proximity Based Disentangled Representation Learning for Text Generation", "url": "https://aclanthology.org/2021.eacl-main.32/"}
+{"author": "Yadati, Naganand; R S, Dayanidhi; S, Vaishnavi; K M, Indira; G, Srinidhi", "bib": "", "title": "Knowledge Base Question Answering through Recursive Hypergraphs", "url": "https://aclanthology.org/2021.eacl-main.35/"}
+{"author": "Bjerva, Johannes; Augenstein, Isabelle", "bib": "", "title": "Does Typological Blinding Impede Cross-Lingual Sharing?", "url": "https://aclanthology.org/2021.eacl-main.38/"}
+{"author": "", "bib": "", "title": "Does She Wink or Does She Nod? A Challenging Benchmark for Evaluating Word Understanding of Language Models", "url": "https://aclanthology.org/2021.eacl-main.42/"}
+{"author": "Gogoulou, Evangelia; Boman, Magnus; Ben Abdesslem, Fehmi; Hentati Isacsson, Nils; Kaldo, Viktor; Sahlgren, Magnus", "bib": "", "title": "Predicting Treatment Outcome from Patient Texts:The Case of Internet-Based Cognitive Behavioural Therapy", "url": "https://aclanthology.org/2021.eacl-main.46/"}
+{"author": "Tuan, Yi-Lin; El-Kishky, Ahmed; Renduchintala, Adithya; Chaudhary, Vishrav; Guzm{\\'a}n, Francisco; Specia, Lucia", "bib": "", "title": "Quality Estimation without Human-labeled Data", "url": "https://aclanthology.org/2021.eacl-main.50/"}
+{"author": "Lin, Yi-Chung; Su, Keh-Yih", "bib": "", "title": "How Fast can BERT Learn Simple Natural Language Inference?", "url": "https://aclanthology.org/2021.eacl-main.51/"}
+{"author": "Gaido, Marco; Cettolo, Mauro; Negri, Matteo; Turchi, Marco", "bib": "", "title": "CTC-based Compression for Direct Speech Translation", "url": "https://aclanthology.org/2021.eacl-main.57/"}
+{"author": "Hou, Yufang; Jochim, Charles; Gleize, Martin; Bonin, Francesca; Ganguly, Debasis", "bib": "", "title": "TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics", "url": "https://aclanthology.org/2021.eacl-main.59/"}
+{"author": "Chang, Ernie; Yeh, Hui-Syuan; Demberg, Vera", "bib": "", "title": "Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning", "url": "https://aclanthology.org/2021.eacl-main.61/"}
+{"author": "Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; S{\\o}gaard, Anders", "bib": "", "title": "Ellipsis Resolution as Question Answering: An Evaluation", "url": "https://aclanthology.org/2021.eacl-main.68/"}
+{"author": "Malik, Vijit; Bhat, Ashwani; Modi, Ashutosh", "bib": "", "title": "Adv-OLM: Generating Textual Adversaries via OLM", "url": "https://aclanthology.org/2021.eacl-main.71/"}
+{"author": "Izacard, Gautier; Grave, Edouard", "bib": "", "title": "Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering", "url": "https://aclanthology.org/2021.eacl-main.74/"}
+{"author": "Zhu, Yi; Shareghi, Ehsan; Li, Yingzhen; Reichart, Roi; Korhonen, Anna", "bib": "", "title": "Combining Deep Generative Models and Multi-lingual Pretraining for Semi-supervised Document Classification", "url": "https://aclanthology.org/2021.eacl-main.76/"}
+{"author": "Escolano, Carlos; Costa-juss{\\`a}, Marta R.; Fonollosa, Jos{\\'e} A. R.; Artetxe, Mikel", "bib": "", "title": "Multilingual Machine Translation: Closing the Gap between Shared and Language-specific Encoder-Decoders", "url": "https://aclanthology.org/2021.eacl-main.80/"}
+{"author": "Tache, Anca Maria; G{\\u{a}}man, Mihaela; Ionescu, Radu Tudor", "bib": "", "title": "Clustering Word Embeddings with Self-Organizing Maps. Application on LaRoSeDa - A Large Romanian Sentiment Data Set", "url": "https://aclanthology.org/2021.eacl-main.81/"}
+{"author": "Thorne, James; Vlachos, Andreas", "bib": "", "title": "Elastic weight consolidation for better bias inoculation", "url": "https://aclanthology.org/2021.eacl-main.82/"}
+{"author": "Lewis, Patrick; Stenetorp, Pontus; Riedel, Sebastian", "bib": "", "title": "Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets", "url": "https://aclanthology.org/2021.eacl-main.86/"}
+{"author": "", "bib": "", "title": "Detecting Non-Topical Content in Podcasts", "url": ""}
+{"author": "Caglayan, Ozan; Kuyu, Menekse; Amac, Mustafa Sercan; Madhyastha, Pranava; Erdem, Erkut; Erdem, Aykut; Specia, Lucia", "bib": "", "title": "Cross-lingual Visual Pre-training for Multimodal Machine Translation", "url": "https://aclanthology.org/2021.eacl-main.112/"}
+{"author": "Elangovan, Aparna; He, Jiayuan; Verspoor, Karin", "bib": "", "title": "Memorization vs. Generalization : Quantifying Data Leakage in NLP Performance Evaluation", "url": "https://aclanthology.org/2021.eacl-main.113/"}
+{"author": "Forster, Martina; Meister, Clara; Cotterell, Ryan", "bib": "", "title": "Searching for Search Errors in Neural Morphological Inflection", "url": "https://aclanthology.org/2021.eacl-main.118/"}
+{"author": "Kano, Ryuji; Takahashi, Takumi; Nishino, Toru; Taniguchi, Motoki; Taniguchi, Tomoki; Ohkuma, Tomoko", "bib": "", "title": "Quantifying Appropriateness of Summarization Data for Curriculum Learning", "url": "https://aclanthology.org/2021.eacl-main.119/"}
+{"author": "Popa, Cristian; Rebedea, Traian", "bib": "", "title": "BART-TL: Weakly-Supervised Topic Label Generation", "url": "https://aclanthology.org/2021.eacl-main.121/"}
+{"author": "Liou, Yi-Ting; Chen, Chung-Chi; Huang, Hen-Hsen; Chen, Hsin-Hsi", "bib": "", "title": "Dynamic Graph Transformer for Implicit Tag Recognition", "url": "https://aclanthology.org/2021.eacl-main.122/"}
+{"author": "Lagutin, Evgeny; Gavrilov, Daniil; Kalaidin, Pavel", "bib": "", "title": "Implicit Unlikelihood Training: Improving Neural Text Generation with Reinforcement Learning", "url": "https://aclanthology.org/2021.eacl-main.123/"}
+{"author": "Wijnholds, Gijs; Moortgat, Michael", "bib": "", "title": "SICK-NL: A Dataset for Dutch Natural Language Inference", "url": "https://aclanthology.org/2021.eacl-main.126/"}
+{"author": "Ren, Xiaoying; Jiang, Jing; Serena Khoo, Ling Min; Chieu, Hai Leong", "bib": "", "title": "Cross-Topic Rumor Detection using Topic-Mixtures", "url": "https://aclanthology.org/2021.eacl-main.131/"}
+{"author": "Oguz, Cennet; Vu, Ngoc Thang", "bib": "", "title": "Few-shot Learning for Slot Tagging with Attentive Relational Network", "url": "https://aclanthology.org/2021.eacl-main.134/"}
+{"author": "Patel, Krutarth; Caragea, Cornelia", "bib": "", "title": "Exploiting Position and Contextual Word Embeddings for Keyphrase Extraction from Scientific Papers", "url": "https://aclanthology.org/2021.eacl-main.136/"}
+{"author": "", "bib": "", "title": "Cross-lingual Zero-shot Topic Models with Contextualized Embeddings", "url": ""}
+{"author": "Yela-Bello, Jenny Paola; Oglethorpe, Ewan; Rekabsaz, Navid", "bib": "", "title": "MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization", "url": "https://aclanthology.org/2021.eacl-main.146/"}
+{"author": "Portelli, Beatrice; Lenzi, Edoardo; Chersoni, Emmanuele; Serra, Giuseppe; Santus, Enrico", "bib": "", "title": "BERT Prescriptions to Avoid Unwanted Headaches: A Comparison of Transformer Architectures for Adverse Drug Event Detection", "url": "https://aclanthology.org/2021.eacl-main.149/"}
+{"author": "Sen, Priyanka; Groves, Isabel", "bib": "", "title": "Semantic Parsing of Disfluent Speech", "url": "https://aclanthology.org/2021.eacl-main.150/"}
+{"author": "He, Tianxing; McCann, Bryan; Xiong, Caiming; Hosseini-Asl, Ehsan", "bib": "", "title": "Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models", "url": "https://aclanthology.org/2021.eacl-main.151/"}
+{"author": "", "bib": "", "title": "What Sounds “Right” to Me? Experiential Factors in the Perception of Political Ideology", "url": ""}
+{"author": "S{\\o}gaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja", "bib": "", "title": "We Need To Talk About Random Splits", "url": "https://aclanthology.org/2021.eacl-main.156/"}
+{"author": "Shelmanov, Artem; Tsymbalov, Evgenii; Puzyrev, Dmitri; Fedyanin, Kirill; Panchenko, Alexander; Panov, Maxim", "bib": "", "title": "How Certain is Your {T}ransformer?", "url": "https://aclanthology.org/2021.eacl-main.157/"}
+{"author": "Yerukola, Akhila; Bretan, Mason; Jin, Hongxia", "bib": "", "title": "Data Augmentation for Voice-Assistant NLU using BERT-based Interchangeable Rephrase", "url": "https://aclanthology.org/2021.eacl-main.159/"}
+{"author": "Wu, Shijie; Cotterell, Ryan; Hulden, Mans", "bib": "", "title": "Applying the Transformer to Character-level Transduction", "url": "https://aclanthology.org/2021.eacl-main.163/"}
+{"author": "Pergola, Gabriele; Kochkina, Elena; Gui, Lin; Liakata, Maria; He, Yulan", "bib": "", "title": "Boosting Low-Resource Biomedical QA via Entity-Aware Masking Strategies", "url": "https://aclanthology.org/2021.eacl-main.169/"}
+{"author": "Fu, Lisheng; Grishman, Ralph", "bib": "", "title": "Learning Relatedness between Types with Prototypes for Relation Extraction", "url": "https://aclanthology.org/2021.eacl-main.172/"}
+{"author": "Chen, Pei; Liu, Kang; Chen, Yubo; Wang, Taifeng; Zhao, Jun", "bib": "", "title": "Probing into the Root: A Dataset for Reason Extraction of Structural Events from Financial Documents", "url": "https://aclanthology.org/2021.eacl-main.175/"}
+{"author": "Fournier, Louis; Dunbar, Ewan", "bib": "", "title": "Paraphrases do not explain word analogies", "url": "https://aclanthology.org/2021.eacl-main.182/"}
+{"author": "Suglia, Alessandro; Bisk, Yonatan; Konstas, Ioannis; Vergari, Antonio; Bastianelli, Emanuele; Vanzo, Andrea; Lemon, Oliver", "bib": "", "title": "An Empirical Study on the Generalization Power of Neural Representations Learned via Visual Guessing Games", "url": "https://aclanthology.org/2021.eacl-main.183/"}
+{"author": "Muller, Benjamin; Elazar, Yanai; Sagot, Beno{\\^i}t; Seddah, Djam{\\'e}", "bib": "", "title": "First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT", "url": "https://aclanthology.org/2021.eacl-main.189/"}
+{"author": "", "bib": "", "title": "On the evolution of syntactic information encoded by BERT’s contextualized representations", "url": ""}
+{"author": "Yan, An; Wang, Xin; Fu, Tsu-Jui; Wang, William Yang", "bib": "", "title": "L2C: Describing Visual Differences Needs Semantic Understanding of Individuals", "url": "https://aclanthology.org/2021.eacl-main.196/"}
+{"author": "Jiang, Tianyu; Riloff, Ellen", "bib": "", "title": "Exploiting Definitions for Frame Identification", "url": "https://aclanthology.org/2021.eacl-main.206/"}
+{"author": "Krishna, Satyapriya; Gupta, Rahul; Dupuy, Christophe", "bib": "", "title": "ADePT: Auto-encoder based Differentially Private Text Transformation", "url": "https://aclanthology.org/2021.eacl-main.207/"}
+{"author": "", "bib": "", "title": "Unsupervised Extractive Summarization using Mutual Information", "url": ""}
+{"author": "Morishita, Makoto; Suzuki, Jun; Iwata, Tomoharu; Nagata, Masaaki", "bib": "", "title": "Context-aware Neural Machine Translation with Mini-batch Embedding", "url": "https://aclanthology.org/2021.eacl-main.214/"}
+{"author": "Weller, Orion; Sperber, Matthias; Gollan, Christian; Kluivers, Joris", "bib": "", "title": "Streaming Models for Joint Speech Recognition and Translation", "url": "https://aclanthology.org/2021.eacl-main.216/"}
+{"author": "Ozaki, Hiroaki; Morio, Gaku; Morishita, Terufumi; Miyoshi, Toshinori", "bib": "", "title": "Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing", "url": "https://aclanthology.org/2021.eacl-main.221/"}
+{"author": "Solawetz, Jacob; Larson, Stefan", "bib": "", "title": "LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction", "url": "https://aclanthology.org/2021.eacl-main.222/"}
+{"author": "Chowdhury, Radia Rayan; Nayeem, Mir Tafseer; Mim, Tahsin Tasnim; Chowdhury, Md. Saifur Rahman; Jannat, Taufiqul", "bib": "", "title": "Unsupervised Abstractive Summarization of Bengali Text Documents", "url": "https://aclanthology.org/2021.eacl-main.224/"}
+{"author": "Davis, Fineen; Santos, Eddie A.; Souter, Heather", "bib": "", "title": "On the Computational Modelling of Michif Verbal Morphology", "url": "https://aclanthology.org/2021.eacl-main.226/"}
+{"author": "Mou, Xiangyang; Yu, Mo; Chang, Shiyu; Feng, Yufei; Zhang, Li; Su, Hui", "bib": "", "title": "Complementary Evidence Identification in Open-Domain Question Answering", "url": "https://aclanthology.org/2021.eacl-main.234/"}
+{"author": "Nan, Feng; Nallapati, Ramesh; Wang, Zhiguo; Nogueira dos Santos, Cicero; Zhu, Henghui; Zhang, Dejiao; McKeown, Kathleen; Xiang, Bing", "bib": "", "title": "Entity-level Factual Consistency of Abstractive Text Summarization", "url": "https://aclanthology.org/2021.eacl-main.235/"}
+{"author": "Le, Duong; Nguyen, Thien Huu", "bib": "", "title": "Fine-Grained Event Trigger Detection", "url": "https://aclanthology.org/2021.eacl-main.237/"}
+{"author": "Zhao, Sanqiang; Gupta, Raghav; Song, Yang; Zhou, Denny", "bib": "", "title": "Extremely Small BERT Models from Mixed-Vocabulary Training", "url": "https://aclanthology.org/2021.eacl-main.238/"}
+{"author": "Han, Xudong; Baldwin, Timothy; Cohn, Trevor", "bib": "", "title": "Diverse Adversaries for Mitigating Bias in Training", "url": "https://aclanthology.org/2021.eacl-main.239/"}
+{"author": "", "bib": "", "title": "`Just because you are right, doesn’t mean I am wrong’: Overcoming a bottleneck in development and evaluation of Open-Ended VQA tasks", "url": ""}
+{"author": "Xiang, Beilei; Yang, Changbing; Li, Yu; Warstadt, Alex; Kann, Katharina", "bib": "", "title": "CLiMP: A Benchmark for Chinese Language Model Evaluation", "url": "https://aclanthology.org/2021.eacl-main.242/"}
+{"author": "Jambor, Dora; Teru, Komal; Pineau, Joelle; Hamilton, William L.", "bib": "", "title": "Exploring the Limits of Few-Shot Link Prediction in Knowledge Graphs", "url": "https://aclanthology.org/2021.eacl-main.245/"}
+{"author": "Sankar, Chinnadhurai; Ravi, Sujith; Kozareva, Zornitsa", "bib": "", "title": "ProFormer: Towards On-Device LSH Projection Based Transformers", "url": "https://aclanthology.org/2021.eacl-main.246/"}
+{"author": "Sankar, Chinnadhurai; Ravi, Sujith; Kozareva, Zornitsa", "bib": "", "title": "On-Device Text Representations Robust To Misspellings via Projections", "url": "https://aclanthology.org/2021.eacl-main.250/"}
+{"author": "Wei, Jason; Huang, Chengyu; Xu, Shiqi; Vosoughi, Soroush", "bib": "", "title": "Text Augmentation in a Multi-Task View", "url": "https://aclanthology.org/2021.eacl-main.252/"}
+{"author": "Han, Rujun; Soldaini, Luca; Moschitti, Alessandro", "bib": "", "title": "Modeling Context in Answer Sentence Selection Systems on a Latency Budget", "url": "https://aclanthology.org/2021.eacl-main.261/"}
+{"author": "Huang, Yin Jou; Kurohashi, Sadao", "bib": "", "title": "Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph", "url": "https://aclanthology.org/2021.eacl-main.265/"}
+{"author": "Guda, Bhanu Prakash Reddy; Garimella, Aparna; Chhaya, Niyati", "bib": "", "title": "EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction", "url": "https://aclanthology.org/2021.eacl-main.268/"}
+{"author": "Li, Bingzhi; Wisniewski, Guillaume", "bib": "", "title": "Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense", "url": "https://aclanthology.org/2021.eacl-main.269/"}
+{"author": "Bergmanis, Toms; Pinnis, M{\\={a}}rcis", "bib": "", "title": "Facilitating Terminology Translation with Target Lemma Annotations", "url": "https://aclanthology.org/2021.eacl-main.271/"}
+{"author": "Tang, Yixuan; Ng, Hwee Tou; Tung, Anthony", "bib": "", "title": "Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop Sub-Questions?", "url": "https://aclanthology.org/2021.eacl-main.283/"}
+{"author": "", "bib": "", "title": "Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models", "url": "https://aclanthology.org/2021.eacl-main.284/"}
+{"author": "Conia, Simone; Navigli, Roberto", "bib": "", "title": "Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Knowledge Integration", "url": "https://aclanthology.org/2021.eacl-main.286/"}
+{"author": "Kim, Gihwan; Ko, Youngjoong", "bib": "", "title": "Graph-based Fake News Detection using a Summarization Technique", "url": "https://aclanthology.org/2021.eacl-main.287/"}
+{"author": "Saini, Nikhil; Trivedi, Drumil; Khare, Shreya; Dhamecha, Tejas; Jyothi, Preethi; Bharadwaj, Samarth; Bhattacharyya, Pushpak", "bib": "", "title": "Disfluency Correction using Unsupervised and Semi-supervised Learning", "url": "https://aclanthology.org/2021.eacl-main.299/"}
+{"author": "Kunchukuttan, Anoop; Jain, Siddharth; Kejriwal, Rahul", "bib": "", "title": "A Large-scale Evaluation of Neural Machine Transliteration for Indic Languages", "url": "https://aclanthology.org/2021.eacl-main.303/"}
+{"author": "", "bib": "", "title": "Don’t Change Me! User-Controllable Selective Paraphrase Generation", "url": ""}
+{"author": "Wu, Yulong; Schlegel, Viktor; Batista-Navarro, Riza", "bib": "", "title": "Is the Understanding of Explicit Discourse Relations Required in Machine Reading Comprehension?", "url": "https://aclanthology.org/2021.eacl-main.311/"}
+{"author": "", "bib": "", "title": "“Killing Me” Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism", "url": ""}
+{"author": "Haviv, Adi; Berant, Jonathan; Globerson, Amir", "bib": "", "title": "BERTese: Learning to Speak to BERT", "url": "https://aclanthology.org/2021.eacl-main.316/"}
+{"author": "Lee, WonKee; Jung, Baikjin; Shin, Jaehun; Lee, Jong-Hyeok", "bib": "", "title": "Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation", "url": "https://aclanthology.org/2021.eacl-main.322/"}
