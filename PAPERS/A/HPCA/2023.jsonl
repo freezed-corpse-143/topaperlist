@@ -1,0 +1,95 @@
+{"author":"","bib":"","title":"IEEE International Symposium on High-Performance Computer Architecture, HPCA 2023, Montreal, QC, Canada, February 25 - March 1, 2023","url":""}
+{"author":"","bib":"","title":"SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional Network Accelerators","url":""}
+{"author":"","bib":"","title":"PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator","url":""}
+{"author":"","bib":"","title":"INCA: Input-stationary Dataflow at Outside-the-box Thinking about Deep Learning Accelerators","url":""}
+{"author":"","bib":"","title":"GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks","url":""}
+{"author":"","bib":"","title":"Logical/Physical Topology-Aware Collective Communication in Deep Learning Training","url":""}
+{"author":"","bib":"","title":"Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation","url":""}
+{"author":"","bib":"","title":"AstriFlash A Flash-Based System for Online Services","url":""}
+{"author":"","bib":"","title":"Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs","url":""}
+{"author":"","bib":"","title":"Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Consistent Memory-Mapped I/O","url":""}
+{"author":"","bib":"","title":"MGC: Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs","url":""}
+{"author":"","bib":"","title":"Baryon: Efficient Hybrid Memory Management with Compression and Sub-Blocking","url":""}
+{"author":"","bib":"","title":"Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems","url":""}
+{"author":"","bib":"","title":"ACIC: Admission-Controlled Instruction Cache","url":""}
+{"author":"","bib":"","title":"Compression-Aware and Performance-Efficient Insertion Policies for Long-Lasting Hybrid LLCs","url":""}
+{"author":"","bib":"","title":"NOMAD: Enabling Non-blocking OS-managed DRAM Cache via Tag-Data Decoupling","url":""}
+{"author":"","bib":"","title":"Safety Hints for HTM Capacity Abort Mitigation","url":""}
+{"author":"","bib":"","title":"iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training","url":""}
+{"author":"","bib":"","title":"Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches","url":""}
+{"author":"","bib":"","title":"HIRAC: A Hierarchical Accelerator with Sorting-based Packing for SpGEMMs in DNN Applications","url":""}
+{"author":"","bib":"","title":"VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs","url":""}
+{"author":"","bib":"","title":"ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design","url":""}
+{"author":"","bib":"","title":"Leveraging Domain Information for the Efficient Automated Design of Deep Learning Accelerators","url":""}
+{"author":"","bib":"","title":"DIMM-Link: Enabling Efficient Inter-DIMM Communication for Near-Memory Processing","url":""}
+{"author":"","bib":"","title":"AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks","url":""}
+{"author":"","bib":"","title":"SHADOW: Preventing Row Hammer in DRAM with Intra-Subarray Row Shuffling","url":""}
+{"author":"","bib":"","title":"Efficient Distributed Secure Memory with Migratable Merkle Tree","url":""}
+{"author":"","bib":"","title":"AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM","url":""}
+{"author":"","bib":"","title":"Scalable and Secure Row-Swap: Efficient and Safe Row Hammer Mitigation in Memory Systems","url":""}
+{"author":"","bib":"","title":"Post0-VR: Enabling Universal Realistic Rendering for Modern VR via Exploiting Architectural Similarity and Data Sharing","url":""}
+{"author":"","bib":"","title":"ParallelNN: A Parallel Octree-based Nearest Neighbor Search Accelerator for 3D Point Clouds","url":""}
+{"author":"","bib":"","title":"ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention","url":""}
+{"author":"","bib":"","title":"CTA: Hardware-Software Co-design for Compressed Token Attention Mechanism","url":""}
+{"author":"","bib":"","title":"HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers","url":""}
+{"author":"","bib":"","title":"Trans-FW: Short Circuiting Page Table Walk in Multi-GPU Systems via Remote Forwarding","url":""}
+{"author":"","bib":"","title":"Ah-Q: Quantifying and Handling the Interference within a Datacenter from a System Perspective","url":""}
+{"author":"","bib":"","title":"Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems","url":""}
+{"author":"","bib":"","title":"Rambda: RDMA-driven Acceleration Framework for Memory-intensive µs-scale Datacenter Applications","url":""}
+{"author":"","bib":"","title":"FinePack: Transparently Improving the Efficiency of Fine-Grained Transfers in Multi-GPU Systems","url":""}
+{"author":"","bib":"","title":"Mitigating GPU Core Partitioning Performance Effects","url":""}
+{"author":"","bib":"","title":"Plutus: Bandwidth-Efficient Memory Security for GPUs","url":""}
+{"author":"","bib":"","title":"MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism","url":""}
+{"author":"","bib":"","title":"DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling","url":""}
+{"author":"","bib":"","title":"CEGMA: Coordinated Elastic Graph Matching Acceleration for Graph Matching Networks","url":""}
+{"author":"","bib":"","title":"ISOSceles: Accelerating Sparse CNNs through Inter-Layer Pipelining","url":""}
+{"author":"","bib":"","title":"OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing","url":""}
+{"author":"","bib":"","title":"KRISP: Enabling Kernel-wise RIght-sizing for Spatial Partitioned GPU Inference Servers","url":""}
+{"author":"","bib":"","title":"MERCURY: Accelerating DNN Training By Exploiting Input Similarity","url":""}
+{"author":"","bib":"","title":"Silo: Speculative Hardware Logging for Atomic Durability in Persistent Memory","url":""}
+{"author":"","bib":"","title":"Reconciling Selective Logging and Hardware Persistent Memory Transaction","url":""}
+{"author":"","bib":"","title":"SecPB: Architectures for Secure Non-Volatile Memory with Battery-Backed Persist Buffers","url":""}
+{"author":"","bib":"","title":"EVE: Ephemeral Vector Engines","url":""}
+{"author":"","bib":"","title":"On Consistency for Bulk-Bitwise Processing-in-Memory","url":""}
+{"author":"","bib":"","title":"Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications","url":""}
+{"author":"","bib":"","title":"HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL","url":""}
+{"author":"","bib":"","title":"Duet: Creating Harmony between Processors and Embedded FPGAs","url":""}
+{"author":"","bib":"","title":"Co-Designed Architectures for Modular Superconducting Quantum Computers","url":""}
+{"author":"","bib":"","title":"A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis","url":""}
+{"author":"","bib":"","title":"The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs","url":""}
+{"author":"","bib":"","title":"eNODE: Energy-Efficient and Low-Latency Edge Inference and Training of Neural ODEs","url":""}
+{"author":"","bib":"","title":"SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution","url":""}
+{"author":"","bib":"","title":"MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks","url":""}
+{"author":"","bib":"","title":"Know Your Enemy To Save Cloud Energy: Energy-Performance Characterization of Machine Learning Serving","url":""}
+{"author":"","bib":"","title":"Adrias: Interference-Aware Memory Orchestration for Disaggregated Cloud Infrastructures","url":""}
+{"author":"","bib":"","title":"Poseidon: Practical Homomorphic Encryption Accelerator","url":""}
+{"author":"","bib":"","title":"FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption","url":""}
+{"author":"","bib":"","title":"FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference","url":""}
+{"author":"","bib":"","title":"D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives","url":""}
+{"author":"","bib":"","title":"TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU","url":""}
+{"author":"","bib":"","title":"AVGI: Microarchitecture-Driven, Fast and Accurate Vulnerability Assessment","url":""}
+{"author":"","bib":"","title":"Realizing Extreme Endurance Through Fault-aware Wear Leveling and Improved Tolerance","url":""}
+{"author":"","bib":"","title":"ESD: An ECC-assisted and Selective Deduplication for Encrypted Non-Volatile Main Memory","url":""}
+{"author":"","bib":"","title":"A Systematic Study of DDR4 DRAM Faults in the Field","url":""}
+{"author":"","bib":"","title":"High Performance and Power Efficient Accelerator for Cloud Inference","url":""}
+{"author":"","bib":"","title":"LightTrader: A Standalone High-Frequency Trading System with Deep Learning Inference Accelerators and Proactive Scheduler","url":""}
+{"author":"","bib":"","title":"BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment","url":""}
+{"author":"","bib":"","title":"Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs","url":""}
+{"author":"","bib":"","title":"A Scalable Methodology for Designing Efficient Interconnection Network of Chiplets","url":""}
+{"author":"","bib":"","title":"VVQ: Virtualizing Virtual Channel for Cost-Efficient Protocol Deadlock Avoidance","url":""}
+{"author":"","bib":"","title":"Mix-GEMM: An efficient HW-SW Architecture for Mixed-Precision Quantized Deep Neural Networks Inference on Edge Devices","url":""}
+{"author":"","bib":"","title":"FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference","url":""}
+{"author":"","bib":"","title":"Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion","url":""}
+{"author":"","bib":"","title":"Securator: A Fast and Secure Neural Processing Unit","url":""}
+{"author":"","bib":"","title":"Tensor Movement Orchestration in Multi-GPU Training Systems","url":""}
+{"author":"","bib":"","title":"A Storage-Effective BTB Organization for Servers","url":""}
+{"author":"","bib":"","title":"HoPP: Hardware-Software Co-Designed Page Prefetching for Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"Speculative Register Reclamation","url":""}
+{"author":"","bib":"","title":"SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs","url":""}
+{"author":"","bib":"","title":"CARE: A Concurrency-Aware Enhanced Lightweight Cache Management Framework","url":""}
+{"author":"","bib":"","title":"Memory-Efficient Hashed Page Tables","url":""}
+{"author":"","bib":"","title":"NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling","url":""}
+{"author":"","bib":"","title":"Efficient Supernet Training Using Path Parallelism","url":""}
+{"author":"","bib":"","title":"Phloem: Automatic Acceleration of Irregular Applications with Fine-Grain Pipeline Parallelism","url":""}
+{"author":"","bib":"","title":"CHOPPER: A Compiler Infrastructure for Programmable Bit-serial SIMD Processing Using Memory in DRAM","url":""}
+{"author":"","bib":"","title":"VAQUERO: A Scratchpad-based Vector Accelerator for Query Processing","url":""}

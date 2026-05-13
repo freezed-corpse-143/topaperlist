@@ -1,0 +1,69 @@
+{"author":"","bib":"","title":"PLDI '22: 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, San Diego, CA, USA, June 13 - 17, 2022","url":""}
+{"author":"","bib":"","title":"Modular information flow through ownership","url":""}
+{"author":"","bib":"","title":"ANOSY: approximated knowledge synthesis with refinement types for declassification","url":""}
+{"author":"","bib":"","title":"Hardening attack surfaces with formally proven binary format parsers","url":""}
+{"author":"","bib":"","title":"P4BID: information flow control in p4","url":""}
+{"author":"","bib":"","title":"Turning manual concurrent memory reclamation into automatic reference counting","url":""}
+{"author":"","bib":"","title":"Low-latency, high-throughput garbage collection","url":""}
+{"author":"","bib":"","title":"Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters","url":""}
+{"author":"","bib":"","title":"PaC-trees: supporting parallel and compressed purely-functional collections","url":""}
+{"author":"","bib":"","title":"Type-directed program synthesis for RESTful APIs","url":""}
+{"author":"","bib":"","title":"Visualization question answering using introspective program synthesis","url":""}
+{"author":"","bib":"","title":"WebRobot: web robotic process automation using interactive programming-by-demonstration","url":""}
+{"author":"","bib":"","title":"Synthesizing analytical SQL queries from computation demonstration","url":""}
+{"author":"","bib":"","title":"Finding typing compiler bugs","url":""}
+{"author":"","bib":"","title":"IRDL: an IR definition language for SSA compilers","url":""}
+{"author":"","bib":"","title":"Sequential reasoning for optimizing compilers under weak memory concurrency","url":""}
+{"author":"","bib":"","title":"Can reactive synthesis and syntax-guided synthesis be friends?","url":""}
+{"author":"","bib":"","title":"Recursion synthesis with unrealizability witnesses","url":""}
+{"author":"","bib":"","title":"\"Synthesizing input grammars\": a replication study","url":""}
+{"author":"","bib":"","title":"Autoscheduling for sparse tensor algebra with an asymptotic cost model","url":""}
+{"author":"","bib":"","title":"DISTAL: the distributed tensor algebra compiler","url":""}
+{"author":"","bib":"","title":"All you need is superword-level parallelism: systematic control-flow vectorization with SLP","url":""}
+{"author":"","bib":"","title":"Warping cache simulation of polyhedral programs","url":""}
+{"author":"","bib":"","title":"Certified mergeable replicated data types","url":""}
+{"author":"","bib":"","title":"Hamband: RDMA replicated data types","url":""}
+{"author":"","bib":"","title":"RunTime-assisted convergence in replicated data types","url":""}
+{"author":"","bib":"","title":"Adore: atomic distributed objects with certified reconfiguration","url":""}
+{"author":"","bib":"","title":"CycleQ: an efficient basis for cyclic equational reasoning","url":""}
+{"author":"","bib":"","title":"Finding the dwarf: recovering precise types from WebAssembly binaries","url":""}
+{"author":"","bib":"","title":"Abstract interpretation repair","url":""}
+{"author":"","bib":"","title":"Differential cost analysis with simultaneous potentials and anti-potentials","url":""}
+{"author":"","bib":"","title":"A flexible type system for fearless concurrency","url":""}
+{"author":"","bib":"","title":"A study of real-world data races in Golang","url":""}
+{"author":"","bib":"","title":"Checking robustness to weak persistency models","url":""}
+{"author":"","bib":"","title":"Sound sequentialization for concurrent program verification","url":""}
+{"author":"","bib":"","title":"Choosing mathematical function implementations for speed and accuracy","url":""}
+{"author":"","bib":"","title":"Guaranteed bounds for posterior inference in universal probabilistic programming","url":""}
+{"author":"","bib":"","title":"Progressive polynomial approximations for fast correctly rounded math libraries","url":""}
+{"author":"","bib":"","title":"A typed continuation-passing translation for lexical effect handlers","url":""}
+{"author":"","bib":"","title":"Deep and shallow types for gradual languages","url":""}
+{"author":"","bib":"","title":"Kleene algebra modulo theories: a framework for concrete KATs","url":""}
+{"author":"","bib":"","title":"Semantic soundness for language interoperability","url":""}
+{"author":"","bib":"","title":"Quartz: superoptimization of Quantum circuits","url":""}
+{"author":"","bib":"","title":"Giallar: push-button verification for the qiskit Quantum compiler","url":""}
+{"author":"","bib":"","title":"Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra","url":""}
+{"author":"","bib":"","title":"PyLSE: a pulse-transfer level language for superconductor electronics","url":""}
+{"author":"","bib":"","title":"Bind the gap: compiling real software to hardware FFT accelerators","url":""}
+{"author":"","bib":"","title":"Exocompilation for productive programming of hardware accelerators","url":""}
+{"author":"","bib":"","title":"PDL: a high-level hardware design language for pipelined processors","url":""}
+{"author":"","bib":"","title":"Software-hardware codesign for efficient in-memory regular pattern matching","url":""}
+{"author":"","bib":"","title":"Deoptless: speculation with dispatched on-stack replacement and specialized continuations","url":""}
+{"author":"","bib":"","title":"Karp: a language for NP reductions","url":""}
+{"author":"","bib":"","title":"WARio: efficient code generation for intermittent computing","url":""}
+{"author":"","bib":"","title":"Compass: strong and compositional library specifications in relaxed memory separation logic","url":""}
+{"author":"","bib":"","title":"Diaframe: automated verification of fine-grained concurrent programs in Iris","url":""}
+{"author":"","bib":"","title":"Islaris: verification of machine code against authoritative ISA semantics","url":""}
+{"author":"","bib":"","title":"RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code","url":""}
+{"author":"","bib":"","title":"Efficient approximations for cache-conscious data placement","url":""}
+{"author":"","bib":"","title":"FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs","url":""}
+{"author":"","bib":"","title":"Lasagne: a static binary translator for weak memory model architectures","url":""}
+{"author":"","bib":"","title":"Verifying optimizations of concurrent programs in the promising semantics","url":""}
+{"author":"","bib":"","title":"Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code","url":""}
+{"author":"","bib":"","title":"Formally verified lifting of C-compiled x86-64 binaries","url":""}
+{"author":"","bib":"","title":"Leapfrog: certified equivalence for protocol parsers","url":""}
+{"author":"","bib":"","title":"Computing correctly with inductive relations","url":""}
+{"author":"","bib":"","title":"Interpreter-guided differential JIT compiler unit testing","url":""}
+{"author":"","bib":"","title":"Landmarks and regions: a robust approach to data extraction","url":""}
+{"author":"","bib":"","title":"Odin: on-demand instrumentation with on-the-fly recompilation","url":""}
+{"author":"","bib":"","title":"Quickstrom: property-based acceptance testing with LTL specifications","url":""}

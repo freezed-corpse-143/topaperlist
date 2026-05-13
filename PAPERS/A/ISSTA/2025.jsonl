@@ -1,0 +1,118 @@
+{"author":"","bib":"","title":"InfraFix: Technology-Agnostic Repair of Infrastructure as Code","url":""}
+{"author":"","bib":"","title":"Kitten: A Simple Yet Effective Baseline for Evaluating LLM-Based Compiler Testing Techniques","url":""}
+{"author":"","bib":"","title":"GoPV: A Static Analyzer for Finding Blocking Concurrency Bugs Due to Misuse of Shared-Memory Synchronization in Go","url":""}
+{"author":"","bib":"","title":"TBFV4J: An Automated Testing-Based Formal Verification Tool for Java","url":""}
+{"author":"","bib":"","title":"PatchScope – A Modular Tool for Annotating and Analyzing Contributions","url":""}
+{"author":"","bib":"","title":"Code2API: A Tool for Generating Reusable APIs from Stack Overflow Code Snippets","url":""}
+{"author":"","bib":"","title":"LiPSBOMaker: A Prototype of Multi-Stage Linux Distribution Package SBOM Generator","url":""}
+{"author":"","bib":"","title":"ASTRAL: A Tool for the Automated Safety Testing of Large Language Models","url":""}
+{"author":"","bib":"","title":"ReGraph: A Tool for Binary Similarity Identification","url":""}
+{"author":"","bib":"","title":"Teaching Software Testing and Debugging with the Serious Game Sojourner under Sabotage","url":""}
+{"author":"","bib":"","title":"XAVIER: Grammar-Based Testing for XML Injection Attacks","url":""}
+{"author":"","bib":"","title":"Adding Spatial Memory Safety to EDK II through Checked C (Experience Paper)","url":""}
+{"author":"","bib":"","title":"AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent","url":""}
+{"author":"","bib":"","title":"A Large-scale Empirical Study on Fine-tuning Large Language Models for Unit Testing","url":""}
+{"author":"","bib":"","title":"ALMOND: Learning an Assembly Language Model for 0-Shot Code Obfuscation Detection","url":""}
+{"author":"","bib":"","title":"A Low-Cost Feature Interaction Fault Localization Approach for Software Product Lines","url":""}
+{"author":"","bib":"","title":"An Investigation on Numerical Bugs in GPU Programs Towards Automated Bug Detection","url":""}
+{"author":"","bib":"","title":"Are Autonomous Web Agents good testers?","url":""}
+{"author":"","bib":"","title":"Assessing Scene Generation Techniques for Testing COLREGS-Compliance of Autonomous Surface Vehicles","url":""}
+{"author":"","bib":"","title":"AudioTest: Prioritizing Audio Test Cases","url":""}
+{"author":"","bib":"","title":"Automated Attack Synthesis for Constant Product Market Makers","url":""}
+{"author":"","bib":"","title":"Automated Test Transfer Across Android Apps Using Large Language Models","url":""}
+{"author":"","bib":"","title":"Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs","url":""}
+{"author":"","bib":"","title":"BinDSA: Efficient, Precise Binary-Level Pointer Analysis with Context-Sensitive Heap Reconstruction","url":""}
+{"author":"","bib":"","title":"BinQuery: A Novel Framework for Natural Language-Based Binary Code Retrieval","url":""}
+{"author":"","bib":"","title":"Bridge the Islands: Pointer Analysis for Microservice Systems","url":""}
+{"author":"","bib":"","title":"Bridging the Gaps Between Graph Neural Networks and Data-Flow Analysis: The Closer, the Better","url":""}
+{"author":"","bib":"","title":"Can LLMs replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering Tasks","url":""}
+{"author":"","bib":"","title":"Causality-Aided Evaluation and Explanation of Large Language Model-based Code Generation","url":""}
+{"author":"","bib":"","title":"ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation","url":""}
+{"author":"","bib":"","title":"Clause2Inv: A Generate-Combine-Check Framework for Loop Invariant Inference","url":""}
+{"author":"","bib":"","title":"ConTested: Consistency-Aided Tested Code Generation with LLM","url":""}
+{"author":"","bib":"","title":"Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts","url":""}
+{"author":"","bib":"","title":"CrossProbe: LLM-empowered Cross-Project Bug Detection for Deep Learning Frameworks","url":""}
+{"author":"","bib":"","title":"DataHook: An Efficient and Lightweight System Call Hooking Technique without Instruction Modification","url":""}
+{"author":"","bib":"","title":"DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code","url":""}
+{"author":"","bib":"","title":"DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction","url":""}
+{"author":"","bib":"","title":"DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems","url":""}
+{"author":"","bib":"","title":"Detecting Isolation Anomalies in Relational DBMSs","url":""}
+{"author":"","bib":"","title":"Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration","url":""}
+{"author":"","bib":"","title":"Dynamically Fusing Python HPC Kernels","url":""}
+{"author":"","bib":"","title":"Effective REST APIs Testing with Error Message Analysis","url":""}
+{"author":"","bib":"","title":"Enhanced Prompting Framework for Code Summarization with Large Language Models","url":""}
+{"author":"","bib":"","title":"Enhancing Smart Contract Security Analysis with Execution Property Graphs","url":""}
+{"author":"","bib":"","title":"Enhancing Vulnerability Detection via Inter-procedural Semantic Completion","url":""}
+{"author":"","bib":"","title":"Extended Reality Cybersickness Assessment via User Review Analysis","url":""}
+{"author":"","bib":"","title":"Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models","url":""}
+{"author":"","bib":"","title":"FANDANGO: Evolving Language-Based Testing","url":""}
+{"author":"","bib":"","title":"Finding 709 Defects in 258 Projects: An Experience Report on Applying CodeQL to Open-Source Embedded Software (Experience Paper)","url":""}
+{"author":"","bib":"","title":"Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management","url":""}
+{"author":"","bib":"","title":"Freesia: Verifying Correctness of TEE Communication with Concurrent Separation Logic","url":""}
+{"author":"","bib":"","title":"FreeWavm: Enhanced WebAssembly Runtime Fuzzing Guided by Parse Tree Mutation and Snapshot","url":""}
+{"author":"","bib":"","title":"Gamifying Testing in IntelliJ: A Replicability Study","url":""}
+{"author":"","bib":"","title":"GoPV: Detecting Blocking Concurrency Bugs Related to Shared-Memory Synchronization in Go","url":""}
+{"author":"","bib":"","title":"GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs","url":""}
+{"author":"","bib":"","title":"Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis","url":""}
+{"author":"","bib":"","title":"ICEPRE: ICS protocol reverse engineering via data-driven concolic execution","url":""}
+{"author":"","bib":"","title":"Identifying Multi-Parameter Constraint Errors in Python Data Science Library API Documentations","url":""}
+{"author":"","bib":"","title":"Improving Deep Learning Framework Testing with Model-Level Metamorphic Testing","url":""}
+{"author":"","bib":"","title":"Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation","url":""}
+{"author":"","bib":"","title":"Intention-based GUI Test Migration for Mobile Apps using Large Language Models","url":""}
+{"author":"","bib":"","title":"KEENHash: Hashing Programs into Function-aware Embeddings for Large-scale Binary Code Similarity Analysis","url":""}
+{"author":"","bib":"","title":"KRAKEN: Program-Adaptive Parallel Fuzzing","url":""}
+{"author":"","bib":"","title":"LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models","url":""}
+{"author":"","bib":"","title":"LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation","url":""}
+{"author":"","bib":"","title":"LogBase: A Large-Scale Benchmark for Semantic Log Parsing","url":""}
+{"author":"","bib":"","title":"MLLM-Based UI2Code Automation Guided by UI Layout Information","url":""}
+{"author":"","bib":"","title":"Model Checking Guided Incremental Testing for Distributed Systems","url":""}
+{"author":"","bib":"","title":"MoDitector: Module-Directed Testing for Autonomous Driving Systems","url":""}
+{"author":"","bib":"","title":"More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph","url":""}
+{"author":"","bib":"","title":"NADA: Neural Acceptance-driven Approximate Specification Mining","url":""}
+{"author":"","bib":"","title":"No Bias Left Behind: Fairness Testing for Deep Recommender Systems Targeting General Disadvantaged Groups","url":""}
+{"author":"","bib":"","title":"OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution","url":""}
+{"author":"","bib":"","title":"OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine","url":""}
+{"author":"","bib":"","title":"PatchScope: LLM-Enhanced Fine-Grained Stable Patch Classification for Linux Kernel","url":""}
+{"author":"","bib":"","title":"Pepper: Preference-Aware Active Trapping for Ransomware","url":""}
+{"author":"","bib":"","title":"Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS","url":""}
+{"author":"","bib":"","title":"Preventing Disruption of System Backup Against Ransomware Attacks","url":""}
+{"author":"","bib":"","title":"Productively Deploying Emerging Models on Emerging Platforms: A Top-Down Approach for Testing and Debugging","url":""}
+{"author":"","bib":"","title":"Program Analysis Combining Generalized Bit-Level and Word-Level Abstractions","url":""}
+{"author":"","bib":"","title":"Program Feature-based Benchmarking for Fuzz Testing","url":""}
+{"author":"","bib":"","title":"QTRAN: Extending Metamorphic-Oracle based Logical Bug Detection Techniques for Multiple-DBMS Dialect Support","url":""}
+{"author":"","bib":"","title":"Quantum Concolic Testing","url":""}
+{"author":"","bib":"","title":"REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models","url":""}
+{"author":"","bib":"","title":"Recurring Vulnerability Detection: How Far Are We?","url":""}
+{"author":"","bib":"","title":"Reinforcement Learning-based Fuzz Testing for the Gazebo Robotic Simulator","url":""}
+{"author":"","bib":"","title":"Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective","url":""}
+{"author":"","bib":"","title":"Robust Vulnerability Detection Across Compilations: LLVM-IR vs. Assembly with Transformer Model","url":""}
+{"author":"","bib":"","title":"RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search","url":""}
+{"author":"","bib":"","title":"Safe4U: Identifying Unsound Safe Encapsulations of Unsafe Calls in Rust using LLMs","url":""}
+{"author":"","bib":"","title":"S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models","url":""}
+{"author":"","bib":"","title":"Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection","url":""}
+{"author":"","bib":"","title":"SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment","url":""}
+{"author":"","bib":"","title":"Static Program Reduction via Type-Directed Slicing","url":""}
+{"author":"","bib":"","title":"Structure-Aware, Diagnosis-Guided ECU Firmware Fuzzing","url":""}
+{"author":"","bib":"","title":"STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs","url":""}
+{"author":"","bib":"","title":"SWE-GPT: A Process-Centric Language Model for Automated Software Improvement","url":""}
+{"author":"","bib":"","title":"Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems","url":""}
+{"author":"","bib":"","title":"The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-based Code Generation","url":""}
+{"author":"","bib":"","title":"The Incredible Shrinking Context... in a decompiler near you","url":""}
+{"author":"","bib":"","title":"Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection","url":""}
+{"author":"","bib":"","title":"Tracezip: Efficient Distributed Tracing via Trace Compression","url":""}
+{"author":"","bib":"","title":"Tratto: A Neuro-Symbolic Approach to Deriving Axiomatic Test Oracles","url":""}
+{"author":"","bib":"","title":"Type-Alias Analysis: Enabling LLVM IR with Accurate Types","url":""}
+{"author":"","bib":"","title":"Uncovering API-Scope Misalignment in the App-in-App Ecosystem","url":""}
+{"author":"","bib":"","title":"Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection","url":""}
+{"author":"","bib":"","title":"Understanding Practitioners’ Expectations on Clear Code Review Comments","url":""}
+{"author":"","bib":"","title":"Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-based RAG","url":""}
+{"author":"","bib":"","title":"Validating Network Protocol Parsers with Traceable RFC Document Interpretation","url":""}
+{"author":"","bib":"","title":"VerLog: Enhancing Release Note Generation for Android Apps using Large Language Models","url":""}
+{"author":"","bib":"","title":"Walls Have Ears: Demystifying Notification Listener Usage in Android Apps","url":""}
+{"author":"","bib":"","title":"Wemby’s Web: Hunting for Memory Corruption in WebAssembly","url":""}
+{"author":"","bib":"","title":"What Happened in This Pipeline? Diffing Build Logs With CiDiff","url":""}
+{"author":"","bib":"","title":"Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain","url":""}
+{"author":"","bib":"","title":"WildSync: Automated Fuzzing Harness Synthesis via Wild API Usage Recovery","url":""}
+{"author":"","bib":"","title":"xFUZZ: A Flexible Framework for Fine-Grained, Runtime-Adaptive Fuzzing Strategy Composition","url":""}
+{"author":"","bib":"","title":"You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects","url":""}
+{"author":"","bib":"","title":"ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference","url":""}

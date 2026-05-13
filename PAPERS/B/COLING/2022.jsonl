@@ -1,0 +1,633 @@
+{"author":"","bib":"","title":"A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection","url":""}
+{"author":"","bib":"","title":"Finding Influential Instances for Distantly Supervised Relation Extraction","url":""}
+{"author":"","bib":"","title":"Stability of Syntactic Dialect Classification Over Space and Time","url":""}
+{"author":"","bib":"","title":"Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings","url":""}
+{"author":"","bib":"","title":"CMQA: A Dataset of Conditional Question Answering with Multiple-Span Answers","url":""}
+{"author":"","bib":"","title":"TSAM: A Two-Stream Attention Model for Causal Emotion Entailment","url":""}
+{"author":"","bib":"","title":"Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes","url":""}
+{"author":"","bib":"","title":"Two Languages Are Better Than One: Bilingual Enhancement For Chinese Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"DCT-Centered Temporal Relation Extraction","url":""}
+{"author":"","bib":"","title":"Debiasing Word Embeddings with Nonlinear Geometry","url":""}
+{"author":"","bib":"","title":"CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction","url":""}
+{"author":"","bib":"","title":"Label Smoothing for Text Mining","url":""}
+{"author":"","bib":"","title":"LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting","url":""}
+{"author":"","bib":"","title":"Neuro-Symbolic Visual Dialog","url":""}
+{"author":"","bib":"","title":"DoSEA: A Domain-specific Entity-aware Framework for Cross-Domain Named Entity Recogition","url":""}
+{"author":"","bib":"","title":"PAEG: Phrase-level Adversarial Example Generation for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Knowledge-injected Prompt Tuning for Event Detection","url":""}
+{"author":"","bib":"","title":"An Efficient Coarse-to-Fine Facet-Aware Unsupervised Summarization Framework based on Semantic Blocks","url":""}
+{"author":"","bib":"","title":"Hierarchical information matters: Text classification via tree based graph neural network","url":""}
+{"author":"","bib":"","title":"Type-enriched Hierarchical Contrastive Strategy for Fine-Grained Entity Typing","url":""}
+{"author":"","bib":"","title":"Event Causality Identification via Derivative Prompt Joint Learning","url":""}
+{"author":"","bib":"","title":"Reproducibility and automation of the Appraisal taxonomy","url":""}
+{"author":"","bib":"","title":"A Closer Look at Few-Shot Out-of-Distribution Intent Detection","url":""}
+{"author":"","bib":"","title":"Few Clean Instances Help Denoising Distant Supervision","url":""}
+{"author":"","bib":"","title":"STAD: Self-Training with Ambiguous Data for Low-Resource Relation Extraction","url":""}
+{"author":"","bib":"","title":"Multilingual Word Sense Disambiguation with Unified Sense Representation","url":""}
+{"author":"","bib":"","title":"COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Enhancing Contextual Word Representations Using Embedding of Neighboring Entities in Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"Improving Continual Relation Extraction through Prototypical Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Multi-Document Scientific Summarization from a Knowledge Graph-Centric View","url":""}
+{"author":"","bib":"","title":"Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation","url":""}
+{"author":"","bib":"","title":"Document-level Event Factuality Identification via Machine Reading Comprehension Frameworks with Transfer Learning","url":""}
+{"author":"","bib":"","title":"Modeling Intra- and Inter-Modal Relations: Hierarchical Graph Contrastive Learning for Multimodal Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Eureka: Neural Insight Learning for Knowledge Graph Reasoning","url":""}
+{"author":"","bib":"","title":"ConnPrompt: Connective-cloze Prompt Learning for Implicit Discourse Relation Recognition","url":""}
+{"author":"","bib":"","title":"Revisiting Statistical Laws of Semantic Shift in Romance Cognates","url":""}
+{"author":"","bib":"","title":"Context-Tuning: Learning Contextualized Prompts for Natural Language Generation","url":""}
+{"author":"","bib":"","title":"Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation","url":""}
+{"author":"","bib":"","title":"Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach","url":""}
+{"author":"","bib":"","title":"Content Type Profiling of Data-to-Text Generation Datasets","url":""}
+{"author":"","bib":"","title":"KoBEST: Korean Balanced Evaluation of Significant Tasks","url":""}
+{"author":"","bib":"","title":"Coordination Generation via Synchronized Text-Infilling","url":""}
+{"author":"","bib":"","title":"BERT-Flow-VAE: A Weakly-supervised Model for Multi-Label Text Classification","url":""}
+{"author":"","bib":"","title":"Analytic Automated Essay Scoring based on Deep Neural Networks Integrating Multidimensional Item Response Theory","url":""}
+{"author":"","bib":"","title":"Structural Bias for Aspect Sentiment Triplet Extraction","url":""}
+{"author":"","bib":"","title":"Position Offset Label Prediction for Grammatical Error Correction","url":""}
+{"author":"","bib":"","title":"Joint Language Semantic and Structure Embedding for Knowledge Graph Completion","url":""}
+{"author":"","bib":"","title":"Supporting Medical Relation Extraction via Causality-Pruned Semantic Dependency Forest","url":""}
+{"author":"","bib":"","title":"Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs","url":""}
+{"author":"","bib":"","title":"Multi-view and Cross-view Brain Decoding","url":""}
+{"author":"","bib":"","title":"DialAug: Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling","url":""}
+{"author":"","bib":"","title":"Accuracy meets Diversity in a News Recommender System","url":""}
+{"author":"","bib":"","title":"An MRC Framework for Semantic Role Labeling","url":""}
+{"author":"","bib":"","title":"Phrase-Level Localization of Inconsistency Errors in Summarization by Weak Supervision","url":""}
+{"author":"","bib":"","title":"Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models","url":""}
+{"author":"","bib":"","title":"A Hybrid Model of Classification and Generation for Spatial Relation Extraction","url":""}
+{"author":"","bib":"","title":"Recent Advances in Text-to-SQL: A Survey of What We Have and What We Expect","url":""}
+{"author":"","bib":"","title":"Paraphrase Generation as Unsupervised Machine Translation","url":""}
+{"author":"","bib":"","title":"In-the-Wild Video Question Answering","url":""}
+{"author":"","bib":"","title":"Improving Zero-Shot Entity Linking Candidate Generation with Ultra-Fine Entity Type Information","url":""}
+{"author":"","bib":"","title":"PCBERT: Parent and Child BERT for Chinese Few-shot NER","url":""}
+{"author":"","bib":"","title":"Semantic Sentence Matching via Interacting Syntax Graphs","url":""}
+{"author":"","bib":"","title":"Human-in-the-loop Robotic Grasping using BERT Scene Representation","url":""}
+{"author":"","bib":"","title":"Diversifying Neural Text Generation with Part-of-Speech Guided Softmax and Sampling","url":""}
+{"author":"","bib":"","title":"A Multi-Task Dual-Tree Network for Aspect Sentiment Triplet Extraction","url":""}
+{"author":"","bib":"","title":"The Fragility of Multi-Treebank Parsing Evaluation","url":""}
+{"author":"","bib":"","title":"On the Role of Pre-trained Language Models in Word Ordering: A Case Study with BART","url":""}
+{"author":"","bib":"","title":"COIN – An Inexpensive and Strong Baseline for Predicting Out of Vocabulary Word Embeddings","url":""}
+{"author":"","bib":"","title":"Noise-robust Cross-modal Interactive Learning with Text2image Mask for Multi-modal Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Towards Exploiting Sticker for Multimodal Sentiment Analysis in Social Media: A New Dataset and Baseline","url":""}
+{"author":"","bib":"","title":"Slot Dependency Modeling for Zero-Shot Cross-Domain Dialogue State Tracking","url":""}
+{"author":"","bib":"","title":"Generalized Intent Discovery: Learning from Open World Dialogue System","url":""}
+{"author":"","bib":"","title":"Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts","url":""}
+{"author":"","bib":"","title":"CoDoNMT: Modeling Cohesion Devices for Document-Level Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Simple and Effective Graph-to-Graph Annotation Conversion","url":""}
+{"author":"","bib":"","title":"Document-level Biomedical Relation Extraction Based on Multi-Dimensional Fusion Information and Multi-Granularity Logical Reasoning","url":""}
+{"author":"","bib":"","title":"Improving Commonsense Contingent Reasoning by Pseudo-data and its Application to the Related Tasks","url":""}
+{"author":"","bib":"","title":"Why is it hate speech? Masked rationale prediction for explainable hate speech detection","url":""}
+{"author":"","bib":"","title":"Dynamic Dialogue Policy for Continual Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding","url":""}
+{"author":"","bib":"","title":"Addressing Asymmetry in Multilingual Neural Machine Translation with Fuzzy Task Clustering","url":""}
+{"author":"","bib":"","title":"Composition-based Heterogeneous Graph Multi-channel Attention Network for Multi-aspect Multi-sentiment Classification","url":""}
+{"author":"","bib":"","title":"Autoregressive Entity Generation for End-to-End Task-Oriented Dialog","url":""}
+{"author":"","bib":"","title":"Federated Distillation of Semantic Knowledge Using Optimal Transport","url":""}
+{"author":"","bib":"","title":"Flat Multi-modal Interaction Transformer for Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Adaptive Threshold Selective Self-Attention for Chinese NER","url":""}
+{"author":"","bib":"","title":"New or Old? Exploring How Pre-Trained Language Models Represent Discourse Entities","url":""}
+{"author":"","bib":"","title":"Automated Essay Scoring via Pairwise Contrastive Regression","url":""}
+{"author":"","bib":"","title":"ArT: All-round Thinker for Unsupervised Commonsense Question Answering","url":""}
+{"author":"","bib":"","title":"Learning Hierarchy-Aware Quaternion Knowledge Graph Embeddings with Representing Relations as 3D Rotations","url":""}
+{"author":"","bib":"","title":"From Polarity to Intensity: Mining Morality from Semantic Space","url":""}
+{"author":"","bib":"","title":"Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications","url":""}
+{"author":"","bib":"","title":"OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction","url":""}
+{"author":"","bib":"","title":"A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck","url":""}
+{"author":"","bib":"","title":"A Relation Extraction Dataset for Knowledge Extraction from Web Tables","url":""}
+{"author":"","bib":"","title":"\"Mama Always Had a Way of Explaining Things So I Could Understand\": A Dialogue Corpus for Learning How to Explain","url":""}
+{"author":"","bib":"","title":"MICO: Selective Search with Mutual Information Co-training","url":""}
+{"author":"","bib":"","title":"A Domain Knowledge Enhanced Pre-Trained Language Model for Vertical Search: Case Study on Medicinal Products","url":""}
+{"author":"","bib":"","title":"A Survey on Multimodal Disinformation Detection","url":""}
+{"author":"","bib":"","title":"KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings","url":""}
+{"author":"","bib":"","title":"Evaluating and Mitigating Inherent Linguistic Bias of African American English through Inference","url":""}
+{"author":"","bib":"","title":"Decorrelate Irrelevant, Purify Relevant: Overcome Textual Spurious Correlations from a Feature Perspective","url":""}
+{"author":"","bib":"","title":"Interactive Post-Editing for Verbosity Controlled Translation","url":""}
+{"author":"","bib":"","title":"How to Parse a Creole: When Martinican Creole Meets French","url":""}
+{"author":"","bib":"","title":"Visio-Linguistic Brain Encoding","url":""}
+{"author":"","bib":"","title":"Can Data Diversity Enhance Learning Generalization?","url":""}
+{"author":"","bib":"","title":"Unsupervised Domain Adaptation for Text Classification via Meta Self-Paced Learning","url":""}
+{"author":"","bib":"","title":"Adaptive Unsupervised Self-training for Disfluency Detection","url":""}
+{"author":"","bib":"","title":"Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher","url":""}
+{"author":"","bib":"","title":"Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation","url":""}
+{"author":"","bib":"","title":"Noisy Label Regularisation for Textual Regression","url":""}
+{"author":"","bib":"","title":"Dual Capsule Attention Mask Network with Mutual Learning for Visual Question Answering","url":""}
+{"author":"","bib":"","title":"SelF-Eval: Self-supervised Fine-grained Dialogue Evaluation","url":""}
+{"author":"","bib":"","title":"Translating the Unseen? Yorùbá→English MT in Low-Resource, Morphologically-Unmarked Settings","url":""}
+{"author":"","bib":"","title":"UECA-Prompt: Universal Prompt for Emotion Cause Analysis","url":""}
+{"author":"","bib":"","title":"BRCC and SentiBahasaRojak: The First Bahasa Rojak Corpus for Pretraining and Sentiment Analysis Dataset","url":""}
+{"author":"","bib":"","title":"Re-Examining FactBank: Predicting the Author’s Presentation of Factuality","url":""}
+{"author":"","bib":"","title":"Deciphering and Characterizing Out-of-Vocabulary Words: A Bulgarian Case Study","url":""}
+{"author":"","bib":"","title":"Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion","url":""}
+{"author":"","bib":"","title":"Cross-modal Contrastive Attention Model for Medical Report Generation","url":""}
+{"author":"","bib":"","title":"Ruleformer: Context-aware Rule Mining over Knowledge Graph","url":""}
+{"author":"","bib":"","title":"Selective Token Generation for Few-shot Natural Language Generation","url":""}
+{"author":"","bib":"","title":"Attribute Injection for Pretrained Language Models: A New Benchmark and An Efficient Method","url":""}
+{"author":"","bib":"","title":"Multi-modal Contrastive Representation Learning for Entity Alignment","url":""}
+{"author":"","bib":"","title":"Transferring Confluent Knowledge to Argument Mining","url":""}
+{"author":"","bib":"","title":"Automatic Keyphrase Generation by Incorporating Dual Copy Mechanisms in Sequence-to-Sequence Learning","url":""}
+{"author":"","bib":"","title":"Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder","url":""}
+{"author":"","bib":"","title":"Parsing Natural Language into Propositional and First-Order Logic with Dual Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"Virtual Knowledge Graph Construction for Zero-Shot Domain-Specific Document Retrieval","url":""}
+{"author":"","bib":"","title":"Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender","url":""}
+{"author":"","bib":"","title":"DISK: Domain-constrained Instance Sketch for Math Word Problem Generation","url":""}
+{"author":"","bib":"","title":"AMOA: Global Acoustic Feature Enhanced Modal-Order-Aware Network for Multimodal Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Generating Temporally-ordered Event Sequences via Event Optimal Transport","url":""}
+{"author":"","bib":"","title":"Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training","url":""}
+{"author":"","bib":"","title":"Nested Named Entity Recognition as Corpus Aware Holistic Structure Parsing","url":""}
+{"author":"","bib":"","title":"Aspect-based Sentiment Analysis as Machine Reading Comprehension","url":""}
+{"author":"","bib":"","title":"JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation","url":""}
+{"author":"","bib":"","title":"Adapting to Non-Centered Languages for Zero-shot Multilingual Translation","url":""}
+{"author":"","bib":"","title":"Focus-Driven Contrastive Learning for Medical Question Summarization","url":""}
+{"author":"","bib":"","title":"DESED: Dialogue-based Explanation for Sentence-level Event Detection","url":""}
+{"author":"","bib":"","title":"CILex: An Investigation of Context Information for Lexical Substitution Methods","url":""}
+{"author":"","bib":"","title":"Tracking Satisfaction States for Customer Satisfaction Prediction in E-commerce Service Chatbots","url":""}
+{"author":"","bib":"","title":"UPER: Boosting Multi-Document Summarization with an Unsupervised Prompt-based Extractor","url":""}
+{"author":"","bib":"","title":"Zero-shot Script Parsing","url":""}
+{"author":"","bib":"","title":"Nonparametric Forest-Structured Neural Topic Modeling","url":""}
+{"author":"","bib":"","title":"Multilingual and Multimodal Topic Modelling with Pretrained Embeddings","url":""}
+{"author":"","bib":"","title":"Source-summary Entity Aggregation in Abstractive Summarization","url":""}
+{"author":"","bib":"","title":"SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers","url":""}
+{"author":"","bib":"","title":"Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding","url":""}
+{"author":"","bib":"","title":"Improving Deep Embedded Clustering via Learning Cluster-level Representations","url":""}
+{"author":"","bib":"","title":"Question Generation Based on Grammar Knowledge and Fine-grained Classification","url":""}
+{"author":"","bib":"","title":"Cross-lingual Feature Extraction from Monolingual Corpora for Low-resource Unsupervised Bilingual Lexicon Induction","url":""}
+{"author":"","bib":"","title":"Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases","url":""}
+{"author":"","bib":"","title":"Graph-to-Text Generation with Dynamic Structure Pruning","url":""}
+{"author":"","bib":"","title":"MedDistant19: Towards an Accurate Benchmark for Broad-Coverage Biomedical Relation Extraction","url":""}
+{"author":"","bib":"","title":"ET5: A Novel End-to-end Framework for Conversational Machine Reading Comprehension","url":""}
+{"author":"","bib":"","title":"A Novel Multi-Task Learning Approach for Context-Sensitive Compound Type Identification in Sanskrit","url":""}
+{"author":"","bib":"","title":"Adaptive Feature Discrimination and Denoising for Asymmetric Text Matching","url":""}
+{"author":"","bib":"","title":"GRASP: Guiding model with RelAtional Semantics using Prompt","url":""}
+{"author":"","bib":"","title":"Informative Language Representation Learning for Massively Multilingual Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Event Detection with Dual Relational Graph Attention Networks","url":""}
+{"author":"","bib":"","title":"Towards Community-Led Language Documentation: Speech Technologies to Support Transcription in Aboriginal Communities","url":""}
+{"author":"","bib":"","title":"Semantic-Preserving Adversarial Code Comprehension","url":""}
+{"author":"","bib":"","title":"RSGT: Relational Structure Guided Temporal Relation Extraction","url":""}
+{"author":"","bib":"","title":"Social Bot-Aware Graph Neural Network for Early Rumor Detection","url":""}
+{"author":"","bib":"","title":"Dynamic Relevance Graph Network for Knowledge-Aware Question Answering","url":""}
+{"author":"","bib":"","title":"Augmentation, Retrieval, Generation: Event Sequence Prediction with a Three-Stage Sequence-to-Sequence Approach","url":""}
+{"author":"","bib":"","title":"Mining Health-related Cause–Effect Statements with High Precision at Large Scale","url":""}
+{"author":"","bib":"","title":"Global Readiness of Language Technology for Healthcare: What would it Take to Combat the Next Pandemic?","url":""}
+{"author":"","bib":"","title":"A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model","url":""}
+{"author":"","bib":"","title":"COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities","url":""}
+{"author":"","bib":"","title":"KC-ISA: An Implicit Sentiment Analysis Model Combining Knowledge Enhancement and Context Features","url":""}
+{"author":"","bib":"","title":"Exploiting Sentiment and Common Sense for Zero-shot Stance Detection","url":""}
+{"author":"","bib":"","title":"Different Data, Different Modalities! Reinforced Data Splitting for Effective Multimodal Information Extraction from Social Media Posts","url":""}
+{"author":"","bib":"","title":"CHAE: Fine-Grained Controllable Story Generation with Characters, Actions and Emotions","url":""}
+{"author":"","bib":"","title":"DRK: Discriminative Rule-based Knowledge for Relieving Prediction Confusions in Few-shot Relation Extraction","url":""}
+{"author":"","bib":"","title":"Enhancing Task-Specific Distillation in Small Data Regimes through Language Generation","url":""}
+{"author":"","bib":"","title":"Curating a Large-Scale MI Dataset using Peer Support Forums","url":""}
+{"author":"","bib":"","title":"Comparative Graph-based Summarization of Scientific Papers Guided by Comparative Citations","url":""}
+{"author":"","bib":"","title":"Complicate then Simplify: A Novel Way to Explore Pre-trained Models for Text Classification","url":""}
+{"author":"","bib":"","title":"Domain- and Task-Adaptation for VaccinChatNL, a Dutch COVID-19 FAQ Answering Corpus and Classification Model","url":""}
+{"author":"","bib":"","title":"ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation","url":""}
+{"author":"","bib":"","title":"Unsupervised Lexical Substitution with Decontextualised Embeddings","url":""}
+{"author":"","bib":"","title":"SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training","url":""}
+{"author":"","bib":"","title":"TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding","url":""}
+{"author":"","bib":"","title":"ArcaneQA: Dynamic Program Induction and Contextualized Encoding for Knowledge Base Question Answering","url":""}
+{"author":"","bib":"","title":"Read Extensively, Focus Smartly: A Cross-document Semantic Enhancement Method for Visual Documents NER","url":""}
+{"author":"","bib":"","title":"Towards Understanding the Relation between Gestures and Language","url":""}
+{"author":"","bib":"","title":"Demystifying Neural Fake News via Linguistic Feature-Based Interpretation","url":""}
+{"author":"","bib":"","title":"Language-specific Effects on Automatic Speech Recognition Errors","url":""}
+{"author":"","bib":"","title":"Equivariant Transduction through Invariant Alignment","url":""}
+{"author":"","bib":"","title":"Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning","url":""}
+{"author":"","bib":"","title":"Tafsir Dataset: A Novel Multi-Task Benchmark for Named Entity Recognition and Topic Modeling in Classical Arabic Literature","url":""}
+{"author":"","bib":"","title":"MECI: A Multilingual Dataset for Event Causality Identification","url":""}
+{"author":"","bib":"","title":"Programmable Annotation with Diversed Heuristics and Data Denoising","url":""}
+{"author":"","bib":"","title":"Community Topic: Topic model inference by consecutive word community discovery","url":""}
+{"author":"","bib":"","title":"Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks","url":""}
+{"author":"","bib":"","title":"How to Find Strong Summary Coherence Measures? A Toolbox and a Comparative Study for Summary Coherence Measure Evaluation","url":""}
+{"author":"","bib":"","title":"Simple yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Improving Low-resource RRG Parsing with Cross-lingual Self-training","url":""}
+{"author":"","bib":"","title":"Prepositions matter in quantifier scope disambiguation","url":""}
+{"author":"","bib":"","title":"Natural Annotation and Curriculum Learning to Named Entity Recognition for Under-Resourced Languages","url":""}
+{"author":"","bib":"","title":"Text-to-Text Extraction and Verbalization of Biomedical Event Graphs","url":""}
+{"author":"","bib":"","title":"InferES : A Natural Language Inference Corpus for Spanish Featuring Negation-Based Contrastive and Adversarial Examples","url":""}
+{"author":"","bib":"","title":"Automatic Generation of Large-scale Multi-turn Dialogues from Reddit","url":""}
+{"author":"","bib":"","title":"Modelling Commonsense Properties using Pre-Trained Bi-Encoders","url":""}
+{"author":"","bib":"","title":"Boostring Code Summarization by Embedding Code Structures","url":""}
+{"author":"","bib":"","title":"Byte-based Multilingual NMT for Endangered Languages","url":""}
+{"author":"","bib":"","title":"Event Causality Extraction with Event Argument Correlations","url":""}
+{"author":"","bib":"","title":"Measuring Geographic Performance Disparities of Offensive Language Classifiers","url":""}
+{"author":"","bib":"","title":"APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations","url":""}
+{"author":"","bib":"","title":"Optimal Partial Transport based Sentence Selection for Long-form Document Matching","url":""}
+{"author":"","bib":"","title":"An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning","url":""}
+{"author":"","bib":"","title":"Machine Reading, Fast and Slow: When Do Models “Understand” Language?","url":""}
+{"author":"","bib":"","title":"Improving Fake News Detection of Influential Domain via Domain- and Instance-Level Transfer","url":""}
+{"author":"","bib":"","title":"GAP: A Graph-aware Language Model Framework for Knowledge Graph-to-Text Generation","url":""}
+{"author":"","bib":"","title":"Can Edge Probing Tests Reveal Linguistic Knowledge in QA Models?","url":""}
+{"author":"","bib":"","title":"Competence-based Question Generation","url":""}
+{"author":"","bib":"","title":"KHANQ: A Dataset for Generating Deep Questions in Education","url":""}
+{"author":"","bib":"","title":"EmoMent: An Emotion Annotated Mental Health Corpus from two South Asian Countries","url":""}
+{"author":"","bib":"","title":"Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering","url":""}
+{"author":"","bib":"","title":"Towards Summarizing Healthcare Questions in Low-Resource Setting","url":""}
+{"author":"","bib":"","title":"CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction","url":""}
+{"author":"","bib":"","title":"Gated Mechanism Enhanced Multi-Task Learning for Dialog Routing","url":""}
+{"author":"","bib":"","title":"AnonymousDataset: A Large-scale Multilingual dataset for Complex Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Unsupervised Multi-scale Expressive Speaking Style Modeling with Hierarchical Context Information for Audiobook Speech Synthesis","url":""}
+{"author":"","bib":"","title":"Measuring Robustness for NLP","url":""}
+{"author":"","bib":"","title":"SHAP-Based Explanation Methods: A Review for NLP Interpretability","url":""}
+{"author":"","bib":"","title":"Analyzing the Dialect Diversity in Multi-document Summaries","url":""}
+{"author":"","bib":"","title":"LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation","url":""}
+{"author":"","bib":"","title":"CR-GIS: Improving Conversational Recommendation via Goal-aware Interest Sequence Modeling","url":""}
+{"author":"","bib":"","title":"PSP: Pre-trained Soft Prompts for Few-Shot Abstractive Summarization","url":""}
+{"author":"","bib":"","title":"Key Mention Pairs Guided Document-Level Relation Extraction","url":""}
+{"author":"","bib":"","title":"A Sentiment and Emotion aware Multimodal Multiparty Humor Recognition in Multilingual Conversational Setting","url":""}
+{"author":"","bib":"","title":"Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word-based Graph Parsing","url":""}
+{"author":"","bib":"","title":"Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study","url":""}
+{"author":"","bib":"","title":"Smells like Teen Spirit: An Exploration of Sensorial Style in Language","url":""}
+{"author":"","bib":"","title":"MetaSLRCL: A Self-Adaptive Learning Rate and Curriculum Learning Based Framework for Few-Shot Text Classification","url":""}
+{"author":"","bib":"","title":"uChecker: Masked Pretrained Language Models as Unsupervised Chinese Spelling Checkers","url":""}
+{"author":"","bib":"","title":"\"No, they did not'': Dialogue response dynamics in pre-trained language models","url":""}
+{"author":"","bib":"","title":"Emotion Enriched Retrofitted Word Embeddings","url":""}
+{"author":"","bib":"","title":"SSR: Utilizing Simplified Stance Reasoning Process for Robust Stance Detection","url":""}
+{"author":"","bib":"","title":"Taking Actions Separately: A Bidirectional-Adaptive Transfer Learning Method for Low-Resource Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Can We Guide a Multi-Hop Reasoning Language Model to Incrementally Learn at each Single-Hop?","url":""}
+{"author":"","bib":"","title":"Semantic-based Pre-training for Dialogue Understanding","url":""}
+{"author":"","bib":"","title":"SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"BiBL: AMR Parsing and Generation with Bidirectional Bayesian Learning","url":""}
+{"author":"","bib":"","title":"MockingBERT: A Method for Retroactively Adding Resilience to NLP Models","url":""}
+{"author":"","bib":"","title":"LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging","url":""}
+{"author":"","bib":"","title":"Parameter-Efficient Neural Reranking for Cross-Lingual and Multilingual Retrieval","url":""}
+{"author":"","bib":"","title":"Psychology-guided Controllable Story Generation","url":""}
+{"author":"","bib":"","title":"DialMed: A Dataset for Dialogue-based Medication Recommendation","url":""}
+{"author":"","bib":"","title":"Prompt Combines Paraphrase: Teaching Pre-trained Models to Understand Rare Biomedical Words","url":""}
+{"author":"","bib":"","title":"Speaker Clustering in Textual Dialogue with Pairwise Utterance Relation and Cross-corpus Dialogue Act Supervision","url":""}
+{"author":"","bib":"","title":"Data Augmentation for Few-Shot Knowledge Graph Completion from Hierarchical Perspective","url":""}
+{"author":"","bib":"","title":"Towards Structure-aware Paraphrase Identification with Phrase Alignment Using Sentence Encoders","url":""}
+{"author":"","bib":"","title":"Harnessing Abstractive Summarization for Fact-Checked Claim Detection","url":""}
+{"author":"","bib":"","title":"CETA: A Consensus Enhanced Training Approach for Denoising in Distantly Supervised Relation Extraction","url":""}
+{"author":"","bib":"","title":"Character Jacobian: modeling Chinese character meanings with deep learning model","url":""}
+{"author":"","bib":"","title":"Unsupervised Sentence Textual Similarity with Compositional Phrase Semantics","url":""}
+{"author":"","bib":"","title":"Learning to Improve Persona Consistency in Multi-party Dialogue Generation via Text Knowledge Enhancement","url":""}
+{"author":"","bib":"","title":"Does BERT Rediscover the Classical NLP Pipeline?","url":""}
+{"author":"","bib":"","title":"A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"Multi-Figurative Language Generation","url":""}
+{"author":"","bib":"","title":"Categorizing Semantic Representations for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"CM-Gen: A Neural Framework for Chinese Metaphor Generation with Explicit Context Modelling","url":""}
+{"author":"","bib":"","title":"Are Visual-Linguistic Models Commonsense Knowledge Bases?","url":""}
+{"author":"","bib":"","title":"Learning Transductions to Test Systematic Compositionality","url":""}
+{"author":"","bib":"","title":"Bigger Data or Fairer Data? Augmenting BERT via Active Sampling for Educational Text Classification","url":""}
+{"author":"","bib":"","title":"Effect of Post-processing on Contextualized Word Representations","url":""}
+{"author":"","bib":"","title":"FactMix: Using a Few Labeled In-domain Examples to Generalize to Cross-domain Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis","url":""}
+{"author":"","bib":"","title":"Ask Question First for Enhancing Lifelong Language Learning","url":""}
+{"author":"","bib":"","title":"Persian Natural Language Inference: A Meta-learning approach","url":""}
+{"author":"","bib":"","title":"COMMA-DEER: COmmon-sense aware Multimodal Multitask Approach for Detection of Emotion and Emotional Reasoning in Conversations","url":""}
+{"author":"","bib":"","title":"PEPDS: A Polite and Empathetic Persuasive Dialogue System for Charity Donation","url":""}
+{"author":"","bib":"","title":"Making Parameter-efficient Tuning More Efficient: A Unified Framework for Classification Tasks","url":""}
+{"author":"","bib":"","title":"Multimodal Semi-supervised Learning for Disaster Tweet Classification","url":""}
+{"author":"","bib":"","title":"Metaphorical Polysemy Detection: Conventional Metaphor meets Word Sense Disambiguation","url":""}
+{"author":"","bib":"","title":"ERGO: Event Relational Graph Transformer for Document-level Event Causality Identification","url":""}
+{"author":"","bib":"","title":"Exploring Discourse-level Chinese Figures of Speech","url":""}
+{"author":"","bib":"","title":"Repo4QA : Answering Coding Questions via Dense Retrieval on GitHub Repositories","url":""}
+{"author":"","bib":"","title":"Threat Scenarios and Best Practices to Detect Neural Fake News: A Case Study on COVID News","url":""}
+{"author":"","bib":"","title":"E-VarM: Enhanced Variational Word Masks to Improve the Interpretability of Text Classification Models","url":""}
+{"author":"","bib":"","title":"Learn2Weight: Weight Transfer Defense Against Similar-domain Adversarial Attacks","url":""}
+{"author":"","bib":"","title":"Few-shot Table-to-text Generation with Prefix-Controlled Generator","url":""}
+{"author":"","bib":"","title":"Learning to Focus on the Foreground for Temporal Sentence Grounding","url":""}
+{"author":"","bib":"","title":"Exploring Label Hierarchy in a Generative Way for Hierarchical Text Classification","url":""}
+{"author":"","bib":"","title":"Effective data augmentation for sentence classification using one VAE per class","url":""}
+{"author":"","bib":"","title":"ViNLI: A Vietnamese Corpus for Studies on Open-Domain Natural Language Inference","url":""}
+{"author":"","bib":"","title":"A Progressive Framework for Role-Aware Rumor Resolution","url":""}
+{"author":"","bib":"","title":"Continuous Decomposition of Granularity for Neural Paraphrase Generation","url":""}
+{"author":"","bib":"","title":"Emergence of hierarchical reference systems in multi-agent communication","url":""}
+{"author":"","bib":"","title":"IMCI: Integrate Multi-view Contextual Information for Fact Extraction and Verification","url":""}
+{"author":"","bib":"","title":"Multi-Attribute Controlled Text Generation with Contrastive-Generator and External-Discriminator","url":""}
+{"author":"","bib":"","title":"When to Laugh and How Hard? A Multimodal Approach to Detecting Humor and its Intensity","url":""}
+{"author":"","bib":"","title":"Classical Sequence Match is Competitive Few-Shot One-Class Learner","url":""}
+{"author":"","bib":"","title":"DynGL-SDP: Dynamic Graph Learning for Semantic Dependency Parsing","url":""}
+{"author":"","bib":"","title":"A Multi-turn Machine Reading Comprehension Framework with Rethink Mechanism for Emotion-Cause Pair Extraction","url":""}
+{"author":"","bib":"","title":"HeterGraphLongSum: Heterogeneous Graph Neural Network with Passage Aggregation for Extractive Long Document Summarization","url":""}
+{"author":"","bib":"","title":"A Personalized Dialogue Generator with Implicit User Persona Detection","url":""}
+{"author":"","bib":"","title":"Biographically Relevant Tweets -- A New Dataset, Linguistic Analysis and Classification Experiments","url":""}
+{"author":"","bib":"","title":"Improving Top-K Decoding for Non-Autoregressive Semantic Parsing via Intent Conditioning","url":""}
+{"author":"","bib":"","title":"Case-based Abductive Natural Language Inference","url":""}
+{"author":"","bib":"","title":"Transferring Knowledge from Structure-aware Self-attention Language Model to Sequence-to-Sequence Semantic Parsing","url":""}
+{"author":"","bib":"","title":"Bias at a Second Glance: A Deep Dive into Bias for German Educational Peer-Review Data Modeling","url":""}
+{"author":"","bib":"","title":"Target Really Matters: Target-aware Contrastive Learning and Consistency Regularization for Few-shot Stance Detection","url":""}
+{"author":"","bib":"","title":"Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Domains","url":""}
+{"author":"","bib":"","title":"Dynamic Nonlinear Mixup with Distance-based Sample Selection","url":""}
+{"author":"","bib":"","title":"Noise Learning for Text Classification: A Benchmark","url":""}
+{"author":"","bib":"","title":"Systematic Analysis of Image Schemas in Natural Language through Explainable Multilingual Neural Language Processing","url":""}
+{"author":"","bib":"","title":"A Distance-Aware Multi-Task Framework for Conversational Discourse Parsing","url":""}
+{"author":"","bib":"","title":"Prompt-based Conservation Learning for Multi-hop Question Answering","url":""}
+{"author":"","bib":"","title":"Improving Non-Autoregressive Neural Machine Translation via Modeling Localness","url":""}
+{"author":"","bib":"","title":"Detecting Suicide Risk in Online Counseling Services: A Study in a Low-Resource Language","url":""}
+{"author":"","bib":"","title":"DPTDR: Deep Prompt Tuning for Dense Passage Retrieval","url":""}
+{"author":"","bib":"","title":"PINEAPPLE: Personifying INanimate Entities by Acquiring Parallel Personification data for Learning Enhanced generation","url":""}
+{"author":"","bib":"","title":"PARSE: An Efficient Search Method for Black-box Adversarial Text Attacks","url":""}
+{"author":"","bib":"","title":"SOS: Systematic Offensive Stereotyping Bias in Word Embeddings","url":""}
+{"author":"","bib":"","title":"End-to-End Neural Bridging Resolution","url":""}
+{"author":"","bib":"","title":"Efficient Multilingual Multi-modal Pre-training through Triplet Contrastive Loss","url":""}
+{"author":"","bib":"","title":"ParaZh-22M: a Large-Scale Chinese Parabank via Machine Translation","url":""}
+{"author":"","bib":"","title":"Language-Independent Approach for Morphological Disambiguation","url":""}
+{"author":"","bib":"","title":"String Editing based Chinese Grammatical Error Diagnosis","url":""}
+{"author":"","bib":"","title":"LEGO-ABSA: A prompt-based task assemblable unified generative framework for multi-task Aspect-based sentiment analysis","url":""}
+{"author":"","bib":"","title":"Language Acquisition through Intention Reading and Pattern Finding","url":""}
+{"author":"","bib":"","title":"To What Extent Do Natural Language Understanding Datasets Correlate to Logical Reasoning? A Method for Diagnosing Logical Reasoning.","url":""}
+{"author":"","bib":"","title":"Learning from Adjective-Noun Pairs: A Knowledge-enhanced Framework for Target-Oriented Multimodal Sentiment Classification","url":""}
+{"author":"","bib":"","title":"Semantic Structure based Query Graph Prediction for Question Answering over Knowledge Graph","url":""}
+{"author":"","bib":"","title":"Automatic ICD coding exploiting discourse structure and reconciled code embeddings","url":""}
+{"author":"","bib":"","title":"Improving Cross-lingual Fact Checking with Cross-lingual Retrieval","url":""}
+{"author":"","bib":"","title":"Benchmarking Automated Clinical Language Simplification: Dataset, Algorithm, and Evaluation","url":""}
+{"author":"","bib":"","title":"Coalescing Global and Local Information for Procedural Text Understanding","url":""}
+{"author":"","bib":"","title":"Multi-Layer Pseudo-Siamese Biaffine Model for Dependency Parsing","url":""}
+{"author":"","bib":"","title":"End-to-end Dense Video Captioning as Sequence Generation","url":""}
+{"author":"","bib":"","title":"Augmenting Legal Judgment Prediction with Contrastive Case Relations","url":""}
+{"author":"","bib":"","title":"Social Norms-Grounded Machine Ethics in Complex Narrative Situation","url":""}
+{"author":"","bib":"","title":"AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications","url":""}
+{"author":"","bib":"","title":"Section-Aware Commonsense Knowledge-Grounded Dialogue Generation with Pre-trained Language Model","url":""}
+{"author":"","bib":"","title":"Sentence-aware Adversarial Meta-Learning for Few-Shot Text Classification","url":""}
+{"author":"","bib":"","title":"CoLo: A Contrastive Learning based Re-ranking Framework for One-Stage Summarization","url":""}
+{"author":"","bib":"","title":"Accounting for Language Effect in the Evaluation of Cross-lingual AMR Parsers","url":""}
+{"author":"","bib":"","title":"Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding","url":""}
+{"author":"","bib":"","title":"Perform Like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference","url":""}
+{"author":"","bib":"","title":"Metaphor Detection via Linguistics Enhanced Siamese Network","url":""}
+{"author":"","bib":"","title":"Singlish Message Paraphrasing: A Joint Task of Creole Translation and Text Normalization","url":""}
+{"author":"","bib":"","title":"Visual Information Guided Zero-Shot Paraphrase Generation","url":""}
+{"author":"","bib":"","title":"QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"CXR data annotation and classification with pre-trained language models","url":""}
+{"author":"","bib":"","title":"Uncertainty-aware Propagation Structure Reconstruction for Fake News Detection","url":""}
+{"author":"","bib":"","title":"GLAF: Global-to-Local Aggregation and Fission Network for Semantic Level Fact Verification","url":""}
+{"author":"","bib":"","title":"Function Words in Contextualized Language Models","url":""}
+{"author":"","bib":"","title":"Attention Networks for Augmenting Clinical Text with Support Sets for Diagnosis Prediction","url":""}
+{"author":"","bib":"","title":"Visual Prompt Tuning for Few-Shot Text Classification","url":""}
+{"author":"","bib":"","title":"A Contrastive Cross-Channel Data Augmentation Framework for Aspect-Based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"CLOWER: A Pre-trained Language Model with Contrastive Learning over Word and Character Representations","url":""}
+{"author":"","bib":"","title":"Entity-Level Sentiment Analysis (ELSA): An exploratory task survey","url":""}
+{"author":"","bib":"","title":"Modeling Aspect Correlation for Aspect-based Sentiment Analysis via Recurrent Inverse Learning Guidance","url":""}
+{"author":"","bib":"","title":"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"Speaker-Aware Discourse Parsing on Multi-Party Dialogues","url":""}
+{"author":"","bib":"","title":"Table-based fact verification with self-labeled keypoint alignment","url":""}
+{"author":"","bib":"","title":"Belief Revision based Caption Re-ranker with Visual Semantic Information","url":""}
+{"author":"","bib":"","title":"Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering","url":""}
+{"author":"","bib":"","title":"Denoising Large-Scale Image Captioning from Alt-text Data using Content Selection Models","url":""}
+{"author":"","bib":"","title":"A Generalized Method for Automated Multilingual Loanword Detection","url":""}
+{"author":"","bib":"","title":"Summarizing Patients’ Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models","url":""}
+{"author":"","bib":"","title":"A Survey of Automatic Text Summarization using Graph Neural Networks","url":""}
+{"author":"","bib":"","title":"Dense Template Retrieval for Customer Support","url":""}
+{"author":"","bib":"","title":"GRETEL: Graph Contrastive Topic Enhanced Language Model for Long Document Extractive Summarization","url":""}
+{"author":"","bib":"","title":"Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling","url":""}
+{"author":"","bib":"","title":"One-Teacher and Multiple-Student Knowledge Distillation on Sentiment Classification","url":""}
+{"author":"","bib":"","title":"CCTC: A Cross-Sentence Chinese Text Correction Dataset for Native Speakers","url":""}
+{"author":"","bib":"","title":"HG2Vec: Improved Word Embeddings from Dictionary and Thesaurus Based Heterogeneous Graph","url":""}
+{"author":"","bib":"","title":"Generation of Patient After-Visit Summaries to Support Physicians","url":""}
+{"author":"","bib":"","title":"RealMedDial: A Real Telemedical Dialogue Dataset Collected from Online Chinese Short-Video Clips","url":""}
+{"author":"","bib":"","title":"Using Multi-Encoder Fusion Strategies to Improve Personalized Response Selection","url":""}
+{"author":"","bib":"","title":"Towards Multi-Sense Cross-Lingual Alignment of Contextual Embeddings","url":""}
+{"author":"","bib":"","title":"Multi-level Community-awareness Graph Neural Networks for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Type-dependent prompt CycleQAG : Cycle consistency for Multi-hop Question Generation","url":""}
+{"author":"","bib":"","title":"Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction","url":""}
+{"author":"","bib":"","title":"Causal Intervention Improves Implicit Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering","url":""}
+{"author":"","bib":"","title":"Automated Chinese Essay Scoring from Multiple Traits","url":""}
+{"author":"","bib":"","title":"Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios","url":""}
+{"author":"","bib":"","title":"IMPARA: Impact-based Metric for GEC using Parallel Data","url":""}
+{"author":"","bib":"","title":"Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering Over Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"Revisiting the Practical Effectiveness of Constituency Parse Extraction from Pre-trained Language Models","url":""}
+{"author":"","bib":"","title":"A Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities","url":""}
+{"author":"","bib":"","title":"Improving both domain robustness and domain adaptability in machine translation","url":""}
+{"author":"","bib":"","title":"Document-Level Relation Extraction via Pair-Aware and Entity-Enhanced Representation Learning","url":""}
+{"author":"","bib":"","title":"MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation","url":""}
+{"author":"","bib":"","title":"CoNTACT: A Dutch COVID-19 Adapted BERT for Vaccine Hesitancy and Argumentation Detection","url":""}
+{"author":"","bib":"","title":"A Multi-Dimensional, Cross-Domain and Hierarchy-Aware Neural Architecture for ISO-Standard Dialogue Act Tagging","url":""}
+{"author":"","bib":"","title":"OpticE: A Coherence Theory-Based Model for Link Prediction","url":""}
+{"author":"","bib":"","title":"An Augmented Benchmark Dataset for Geometric Question Answering through Dual Parallel Text Encoding","url":""}
+{"author":"","bib":"","title":"Extractive summarisation for German-language data: a text-level approach with discourse features","url":""}
+{"author":"","bib":"","title":"Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding","url":""}
+{"author":"","bib":"","title":"CoCGAN: Contrastive Learning for Adversarial Category Text Generation","url":""}
+{"author":"","bib":"","title":"Detecting Minority Arguments for Mutual Understanding: A Moderation Tool for the Online Climate Change Debate","url":""}
+{"author":"","bib":"","title":"CogBERT: Cognition-Guided Pre-trained Models","url":""}
+{"author":"","bib":"","title":"Extracting a Knowledge Base of COVID-19 Events from Social Media","url":""}
+{"author":"","bib":"","title":"A Survey in Automatic Irony Processing: Linguistic, Cognitive, and Multi-X Perspectives","url":""}
+{"author":"","bib":"","title":"Hierarchical Representation-based Dynamic Reasoning Network for Biomedical Question Answering","url":""}
+{"author":"","bib":"","title":"DABERT: Dual Attention Enhanced BERT for Semantic Matching","url":""}
+{"author":"","bib":"","title":"Unsupervised Question Answering via Answer Diversifying","url":""}
+{"author":"","bib":"","title":"Multi-Perspective Document Revision","url":""}
+{"author":"","bib":"","title":"Establishing annotation quality in multi-label annotations","url":""}
+{"author":"","bib":"","title":"Continually Detection, Rapidly React: Unseen Rumors Detection based on Continual Prompt-Tuning","url":""}
+{"author":"","bib":"","title":"Reinforcement Learning with Large Action Spaces for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks","url":""}
+{"author":"","bib":"","title":"A Closer Look at Parameter Contributions When Training Neural Language and Translation Models","url":""}
+{"author":"","bib":"","title":"DialogueEIN: Emotion Interaction Network for Dialogue Affective Analysis","url":""}
+{"author":"","bib":"","title":"Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification","url":""}
+{"author":"","bib":"","title":"Topicalization in Language Models: A Case Study on Japanese","url":""}
+{"author":"","bib":"","title":"Accelerating Inference for Pretrained Language Models by Unified Multi-Perspective Early Exiting","url":""}
+{"author":"","bib":"","title":"Sentiment Interpretable Logic Tensor Network for Aspect-Term Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Evaluating Question Generation using Question-Sensitive Text Similarity","url":""}
+{"author":"","bib":"","title":"MetaPrompting: Learning to Learn Better Prompts","url":""}
+{"author":"","bib":"","title":"Semantically Consistent Data Augmentation for Neural Machine Translation via Conditional Masked Language Model","url":""}
+{"author":"","bib":"","title":"CoHS-CQG: Context and History Selection for Conversational Question Generation","url":""}
+{"author":"","bib":"","title":"DoubleMix: Simple Interpolation-Based Data Augmentation for Text Classification","url":""}
+{"author":"","bib":"","title":"Linguistically Motivated Features for Classifying Shorter Text into Fiction and Non-Fiction Genre","url":""}
+{"author":"","bib":"","title":"CINO: A Chinese Minority Pre-trained Language Model","url":""}
+{"author":"","bib":"","title":"CORN: Co-Reasoning Network for Commonsense Question Answering","url":""}
+{"author":"","bib":"","title":"Towards Identifying Alternative-Lexicalization Signals of Discourse Relations","url":""}
+{"author":"","bib":"","title":"Twitter Topic Classification","url":""}
+{"author":"","bib":"","title":"How to Adapt Pre-trained Vision-and-Language Models to a Text-only Input?","url":""}
+{"author":"","bib":"","title":"SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Modeling Hierarchical Reasoning Chains by Linking Discourse Units and Key Phrases for Reading Comprehension","url":""}
+{"author":"","bib":"","title":"Self-Supervised Intermediate Fine-Tuning of Biomedical Language Models for Interpreting Patient Case Descriptions","url":""}
+{"author":"","bib":"","title":"Towards explainable evaluation of language models on the semantic similarity of visual concepts","url":""}
+{"author":"","bib":"","title":"Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances","url":""}
+{"author":"","bib":"","title":"CLoSE: Contrastive Learning of Subframe Embeddings for Political Bias Classification of News Media","url":""}
+{"author":"","bib":"","title":"BECEL: Benchmark for Consistency Evaluation of Language Models","url":""}
+{"author":"","bib":"","title":"Improving Chinese Couplet Generation with Mix-granularity and Syntactic Heuristics","url":""}
+{"author":"","bib":"","title":"Quantifying Bias from Decoding Techniques in Natural Language Generation","url":""}
+{"author":"","bib":"","title":"TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph","url":""}
+{"author":"","bib":"","title":"Testing Large Language Models on Compositionality and Inference with Phrase-Level Adjective-Noun Entailment","url":""}
+{"author":"","bib":"","title":"Addressing Limitations of Encoder-Decoder Based Approach to Text-to-SQL","url":""}
+{"author":"","bib":"","title":"Analyzing Persuasion Strategies of Debaters on Social Media","url":""}
+{"author":"","bib":"","title":"Evaluating Diversity of Multiword Expressions in Annotated Text","url":""}
+{"author":"","bib":"","title":"The Role of Context and Uncertainty in Shallow Discourse Parsing","url":""}
+{"author":"","bib":"","title":"WARM: A Weakly (+Semi) Supervised Math Word Problem Solver","url":""}
+{"author":"","bib":"","title":"ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments","url":""}
+{"author":"","bib":"","title":"Topology imbalance and Relation inauthenticity aware Hierarchical Graph Convolutional Networks for Fake News Detection","url":""}
+{"author":"","bib":"","title":"A Unified Propagation Forest-based Framework for Fake News Detection","url":""}
+{"author":"","bib":"","title":"NLG-Metricverse: An End-to-End Library for Evaluating Natural Language Generation","url":""}
+{"author":"","bib":"","title":"GRAVL-BERT: Graphical Visual-Linguistic Representations for Multimodal Coreference Resolution","url":""}
+{"author":"","bib":"","title":"GraDA: Graph Generative Data Augmentation for Commonsense Reasoning","url":""}
+{"author":"","bib":"","title":"Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization","url":""}
+{"author":"","bib":"","title":"Wizard of Tasks: A Novel Conversational Dataset for Solving Real-World Tasks in Conversational Settings","url":""}
+{"author":"","bib":"","title":"Token and Head Adaptive Transformers for Efficient Natural Language Processing","url":""}
+{"author":"","bib":"","title":"Dialo-AP: A Dependency Parsing Based Argument Parser for Dialogues","url":""}
+{"author":"","bib":"","title":"Towards Enhancing Health Coaching Dialogue in Low-Resource Settings","url":""}
+{"author":"","bib":"","title":"Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization","url":""}
+{"author":"","bib":"","title":"Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision","url":""}
+{"author":"","bib":"","title":"Measuring Morphological Fusion using Partial Information Decomposition","url":""}
+{"author":"","bib":"","title":"Original Content Is All You Need! An Empirical Study on Leveraging Answer Summary for WikiHowQA Answer Selection Task","url":""}
+{"author":"","bib":"","title":"Reciprocal Learning of Knowledge Retriever and Response Ranker for Knowledge-Grounded Conversations","url":""}
+{"author":"","bib":"","title":"Doc-GCN: Heterogeneous Graph Convolutional Networks for Document Layout Analysis","url":""}
+{"author":"","bib":"","title":"Text Simplification of College Admissions Instructions: A Professionally Simplified and Verified Corpus","url":""}
+{"author":"","bib":"","title":"Asymmetric Mutual Learning for Multi-source Unsupervised Sentiment Adaptation with Dynamic Feature Network","url":""}
+{"author":"","bib":"","title":"Noun Class Disambiguation in Runyankore and Related Languages","url":""}
+{"author":"","bib":"","title":"Domain Adaptation for Question Answering via Question Classification","url":""}
+{"author":"","bib":"","title":"Towards Better Semantic Understanding of Mobile Interfaces","url":""}
+{"author":"","bib":"","title":"Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction","url":""}
+{"author":"","bib":"","title":"Do language models make human-like predictions about the coreferents of anaphoric zero pronouns?","url":""}
+{"author":"","bib":"","title":"CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue","url":""}
+{"author":"","bib":"","title":"Semantic Role Labeling as Dependency Parsing: Exploring Latent Tree Structures Inside Arguments","url":""}
+{"author":"","bib":"","title":"Dynamic Position Encoding for Transformers","url":""}
+{"author":"","bib":"","title":"TAKE: Topic-shift Aware Knowledge sElection for Dialogue Generation","url":""}
+{"author":"","bib":"","title":"A Benchmark for Causal Question Answering","url":""}
+{"author":"","bib":"","title":"Understanding Attention for Vision-and-Language Tasks","url":""}
+{"author":"","bib":"","title":"Locally Distributed Activation Vectors for Guided Feature Attribution","url":""}
+{"author":"","bib":"","title":"Knowledge Distillation with Reptile Meta-Learning for Pretrained Language Model Compression","url":""}
+{"author":"","bib":"","title":"A New Public Corpus for Clinical Section Identification: MedSecId","url":""}
+{"author":"","bib":"","title":"Reducing Spurious Correlations for Answer Selection by Feature Decorrelation and Language Debiasing","url":""}
+{"author":"","bib":"","title":"Schema Encoding for Transfereable Dialogue State Tracking","url":""}
+{"author":"","bib":"","title":"LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases","url":""}
+{"author":"","bib":"","title":"RotateCT: Knowledge Graph Embedding by Rotation and Coordinate Transformation in Complex Space","url":""}
+{"author":"","bib":"","title":"Speeding Up Transformer Decoding via an Attention Refinement Network","url":""}
+{"author":"","bib":"","title":"Scene Graph Modification as Incremental Structure Expanding","url":""}
+{"author":"","bib":"","title":"NSP-BERT: A Prompt-based Few-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction","url":""}
+{"author":"","bib":"","title":"Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing","url":""}
+{"author":"","bib":"","title":"PoliSe: Reinforcing Politeness using User Sentiment for Customer Care Response Generation","url":""}
+{"author":"","bib":"","title":"Where Does Linguistic Information Emerge in Neural Language Models? Measuring Gains and Contributions Across Layers","url":""}
+{"author":"","bib":"","title":"Pan More Gold from the Sand: Refining Open-domain Dialogue Training with Noisy Self-Retrieval Generation","url":""}
+{"author":"","bib":"","title":"Continual Few-shot Intent Detection","url":""}
+{"author":"","bib":"","title":"Summarize, Outline, and Elaborate: Long-Text Generation via Hierarchical Supervision from Extractive Summaries","url":""}
+{"author":"","bib":"","title":"Does Bert recognize an Agent? Modeling Dowty’s Proto-Roles with contextual embeddings","url":""}
+{"author":"","bib":"","title":"Evaluating Word Embeddings in Extremely Low-Resource Languages: A Case Study in Bribri","url":""}
+{"author":"","bib":"","title":"Mere Contrastive Learning for Cross-Domain Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Iterative Constrained Back-Translation for Unsupervised Domain Adaptation of Machine Translation","url":""}
+{"author":"","bib":"","title":"Generic Overgeneralization in Pre-trained Language Models","url":""}
+{"author":"","bib":"","title":"View Dialogue in 2D: A Two-stream Model in Time-speaker Perspective for Dialogue Summarization and Beyond","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Formula Learner for Solving Mathematical Problems","url":""}
+{"author":"","bib":"","title":"MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations","url":""}
+{"author":"","bib":"","title":"PlugAT: A Plug and Play Module to Defend against Textual Adversarial Attack","url":""}
+{"author":"","bib":"","title":"Incorporating Casual Analysis into Diversified and Logical Response Generation","url":""}
+{"author":"","bib":"","title":"Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization","url":""}
+{"author":"","bib":"","title":"Modelling Frequency, Attestation, and Corpus-Based Information with OntoLex-FrAC","url":""}
+{"author":"","bib":"","title":"A Transition-based Method for Complex Question Understanding","url":""}
+{"author":"","bib":"","title":"Using Structured Content Plans for Fine-grained Syntactic Control in Pretrained Language Model Generation","url":""}
+{"author":"","bib":"","title":"Pre-trained Token-replaced Detection Model as Few-shot Learner","url":""}
+{"author":"","bib":"","title":"Exploring Semantic Spaces for Detecting Clustering and Switching in Verbal Fluency","url":""}
+{"author":"","bib":"","title":"TestAug: A Framework for Augmenting Capability-based NLP Tests","url":""}
+{"author":"","bib":"","title":"Few-Shot Table Understanding: A Benchmark Dataset and Pre-Training Baseline","url":""}
+{"author":"","bib":"","title":"A Data-driven Approach to Named Entity Recognition for Early Modern French","url":""}
+{"author":"","bib":"","title":"Building Joint Relationship Attention Network for Image-Text Generation","url":""}
+{"author":"","bib":"","title":"On the Nature of BERT: Correlating Fine-Tuning and Linguistic Competence","url":""}
+{"author":"","bib":"","title":"CorefDiffs: Co-referential and Differential Knowledge Flow in Document Grounded Conversations","url":""}
+{"author":"","bib":"","title":"A Two Stage Adaptation Framework for Frame Detection via Prompt Learning","url":""}
+{"author":"","bib":"","title":"Less is Better: Recovering Intended-Feature Subspace to Robustify NLU Models","url":""}
+{"author":"","bib":"","title":"Zero-shot Disfluency Detection for Indian Languages","url":""}
+{"author":"","bib":"","title":"Word Sense Disambiguation with Knowledge-Enhanced and Local Self-Attention-based Extractive Sense Comprehension","url":""}
+{"author":"","bib":"","title":"A New Challenge: Multi-label Unknown Intent Detection","url":""}
+{"author":"","bib":"","title":"Brains and Beauty: Gender Roles from Word Embeddings in a Century of Children’s Books","url":""}
+{"author":"","bib":"","title":"Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation","url":""}
+{"author":"","bib":"","title":"Generalizable Implicit Hate Speech Detection using Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Meta-CQG: A Meta-Learning Framework for Complex Question Generation over Knowledge Graph","url":""}
+{"author":"","bib":"","title":"SISER: Semantic-Infused Selective Graph Reasoning for Fact Verification","url":""}
+{"author":"","bib":"","title":"CILDA: Contrastive Data Augmentation using Intermediate Layer Knowledge Distillation","url":""}
+{"author":"","bib":"","title":"Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models","url":""}
+{"author":"","bib":"","title":"Improving Abstractive Dialogue Summarization with Speaker-Aware Supervised Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Smoothed Contrastive Learning for Unsupervised Sentence Embedding","url":""}
+{"author":"","bib":"","title":"HCLD: A Hierarchical Framework for Zero-shot Cross-lingual Dialogue System","url":""}
+{"author":"","bib":"","title":"Multi Graph Neural Network for Extractive Long Document Summarization","url":""}
+{"author":"","bib":"","title":"Incorporating Instructional Prompts into A Unified Generative Framework for Joint Multiple Intent Detection and Slot Filling","url":""}
+{"author":"","bib":"","title":"ConTextING: Granting Document-Wise Contextual Embeddings to Graph Neural Networks for Inductive Text Classification","url":""}
+{"author":"","bib":"","title":"Multi-Stage Framework with Refinement based Point Set Registration for Unsupervised Bi-Lingual Word Alignment","url":""}
+{"author":"","bib":"","title":"Rethinking Data Augmentation in Text-to-text Paradigm","url":""}
+{"author":"","bib":"","title":"Recycle Your Wav2Vec2 Codebook: a Speech Perceiver for Keyword Spotting","url":""}
+{"author":"","bib":"","title":"A Transformer-based Threshold-Free Framework for Multi-Intent NLU","url":""}
+{"author":"","bib":"","title":"Domain Classification-based Source-specific Term Penalization for Domain Adaptation in Hate-speech Detection","url":""}
+{"author":"","bib":"","title":"Reweighting Strategy based on Synthetic Data Identification for Sentence Similarity","url":""}
+{"author":"","bib":"","title":"Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America","url":""}
+{"author":"","bib":"","title":"Offensive Content Detection Via Synthetic Code-Switched Text","url":""}
+{"author":"","bib":"","title":"Vocabulary-informed Language Encoding","url":""}
+{"author":"","bib":"","title":"Towards Robust Neural Retrieval with Source Domain Synthetic Pre-Training","url":""}
+{"author":"","bib":"","title":"PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment","url":""}
+{"author":"","bib":"","title":"Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing","url":""}
+{"author":"","bib":"","title":"Addressing Leakage in Self-Supervised Contextualized Code Retrieval","url":""}
+{"author":"","bib":"","title":"Mitigating the Diminishing Effect of Elastic Weight Consolidation","url":""}
+{"author":"","bib":"","title":"EM-PERSONA: EMotion-assisted Deep Neural Framework for PERSONAlity Subtyping from Suicide Notes","url":""}
+{"author":"","bib":"","title":"Large Sequence Representation Learning via Multi-Stage Latent Transformers","url":""}
+{"author":"","bib":"","title":"DocQueryNet: Value Retrieval with Arbitrary Queries for Form-like Documents","url":""}
+{"author":"","bib":"","title":"A simple log-based loss function for ordinal text classification","url":""}
+{"author":"","bib":"","title":"An Embarrassingly Simple Model for Distantly Supervised Relation Extraction","url":""}
+{"author":"","bib":"","title":"CommunityLM: Probing Partisan Worldviews from Language Models","url":""}
+{"author":"","bib":"","title":"Prompt-based Text Entailment for Low-Resource Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Unregulated Cross-language Data Expansion Dose NOT Work for Neural Event Detection","url":""}
+{"author":"","bib":"","title":"Revisiting Syllables in Language Modelling and their Application on Low-Resource Machine Translation","url":""}
+{"author":"","bib":"","title":"Improving code-switched ASR with linguistic information","url":""}
+{"author":"","bib":"","title":"A Study of Implicit Bias in Pretrained Language Models against People with Disabilities","url":""}
+{"author":"","bib":"","title":"Dependency-aware Prototype Learning for Few-shot Relation Classification","url":""}
+{"author":"","bib":"","title":"Alleviating the Inequality of Attention Heads for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Domain-Specific NER via Retrieving Correlated Samples","url":""}
+{"author":"","bib":"","title":"Learning to Generate Explanation from e-Hospital Services for Medical Suggestion","url":""}
+{"author":"","bib":"","title":"WordNet-QU: Development of a Lexical Database for Quechua Varieties","url":""}
+{"author":"","bib":"","title":"Summarizing Dialogues with Negative Cues","url":""}
+{"author":"","bib":"","title":"Rare but Severe Errors Induced by Minimal Deletions in English-Chinese Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Cluster-aware Pseudo-Labeling for Supervised Open Relation Extraction","url":""}
+{"author":"","bib":"","title":"Conversational QA Dataset Generation with Answer Revision","url":""}
+{"author":"","bib":"","title":"Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation","url":""}
+{"author":"","bib":"","title":"A Structure-Aware Argument Encoder for Literature Discourse Analysis","url":""}
+{"author":"","bib":"","title":"CSL: A Large-scale Chinese Scientific Literature Dataset","url":""}
+{"author":"","bib":"","title":"Noun-MWP: Math Word Problems Meet Noun Answers","url":""}
+{"author":"","bib":"","title":"MACRONYM: A Large-Scale Dataset for Multilingual and Multi-Domain Acronym Extraction","url":""}
+{"author":"","bib":"","title":"One Word, Two Sides: Traces of Stance in Contextualized Word Representations","url":""}
+{"author":"","bib":"","title":"Gestures Are Used Rationally: Information Theoretic Evidence from Neural Sequential Models","url":""}
+{"author":"","bib":"","title":"Keyphrase Prediction from Video Transcripts: New Dataset and Directions","url":""}
+{"author":"","bib":"","title":"Event Extraction in Video Transcripts","url":""}
+{"author":"","bib":"","title":"Joint Goal Segmentation and Goal Success Prediction on Multi-Domain Conversations","url":""}
+{"author":"","bib":"","title":"Evons: A Dataset for Fake and Real News Virality Analysis and Prediction","url":""}
+{"author":"","bib":"","title":"A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Yet Another Format of Universal Dependencies for Korean","url":""}
+{"author":"","bib":"","title":"SCL-RAI: Span-based Contrastive Learning with Retrieval Augmented Inference for Unlabeled Entity Problem in NER","url":""}
+{"author":"","bib":"","title":"MaxMatch-Dropout: Subword Regularization for WordPiece","url":""}
+{"author":"","bib":"","title":"MCS: An In-battle Commentary System for MOBA Games","url":""}
+{"author":"","bib":"","title":"Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks","url":""}
+{"author":"","bib":"","title":"Open-Domain Dialog Evaluation using Follow-Ups Likelihood","url":""}
+{"author":"","bib":"","title":"Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases","url":""}
+{"author":"","bib":"","title":"DiaBiz.Kom - Towards a Polish Dialogue Act Corpus Based on ISO 24617-2 Standard","url":""}
+{"author":"","bib":"","title":"Diverse Multi-Answer Retrieval with Determinantal Point Processes","url":""}
+{"author":"","bib":"","title":"Distribution Calibration for Out-of-Domain Detection with Bayesian Approximation","url":""}
+{"author":"","bib":"","title":"How About Time? Probing a Multilingual Language Model for Temporal Relations","url":""}
+{"author":"","bib":"","title":"Language Branch Gated Multilingual Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Don't Judge a Language Model by Its Last Layer: Contrastive Learning with Attention Mechanism Utilizing Layer-Wise Pooling","url":""}
+{"author":"","bib":"","title":"When the Student Becomes the Master: Learning Better and Smaller Monolingual Models from mBERT","url":""}
+{"author":"","bib":"","title":"DP-Rewrite: Towards Reproducibility and Transparency in Differentially Private Text Rewriting","url":""}
+{"author":"","bib":"","title":"A Weak Supervision Approach for Predicting Difficulty of Technical Interview Questions","url":""}
+{"author":"","bib":"","title":"Does Meta-learning Help mBERT for Few-shot Question Generation in a Cross-lingual Transfer Setting for Indic Languages?","url":""}
+{"author":"","bib":"","title":"Method Entity Extraction from Biomedical Texts","url":""}
+{"author":"","bib":"","title":"Unsupervised Data Augmentation for Aspect Based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Layer or Representation Space: What makes BERT-based Metrics Robust?","url":""}
+{"author":"","bib":"","title":"Learnable Dependency-based Double Graph Structure for Aspect-based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"CitRet: A Hybrid Model for Cited Text Span Retrieval","url":""}
+{"author":"","bib":"","title":"Investigating the Performance of Transformer-Based NLI Models on Presuppositional Inferences","url":""}
+{"author":"","bib":"","title":"ALEXSIS-PT: A New Resource for Portuguese Lexical Simplification","url":""}
+{"author":"","bib":"","title":"ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining","url":""}
+{"author":"","bib":"","title":"How Far Can We Push the Teachers? Improving Zero-Shot Multilingual Text Generation via Iterative Distillation","url":""}
+{"author":"","bib":"","title":"How Far Can We Go with an English Model? Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning","url":""}
+{"author":"","bib":"","title":"MonoByte: A Pool of Monolingual Byte-level Language Models","url":""}
+{"author":"","bib":"","title":"Can Causal Transformers Process Recursive Nested Constructions, Like Humans?","url":""}
+{"author":"","bib":"","title":"WikiHan: A New Comparative Dataset for Sinitic Languages","url":""}
+{"author":"","bib":"","title":"Assessing Digital Language Support (DLS) on a Global Scale","url":""}
+{"author":"","bib":"","title":"Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language","url":""}
+{"author":"","bib":"","title":"Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection","url":""}
+{"author":"","bib":"","title":"A Zero-Shot Claim Detection Framework using Question Answering","url":""}
+{"author":"","bib":"","title":"Contrast Sets for Stativity of English Verbs in Context","url":""}
+{"author":"","bib":"","title":"Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows","url":""}
+{"author":"","bib":"","title":"Are Pretrained Multilingual Models Equally Fair Across Languages?","url":""}
+{"author":"","bib":"","title":"LayerConnect: Hypernetwork-Assisted Inter-Layer Connector to Enhance Parameter Efficiency","url":""}
+{"author":"","bib":"","title":"Automatic Nominalization of Clauses","url":""}
+{"author":"","bib":"","title":"A Simple and Effective Method to Improve Zero-Shot Cross-Lingual Transfer Learning using English Only","url":""}
+{"author":"","bib":"","title":"Transparent Semantic Parsing with Universal Dependencies using Graph Transformations","url":""}
+{"author":"","bib":"","title":"Subject Verb Agreement Error Patterns in Meaningless Sentences: Humans vs. BERT","url":""}
+{"author":"","bib":"","title":"FeatureBART: Feature Based Sequence-to-Sequence Pre-Training for Low-Resource NMT","url":""}
+{"author":"","bib":"","title":"PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling","url":""}
+{"author":"","bib":"","title":"LIME: Weakly-Supervised Text Classification Without Seeds","url":""}
+{"author":"","bib":"","title":"Learning Decoupled Retrieval Representation for Nearest Neighbour Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"MuSeCLIR: A Multiple Senses and Cross-lingual Information Retrieval dataset","url":""}
+{"author":"","bib":"","title":"LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization","url":""}
+{"author":"","bib":"","title":"Improving Financial Sentiment Analysis by Metaphor Recognition","url":""}
+{"author":"","bib":"","title":"TempoWiC: An Evaluation Benchmark for Detecting Meaning Shift in Social Media","url":""}
+{"author":"","bib":"","title":"K-MHaS: A Multi-label Hate Speech Detection Dataset in Korean Online News Comment","url":""}
+{"author":"","bib":"","title":"Teaching Neural Module Networks to Do Arithmetic","url":""}
+{"author":"","bib":"","title":"Target-Guided Open-Domain Conversation Planning","url":""}
+{"author":"","bib":"","title":"TERMinator: A system for scientific texts processing","url":""}
+{"author":"","bib":"","title":"Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding","url":""}
+{"author":"","bib":"","title":"Grammatical Error Correction: Are We There Yet?","url":""}
+{"author":"","bib":"","title":"On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation","url":""}

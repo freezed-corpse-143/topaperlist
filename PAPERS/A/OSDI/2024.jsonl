@@ -1,0 +1,53 @@
+{"author":"","bib":"","title":"Sabre: Hardware-Accelerated Snapshot Compression for Serverless MicroVMs.","url":""}
+{"author":"","bib":"","title":"Nomad: Non-Exclusive Memory Tiering via Transactional Page Migration.","url":""}
+{"author":"","bib":"","title":"Managing Memory Tiers with CXL in Virtualized Environments.","url":""}
+{"author":"","bib":"","title":"Harvesting Memory-bound CPU Stall Cycles in Software with MSH.","url":""}
+{"author":"","bib":"","title":"A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient Far-Memory Applications.","url":""}
+{"author":"","bib":"","title":"DRust: Language-Guided Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency.","url":""}
+{"author":"","bib":"","title":"Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve.","url":""}
+{"author":"","bib":"","title":"ServerlessLLM: Low-Latency Serverless Inference for Large Language Models.","url":""}
+{"author":"","bib":"","title":"InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management.","url":""}
+{"author":"","bib":"","title":"Llumnix: Dynamic Scheduling for Large Language Model Serving.","url":""}
+{"author":"","bib":"","title":"DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.","url":""}
+{"author":"","bib":"","title":"ACCL+: an FPGA-Based Collective Engine for Distributed Applications.","url":""}
+{"author":"","bib":"","title":"Beaver: Practical Partial Snapshots for Distributed Cloud Services.","url":""}
+{"author":"","bib":"","title":"Fast and Scalable In-network Lock Management Using Lock Fission.","url":""}
+{"author":"","bib":"","title":"Chop Chop: Byzantine Atomic Broadcast to the Network Limit.","url":""}
+{"author":"","bib":"","title":"Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation.","url":""}
+{"author":"","bib":"","title":"Caravan: Practical Online Learning of In-Network ML Models with Labeling Agents.","url":""}
+{"author":"","bib":"","title":"nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training.","url":""}
+{"author":"","bib":"","title":"ChameleonAPI: Automatic and Efficient Customization of Neural Networks for ML Applications.","url":""}
+{"author":"","bib":"","title":"SquirrelFS: using the Rust compiler to check file-system crash consistency.","url":""}
+{"author":"","bib":"","title":"High-throughput and Flexible Host Networking for Accelerated Computing.","url":""}
+{"author":"","bib":"","title":"IntOS: Persistent Embedded Operating System and Language Support for Multi-threaded Intermittent Computing.","url":""}
+{"author":"","bib":"","title":"Data-flow Availability: Achieving Timing Assurance in Autonomous Systems.","url":""}
+{"author":"","bib":"","title":"Microkernel Goes General: Performance and Compatibility in the HongMeng Production Microkernel.","url":""}
+{"author":"","bib":"","title":"When will my ML Job finish? Toward providing Completion Time Estimates through Predictability-Centric Scheduling.","url":""}
+{"author":"","bib":"","title":"Optimizing Resource Allocation in Hyperscale Datacenters: Scalability, Usability, and Experiences.","url":""}
+{"author":"","bib":"","title":"μSlope: High Compression and Fast Search on Semi-Structured Logs.","url":""}
+{"author":"","bib":"","title":"ServiceLab: Preventing Tiny Performance Regressions at Hyperscale through Pre-Production Testing.","url":""}
+{"author":"","bib":"","title":"MAST: Global Scheduling of ML Training across Geo-Distributed Datacenters at Hyperscale.","url":""}
+{"author":"","bib":"","title":"Automatically Reasoning About How Systems Code Uses the CPU Cache.","url":""}
+{"author":"","bib":"","title":"VeriSMo: A Verified Security Module for Confidential VMs.","url":""}
+{"author":"","bib":"","title":"Validating the eBPF Verifier via State Embedding.","url":""}
+{"author":"","bib":"","title":"Using Dynamically Layered Definite Releases for Verifying the RefFS File System.","url":""}
+{"author":"","bib":"","title":"Anvil: Verifying Liveness of Cluster Management Controllers.","url":""}
+{"author":"","bib":"","title":"DSig: Breaking the Barrier of Signatures in Data Centers.","url":""}
+{"author":"","bib":"","title":"Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk.","url":""}
+{"author":"","bib":"","title":"Secret Key Recovery in a Global-Scale End-to-End Encryption System.","url":""}
+{"author":"","bib":"","title":"Flock: A Framework for Deploying On-Demand Distributed Trust.","url":""}
+{"author":"","bib":"","title":"FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces.","url":""}
+{"author":"","bib":"","title":"Massively Parallel Multi-Versioned Transaction Processing.","url":""}
+{"author":"","bib":"","title":"Burstable Cloud Block Storage with Data Processing Units.","url":""}
+{"author":"","bib":"","title":"Motor: Enabling Multi-Versioning for Distributed Transactions on Disaggregated Memory.","url":""}
+{"author":"","bib":"","title":"Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation.","url":""}
+{"author":"","bib":"","title":"Inductive Invariants That Spark Joy: Using Invariant Taxonomies to Streamline Distributed Protocol Proofs.","url":""}
+{"author":"","bib":"","title":"Performance Interfaces for Hardware Accelerators.","url":""}
+{"author":"","bib":"","title":"IronSpec: Increasing the Reliability of Formal Specifications.","url":""}
+{"author":"","bib":"","title":"Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples.","url":""}
+{"author":"","bib":"","title":"dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.","url":""}
+{"author":"","bib":"","title":"Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.","url":""}
+{"author":"","bib":"","title":"USHER: Holistic Interference Avoidance for Resource Optimized ML Inference.","url":""}
+{"author":"","bib":"","title":"Fairness in Serving Large Language Models.","url":""}
+{"author":"","bib":"","title":"MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures.","url":""}

@@ -1,0 +1,109 @@
+{"author":"","bib":"","title":"Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, SC 2024, Atlanta, GA, USA, November 17-22, 2024","url":""}
+{"author":"","bib":"","title":"ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability","url":""}
+{"author":"","bib":"","title":"Boosting Earth System Model Outputs And Saving PetaBytes in Their Storage Using Exascale Climate Emulators","url":""}
+{"author":"","bib":"","title":"A Performance-Portable Kilometer-Scale Global Ocean Model on ORISE and New Sunway Heterogeneous Supercomputers","url":""}
+{"author":"","bib":"","title":"Democratizing AI: Open-source Scalable LLM Training on GPU-based Supercomputers","url":""}
+{"author":"","bib":"","title":"Pushing the Limit of Quantum Mechanical Simulation to the Raman Spectra of a Biological System with 100 Million Atoms","url":""}
+{"author":"","bib":"","title":"Toward Capturing Genetic Epistasis From Multivariate Genome-Wide Association Studies Using Mixed-Precision Kernel Ridge Regression","url":""}
+{"author":"","bib":"","title":"MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization","url":""}
+{"author":"","bib":"","title":"Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System","url":""}
+{"author":"","bib":"","title":"Breaking the Million-Electron and 1 EFLOP/s Barriers: Biomolecular-Scale Ab Initio Molecular Dynamics Using MP2 Potentials","url":""}
+{"author":"","bib":"","title":"M3XU: Achieving High-Precision and Complex Matrix Multiplication with Low-Precision MXUs","url":""}
+{"author":"","bib":"","title":"Hydrogen: Contention-Aware Hybrid Memory for Heterogeneous CPU-GPU Architectures","url":""}
+{"author":"","bib":"","title":"EcoLife: Carbon-Aware Serverless Function Scheduling for Sustainable Computing","url":""}
+{"author":"","bib":"","title":"cuSZ-i: High-Ratio Scientific Lossy Compression on GPUs with Optimized Multi-Level Interpolation","url":""}
+{"author":"","bib":"","title":"Tango: A Cross-layer Approach to Managing I/O Interference over Local Ephemeral Storage","url":""}
+{"author":"","bib":"","title":"cuSZp2: A GPU Lossy Compressor with Extreme Throughput and Optimized Compression Ratio","url":""}
+{"author":"","bib":"","title":"LLM-Pilot: Characterize and Optimize Performance of your LLM Inference Services","url":""}
+{"author":"","bib":"","title":"DFTracer: An Analysis-Friendly Data Flow Tracer for AI-Driven Workflows","url":""}
+{"author":"","bib":"","title":"Efficient Weighted Graph Matching on GPUs","url":""}
+{"author":"","bib":"","title":"Automated Code Generation of High-Order Stencils for a Dataflow Architecture","url":""}
+{"author":"","bib":"","title":"Moirae: Generating High-Performance Composite Stencil Programs with Global Optimizations","url":""}
+{"author":"","bib":"","title":"autoGEMM: Pushing the Limits of Irregular Matrix Multiplication on Arm Architectures","url":""}
+{"author":"","bib":"","title":"Accurate and Convenient Energy Measurements for GPUs: A Detailed Study of NVIDIA GPU's Built-In Power Sensor","url":""}
+{"author":"","bib":"","title":"A Digital Twin Framework for Liquid-cooled Supercomputers as Demonstrated at Exascale","url":""}
+{"author":"","bib":"","title":"Toward Sustainable HPC: In-Production Deployment of Incentive-Based Power Efficiency Mechanism on the Fugaku Supercomputer","url":""}
+{"author":"","bib":"","title":"Towards Highly Compatible I/O-Aware Workflow Scheduling on HPC Systems","url":""}
+{"author":"","bib":"","title":"PAL: A Variability-Aware Policy for Scheduling ML Workloads in GPU Clusters","url":""}
+{"author":"","bib":"","title":"Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution","url":""}
+{"author":"","bib":"","title":"Matrix-Free Finite Volume Kernels on a Dataflow Architecture","url":""}
+{"author":"","bib":"","title":"Rapid GPU-Based Pangenome Graph Layout","url":""}
+{"author":"","bib":"","title":"Scaling Molecular Dynamics with ab initio Accuracy to 149 Nanoseconds per Day","url":""}
+{"author":"","bib":"","title":"An Evaluation of the Effect of Network Cost Optimization for Leadership Class Supercomputers","url":""}
+{"author":"","bib":"","title":"Application-Driven Exascale: The JUPITER Benchmark Suite","url":""}
+{"author":"","bib":"","title":"Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects","url":""}
+{"author":"","bib":"","title":"MCFuser: High-Performance and Rapid Fusion of Memory-Bound Compute-Intensive Operators","url":""}
+{"author":"","bib":"","title":"Static Generation of Efficient OpenMP Offload Data Mappings","url":""}
+{"author":"","bib":"","title":"HiRace: Accurate and Fast Data Race Checking for GPU Programs","url":""}
+{"author":"","bib":"","title":"Boosting Data Center Performance via Intelligently Managed Multi-backend Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing","url":""}
+{"author":"","bib":"","title":"Stellaris: Staleness-Aware Distributed Reinforcement Learning with Serverless Computing","url":""}
+{"author":"","bib":"","title":"PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation","url":""}
+{"author":"","bib":"","title":"RecFlex: Enabling Feature Heterogeneity-Aware Optimization for Deep Recommendation Models with Flexible Schedules","url":""}
+{"author":"","bib":"","title":"ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments","url":""}
+{"author":"","bib":"","title":"CUDASTF: Bridging the Gap Between CUDA and Task Parallelism","url":""}
+{"author":"","bib":"","title":"KaMPIng: Flexible and (Near) Zero-Overhead C++ Bindings for MPI","url":""}
+{"author":"","bib":"","title":"NetCL: A Unified Programming Framework for In-Network Computing","url":""}
+{"author":"","bib":"","title":"Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication","url":""}
+{"author":"","bib":"","title":"A Sparsity-Aware Distributed-Memory Algorithm for Sparse-Sparse Matrix Multiplication","url":""}
+{"author":"","bib":"","title":"A Conflict-aware Divide-and-Conquer Algorithm for Symmetric Sparse Matrix-Vector Multiplication","url":""}
+{"author":"","bib":"","title":"Accelerating Distributed DLRM Training with Optimized TT Decomposition and Micro-Batching","url":""}
+{"author":"","bib":"","title":"Scaling New Heights: Transformative Cross-GPU Sampling for Training Billion-Edge Graphs","url":""}
+{"author":"","bib":"","title":"A Scalable Algorithm for Active Learning","url":""}
+{"author":"","bib":"","title":"AmgT: Algebraic Multigrid Solver on Tensor Cores","url":""}
+{"author":"","bib":"","title":"LoRAStencil: Low-Rank Adaptation of Stencil Computation on Tensor Cores","url":""}
+{"author":"","bib":"","title":"High Performance Unstructured SpMM Computation Using Tensor Cores","url":""}
+{"author":"","bib":"","title":"Versatile Datapath Soft Error Detection on the Cheap for HPC Applications","url":""}
+{"author":"","bib":"","title":"MCBound: An Online Framework to Characterize and Classify Memory/Compute-bound HPC Jobs","url":""}
+{"author":"","bib":"","title":"GVARP: Detecting Performance Variance on Large-Scale Heterogeneous Systems","url":""}
+{"author":"","bib":"","title":"Mille-feuille: A Tile-Grained Mixed Precision Single-Kernel Conjugate Gradient Solver on GPUs","url":""}
+{"author":"","bib":"","title":"DBSR: An Efficient Storage Format for Vectorizing Sparse Triangular Solvers on Structured Grids","url":""}
+{"author":"","bib":"","title":"Many-Body Electronic Correlation Energy using Krylov Subspace Linear Solvers","url":""}
+{"author":"","bib":"","title":"Enabling 13K-Atom Excited-State GW Calculations via Low-Rank Approximations and HPC on the New Sunway Supercomputer","url":""}
+{"author":"","bib":"","title":"Reshaping High Energy Physics Applications for Near-Interactive Execution Using TaskVine","url":""}
+{"author":"","bib":"","title":"Towards Exascale Simulations of Nanoelectronic Devices in the GW Approximation","url":""}
+{"author":"","bib":"","title":"LLAMP: Assessing Network Latency Tolerance of HPC Applications with Linear Programming","url":""}
+{"author":"","bib":"","title":"A Workflow Roofline Model for End-to-End Workflow Performance Analysis","url":""}
+{"author":"","bib":"","title":"Learning Generalizable Program and Architecture Representations for Performance Modeling","url":""}
+{"author":"","bib":"","title":"LexiQL: Quantum Natural Language Processing on NISQ-era Machines","url":""}
+{"author":"","bib":"","title":"Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures","url":""}
+{"author":"","bib":"","title":"On the Efficacy of Surface Codes in Compensating for Radiation Events in Superconducting Devices","url":""}
+{"author":"","bib":"","title":"Revisiting Computation for Research: Practices and Trends","url":""}
+{"author":"","bib":"","title":"Understanding Data Movement Patterns in HPC: A NERSC Case Study","url":""}
+{"author":"","bib":"","title":"HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications","url":""}
+{"author":"","bib":"","title":"Parallax: A Compiler for Neutral Atom Quantum Computers under Hardware Constraints","url":""}
+{"author":"","bib":"","title":"MixQ: Taming Dynamic Outliers in Mixed-Precision Quantization by Online Prediction","url":""}
+{"author":"","bib":"","title":"Long Exposure: Accelerating Parameter-Efficient Fine-Tuning for LLMs under Shadowy Sparsity","url":""}
+{"author":"","bib":"","title":"Adaptive Patching for High-resolution Image Segmentation with Transformers","url":""}
+{"author":"","bib":"","title":"TorchGT: A Holistic System for Large-Scale Graph Transformer Training","url":""}
+{"author":"","bib":"","title":"Exploring Efficient Partial Differential Equation Solution Using Speed Galerkin Transformer","url":""}
+{"author":"","bib":"","title":"Surpassing Sycamore: Achieving Energetic Superiority Through System-Level Circuit Simulation","url":""}
+{"author":"","bib":"","title":"Realizing Quantum Kernel Models at Scale with Matrix Product State Simulation","url":""}
+{"author":"","bib":"","title":"Atlas: Hierarchical Partitioning for Quantum Circuit Simulation on GPUs","url":""}
+{"author":"","bib":"","title":"Unlocking High Performance with Low-Bit NPUs and CPUs for Highly Optimized HPL-MxP on Cloud Brain II","url":""}
+{"author":"","bib":"","title":"Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning","url":""}
+{"author":"","bib":"","title":"A Probabilistic Approach To Selecting Build Configurations in Package Managers","url":""}
+{"author":"","bib":"","title":"A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization","url":""}
+{"author":"","bib":"","title":"Error-controlled Progressive Retrieval of Scientific Data under Derivable Quantities of Interest","url":""}
+{"author":"","bib":"","title":"CARP: Range Query-Optimized Indexing for Streaming Data","url":""}
+{"author":"","bib":"","title":"Optimizing Distributed ML Communication with Fused Computation-Collective Operations","url":""}
+{"author":"","bib":"","title":"Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression","url":""}
+{"author":"","bib":"","title":"APTMoE: Affinity-Aware Pipeline Tuning for MoE Models on Bandwidth-Constrained GPU Nodes","url":""}
+{"author":"","bib":"","title":"Accelerated Atomistic Kinetic Monte Carlo Simulations of Resistive Memory Arrays","url":""}
+{"author":"","bib":"","title":"Large Language Models for Anomaly Detection in Computational Workflows: From Supervised Fine-Tuning to In-Context Learning","url":""}
+{"author":"","bib":"","title":"Designing a GPU-Accelerated Communication Layer for Efficient Fluid-Structure Interaction Computations on Heterogeneous Systems","url":""}
+{"author":"","bib":"","title":"Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link","url":""}
+{"author":"","bib":"","title":"COAXIAL: A CXL-Centric Memory System for Scalable Servers","url":""}
+{"author":"","bib":"","title":"Switch-Less Dragonfly on Wafers: A Scalable Interconnection Architecture based on Wafer-Scale Integration","url":""}
+{"author":"","bib":"","title":"Fast and Efficient Scaling for Microservices with SurgeGuard","url":""}
+{"author":"","bib":"","title":"Realizing Joint Extreme-Scale Simulations on Multiple Supercomputers - Two Superfacility Case Studies","url":""}
+{"author":"","bib":"","title":"AutoCheck: Automatically Identifying Variables for Checkpointing by Data Dependency Analysis","url":""}
+{"author":"","bib":"","title":"Enumeration of Billions of Maximal Bicliques in Bipartite Graphs without Using GPUs","url":""}
+{"author":"","bib":"","title":"Doubling Graph Traversal Efficiency to 198 TeraTEPS on the Supercomputer Fugaku","url":""}
+{"author":"","bib":"","title":"Asynchronous Distributed-Memory Parallel Algorithms for Influence Maximization","url":""}
+{"author":"","bib":"","title":"Network-Offloaded Bandwidth-Optimal Broadcast and Allgather for Distributed AI","url":""}
+{"author":"","bib":"","title":"hZCCL: Accelerating Collective Communication with Co-Designed Homomorphic Compression","url":""}
+{"author":"","bib":"","title":"UNR: Unified Notifiable RMA Library for HPC","url":""}
+{"author":"","bib":"","title":"EXO: Accelerating Storage Paravirtualization with eBPF","url":""}
+{"author":"","bib":"","title":"CoRD: Combining Raid and Delta for Fast Partial Updates in Erasure-Coded Storage Clusters","url":""}
+{"author":"","bib":"","title":"MegaMmap: Blurring the Boundary Between Memory and Storage for Data-Intensive Workloads","url":""}

@@ -1,0 +1,82 @@
+{"author":"","bib":"","title":"48th ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2021, Virtual Event / Valencia, Spain, June 14-18, 2021","url":""}
+{"author":"","bib":"","title":"Ten Lessons From Three Generations Shaped Google's TPUv4i : Industrial Product","url":""}
+{"author":"","bib":"","title":"Sparsity-Aware and Re-configurable NPU Architecture for Samsung Flagship Mobile SoC","url":""}
+{"author":"","bib":"","title":"Energy Efficiency Boost in the AI-Infused POWER10 Processor","url":""}
+{"author":"","bib":"","title":"Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product","url":""}
+{"author":"","bib":"","title":"Pioneering Chiplet Technology and Design for the AMD EPYC™ and Ryzen™ Processor Families : Industrial Product","url":""}
+{"author":"","bib":"","title":"Zero Inclusion Victim: Isolating Core Caches from Inclusive Last-level Cache Evictions","url":""}
+{"author":"","bib":"","title":"Exploiting Page Table Locality for Agile TLB Prefetching","url":""}
+{"author":"","bib":"","title":"A Cost-Effective Entangling Prefetcher for Instructions","url":""}
+{"author":"","bib":"","title":"Don't Forget the I/O When Allocating Your LLC","url":""}
+{"author":"","bib":"","title":"PF-DRAM: A Precharge-Free DRAM Structure","url":""}
+{"author":"","bib":"","title":"Efficient Multi-GPU Shared Memory via Automatic Optimization of Fine-Grained Transfers","url":""}
+{"author":"","bib":"","title":"RaPiD: AI Accelerator for Ultra-low Precision Training and Inference","url":""}
+{"author":"","bib":"","title":"REDUCT: Keep it Close, Keep it Cool! : Efficient Scaling of DNN Inference on Multi-core CPUs with Near-Cache Compute","url":""}
+{"author":"","bib":"","title":"Communication Algorithm-Architecture Co-Design for Distributed Deep Learning","url":""}
+{"author":"","bib":"","title":"Vector Runahead","url":""}
+{"author":"","bib":"","title":"Unlimited Vector Extension with Data Streaming Support","url":""}
+{"author":"","bib":"","title":"Speculative Vectorisation with Selective Replay","url":""}
+{"author":"","bib":"","title":"ABC-DIMM: Alleviating the Bottleneck of Communication in DIMM-based Near-Memory Processing with Inter-DIMM Broadcast","url":""}
+{"author":"","bib":"","title":"Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-mer Matching","url":""}
+{"author":"","bib":"","title":"FORMS: Fine-grained Polarized ReRAM-based In-situ Computation for Mixed-signal DNN Accelerator","url":""}
+{"author":"","bib":"","title":"BOSS: Bandwidth-Optimized Search Accelerator for Storage-Class Memory","url":""}
+{"author":"","bib":"","title":"SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains*","url":""}
+{"author":"","bib":"","title":"Confidential Serverless Made Efficient with Plug-In Enclaves","url":""}
+{"author":"","bib":"","title":"Flex: High-Availability Datacenters With Zero Reserved Power","url":""}
+{"author":"","bib":"","title":"BlockMaestro: Enabling Programmer-Transparent Task-based Execution in GPU Systems","url":""}
+{"author":"","bib":"","title":"Opening Pandora's Box: A Systematic Study of New Ways Microarchitecture Can Leak Private Data","url":""}
+{"author":"","bib":"","title":"I See Dead µops: Leaking Secrets via Intel/AMD Micro-Op Caches","url":""}
+{"author":"","bib":"","title":"TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software","url":""}
+{"author":"","bib":"","title":"Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees","url":""}
+{"author":"","bib":"","title":"Aurochs: An Architecture for Dataflow Threads","url":""}
+{"author":"","bib":"","title":"PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture","url":""}
+{"author":"","bib":"","title":"Taming the Zoo: The Unified GraphIt Compiler Framework for Novel Architectures","url":""}
+{"author":"","bib":"","title":"Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach","url":""}
+{"author":"","bib":"","title":"Execution Dependence Extension (EDE): ISA Support for Eliminating Fences","url":""}
+{"author":"","bib":"","title":"Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters","url":""}
+{"author":"","bib":"","title":"CODIC: A Low-Cost Substrate for Enabling Custom In-DRAM Functionalities and Optimizations","url":""}
+{"author":"","bib":"","title":"NVOverlay: Enabling Efficient and Scalable High-Frequency Snapshotting to NVM","url":""}
+{"author":"","bib":"","title":"Rebooting Virtual Memory with Midgard","url":""}
+{"author":"","bib":"","title":"Dvé: Improving DRAM Reliability and Performance On-Demand via Coherent Replication","url":""}
+{"author":"","bib":"","title":"Enabling Compute-Communication Overlap in Distributed Deep Learning Training Platforms","url":""}
+{"author":"","bib":"","title":"CoSA: Scheduling by Constrained Optimization for Spatial Accelerators","url":""}
+{"author":"","bib":"","title":"η-LSTM: Co-Designing Highly-Efficient Large LSTM Training via Exploiting Memory-Saving and Architectural Design Opportunities","url":""}
+{"author":"","bib":"","title":"FlexMiner: A Pattern-Aware Accelerator for Graph Pattern Mining","url":""}
+{"author":"","bib":"","title":"PolyGraph: Exposing the Value of Flexibility for Graph Processing Accelerators","url":""}
+{"author":"","bib":"","title":"Large-Scale Graph Processing on FPGAs with Caches for Thousands of Simultaneous Misses","url":""}
+{"author":"","bib":"","title":"Cost-Efficient Overclocking in Immersion-Cooled Datacenters","url":""}
+{"author":"","bib":"","title":"CryoGuard: A Near Refresh-Free Robust DRAM Design for Cryogenic Computing","url":""}
+{"author":"","bib":"","title":"Superconducting Computing with Alternating Logic Elements","url":""}
+{"author":"","bib":"","title":"Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via Low-cost Hardware Support for Voltage Monitoring","url":""}
+{"author":"","bib":"","title":"SPACE: Locality-Aware Processing in Heterogeneous Memory for Personalized Recommendations","url":""}
+{"author":"","bib":"","title":"ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks","url":""}
+{"author":"","bib":"","title":"Cambricon-Q: A Hybrid Architecture for Efficient Training","url":""}
+{"author":"","bib":"","title":"TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation","url":""}
+{"author":"","bib":"","title":"Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications","url":""}
+{"author":"","bib":"","title":"Quantifying Server Memory Frequency Margin and Using It to Improve Performance in HPC Systems","url":""}
+{"author":"","bib":"","title":"Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution","url":""}
+{"author":"","bib":"","title":"NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks","url":""}
+{"author":"","bib":"","title":"NASA: Accelerating Neural Network Design with a NAS Processor","url":""}
+{"author":"","bib":"","title":"PMNet: In-Network Data Persistence","url":""}
+{"author":"","bib":"","title":"Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures","url":""}
+{"author":"","bib":"","title":"Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors","url":""}
+{"author":"","bib":"","title":"Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing","url":""}
+{"author":"","bib":"","title":"Albireo: Energy-Efficient Acceleration of Convolutional Neural Networks via Silicon Photonics","url":""}
+{"author":"","bib":"","title":"INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities","url":""}
+{"author":"","bib":"","title":"Maya: Using Formal Control to Obfuscate Power Side Channels","url":""}
+{"author":"","bib":"","title":"Demystifying the System Vulnerability Stack: Transient Fault Effects Across the Layers","url":""}
+{"author":"","bib":"","title":"No-FAT: Architectural Support for Low Overhead Memory Safety Checks","url":""}
+{"author":"","bib":"","title":"Ghost Routing to Enable Oblivious Computation on Memory-centric Networks","url":""}
+{"author":"","bib":"","title":"QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips","url":""}
+{"author":"","bib":"","title":"A RISC-V in-network accelerator for flexible high-performance low-power packet processing","url":""}
+{"author":"","bib":"","title":"Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems","url":""}
+{"author":"","bib":"","title":"IChannels: Exploiting Current Management Mechanisms to Create Covert Channels in Modern Processors","url":""}
+{"author":"","bib":"","title":"ZeRØ: Zero-Overhead Resilient Operation Under Pointer Integrity Attacks","url":""}
+{"author":"","bib":"","title":"NN-Baton: DNN Workload Orchestration and Chiplet Granularity Exploration for Multichip Accelerators","url":""}
+{"author":"","bib":"","title":"Snafu: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture","url":""}
+{"author":"","bib":"","title":"SARA: Scaling a Reconfigurable Dataflow Accelerator","url":""}
+{"author":"","bib":"","title":"HASCO: Towards Agile HArdware and Software CO-design for Tensor Computation","url":""}
+{"author":"","bib":"","title":"SpZip: Architectural Support for Effective Data Compression In Irregular Applications","url":""}
+{"author":"","bib":"","title":"Dual-side Sparse Tensor Core","url":""}
+{"author":"","bib":"","title":"RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging","url":""}
+{"author":"","bib":"","title":"GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator","url":""}

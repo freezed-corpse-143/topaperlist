@@ -1,0 +1,49 @@
+{"author":"","bib":"","title":"PPoPP '21: 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Virtual Event, Republic of Korea, February 27- March 3, 2021","url":""}
+{"author":"","bib":"","title":"Efficient algorithms for persistent transactional memory","url":""}
+{"author":"","bib":"","title":"Investigating the semantics of futures in transactional memory systems","url":""}
+{"author":"","bib":"","title":"Constant-time snapshots with applications to concurrent data structures","url":""}
+{"author":"","bib":"","title":"Reasoning about recursive tree traversals","url":""}
+{"author":"","bib":"","title":"Synthesizing optimal collective algorithms","url":""}
+{"author":"","bib":"","title":"Parallel binary code analysis","url":""}
+{"author":"","bib":"","title":"Compiler support for near data computing","url":""}
+{"author":"","bib":"","title":"Scaling implicit parallelism via dynamic control replication","url":""}
+{"author":"","bib":"","title":"Understanding and bridging the gaps in current GNN performance optimizations","url":""}
+{"author":"","bib":"","title":"A fast work-efficient SSSP algorithm for GPUs","url":""}
+{"author":"","bib":"","title":"ShadowVM: accelerating data plane for data analytics with bare metal CPUs and GPUs","url":""}
+{"author":"","bib":"","title":"BiPart: a parallel and deterministic hypergraph partitioner","url":""}
+{"author":"","bib":"","title":"NBR: neutralization based reclamation","url":""}
+{"author":"","bib":"","title":"Efficiently reclaiming memory in concurrent search data structures while bounding wasted memory","url":""}
+{"author":"","bib":"","title":"OrcGC: automatic lock-free memory reclamation","url":""}
+{"author":"","bib":"","title":"Are dynamic memory managers on GPUs slow?: a survey and benchmarks","url":""}
+{"author":"","bib":"","title":"GPTune: multitask learning for autotuning exascale applications","url":""}
+{"author":"","bib":"","title":"I/O lower bounds for auto-tuning of convolutions in CNNs","url":""}
+{"author":"","bib":"","title":"ApproxTuner: a compiler and runtime system for adaptive approximations","url":""}
+{"author":"","bib":"","title":"EGEMM-TC: accelerating scientific computing on tensor cores with extended precision","url":""}
+{"author":"","bib":"","title":"Efficiently running SpMV on long vector architectures","url":""}
+{"author":"","bib":"","title":"Improving communication by optimizing on-node data movement with data layout","url":""}
+{"author":"","bib":"","title":"Sparta: high-performance, element-wise sparse tensor contraction on heterogeneous memory","url":""}
+{"author":"","bib":"","title":"Advanced synchronization techniques for task-based runtime systems","url":""}
+{"author":"","bib":"","title":"An ownership policy and deadlock detector for promises","url":""}
+{"author":"","bib":"","title":"Understanding a program's resiliency through error propagation","url":""}
+{"author":"","bib":"","title":"Lightweight preemptive user-level threads","url":""}
+{"author":"","bib":"","title":"TurboTransformers: an efficient GPU serving system for transformer models","url":""}
+{"author":"","bib":"","title":"Extracting clean performance models from tainted programs","url":""}
+{"author":"","bib":"","title":"Modernizing parallel code with pattern analysis","url":""}
+{"author":"","bib":"","title":"DAPPLE: a pipelined data parallel approach for training large models","url":""}
+{"author":"","bib":"","title":"On group mutual exclusion for dynamic systems","url":""}
+{"author":"","bib":"","title":"Bundled references: an abstraction for highly-concurrent linearizable range queries","url":""}
+{"author":"","bib":"","title":"Verifying C11-style weak memory libraries","url":""}
+{"author":"","bib":"","title":"A lock-free relaxed concurrent queue for fast work distribution","url":""}
+{"author":"","bib":"","title":"A more pragmatic implementation of the lock-free, ordered, linked list","url":""}
+{"author":"","bib":"","title":"Extending MapReduce framework with locality keys","url":""}
+{"author":"","bib":"","title":"On the parallel I/O optimality of linear algebra kernels: near-optimal LU factorization","url":""}
+{"author":"","bib":"","title":"Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics","url":""}
+{"author":"","bib":"","title":"In-situ workflow auto-tuning through combining component models","url":""}
+{"author":"","bib":"","title":"Simplifying low-level GPU programming with GAS","url":""}
+{"author":"","bib":"","title":"Corder: cache-aware reordering for optimizing graph analytics","url":""}
+{"author":"","bib":"","title":"DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing","url":""}
+{"author":"","bib":"","title":"An efficient uncertain graph processing framework for heterogeneous architectures","url":""}
+{"author":"","bib":"","title":"Dynamic scaling for low-precision learning","url":""}
+{"author":"","bib":"","title":"Exploring deep reuse in winograd CNN inference","url":""}
+{"author":"","bib":"","title":"A novel memory-efficient deep learning training framework via error-bounded lossy compression","url":""}
+{"author":"","bib":"","title":"FFT blitz: the tensor cores strike back","url":""}

@@ -1,0 +1,443 @@
+{"author":"","bib":"","title":"PACMMOD V4, N1 (SIGMOD), February 2026 Editorial","url":""}
+{"author":"","bib":"","title":"A Game Theory Approach for Negotiating in Data Marketplaces","url":""}
+{"author":"","bib":"","title":"A Game Theory Approach for Negotiating in Data Marketplaces","url":""}
+{"author":"","bib":"","title":"A Principled Solution to the Disjunction Problem of Diagrammatic Query Representations","url":""}
+{"author":"","bib":"","title":"A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs","url":""}
+{"author":"","bib":"","title":"ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks","url":""}
+{"author":"","bib":"","title":"Accelerating Triangle-Connected Truss Community Search Across Heterogeneous Hardware","url":""}
+{"author":"","bib":"","title":"Aeris Filter: A Strongly and Monotonically Adaptive Range Filter","url":""}
+{"author":"","bib":"","title":"AeroSketch: Near-Optimal Time Matrix Sketch Framework for Persistent, Sliding Window, and Distributed Streams","url":""}
+{"author":"","bib":"","title":"An Extensive Experimental Study of Indexes in Continuous Subgraph Matching: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Analyzing Deviations from Monotonic Trends through Database Repair","url":""}
+{"author":"","bib":"","title":"HONEYBEE: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning","url":""}
+{"author":"","bib":"","title":"AutoDDG: Automated Dataset Description Generation using Large Language Models","url":""}
+{"author":"","bib":"","title":"Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management","url":""}
+{"author":"","bib":"","title":"Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization","url":""}
+{"author":"","bib":"","title":"Breadcrumb Filters: Fast Fully Featured Filters","url":""}
+{"author":"","bib":"","title":"CANDOR-Bench: Benchmarking In-Memory Continuous ANNS under Dynamic Open-World Streams [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Causal Explanations for Disparate Trends: Where and Why?","url":""}
+{"author":"","bib":"","title":"Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"CorrBound: Cardinality Estimation Accounting for Inter- and Intra-relation Correlations","url":""}
+{"author":"","bib":"","title":"CoTra: Towards Efficient and Scalable Distributed Vector Search with RDMA","url":""}
+{"author":"","bib":"","title":"Curator: Efficient Vector Search with Low-Selectivity Filters","url":""}
+{"author":"","bib":"","title":"DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"Data-Semantics-Aware Recommendation of Diverse Pivot Tables","url":""}
+{"author":"","bib":"","title":"Defense against Poisoning Attacks under Shuffle-DP","url":""}
+{"author":"","bib":"","title":"Distribution-Aware Exploration for Adaptive HNSW Search","url":""}
+{"author":"","bib":"","title":"DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning","url":""}
+{"author":"","bib":"","title":"Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload","url":""}
+{"author":"","bib":"","title":"Efficient and Effective Biclique Counting with Local Differential Privacy","url":""}
+{"author":"","bib":"","title":"Efficient and Robust Out-Of-Distribution Vector Similarity Search with Cross-Distribution Monotonic Graph","url":""}
+{"author":"","bib":"","title":"Efficient Influential Community Search over Dynamic Graphs","url":""}
+{"author":"","bib":"","title":"Efficient Vector Index Merging in Vector Databases","url":""}
+{"author":"","bib":"","title":"Enabling Efficient Update on Rule-Based Compressed Graph","url":""}
+{"author":"","bib":"","title":"Enhancing Local Differential Privacy Accuracy by Exploiting Inherent Uncertainty","url":""}
+{"author":"","bib":"","title":"Enumerating Graph Pattern Matches with ML Oracles","url":""}
+{"author":"","bib":"","title":"ESTune: Bayesian Uncertainty-Guided Early Stopping for Database Configuration Tuning","url":""}
+{"author":"","bib":"","title":"Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"FlashANNS: GPU-Driven Asynchronous I/O Pipelining for Eliminating Storage-Compute Bottlenecks in Billion-Scale Similarity Search","url":""}
+{"author":"","bib":"","title":"FlowPilot: A Suggestion System for Designing Scientific Workflows","url":""}
+{"author":"","bib":"","title":"From Learning to Recycling: A Log-Structured Learned-Less Index","url":""}
+{"author":"","bib":"","title":"From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation","url":""}
+{"author":"","bib":"","title":"High-Throughput k Nearest Neighbors Search in Road Networks","url":""}
+{"author":"","bib":"","title":"HIRE: A Hybrid Learned Index for Robust and Efficient Performance under Mixed Workloads","url":""}
+{"author":"","bib":"","title":"Hyra: Scalable Byzantine-Resilient State Storage Engine with Hierarchical Erasure-Coding","url":""}
+{"author":"","bib":"","title":"IDAP++: Advancing Divergence-Aware Pruning with Joint Filter and Layer Optimization","url":""}
+{"author":"","bib":"","title":"Improving LZ4 for Effective Compression and Efficient Query","url":""}
+{"author":"","bib":"","title":"Improving Range Scan Performance in LSM-trees with Group Caching","url":""}
+{"author":"","bib":"","title":"InferF: Declarative Factorization of AI/ML Inferences over Joins","url":""}
+{"author":"","bib":"","title":"LeaseGuard: Raft Leases Done Right","url":""}
+{"author":"","bib":"","title":"LiveBin: A Localized and Version-Aware Binned Scan Index","url":""}
+{"author":"","bib":"","title":"LM-Tree: A Hybrid Learned Index for Similarity Search in Metric Spaces","url":""}
+{"author":"","bib":"","title":"LMSC: Local Sketch Modularity Optimisation for Size-Constrained Community Search in Networks","url":""}
+{"author":"","bib":"","title":"Making LSM-Tree-based Key-Value Store Practical and Efficient for Multi-Tenant Serverless Cloud Databases","url":""}
+{"author":"","bib":"","title":"Mixtera: A Data Plane for Foundation Model Training","url":""}
+{"author":"","bib":"","title":"MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under Local Differential Privacy","url":""}
+{"author":"","bib":"","title":"MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization","url":""}
+{"author":"","bib":"","title":"NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine","url":""}
+{"author":"","bib":"","title":"On Efficient Approximate Aggregate Nearest Neighbor Queries over Learned Representations","url":""}
+{"author":"","bib":"","title":"One DBMS, Two Modes, and a Bunch of Bugs: Catching Logic Bugs in Distributed DBMSs via Differential Testing","url":""}
+{"author":"","bib":"","title":"Order-based Algorithms for Efficient Core Maintenance in Large Bipartite Graphs","url":""}
+{"author":"","bib":"","title":"P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction","url":""}
+{"author":"","bib":"","title":"PartitionKV: Redesigning LSM-tree KV Stores on NVMs with Adaptive Partitioning for Reducing Write Stalls and Amplification","url":""}
+{"author":"","bib":"","title":"Performant Synchronization in Geo-Distributed Databases","url":""}
+{"author":"","bib":"","title":"Predictive Translation: High-Performance Buffer Management Without the Trade-Offs","url":""}
+{"author":"","bib":"","title":"PRISM: Navigating Cost–Accuracy Trade-offs for NL2SQL","url":""}
+{"author":"","bib":"","title":"Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure","url":""}
+{"author":"","bib":"","title":"PTO: A Workload-driven Predictive Table Optimizer for Lakehouse Systems","url":""}
+{"author":"","bib":"","title":"Qualitative Join Discovery in Data Lakes using Examples","url":""}
+{"author":"","bib":"","title":"Quantile Estimation with Duplicates","url":""}
+{"author":"","bib":"","title":"GenRewrite: Query Rewriting via Large Language Models","url":""}
+{"author":"","bib":"","title":"R2O: A Dual-Layer Framework for Joint Rewriting and Ordering in Distributed Property Graph Query Optimization","url":""}
+{"author":"","bib":"","title":"RadixGraph: A Fast, Space-Optimized Data Structure for Dynamic Graph Storage","url":""}
+{"author":"","bib":"","title":"RAIRS: Optimizing Redundant Assignment and List Layout for IVF-Based ANN Search","url":""}
+{"author":"","bib":"","title":"Reducing Tail Latency in Storage-Disaggregated Database Systems","url":""}
+{"author":"","bib":"","title":"Reqo: A Comprehensive Learning-Based Cost Model for Robust and Explainable Query Optimization","url":""}
+{"author":"","bib":"","title":"Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"RIB: Robust Learning-based Index Benefit Estimation","url":""}
+{"author":"","bib":"","title":"Robust Fair Influence Maximization under Multiple Community Partitions","url":""}
+{"author":"","bib":"","title":"Rollbaccine: Herd Immunity against Storage Rollback Attacks in TEEs","url":""}
+{"author":"","bib":"","title":"Scalable Clustering Over High Dimensional Vector Streams","url":""}
+{"author":"","bib":"","title":"Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC","url":""}
+{"author":"","bib":"","title":"SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL","url":""}
+{"author":"","bib":"","title":"SG-Serve: Efficient Model Serving for Subgraph-based Graph Representation Learning","url":""}
+{"author":"","bib":"","title":"SHoTClean: Bridging Soft and Hard Constraints for Multivariate Time Series Cleaning","url":""}
+{"author":"","bib":"","title":"SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads","url":""}
+{"author":"","bib":"","title":"Stress-Testing Causal Claims via Cardinality Repairs","url":""}
+{"author":"","bib":"","title":"SWMT: A Sliding Window Merkle Tree with Delayed Writes for Scalable Blockchain State Management","url":""}
+{"author":"","bib":"","title":"Task Cascades for Efficient Unstructured Data Processing","url":""}
+{"author":"","bib":"","title":"The Case For Language Model Approximated LIKE Predicate","url":""}
+{"author":"","bib":"","title":"This is Going to Sound Crazy, But What If We Used Large Language Models to Boost Automatic Database Tuning Algorithms By Leveraging Prior History? We Will Find Better Configurations More Quickly Than Retraining From Scratch!","url":""}
+{"author":"","bib":"","title":"Unseen Anomaly Detection from System Logs","url":""}
+{"author":"","bib":"","title":"VecFlow-Chamfer: A GPU-based Data Management System for High-Performance Multi-Vector Search on Superchips","url":""}
+{"author":"","bib":"","title":"Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking","url":""}
+{"author":"","bib":"","title":"100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"A Backend-Agnostic Compiler for Approximate Query Processing with Probabilistic Tensor Algebra","url":""}
+{"author":"","bib":"","title":"Accelerating Approximate Analytical Join Queries over Unstructured Data with Statistical Guarantees","url":""}
+{"author":"","bib":"","title":"Accelerating Maximum Common Subgraph Computation by Exploiting Symmetries","url":""}
+{"author":"","bib":"","title":"Acyclic Graph Pattern Counting under Local Differential Privacy","url":""}
+{"author":"","bib":"","title":"Adaptive Outlier Detection over Data Stream","url":""}
+{"author":"","bib":"","title":"AgenticScholar: Agentic Data Management with Pipeline Orchestration for Scholarly Corpora","url":""}
+{"author":"","bib":"","title":"AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System","url":""}
+{"author":"","bib":"","title":"An Efficient Streaming Algorithm for Approximating Graphlet Distributions","url":""}
+{"author":"","bib":"","title":"An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database System: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"ANTEATER: A Filter-then-Scrutinize Architecture for End-to-End Attack Investigation","url":""}
+{"author":"","bib":"","title":"Approximate DBSCAN via Density-Biased Sampling and Kernel Density Estimation","url":""}
+{"author":"","bib":"","title":"Are Learned DBMS Components Robust to Workload Drift?: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"ART That Lasts: Persistent Multiversion Adaptive Radix Trees with Fast Atomic Range Queries","url":""}
+{"author":"","bib":"","title":"ASSS : Adaptive Stratified Sampling for Shapley-like Values","url":""}
+{"author":"","bib":"","title":"Automated Discovery of Test Oracles for Database Management Systems Using LLMs","url":""}
+{"author":"","bib":"","title":"Automating Database-Native Function Code Synthesis with LLMs","url":""}
+{"author":"","bib":"","title":"Balancing Global and Local: Representative Sampling for Large‑Scale Vector Data","url":""}
+{"author":"","bib":"","title":"BAT: Target-Instance-Free Data Preparation Synthesis via LLM-Driven Tree Search","url":""}
+{"author":"","bib":"","title":"BEACON: Budget-Aware Entity Matching Across Domains","url":""}
+{"author":"","bib":"","title":"Beyond Maximum Common Subgraph: A Framework Maximizing Shared Computation for Multi-Query Subgraph Matching","url":""}
+{"author":"","bib":"","title":"Bound-Tightened Densest Subgraph Discovery on GPU","url":""}
+{"author":"","bib":"","title":"Bridging the Gap: Cardinality Estimation for Semantic Queries on Unstructured Data","url":""}
+{"author":"","bib":"","title":"Bw-Graph: An Efficient Graph Storage System Harmonizing Topology-Aware Tree with Paged CSR","url":""}
+{"author":"","bib":"","title":"Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation","url":""}
+{"author":"","bib":"","title":"CMANNS: GPU-Accelerated Graph Index Construction for ANNS via Compute–Memory Disaggregation","url":""}
+{"author":"","bib":"","title":"CoDec: Prefix-Shared Decoding Kernel for LLMs","url":""}
+{"author":"","bib":"","title":"Comparison and Analysis of Value Linking in Text-to-SQL systems: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Concurrent Path-Copying Update to Tree Structures","url":""}
+{"author":"","bib":"","title":"Constrained Shortest Path Finding on Terrain Surfaces","url":""}
+{"author":"","bib":"","title":"CoShap: A Scalable Coalition Growth Approach to Shapley Value Approximation","url":""}
+{"author":"","bib":"","title":"cuRPQ: A High-Performance GPU-Based Framework for Processing Regular and Conjunctive Regular Path Queries","url":""}
+{"author":"","bib":"","title":"DBugScribe: Automatic Database Bug Reproduction from Community Reports","url":""}
+{"author":"","bib":"","title":"DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL Framework","url":""}
+{"author":"","bib":"","title":"Detecting Join Bugs in Database Engines via Join Implication Reasoning","url":""}
+{"author":"","bib":"","title":"DFLOP: A Data-driven Framework for Multimodal LLM Training Pipeline Optimization","url":""}
+{"author":"","bib":"","title":"Dialect-Agnostic SQL Parsing via LLM-Based Segmentation","url":""}
+{"author":"","bib":"","title":"Differentially Oblivious Multi-way Join","url":""}
+{"author":"","bib":"","title":"DimWeaver: Dimensional Weaved Trajectory Compression","url":""}
+{"author":"","bib":"","title":"Discovery of Denial Constraints with Hardware Acceleration","url":""}
+{"author":"","bib":"","title":"DP-S4S: Accurate and Scalable Select-Join-Aggregate Query Processing with User-Level Differential Privacy","url":""}
+{"author":"","bib":"","title":"Dynamic Flat Filter: A Unified Framework for Scalable and Stable Fingerprint-Based Filters","url":""}
+{"author":"","bib":"","title":"Efficient Anchored Densest Subgraph Discovery: Improved Time Complexity and Practical Performance","url":""}
+{"author":"","bib":"","title":"Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search","url":""}
+{"author":"","bib":"","title":"Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective","url":""}
+{"author":"","bib":"","title":"Efficient Meta-subgraph Instance Search over Large Heterogeneous Information Networks","url":""}
+{"author":"","bib":"","title":"Eliminating Redundant Feature Tests in Decision Tree and Random Forest Inference on SQL Predicates","url":""}
+{"author":"","bib":"","title":"CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics","url":""}
+{"author":"","bib":"","title":"EncoderForge: Generating Efficient SQL for Encoders in Machine Learning Inference Pipelines","url":""}
+{"author":"","bib":"","title":"Enhancing Graph-based Approximate Maximum Inner Product Search via Norm-Adaptive Partitioning","url":""}
+{"author":"","bib":"","title":"Epoch-based Optimistic Concurrency Control in Geo-replicated Databases","url":""}
+{"author":"","bib":"","title":"EPSC: Testing Database Management Systems via Equivalent Prepared Statement Construction","url":""}
+{"author":"","bib":"","title":"FaaSBoard: Efficient Graph Processing with a Disaggregated Architecture on Serverless Services","url":""}
+{"author":"","bib":"","title":"Factorized and Vectorized Execution: Optimizing Analytical and Semantic Queries over Relations","url":""}
+{"author":"","bib":"","title":"Fair Data Pre‑processing with Imperfect Attribute Space","url":""}
+{"author":"","bib":"","title":"Fair-Count-Min: Frequency Estimation under Equal Group-wise Approximation Factor","url":""}
+{"author":"","bib":"","title":"Fast Estimation of Pairwise Biharmonic Distance on Graphs","url":""}
+{"author":"","bib":"","title":"FastGNAS: Accelerating and Scaling Graph Neural Architecture Search on Multi-GPUs via Ring-Based Model Migration","url":""}
+{"author":"","bib":"","title":"FAVOR: Efficient Filter-Agnostic Vector ANNS Based on Selectivity-Aware Exclusion Distances","url":""}
+{"author":"","bib":"","title":"Finding Missed Optimizations in DBMSs through Unbalanced Short-circuit Query Construction","url":""}
+{"author":"","bib":"","title":"FIRAS: A Framework for Interval Range Search and Sampling","url":""}
+{"author":"","bib":"","title":"FLEA: Frequency-based Lossless Encoding Algorithm for Periodic Time Series","url":""}
+{"author":"","bib":"","title":"Geld: Load-balanced D-Core Decomposition for Consumer GPUs","url":""}
+{"author":"","bib":"","title":"GEM: A Native Graph-based Index for Multi-Vector Retrieval","url":""}
+{"author":"","bib":"","title":"Generalized Entity Matching with Adaptivity via Large Language Models","url":""}
+{"author":"","bib":"","title":"GoodTP: An Effective Data Selection Framework for Enhancing Trajectory Similarity Learning via Monte Carlo Tree Search","url":""}
+{"author":"","bib":"","title":"GPM: The Gaussian Pancake Mechanism for Planting Undetectable Backdoors in Differential Privacy","url":""}
+{"author":"","bib":"","title":"GPS: Revisiting the Data Layout for Disk-based High-Dimensional Vector Search","url":""}
+{"author":"","bib":"","title":"GraphRTX: Lighting the Way to Scalable Graph Analytics","url":""}
+{"author":"","bib":"","title":"HAMMER: An Automatic RAG Tuning System via Hierarchical Memory-Guided Monte Carlo Tree Search","url":""}
+{"author":"","bib":"","title":"HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings","url":""}
+{"author":"","bib":"","title":"HotHash: Hotness-Aware Consistent Hashing for Cloud Databases","url":""}
+{"author":"","bib":"","title":"HYDRA: A Multi-Level Hierarchy-Driven Approach for Robust Anomaly Detection in Time Series","url":""}
+{"author":"","bib":"","title":"Interpretable Attribute Discretization","url":""}
+{"author":"","bib":"","title":"Kangaroo: Efficient Lossless Floating-Point Compression via Dynamic Reference Selection","url":""}
+{"author":"","bib":"","title":"KVDrive: A Holistic Multi-Tier KV Cache Management System for Long-Context LLM Inference","url":""}
+{"author":"","bib":"","title":"L3: A GPU-Native Co-Designed Data Format for Learned Lossless Lightweight Compression","url":""}
+{"author":"","bib":"","title":"LICO: An SIMD-Aware High-Performance Learned Inverted Index Compression Framework","url":""}
+{"author":"","bib":"","title":"LINE: A Learned Index with Group-Enhanced Leaves and Cache-Optimized Inner Tree","url":""}
+{"author":"","bib":"","title":"Local Stability of Rankings","url":""}
+{"author":"","bib":"","title":"Loom: Weaving PCS-Preserving and Searchable Cloud Backups for Secure Messaging","url":""}
+{"author":"","bib":"","title":"LSHAlign: All-Pair Near-Duplicate Text Alignment via Locality-Sensitive Hashing","url":""}
+{"author":"","bib":"","title":"Maintaining Biconnected Components in Streaming Graphs","url":""}
+{"author":"","bib":"","title":"Mathematical Foundations of Poisoning Attacks on Linear Regression over Cumulative Distribution Functions","url":""}
+{"author":"","bib":"","title":"Maximal Biclique Enumeration with Improved Worst-Case Time Complexity Guarantee: A Partition-Oriented Strategy","url":""}
+{"author":"","bib":"","title":"Meep Hashing: Ultrafast and Compact Minimal Perfect Hashing for Practical Large-Scale Lookup Systems","url":""}
+{"author":"","bib":"","title":"Modeling Concurrency Control as a Learnable Function","url":""}
+{"author":"","bib":"","title":"MoDora: Tree-Based Semi-Structured Document Analysis System","url":""}
+{"author":"","bib":"","title":"MUFASA: Fast and Accurate Multivariate Time-Series Clustering","url":""}
+{"author":"","bib":"","title":"NeurBench: A Benchmark Suite for Learned Database Components with Drift Modeling: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Nucleus Decomposition Revisited: An Efficient Counting-Based Approach","url":""}
+{"author":"","bib":"","title":"O3-LSM: Maximizing Disaggregated LSM Write Performance via Three-Layer Offloading","url":""}
+{"author":"","bib":"","title":"Octopus: Efficient Hypergraph Pattern Mining with Practical Processing-in-Memory Architecture","url":""}
+{"author":"","bib":"","title":"OctoSelector: Efficient and Effective Batch-Aware Model Selection for Large Language Models","url":""}
+{"author":"","bib":"","title":"On Self-Designing Learned Indexes","url":""}
+{"author":"","bib":"","title":"ORDER: Optimal Routing with Path Indexing in Exchange Graph [Data-Intensive & Data Science Application]","url":""}
+{"author":"","bib":"","title":"PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search","url":""}
+{"author":"","bib":"","title":"Periodic Community Search in Temporal Graphs: Time Series-based Methods","url":""}
+{"author":"","bib":"","title":"PJsim: Towards Precise and Scalable Graph Similarity","url":""}
+{"author":"","bib":"","title":"Poisson Sampling over Acyclic Joins","url":""}
+{"author":"","bib":"","title":"Prism: Private Relational Data Synthesis with Language Models","url":""}
+{"author":"","bib":"","title":"Querying Cohesive Subgraphs in Temporal Graphs","url":""}
+{"author":"","bib":"","title":"ReStore: A Reinforcement Learning Approach for Data Migration in Multi-Tiered Storage","url":""}
+{"author":"","bib":"","title":"Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards","url":""}
+{"author":"","bib":"","title":"ScaleDoc: Scaling LLM-based Predicates over Large Document Collections","url":""}
+{"author":"","bib":"","title":"Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking","url":""}
+{"author":"","bib":"","title":"Shape-Agnostic Table Overlap Discovery: A Maximum Common Subhypergraph Approach","url":""}
+{"author":"","bib":"","title":"Shielding PII to Prevent Re-identification and Preserve Utility","url":""}
+{"author":"","bib":"","title":"Sketch-based Secure Query Processing for Streaming Data","url":""}
+{"author":"","bib":"","title":"Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA","url":""}
+{"author":"","bib":"","title":"SmartRabbit: An Interactive Query Processor","url":""}
+{"author":"","bib":"","title":"SPALM: A Sparsity-Pattern-Adaptive Library for Matrices","url":""}
+{"author":"","bib":"","title":"Variational Inference for De Finetti Logic","url":""}
+{"author":"","bib":"","title":"Sublime: Selecting Subgraph Matching Algorithms via Machine Learning","url":""}
+{"author":"","bib":"","title":"Sublime: Sublinear Error & Space for Unbounded Skewed Streams","url":""}
+{"author":"","bib":"","title":"Succinct Structure Representations for Efficient Query Optimization","url":""}
+{"author":"","bib":"","title":"TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"The Power of Anomaly Detection in Predictive Maintenance: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Through the Lens of Hubness: A Revisit on Graph-Based Approximate Nearest Neighbor Search: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"\"To Adapt or Not to Adapt, That is the Ski Question\"","url":""}
+{"author":"","bib":"","title":"Towards Selecting Informative Alternative Relational Query Plans for Database Education","url":""}
+{"author":"","bib":"","title":"Translytical Processing via DB-OS Co-designed Buffer: Cross-Engine Isolation and Tunable Update Visibility for HTAP","url":""}
+{"author":"","bib":"","title":"Understanding the Impact of Data Noise in Federated Learning: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"VecBench: A Controllable Benchmark for Filtered Vector Search: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendation","url":""}
+{"author":"","bib":"","title":"Workload-Aware Incremental Reclustering in Cloud Data Warehouses","url":""}
+{"author":"","bib":"","title":"Zeno Filter: To Infinity in Tiny Steps","url":""}
+{"author":"","bib":"","title":"Zero-Redundancy Search for Bi-Components in Bipartite Graphs","url":""}
+{"author":"","bib":"","title":"A Game Theory Approach for Negotiation in Data Marketplaces","url":""}
+{"author":"","bib":"","title":"A Principled Solution to the Disjunction Problem of Diagrammatic Query Representations","url":""}
+{"author":"","bib":"","title":"A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs","url":""}
+{"author":"","bib":"","title":"ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks","url":""}
+{"author":"","bib":"","title":"Accelerating Triangle-Connected Truss Community Search Across Heterogeneous Hardware","url":""}
+{"author":"","bib":"","title":"Aeris Filter: A Strongly and Monotonically Adaptive Range Filter","url":""}
+{"author":"","bib":"","title":"AeroSketch: Near-Optimal Time Matrix Sketch Framework for Persistent, Sliding Window, and Distributed Streams","url":""}
+{"author":"","bib":"","title":"An Extensive Experimental Study of Indexes in Continuous Subgraph Matching: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Analyzing Deviations from Monotonic Trends through Database Repair","url":""}
+{"author":"","bib":"","title":"HONEYBEE: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning","url":""}
+{"author":"","bib":"","title":"AutoDDG: Automated Dataset Description Generation using Large Language Models","url":""}
+{"author":"","bib":"","title":"Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management","url":""}
+{"author":"","bib":"","title":"Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization","url":""}
+{"author":"","bib":"","title":"Breadcrumb Filters: Fast Fully Featured Filters","url":""}
+{"author":"","bib":"","title":"CANDOR-Bench: Benchmarking In-Memory Continuous ANNS under Dynamic Open-World Streams [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Causal Explanations for Disparate Trends: Where and Why?","url":""}
+{"author":"","bib":"","title":"Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"CorrBound: Cardinality Estimation Accounting for Inter- and Intra-relation Correlations","url":""}
+{"author":"","bib":"","title":"CoTra: Towards Efficient and Scalable Distributed Vector Search with RDMA","url":""}
+{"author":"","bib":"","title":"Curator: Efficient Vector Search with Low-Selectivity Filters","url":""}
+{"author":"","bib":"","title":"DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"Data-Semantics-Aware Recommendation of Diverse Pivot Tables","url":""}
+{"author":"","bib":"","title":"Defense against Poisoning Attacks under Shuffle-DP","url":""}
+{"author":"","bib":"","title":"Distribution-Aware Exploration for Adaptive HNSW Search","url":""}
+{"author":"","bib":"","title":"DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning","url":""}
+{"author":"","bib":"","title":"Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload","url":""}
+{"author":"","bib":"","title":"Efficient and Effective Biclique Counting with Local Differential Privacy","url":""}
+{"author":"","bib":"","title":"Efficient and Robust Out-Of-Distribution Vector Similarity Search with Cross-Distribution Monotonic Graph","url":""}
+{"author":"","bib":"","title":"Efficient Influential Community Search over Dynamic Graphs","url":""}
+{"author":"","bib":"","title":"Efficient Vector Index Merging in Vector Databases","url":""}
+{"author":"","bib":"","title":"Enabling Efficient Update on Rule-Based Compressed Graph","url":""}
+{"author":"","bib":"","title":"Enhancing Local Differential Privacy Accuracy by Exploiting Inherent Uncertainty","url":""}
+{"author":"","bib":"","title":"Enumerating Graph Pattern Matches with ML Oracles","url":""}
+{"author":"","bib":"","title":"ESTune: Bayesian Uncertainty-Guided Early Stopping for Database Configuration Tuning","url":""}
+{"author":"","bib":"","title":"Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"FlashANNS: GPU-Driven Asynchronous I/O Pipelining for Eliminating Storage-Compute Bottlenecks in Billion-Scale Similarity Search","url":""}
+{"author":"","bib":"","title":"FlowPilot: A Suggestion System for Designing Scientific Workflows","url":""}
+{"author":"","bib":"","title":"From Learning to Recycling: A Log-Structured Learned-Less Index","url":""}
+{"author":"","bib":"","title":"From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation","url":""}
+{"author":"","bib":"","title":"High-Throughput k Nearest Neighbors Search in Road Networks","url":""}
+{"author":"","bib":"","title":"HIRE: A Hybrid Learned Index for Robust and Efficient Performance under Mixed Workloads","url":""}
+{"author":"","bib":"","title":"Hyra: Scalable Byzantine-Resilient State Storage Engine with Hierarchical Erasure-Coding","url":""}
+{"author":"","bib":"","title":"IDAP++: Advancing Divergence-Aware Pruning with Joint Filter and Layer Optimization","url":""}
+{"author":"","bib":"","title":"Improving LZ4 for Effective Compression and Efficient Query","url":""}
+{"author":"","bib":"","title":"Improving Range Scan Performance in LSM-trees with Group Caching","url":""}
+{"author":"","bib":"","title":"InferF: Declarative Factorization of AI/ML Inferences over Joins","url":""}
+{"author":"","bib":"","title":"LeaseGuard: Raft Leases Done Right","url":""}
+{"author":"","bib":"","title":"LiveBin: A Localized and Version-Aware Binned Scan Index","url":""}
+{"author":"","bib":"","title":"LM-Tree: A Hybrid Learned Index for Similarity Search in Metric Spaces","url":""}
+{"author":"","bib":"","title":"LMSC: Local Sketch Modularity Optimisation for Size-Constrained Community Search in Networks","url":""}
+{"author":"","bib":"","title":"Making LSM-Tree-based Key-Value Store Practical and Efficient for Multi-Tenant Serverless Cloud Databases","url":""}
+{"author":"","bib":"","title":"Mixtera: A Data Plane for Foundation Model Training","url":""}
+{"author":"","bib":"","title":"MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under Local Differential Privacy","url":""}
+{"author":"","bib":"","title":"MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization","url":""}
+{"author":"","bib":"","title":"NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine","url":""}
+{"author":"","bib":"","title":"On Efficient Approximate Aggregate Nearest Neighbor Queries over Learned Representations","url":""}
+{"author":"","bib":"","title":"One DBMS, Two Modes, and a Bunch of Bugs: Catching Logic Bugs in Distributed DBMSs via Differential Testing","url":""}
+{"author":"","bib":"","title":"Order-based Algorithms for Efficient Core Maintenance in Large Bipartite Graphs","url":""}
+{"author":"","bib":"","title":"P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction","url":""}
+{"author":"","bib":"","title":"PartitionKV: Redesigning LSM-tree KV stores on NVMs with Adaptive Partitioning for Reducing Write stalls and Amplification","url":""}
+{"author":"","bib":"","title":"Performant Synchronization in Geo-Distributed Databases","url":""}
+{"author":"","bib":"","title":"Predictive Translation: High-Performance Buffer Management Without the Trade-Offs","url":""}
+{"author":"","bib":"","title":"PRISM: Navigating Costâ€“Accuracy Trade-offs for NL2SQL","url":""}
+{"author":"","bib":"","title":"Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure","url":""}
+{"author":"","bib":"","title":"PTO: A Workload-driven Predictive Table Optimizer for Lakehouse Systems","url":""}
+{"author":"","bib":"","title":"Qualitative Join Discovery in Data Lakes using Examples","url":""}
+{"author":"","bib":"","title":"Quantile Estimation with Duplicates","url":""}
+{"author":"","bib":"","title":"GenRewrite: Query Rewriting via Large Language Models","url":""}
+{"author":"","bib":"","title":"R2O: A Dual-Layer Framework for Joint Rewriting and Ordering in Distributed Property Graph Query Optimization","url":""}
+{"author":"","bib":"","title":"RadixGraph: A Fast, Space-Optimized Data Structure for Dynamic Graph Storage","url":""}
+{"author":"","bib":"","title":"RAIRS: Optimizing Redundant Assignment and List Layout for IVF-Based ANN Search","url":""}
+{"author":"","bib":"","title":"Reducing Tail Latency in Storage-Disaggregated Database Systems","url":""}
+{"author":"","bib":"","title":"Reqo: A Comprehensive Learning-Based Cost Model for Robust and Explainable Query Optimization","url":""}
+{"author":"","bib":"","title":"Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"RIB: Robust Learning-based Index Benefit Estimation","url":""}
+{"author":"","bib":"","title":"Robust Fair Influence Maximization under Multiple Community Partitions","url":""}
+{"author":"","bib":"","title":"Rollbaccine: Herd Immunity against Storage Rollback Attacks in TEEs","url":""}
+{"author":"","bib":"","title":"Scalable Clustering Over High Dimensional Vector Streams","url":""}
+{"author":"","bib":"","title":"Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC","url":""}
+{"author":"","bib":"","title":"SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL","url":""}
+{"author":"","bib":"","title":"SG-Serve: Efficient Model Serving for Subgraph-based Graph Representation Learning","url":""}
+{"author":"","bib":"","title":"SHoTClean: Bridging Soft and Hard Constraints for Multivariate Time Series Cleaning","url":""}
+{"author":"","bib":"","title":"SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads","url":""}
+{"author":"","bib":"","title":"Stress-Testing Causal Claims via Cardinality Repairs","url":""}
+{"author":"","bib":"","title":"SWMT: A Sliding Window Merkle Tree with Delayed Writes for Scalable Blockchain State Management","url":""}
+{"author":"","bib":"","title":"Task Cascades for Efficient Unstructured Data Processing","url":""}
+{"author":"","bib":"","title":"The Case For Language Model Approximated LIKE Predicate","url":""}
+{"author":"","bib":"","title":"This is Going to Sound Crazy, But What If We Used Large Language Models to Boost Automatic Database Tuning Algorithms By Leveraging Prior History? We Will Find Better Configurations More Quickly Than Retraining From Scratch!","url":""}
+{"author":"","bib":"","title":"Unseen Anomaly Detection from System Logs","url":""}
+{"author":"","bib":"","title":"VecFlow-Chamfer: A GPU-based Data Management System for High-Performance Multi-Vector Search on Superchips","url":""}
+{"author":"","bib":"","title":"Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking","url":""}
+{"author":"","bib":"","title":"LLM-Powered Interactive Graph Search: A Scalable and Practical Approach","url":""}
+{"author":"","bib":"","title":"Fast Optimal Group Steiner Tree Search using GPUs","url":""}
+{"author":"","bib":"","title":"Test Data Generation for Complex SQL Queries","url":""}
+{"author":"","bib":"","title":"Counting Is All You Need for Instant Tuple Discovery: Enabling Real-Time HTAP in Standalone DBMSs","url":""}
+{"author":"","bib":"","title":"AixelNet: A Pre-trained Model with Table-aware Adaptation for Structured Data Prediction","url":""}
+{"author":"","bib":"","title":"Query-Aware Path Inference from Spatial Videos","url":""}
+{"author":"","bib":"","title":"Burr: A Benchmark for Ontology Learning from Relational Databases [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Analysis and Evaluation of Using Microsecond-Latency Memory for In-Memory Indices and Caches in SSD-Based Key-Value Stores: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"BPI: A Novel Efficient and Reliable Search Structure for Hybrid Storage Blockchain","url":""}
+{"author":"","bib":"","title":"Categorical Data Clustering via Value Order Estimated Distance Metric Learning","url":""}
+{"author":"","bib":"","title":"WoW: A Window-to-Window Incremental Index for Range-Filtering Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"Continuous Subgraph Matching via Cost-Model-based Dynamic Vertex Dominance Embeddings","url":""}
+{"author":"","bib":"","title":"Gem: Scalable Monotonic Graph Processing Beyond Billion-Scale on a Single Machine","url":""}
+{"author":"","bib":"","title":"Efficient and Scalable Directed Densest Subgraph Discovery","url":""}
+{"author":"","bib":"","title":"Hydraulis: Balancing Large Transformer Model Training via Co-designing Parallel Strategies and Data Assignment","url":""}
+{"author":"","bib":"","title":"APQO: An Adaptive Framework for Parametric Query Optimization","url":""}
+{"author":"","bib":"","title":"Building Stateless Serverless Vector DBs via Block-based Data Partitioning: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"AgentTune:An Agent-Based Large Language Model Framework for Database Knob Tuning","url":""}
+{"author":"","bib":"","title":"GeoKGM: A Multimodal Large Language Model for Zero-Shot Knowledge Graph Completion in Geospatial Databases","url":""}
+{"author":"","bib":"","title":"A Comprehensive Survey of Subgraph Matching: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Brook-2PL: Tolerating High Contention Workloads with A Deadlock-Free Two-Phase Locking Protocol","url":""}
+{"author":"","bib":"","title":"Budgeted Strong Community Search in Heterogeneous Graphs","url":""}
+{"author":"","bib":"","title":"Efficient Approximate Nearest Neighbor Search via Hemi-Sphere Centroids Graph","url":""}
+{"author":"","bib":"","title":"Hops Can be Constrained: Efficient Distance Queries on Large Time-Dependent Road Networks","url":""}
+{"author":"","bib":"","title":"High-Throughput, Cost-Effective Billion-Scale Vector Search with a Single GPU","url":""}
+{"author":"","bib":"","title":"Retrieve-and-Verify: A Table Context Selection Framework for Accurate Column Annotations","url":""}
+{"author":"","bib":"","title":"N2E: A General Framework to Reduce Node-Differential Privacy to Edge-Differential Privacy for Graph Analytics","url":""}
+{"author":"","bib":"","title":"WaveStitch: Flexible and Fast Conditional Time Series Generation With Diffusion Models","url":""}
+{"author":"","bib":"","title":"Query Optimization for Database-Returning Queries","url":""}
+{"author":"","bib":"","title":"DRPQ: Distributed Evaluation of Regular Path Queries On Streaming Graphs","url":""}
+{"author":"","bib":"","title":"RABIT: Efficient Range Queries with Bitmap Indexing","url":""}
+{"author":"","bib":"","title":"TranSQL+: Serving Large Language Models with SQL on Low-Resource Hardware","url":""}
+{"author":"","bib":"","title":"Understanding and Detecting Query Performance Regression in Practical Index Tuning: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Benchmarking Differentially Private Tabular Data Synthesis: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks","url":""}
+{"author":"","bib":"","title":"A General Framework for Per-record Differential Privacy","url":""}
+{"author":"","bib":"","title":"Theoretically and Practically Efficient Maximum Biclique Search","url":""}
+{"author":"","bib":"","title":"PrivAGS: Differentially Private Attributed Graph Synthesis","url":""}
+{"author":"","bib":"","title":"MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference","url":""}
+{"author":"","bib":"","title":"MAVIS: Materialized View for Subgraph Matching","url":""}
+{"author":"","bib":"","title":"Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"Efficient Size-Bounded Community Search, Revisited: Frameworks for Practical Improvements","url":""}
+{"author":"","bib":"","title":"MCTuner: Spatial Decomposition-Enhanced Database Tuning via LLM-Guided Exploration","url":""}
+{"author":"","bib":"","title":"Triangle Counting in Hypergraph Streams: A Complete and Practical Approach","url":""}
+{"author":"","bib":"","title":"Detecting Logic Bugs in DBMSs via Equivalent Data Construction","url":""}
+{"author":"","bib":"","title":"Approximate Query Processing under Updates","url":""}
+{"author":"","bib":"","title":"NeuSO: Neural Optimizer for Subgraph Queries","url":""}
+{"author":"","bib":"","title":"Efficient Defective Clique Enumeration and Search with Worst-Case Optimal Search Space","url":""}
+{"author":"","bib":"","title":"Time-Critical Influence Minimization via Node Blocking","url":""}
+{"author":"","bib":"","title":"Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning","url":""}
+{"author":"","bib":"","title":"P4KVS: A Role-Replica Separation Offloading Method to Achieve In-Network Consistency for KV Stores Based on P4 Switches","url":""}
+{"author":"","bib":"","title":"Reliable and Private Utility Signaling for Data Markets","url":""}
+{"author":"","bib":"","title":"Accelerating Stream Processing Engines via Hardware Offloading","url":""}
+{"author":"","bib":"","title":"SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation","url":""}
+{"author":"","bib":"","title":"Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"AixelAsk: A Stepwise-Guided Retrieval and Reasoning Framework for Large Table QA","url":""}
+{"author":"","bib":"","title":"Accelerating High-Dimensional ANN Search via Skipping Redundant Distance Computations","url":""}
+{"author":"","bib":"","title":"Efficient Exact Resistance Distance Computation on Small-Treewidth Graphs: A Labelling Approach","url":""}
+{"author":"","bib":"","title":"Integrating Vector Databases across Embedding Models","url":""}
+{"author":"","bib":"","title":"DiskJoin: Large-scale Vector Similarity Join with SSD","url":""}
+{"author":"","bib":"","title":"Aegis: A Correlation-Based Data Masking Advisor for Data Sharing Ecosystems","url":""}
+{"author":"","bib":"","title":"DRAMA: Unifying Data Retrieval and Analysis for Open-Domain Queries","url":""}
+{"author":"","bib":"","title":"Regular Expression Indexing for Log Analysis","url":""}
+{"author":"","bib":"","title":"Visual Template Inference for Data Extraction from Documents","url":""}
+{"author":"","bib":"","title":"Cut Costs, Not Accuracy: LLM-Powered Data Processing with Guarantees","url":""}
+{"author":"","bib":"","title":"Cleaning Time Series under Seasonal and Trend Constraints","url":""}
+{"author":"","bib":"","title":"DAG of DAGs: Order-Fairness Made Practical","url":""}
+{"author":"","bib":"","title":"Privacy-preserving and Verifiable Causal Prescriptive Analytics","url":""}
+{"author":"","bib":"","title":"Effective Clustering for Large Multi-Relational Graphs","url":""}
+{"author":"","bib":"","title":"TQEx: Tensor-based Query Engine Enhanced by Bridging the Gap","url":""}
+{"author":"","bib":"","title":"Beyond Vector Search: Querying With and Without Predicates","url":""}
+{"author":"","bib":"","title":"Focus! Fast On-disk Concurrency-control Using Sketches","url":""}
+{"author":"","bib":"","title":"Can Large Language Models Be Query Optimizer for Relational Databases?","url":""}
+{"author":"","bib":"","title":"Stochastic Submodular Data Forgetting","url":""}
+{"author":"","bib":"","title":"GraphTwin: Cache-Centric Bit-Level Graph Representation for Fast and Exact Graph Queries","url":""}
+{"author":"","bib":"","title":"3dSAGER: Geospatial Entity Resolution over 3D Objects","url":""}
+{"author":"","bib":"","title":"SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis","url":""}
+{"author":"","bib":"","title":"Reliable Answers for Recurring Questions: Boosting Text-to-SQL Accuracy with Template Constrained Decoding","url":""}
+{"author":"","bib":"","title":"From Suspicious Errors to Valid Data: On Repairing Spatio-Temporal Data via Spatial and Temporal Dependencies","url":""}
+{"author":"","bib":"","title":"Visualization-Oriented Progressive Time Series Transformation","url":""}
+{"author":"","bib":"","title":"GraphMatch: Subgraph Query Processing on Steroids","url":""}
+{"author":"","bib":"","title":"Enjima: A Resource-Adaptive Stream Processing System","url":""}
+{"author":"","bib":"","title":"Adaptive Sharding in Untrusted Environments","url":""}
+{"author":"","bib":"","title":"PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL","url":""}
+{"author":"","bib":"","title":"High Performance or Low Memory? An Updatable Learned Index Framework for Time-Space Tradeoff","url":""}
+{"author":"","bib":"","title":"Estimating Biclique Counts with Accuracy Guarantees","url":""}
+{"author":"","bib":"","title":"AgentTune: An Agent-Based Large Language Model Framework for Database Knob Tuning","url":""}
+{"author":"","bib":"","title":"NeurStore: Efficient In-database Deep Learning Model Management System","url":""}
+{"author":"","bib":"","title":"SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer","url":""}
+{"author":"","bib":"","title":"ACGraph: An Efficient Asynchronous Out-of-Core Graph Processing Framework","url":""}
+{"author":"","bib":"","title":"DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention","url":""}
+{"author":"","bib":"","title":"P$^2$FedRec: Towards Privacy-Preserving and Personalized Federated Recommendation via Relationship Awareness","url":""}
+{"author":"","bib":"","title":"SplineSketch: Even More Accurate Quantiles with Error Guarantees","url":""}
+{"author":"","bib":"","title":"ST-Raptor: LLM-Powered Semi-Structured Table Question Answering","url":""}
+{"author":"","bib":"","title":"SWIFT: Enabling Large-Scale Temporal Graph Learning on a Single Machine","url":""}
+{"author":"","bib":"","title":"SeiveSketch: A Fine-grained and Adaptive Sketch Framework for Accurate Frequency Estimation","url":""}
+{"author":"","bib":"","title":"BEE: Towards Redundancy Reduction via Block-Separator Decomposition for Subgraph Matching","url":""}
+{"author":"","bib":"","title":"The Power of Core Clique Removal for Exact Clique Enumeration","url":""}
+{"author":"","bib":"","title":"Scaling Up k-Clique Percolation Community Detection","url":""}
+{"author":"","bib":"","title":"Guardrail: Automated Integrity Constraint Synthesis From Noisy Data","url":""}
+{"author":"","bib":"","title":"PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs","url":""}
+{"author":"","bib":"","title":"Differentially Private Explanations for Clusters","url":""}
+{"author":"","bib":"","title":"Perseus: Achieving Strong Consistency and High Data Freshness for Scalable Geo-distributed HTAP","url":""}
+{"author":"","bib":"","title":"Efficient Proximity Queries on Simplified Height Maps","url":""}
+{"author":"","bib":"","title":"A Fast, Mergable, and LDP Compatible Sketch for Counting the Number of Distinct Values in Fully Dynamic Tables","url":""}
+{"author":"","bib":"","title":"Marlin: Efficient Coordination for Autoscaling Cloud DBMS","url":""}
+{"author":"","bib":"","title":"One Index for All: Towards Efficient Personalized PageRank Computation for Every Damping Factor","url":""}
+{"author":"","bib":"","title":"HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"SSCard: Substring Cardinality Estimation using Suffix Tree-Guided Learned FM-Index","url":""}
+{"author":"","bib":"","title":"Testing Graph Databases with Synthesized Queries","url":""}
+{"author":"","bib":"","title":"Outliers: The Good, the Bad and the Ugly","url":""}
+{"author":"","bib":"","title":"Minimum Change ≠ Best Cleaning: Parallel and Incremental Error Detection under Integrity Constraints","url":""}
+{"author":"","bib":"","title":"DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"TensorSocket: Shared Data Loading for Deep Learning Training","url":""}
+{"author":"","bib":"","title":"GenJoin: Conditional Generative Plan-to-Plan Query Optimizer that Learns from Subplan Hints","url":""}
+{"author":"","bib":"","title":"Hourglass: An Adaptive Range Filter with Lightweight Hybrid Encoding","url":""}
+{"author":"","bib":"","title":"F3: The Open-Source Data File Format for the Future","url":""}
+{"author":"","bib":"","title":"VecFlow: A High-Performance Vector Data Management System for Filtered-Search on GPUs","url":""}
+{"author":"","bib":"","title":"A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems","url":""}
+{"author":"","bib":"","title":"NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters","url":""}
+{"author":"","bib":"","title":"Rainbow: Risk-aware Index Benefit Estimation Facing Out Of Distribution Workloads","url":""}
+{"author":"","bib":"","title":"Large-Scale Multiple Query Optimisation with Incremental Quantum(-Inspired) Annealing","url":""}
+{"author":"","bib":"","title":"Fast Indexing for Temporal Information Retrieval","url":""}
+{"author":"","bib":"","title":"Understanding Robustness Issues of Updatable Learned Indexes: [Experiments & Analysis]","url":""}
+{"author":"","bib":"","title":"B^2Mark: A Blind and Buyer-Traceable Watermarking Scheme for Tabular Datasets","url":""}
+{"author":"","bib":"","title":"In-context Clustering-based Entity Resolution with Large Language Models: A Design Space Exploration","url":""}
+{"author":"","bib":"","title":"LPStream: Fine-grained Lazy Provenance for Stream Processing","url":""}

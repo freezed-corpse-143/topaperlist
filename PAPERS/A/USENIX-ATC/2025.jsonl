@@ -1,0 +1,101 @@
+{"author":"","bib":"","title":"Proceedings of the 2025 USENIX Annual Technical Conference, USENIX ATC 2025, Boston, MA, USA, July 7-9, 2025","url":""}
+{"author":"","bib":"","title":"Fast ACS: Low-Latency File-Based Ordered Message Delivery at Scale","url":""}
+{"author":"","bib":"","title":"Poby: SmartNIC-accelerated Image Provisioning for Coldstart in Clouds","url":""}
+{"author":"","bib":"","title":"Burst Computing: Quick, Sudden, Massively Parallel Processing on Serverless Resources","url":""}
+{"author":"","bib":"","title":"DEEPSERVE: Serverless Large Language Model Serving at Scale","url":""}
+{"author":"","bib":"","title":"Cosmic: Cost-Effective Support for Cloud-Assisted 3D Printing","url":""}
+{"author":"","bib":"","title":"GMI-DRL: Empowering Multi-GPU DRL with Adaptive-Grained Parallelism","url":""}
+{"author":"","bib":"","title":"mTuner: Accelerating Parameter-Efficient Fine-Tuning on Multi-GPU Servers with Elastic Tensor","url":""}
+{"author":"","bib":"","title":"JENGA: Enhancing LLM Long-Context Fine-tuning with Contextual Token Sparsity","url":""}
+{"author":"","bib":"","title":"FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs","url":""}
+{"author":"","bib":"","title":"Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation","url":""}
+{"author":"","bib":"","title":"Towards Optimal Rack-scale μs-level CPU Scheduling through In-Network Workload Shaping","url":""}
+{"author":"","bib":"","title":"TGW: Operating an Efficient and Resilient Cloud Gateway at Scale","url":""}
+{"author":"","bib":"","title":"MARC: Motion-Aware Rate Control for Mobile E-commerce Cloud Rendering","url":""}
+{"author":"","bib":"","title":"Accelerating Distributed Graph Learning by Using Collaborative In-Network Multicast and Aggregation","url":""}
+{"author":"","bib":"","title":"Opening Up Kernel-Bypass TCP Stacks","url":""}
+{"author":"","bib":"","title":"GPREEMPT: GPU Preemptive Scheduling Made General and Efficient","url":""}
+{"author":"","bib":"","title":"μEFI: A Microkernel-Style UEFI with Isolation and Transparency","url":""}
+{"author":"","bib":"","title":"PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF","url":""}
+{"author":"","bib":"","title":"ASTERINAS: A Linux ABI-Compatible, Rust-Based Framekernel OS with a Small and Sound TCB","url":""}
+{"author":"","bib":"","title":"Rex: Closing the language-verifier gap with safe and usable kernel extensions","url":""}
+{"author":"","bib":"","title":"Barre: Empowering Simplified and Versatile Programmable Congestion Control in High-Speed AI Clusters","url":""}
+{"author":"","bib":"","title":"FLB: Fine-grained Load Balancing for Lossless Datacenter Networks","url":""}
+{"author":"","bib":"","title":"SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System","url":""}
+{"author":"","bib":"","title":"Minos : A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes","url":""}
+{"author":"","bib":"","title":"GeneralSparse: Bridging the Gap in SpMM for Pruned Large Language Model Inference on GPUs","url":""}
+{"author":"","bib":"","title":"HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines","url":""}
+{"author":"","bib":"","title":"The Koala Benchmarks for the Shell: Characterization and Implications","url":""}
+{"author":"","bib":"","title":"KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider","url":""}
+{"author":"","bib":"","title":"LogCrisp: Fast Aggregated Analysis on Large-scale Compressed Logs by Enabling Two-Phase Pattern Extraction and Vectorized Queries","url":""}
+{"author":"","bib":"","title":"HotRAP: Hot Record Retention and Promotion for LSM-trees with Tiered Storage","url":""}
+{"author":"","bib":"","title":"Mitigating Resource Usage Dependency in Sorting-based KV Stores on Hybrid Storage Devices via Operation Decoupling","url":""}
+{"author":"","bib":"","title":"SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup","url":""}
+{"author":"","bib":"","title":"Z-LFS: A Zoned Namespace-tailored Log-structured File System for Commodity Small-zone ZNS SSDs","url":""}
+{"author":"","bib":"","title":"CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge","url":""}
+{"author":"","bib":"","title":"Weaver: Efficient Multi-LLM Serving with Attention Offloading","url":""}
+{"author":"","bib":"","title":"Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference","url":""}
+{"author":"","bib":"","title":"Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference","url":""}
+{"author":"","bib":"","title":"QFactory: Accelerating Quantized Large Language Model Serving with Qtile Graphs","url":""}
+{"author":"","bib":"","title":"PluS: Highly Efficient and Expandable ML Compiler with Pluggable Graph Schedules","url":""}
+{"author":"","bib":"","title":"Obscura: Concealing Recomputation Overhead in Training of Large Language Models with Bubble-filling Pipeline Transformation","url":""}
+{"author":"","bib":"","title":"PPipe: Efficient Video Analytics Serving on Heterogeneous GPU Clusters via Pool-Based Pipeline Parallelism","url":""}
+{"author":"","bib":"","title":"Voltrix: Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization","url":""}
+{"author":"","bib":"","title":"NetKeeper: Enhancing Network Resilience with Autonomous Network Configuration Update on Traffic Patterns and Anomalies","url":""}
+{"author":"","bib":"","title":"GREYHOUND: Hunting Fail-Slows in Hybrid-Parallel Training at Scale","url":""}
+{"author":"","bib":"","title":"Crash Consistency in Block-Level Caching Systems: An Open CAS Case Study","url":""}
+{"author":"","bib":"","title":"FiDe: Reliable and Fast Crash Failure Detection to Boost Datacenter Coordination","url":""}
+{"author":"","bib":"","title":"LEOCraft: Towards Designing Performant LEO Networks","url":""}
+{"author":"","bib":"","title":"Emulating Space Computing Networks with RHONE","url":""}
+{"author":"","bib":"","title":"Roaming Free in the VR World with MP2","url":""}
+{"author":"","bib":"","title":"STORM: a Multipath QUIC Scheduler for Quick Streaming Media Transport under Unstable Mobile Networks","url":""}
+{"author":"","bib":"","title":"Internet Connection Splitting: What's Old is New Again","url":""}
+{"author":"","bib":"","title":"WIC: Hiding Producer-Consumer Synchronization Delays with Warp-Level Interrupt-based GPU Communications","url":""}
+{"author":"","bib":"","title":"Primus: Unified Training System for Large-Scale Deep Learning Recommendation Models","url":""}
+{"author":"","bib":"","title":"Chitu: Avoiding Unnecessary Fallback in Byzantine Consensus","url":""}
+{"author":"","bib":"","title":"Fast Distributed Transactions for RDMA-based Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"Cuckoo for Clients: Disaggregated Cuckoo Hashing","url":""}
+{"author":"","bib":"","title":"LITESHIELD: Secure Containers via Lightweight, Composable Userspace μKernel Services","url":""}
+{"author":"","bib":"","title":"Accelerating Nested Virtualization with HyperTurtle","url":""}
+{"author":"","bib":"","title":"Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception","url":""}
+{"author":"","bib":"","title":"AnchorNet: Bridging Live and Collaborative Streaming with a Unified Architecture","url":""}
+{"author":"","bib":"","title":"Katz: Efficient Workflow Serving for Diffusion Models with Many Adapters","url":""}
+{"author":"","bib":"","title":"PopFetcher: Towards Accelerated Mixture-of-Experts Training Via Popularity Based Expert-Wise Prefetch","url":""}
+{"author":"","bib":"","title":"HypeReca: Distributed Heterogeneous In-Memory Embedding Database for Training Recommender Models","url":""}
+{"author":"","bib":"","title":"CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training","url":""}
+{"author":"","bib":"","title":"Unveiling Compiler Faults via Attribute-Guided Compilation Space Exploration","url":""}
+{"author":"","bib":"","title":"Understanding and Detecting Fail-Slow Hardware Failure Bugs in Cloud Systems","url":""}
+{"author":"","bib":"","title":"Converos: Practical Model Checking for Verifying Rust OS Kernel Concurrency","url":""}
+{"author":"","bib":"","title":"Bin2Wrong: a Unified Fuzzing Framework for Uncovering Semantic Errors in Binary-to-C Decompilers","url":""}
+{"author":"","bib":"","title":"HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation","url":""}
+{"author":"","bib":"","title":"Para-ksm: Parallelized Memory Deduplication with Data Streaming Accelerator","url":""}
+{"author":"","bib":"","title":"DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA","url":""}
+{"author":"","bib":"","title":"Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling","url":""}
+{"author":"","bib":"","title":"SwCC: Software-Programmable and Per-Packet Congestion Control in RDMA Engine","url":""}
+{"author":"","bib":"","title":"DRack: A CXL-Disaggregated Rack Architecture to Boost Inter-Rack Communication","url":""}
+{"author":"","bib":"","title":"ShieldReduce: Fine-Grained Shielded Data Reduction","url":""}
+{"author":"","bib":"","title":"MemoryTrap: Booby Trapping Memory to Counter Memory Disclosure Attacks with Hardware Support","url":""}
+{"author":"","bib":"","title":"Separate but Together: Integrating Remote Attestation into TLS","url":""}
+{"author":"","bib":"","title":"DDLumos: Understanding and Detecting Atomic DDL Bugs in DBMSs","url":""}
+{"author":"","bib":"","title":"SpaceExit: Enabling Efficient Adaptive Computing in Space with Early Exits","url":""}
+{"author":"","bib":"","title":"XRT: An Accelerator-Aware Runtime for Accelerated Chip Multiprocessors","url":""}
+{"author":"","bib":"","title":"DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing","url":""}
+{"author":"","bib":"","title":"Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization","url":""}
+{"author":"","bib":"","title":"CAFault: Enhance Fault Injection Technique in Practical Distributed Systems via Abundant Fault-Dependent Configurations","url":""}
+{"author":"","bib":"","title":"Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations","url":""}
+{"author":"","bib":"","title":"Inferring Likely Counting-related Atomicity Program Properties for Persistent Memory","url":""}
+{"author":"","bib":"","title":"Optimizing Input Minimization in Kernel Fuzzing","url":""}
+{"author":"","bib":"","title":"IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing","url":""}
+{"author":"","bib":"","title":"On-Demand Container Partitioning for Distributed ML","url":""}
+{"author":"","bib":"","title":"PathWeaver: A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism","url":""}
+{"author":"","bib":"","title":"Towards High-Performance Transactional Stateful Serverless Workflows with Affinity-Aware Leasing","url":""}
+{"author":"","bib":"","title":"Swift: Fast Performance Tuning with GAN-Generated Configurations","url":""}
+{"author":"","bib":"","title":"PMR: Fast Application Response via Parallel Memory Reclaim on Mobile Devices","url":""}
+{"author":"","bib":"","title":"SAVE: Software-Implemented Fault Tolerance for Model Inference against GPU Memory Bit Flips","url":""}
+{"author":"","bib":"","title":"Identifying and Analyzing Pitfalls in GNN Systems","url":""}
+{"author":"","bib":"","title":"Bluetooth Low Energy Security Testing with Combinatorial Methods","url":""}
+{"author":"","bib":"","title":"Resource Multiplexing in Tuning and Serving Large Language Models","url":""}
+{"author":"","bib":"","title":"Colocating ML Inference and Training with Fast GPU Memory Handover","url":""}
+{"author":"","bib":"","title":"AssyLLM: Efficient Federated Fine-tuning of LLMs via Assembling Pre-trained Blocks","url":""}
+{"author":"","bib":"","title":"Learning-Enhanced High-Throughput Pattern Matching Based on Programmable Data Plane","url":""}

@@ -1,0 +1,55 @@
+{"author":"","bib":"","title":"Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS.","url":""}
+{"author":"","bib":"","title":"RON: One-Way Circular Shortest Routing to Achieve Efficient and Bounded-waiting Spinlocks.","url":""}
+{"author":"","bib":"","title":"Userspace Bypass: Accelerating Syscall-intensive Applications.","url":""}
+{"author":"","bib":"","title":"Triangulating Python Performance Issues with SCALENE.","url":""}
+{"author":"","bib":"","title":"Relational Debugging - Pinpointing Root Causes of Performance Problems.","url":""}
+{"author":"","bib":"","title":"Accountable authentication with privacy protection: The Larch system for universal login.","url":""}
+{"author":"","bib":"","title":"K9db: Privacy-Compliant Storage For Web Applications By Construction.","url":""}
+{"author":"","bib":"","title":"Encrypted Databases Made Secure Yet Maintainable.","url":""}
+{"author":"","bib":"","title":"LVMT: An Efficient Authenticated Storage for Blockchain.","url":""}
+{"author":"","bib":"","title":"Honeycomb: Secure and Efficient GPU Executions via Static Validation.","url":""}
+{"author":"","bib":"","title":"An Extensible Orchestration and Protection Framework for Confidential Cloud Computing.","url":""}
+{"author":"","bib":"","title":"Nimble: Rollback Protection for Confidential Cloud Services.","url":""}
+{"author":"","bib":"","title":"Security and Performance in the Delegated User-level Virtualization.","url":""}
+{"author":"","bib":"","title":"Kerveros: Efficient and Scalable Cloud Admission Control.","url":""}
+{"author":"","bib":"","title":"Core slicing: closing the gap between leaky confidential VMs and bare-metal cloud.","url":""}
+{"author":"","bib":"","title":"ExoFlow: A Universal Workflow System for Exactly-Once DAGs.","url":""}
+{"author":"","bib":"","title":"Hyrax: Fail-in-Place Server Operation in Cloud Platforms.","url":""}
+{"author":"","bib":"","title":"NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the Timestamp-Inversion Pitfall.","url":""}
+{"author":"","bib":"","title":"Conveyor: One-Tool-Fits-All Continuous Software Deployment at Meta.","url":""}
+{"author":"","bib":"","title":"Chardonnay: Fast and General Datacenter Transactions for On-Disk Databases.","url":""}
+{"author":"","bib":"","title":"ScaleDB: A Scalable, Asynchronous In-Memory Database.","url":""}
+{"author":"","bib":"","title":"VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity.","url":""}
+{"author":"","bib":"","title":"Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction.","url":""}
+{"author":"","bib":"","title":"Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate.","url":""}
+{"author":"","bib":"","title":"Replicating Persistent Memory Key-Value Stores with Efficient RDMA Abstraction.","url":""}
+{"author":"","bib":"","title":"eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs.","url":""}
+{"author":"","bib":"","title":"SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory.","url":""}
+{"author":"","bib":"","title":"No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing.","url":""}
+{"author":"","bib":"","title":"Johnny Cache: the End of DRAM Cache Conflicts (in Tiered Main Memory Systems).","url":""}
+{"author":"","bib":"","title":"TAILCHECK: A Lightweight Heap Overflow Detection Mechanism with Page Protection and Tagged Pointers.","url":""}
+{"author":"","bib":"","title":"SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.","url":""}
+{"author":"","bib":"","title":"ORC: Increasing Cloud Memory Density via Object Reuse with Capabilities.","url":""}
+{"author":"","bib":"","title":"Global Capacity Management With Flux.","url":""}
+{"author":"","bib":"","title":"Defcon: Preventing Overload with Graceful Feature Degradation.","url":""}
+{"author":"","bib":"","title":"Cilantro: Performance-Aware Resource Allocation for General Objectives via Online Feedback.","url":""}
+{"author":"","bib":"","title":"Karma: Resource Allocation for Dynamic Demands.","url":""}
+{"author":"","bib":"","title":"AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving.","url":""}
+{"author":"","bib":"","title":"Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning.","url":""}
+{"author":"","bib":"","title":"Welder: Scheduling Deep Learning Memory Access via Tile-graph.","url":""}
+{"author":"","bib":"","title":"Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators.","url":""}
+{"author":"","bib":"","title":"EINNET: Optimizing Tensor Programs with Derivation-Based Transformations.","url":""}
+{"author":"","bib":"","title":"Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.","url":""}
+{"author":"","bib":"","title":"MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.","url":""}
+{"author":"","bib":"","title":"Optimizing Dynamic Neural Networks with Brainstorm.","url":""}
+{"author":"","bib":"","title":"AdaEmbed: Adaptive Embedding for Large-Scale Recommendation Models.","url":""}
+{"author":"","bib":"","title":"BWoS: Formally Verified Block-based Work Stealing for Parallel Processing.","url":""}
+{"author":"","bib":"","title":"Spoq: Scaling Machine-Checkable Systems Verification in Coq.","url":""}
+{"author":"","bib":"","title":"Verifying vMVCC, a high-performance transaction library using multi-version concurrency control.","url":""}
+{"author":"","bib":"","title":"Automated Verification of Idempotence for Stateful Serverless Applications.","url":""}
+{"author":"","bib":"","title":"Sharding the State Machine: Automated Modular Reasoning for Complex Concurrent Systems.","url":""}
+{"author":"","bib":"","title":"Flor: An Open High Performance RDMA Framework Over Heterogeneous RNICs.","url":""}
+{"author":"","bib":"","title":"ShRing: Networking with Shared Receive Rings.","url":""}
+{"author":"","bib":"","title":"ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta.","url":""}
+{"author":"","bib":"","title":"Characterizing Off-path SmartNIC for Accelerating Distributed Systems.","url":""}
+{"author":"","bib":"","title":"Ensō: A Streaming Interface for NIC-Application Communication.","url":""}

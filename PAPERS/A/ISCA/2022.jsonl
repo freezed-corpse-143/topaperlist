@@ -1,0 +1,74 @@
+{"author":"","bib":"","title":"ISCA '22: The 49th Annual International Symposium on Computer Architecture, New York, New York, USA, June 18 - 22, 2022","url":""}
+{"author":"","bib":"","title":"NvMR: non-volatile memory renaming for intermittent computing","url":""}
+{"author":"","bib":"","title":"Free atomics: hardware atomic operations without fences","url":""}
+{"author":"","bib":"","title":"Securing GPU via region-based bounds checking","url":""}
+{"author":"","bib":"","title":"täk¯: a polymorphic cache hierarchy for general-purpose optimization of data movement","url":""}
+{"author":"","bib":"","title":"EQC: ensembled quantum computing for variational quantum algorithms","url":""}
+{"author":"","bib":"","title":"Axiomatic hardware-software contracts for security","url":""}
+{"author":"","bib":"","title":"PPMLAC: high performance chipset architecture for secure multi-party computation","url":""}
+{"author":"","bib":"","title":"INSPIRE: in-storage private information retrieval via protocol and architecture co-design","url":""}
+{"author":"","bib":"","title":"TDGraph: a topology-driven accelerator for high-performance streaming graph processing","url":""}
+{"author":"","bib":"","title":"DIMMining: pruning-efficient and parallel graph mining on near-memory-computing","url":""}
+{"author":"","bib":"","title":"NDMiner: accelerating graph pattern mining using near data processing","url":""}
+{"author":"","bib":"","title":"SoftVN: efficient memory protection via software-provided version numbers","url":""}
+{"author":"","bib":"","title":"CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data","url":""}
+{"author":"","bib":"","title":"PS-ORAM: efficient crash consistency support for oblivious RAM on NVM","url":""}
+{"author":"","bib":"","title":"There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack","url":""}
+{"author":"","bib":"","title":"Gearbox: a case for supporting accumulation dispatching and hybrid partitioning in PIM-based accelerators","url":""}
+{"author":"","bib":"","title":"To PIM or not for emerging general purpose processing in DDR memory systems","url":""}
+{"author":"","bib":"","title":"MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows","url":""}
+{"author":"","bib":"","title":"CaSMap: agile mapper for reconfigurable spatial architectures by automatically clustering intermediate representations and scattering mapping process","url":""}
+{"author":"","bib":"","title":"FFCCD: fence-free crash-consistent concurrent defragmentation for persistent memory","url":""}
+{"author":"","bib":"","title":"LightPC: hardware and software co-design for energy-efficient full system persistence","url":""}
+{"author":"","bib":"","title":"ASAP: architecture support for asynchronous persistence","url":""}
+{"author":"","bib":"","title":"Sibyl: adaptive and extensible data placement in hybrid storage systems using online reinforcement learning","url":""}
+{"author":"","bib":"","title":"A synthesis framework for stitching surface code with superconducting quantum devices","url":""}
+{"author":"","bib":"","title":"2QAN: a quantum compiler for 2-local qubit hamiltonian simulation algorithms","url":""}
+{"author":"","bib":"","title":"XQsim: modeling cross-technology control processors for 10+K qubit quantum computers","url":""}
+{"author":"","bib":"","title":"Geyser: a compilation framework for quantum computing with neutral atoms","url":""}
+{"author":"","bib":"","title":"X-cache: a modular architecture for domain-specific caches","url":""}
+{"author":"","bib":"","title":"Register file prefetching","url":""}
+{"author":"","bib":"","title":"GCoM: a detailed GPU core model for accurate analytical modeling of modern GPUs","url":""}
+{"author":"","bib":"","title":"A scalable architecture for reprioritizing ordered parallelism","url":""}
+{"author":"","bib":"","title":"Rethinking programmable wearable processors","url":""}
+{"author":"","bib":"","title":"uBrain: a unary brain computer interface","url":""}
+{"author":"","bib":"","title":"Managing reliability skew in DNA storage","url":""}
+{"author":"","bib":"","title":"EDAM: edit distance tolerant approximate matching content addressable memory","url":""}
+{"author":"","bib":"","title":"Increasing ising machine capacity with multi-chip architectures","url":""}
+{"author":"","bib":"","title":"Cascading structured pruning: enabling high data reuse for sparse DNN accelerators","url":""}
+{"author":"","bib":"","title":"Anticipating and eliminating redundant computations in accelerated sparse training","url":""}
+{"author":"","bib":"","title":"SIMD2: a generalized matrix instruction set for accelerating tensor computation beyond GEMM","url":""}
+{"author":"","bib":"","title":"A software-defined tensor streaming multiprocessor for large-scale machine learning","url":""}
+{"author":"","bib":"","title":"Themis: a network bandwidth-aware collective scheduling policy for distributed training of DL models","url":""}
+{"author":"","bib":"","title":"RACOD: algorithm/hardware co-design for mobile robot path planning","url":""}
+{"author":"","bib":"","title":"EyeCoD: eye tracking system acceleration via flatcam-based algorithm & accelerator co-design","url":""}
+{"author":"","bib":"","title":"Accelerating database analytic query workloads using an associative processor","url":""}
+{"author":"","bib":"","title":"SeGraM: a universal hardware accelerator for genomic sequence-to-graph and sequence-to-sequence mapping","url":""}
+{"author":"","bib":"","title":"BioHD: an efficient genome sequence search platform using HyperDimensional memorization","url":""}
+{"author":"","bib":"","title":"MOESI-prime: preventing coherence-induced hammering in commodity workloads","url":""}
+{"author":"","bib":"","title":"PACMAN: attacking ARM pointer authentication with speculative execution","url":""}
+{"author":"","bib":"","title":"Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking","url":""}
+{"author":"","bib":"","title":"BTS: an accelerator for bootstrappable fully homomorphic encryption","url":""}
+{"author":"","bib":"","title":"MGX: near-zero overhead memory protection for data-intensive accelerators","url":""}
+{"author":"","bib":"","title":"Thermometer: profile-guided btb replacement for data center applications","url":""}
+{"author":"","bib":"","title":"Lukewarm serverless functions: characterization and optimization","url":""}
+{"author":"","bib":"","title":"Dynamic global adaptive routing in high-radix networks","url":""}
+{"author":"","bib":"","title":"ACT: designing sustainable computer systems with an architectural carbon modeling tool","url":""}
+{"author":"","bib":"","title":"HiveMind: a hardware-software system stack for serverless edge swarms","url":""}
+{"author":"","bib":"","title":"Tiny but mighty: designing and realizing scalable latency tolerance for manycore SoCs","url":""}
+{"author":"","bib":"","title":"FlexiCores: low footprint, high yield, field reprogrammable flexible microprocessors","url":""}
+{"author":"","bib":"","title":"SNS's not a synthesizer: a deep-learning-based synthesis predictor","url":""}
+{"author":"","bib":"","title":"Training personalized recommendation systems from (GPU) scratch: look forward not backwards","url":""}
+{"author":"","bib":"","title":"AMOS: enabling automatic mapping for tensor computations on spatial accelerators with hardware abstraction","url":""}
+{"author":"","bib":"","title":"Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models","url":""}
+{"author":"","bib":"","title":"Accelerating attention through gradient-based learned runtime pruning","url":""}
+{"author":"","bib":"","title":"Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques","url":""}
+{"author":"","bib":"","title":"SmartSAGE: training large-scale graph neural networks using in-storage processing architectures","url":""}
+{"author":"","bib":"","title":"Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network","url":""}
+{"author":"","bib":"","title":"Crescent: taming memory irregularities for accelerating deep point cloud analytics","url":""}
+{"author":"","bib":"","title":"The Mozart reuse exposed dataflow processor for AI and beyond: industrial product","url":""}
+{"author":"","bib":"","title":"Software-hardware co-design for fast and scalable training of deep learning recommendation models","url":""}
+{"author":"","bib":"","title":"AI accelerator on IBM telum processor: industrial product","url":""}
+{"author":"","bib":"","title":"Fidas: fortifying the cloud via comprehensive FPGA-based offloading for intrusion detection: industrial product","url":""}
+{"author":"","bib":"","title":"Understanding data storage and ingestion for large-scale deep recommendation model training: industrial product","url":""}
+{"author":"","bib":"","title":"Mixed-proxy extensions for the NVIDIA PTX memory consistency model: industrial product","url":""}

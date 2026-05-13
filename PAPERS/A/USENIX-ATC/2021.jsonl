@@ -1,0 +1,65 @@
+{"author":"","bib":"","title":"Proceedings of the 2021 USENIX Annual Technical Conference, USENIX ATC 2021, July 14-16, 2021","url":""}
+{"author":"","bib":"","title":"Naos: Serialization-free RDMA networking in Java","url":""}
+{"author":"","bib":"","title":"One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"MLEE: Effective Detection of Memory Leaks on Early-Exit Paths in OS Kernels","url":""}
+{"author":"","bib":"","title":"MigrOS: Transparent Live-Migration Support for Containerised RDMA Applications","url":""}
+{"author":"","bib":"","title":"Avocado: A Secure In-Memory Distributed Storage System","url":""}
+{"author":"","bib":"","title":"Scaling Large Production Clusters with Partitioned Synchronization","url":""}
+{"author":"","bib":"","title":"A Linux Kernel Implementation of the Homa Transport Protocol","url":""}
+{"author":"","bib":"","title":"A Case Study of Processing-in-Memory in off-the-Shelf Systems","url":""}
+{"author":"","bib":"","title":"Fighting the Fog of War: Automated Incident Detection for Cloud Systems","url":""}
+{"author":"","bib":"","title":"RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing","url":""}
+{"author":"","bib":"","title":"Zico: Efficient GPU Memory Sharing for Concurrent DNN Training","url":""}
+{"author":"","bib":"","title":"Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning","url":""}
+{"author":"","bib":"","title":"Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing","url":""}
+{"author":"","bib":"","title":"aDFS: An Almost Depth-First-Search Distributed Graph-Querying System","url":""}
+{"author":"","bib":"","title":"GLIST: Towards In-Storage Graph Learning","url":""}
+{"author":"","bib":"","title":"DART: A Scalable and Adaptive Edge Stream Processing Engine","url":""}
+{"author":"","bib":"","title":"CrystalPerf: Learning to Characterize the Performance of Dataflow Computation through Code Analysis","url":""}
+{"author":"","bib":"","title":"Controlling Memory Footprint of Stateful Streaming Graph Processing","url":""}
+{"author":"","bib":"","title":"SONIC: Application-aware Data Passing for Chained Serverless Applications","url":""}
+{"author":"","bib":"","title":"Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices","url":""}
+{"author":"","bib":"","title":"ICARUS: Attacking low Earth orbit satellite networks","url":""}
+{"author":"","bib":"","title":"RainBlock: Faster Transaction Processing in Public Blockchains","url":""}
+{"author":"","bib":"","title":"PYLIVE: On-the-Fly Code Change for Python-based Online Services","url":""}
+{"author":"","bib":"","title":"ASAP: Fast Mobile Application Switch via Adaptive Prepaging","url":""}
+{"author":"","bib":"","title":"Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism","url":""}
+{"author":"","bib":"","title":"INFaaS: Automated Model-less Inference Serving","url":""}
+{"author":"","bib":"","title":"Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems","url":""}
+{"author":"","bib":"","title":"Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew","url":""}
+{"author":"","bib":"","title":"FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute","url":""}
+{"author":"","bib":"","title":"Video Analytics with Zero-streaming Cameras","url":""}
+{"author":"","bib":"","title":"Prediction-Based Power Oversubscription in Cloud Platforms","url":""}
+{"author":"","bib":"","title":"TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing","url":""}
+{"author":"","bib":"","title":"Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training","url":""}
+{"author":"","bib":"","title":"Characterizing and Optimizing Remote Persistent Memory with RDMA and NVM","url":""}
+{"author":"","bib":"","title":"Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training","url":""}
+{"author":"","bib":"","title":"ZeRO-Offload: Democratizing Billion-Scale Model Training","url":""}
+{"author":"","bib":"","title":"An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts","url":""}
+{"author":"","bib":"","title":"Live in the Express Lane","url":""}
+{"author":"","bib":"","title":"Understanding Precision Time Protocol in Today's Wi-Fi Networks: A Measurement Study","url":""}
+{"author":"","bib":"","title":"AUTO: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network","url":""}
+{"author":"","bib":"","title":"Hey, Lumi! Using Natural Language for Intent-Based Network Management","url":""}
+{"author":"","bib":"","title":"Boosting Full-Node Repair in Erasure-Coded Storage","url":""}
+{"author":"","bib":"","title":"KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive","url":""}
+{"author":"","bib":"","title":"Differentiated Key-Value Storage Management for Balanced I/O Performance","url":""}
+{"author":"","bib":"","title":"ZNS: Avoiding the Block Interface Tax for Flash-based SSDs","url":""}
+{"author":"","bib":"","title":"MapperX: Adaptive Metadata Maintenance for Fast Crash Recovery of DM-Cache Based Hybrid Storage Devices","url":""}
+{"author":"","bib":"","title":"Exploring the Design Space of Page Management for Multi-Tiered Memory Systems","url":""}
+{"author":"","bib":"","title":"A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices","url":""}
+{"author":"","bib":"","title":"Fair Scheduling for AVX2 and AVX-512 Workloads","url":""}
+{"author":"","bib":"","title":"SKQ: Event Scheduling for Optimizing Tail Latency in a Traditional OS Kernel","url":""}
+{"author":"","bib":"","title":"TIPS: Making Volatile Index Structures Persistent with DRAM-NVMM Tiering","url":""}
+{"author":"","bib":"","title":"Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming","url":""}
+{"author":"","bib":"","title":"Faastlane: Accelerating Function-as-a-Service Workflows","url":""}
+{"author":"","bib":"","title":"Improving Performance of Flash Based Key-Value Stores Using Storage Class Memory as a Volatile Memory Extension","url":""}
+{"author":"","bib":"","title":"First Responder: Persistent Memory Simultaneously as High Performance Buffer Cache and Storage","url":""}
+{"author":"","bib":"","title":"Hashing Linearity Enables Relative Path Control in Data Centers","url":""}
+{"author":"","bib":"","title":"XFUSE: An Infrastructure for Running Filesystem Services in User Space","url":""}
+{"author":"","bib":"","title":"Max: A Multicore-Accelerated File System for Flash Storage","url":""}
+{"author":"","bib":"","title":"Z-Journal: Scalable Per-Core Journaling","url":""}
+{"author":"","bib":"","title":"LODIC: Logical Distributed Counting for Scalable File Access","url":""}
+{"author":"","bib":"","title":"UniStore: A fault-tolerant marriage of causal and strong consistency","url":""}
+{"author":"","bib":"","title":"Optimistic Concurrency Control for Real-world Go Programs","url":""}
+{"author":"","bib":"","title":"Accelerating Encrypted Deduplication via SGX","url":""}
+{"author":"","bib":"","title":"Experiences in Managing the Performance and Reliability of a Large-Scale Genomics Cloud Platform","url":""}

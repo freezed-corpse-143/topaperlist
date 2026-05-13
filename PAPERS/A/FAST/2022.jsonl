@@ -1,0 +1,30 @@
+{"author":"","bib":"","title":"20th USENIX Conference on File and Storage Technologies, FAST 2022, Santa Clara, CA, USA, February 22-24, 2022","url":""}
+{"author":"","bib":"","title":"25 Years of Storage Research and Education: A Retrospective","url":""}
+{"author":"","bib":"","title":"NyxCache: Flexible and Efficient Multi-tenant Persistent Memory Caching","url":""}
+{"author":"","bib":"","title":"HTMFS: Strong Consistency Comes for Free with Hardware Transactional Memory in Persistent Memory File Systems","url":""}
+{"author":"","bib":"","title":"ctFS: Replacing File Indexing with Hardware Memory Translation through Contiguous File Allocation for Persistent Memory","url":""}
+{"author":"","bib":"","title":"FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory","url":""}
+{"author":"","bib":"","title":"Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression","url":""}
+{"author":"","bib":"","title":"TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression","url":""}
+{"author":"","bib":"","title":"Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases","url":""}
+{"author":"","bib":"","title":"Improving the Reliability of Next Generation SSDs using WOM-v Codes","url":""}
+{"author":"","bib":"","title":"GuardedErase: Extending SSD Lifetimes by Protecting Weak Wordlines","url":""}
+{"author":"","bib":"","title":"Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs","url":""}
+{"author":"","bib":"","title":"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study","url":""}
+{"author":"","bib":"","title":"Hydra : Resilient and Highly Available Remote Memory","url":""}
+{"author":"","bib":"","title":"MT^2: Memory Bandwidth Regulation on Hybrid NVM/DRAM Platforms","url":""}
+{"author":"","bib":"","title":"Aurogon: Taming Aborts in All Phases for Distributed In-Memory Transactions","url":""}
+{"author":"","bib":"","title":"DedupSearch: Two-Phase Deduplication Aware Keyword Search","url":""}
+{"author":"","bib":"","title":"DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression","url":""}
+{"author":"","bib":"","title":"The what, The from, and The to: The Migration Games in Deduplicated Systems","url":""}
+{"author":"","bib":"","title":"DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels","url":""}
+{"author":"","bib":"","title":"FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems","url":""}
+{"author":"","bib":"","title":"InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems","url":""}
+{"author":"","bib":"","title":"ScaleXFS: Getting scalability of XFS back on the ring","url":""}
+{"author":"","bib":"","title":"exF2FS: Transaction Support in Log-Structured Filesystem","url":""}
+{"author":"","bib":"","title":"A Log-Structured Merge Tree-aware Message Authentication Scheme for Persistent Key-Value Stores","url":""}
+{"author":"","bib":"","title":"Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O-Efficient Graph Ordering","url":""}
+{"author":"","bib":"","title":"DEPART: Replica Decoupling for Distributed Key-Value Storage","url":""}
+{"author":"","bib":"","title":"PAIO: General, Portable I/O Optimizations With Minor Application Modifications","url":""}
+{"author":"","bib":"","title":"Separating Data via Block Invalidation Time Inference for Write Amplification Reduction in Log-Structured Storage","url":""}
+{"author":"","bib":"","title":"CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime","url":""}

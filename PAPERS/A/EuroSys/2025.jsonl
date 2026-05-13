@@ -1,0 +1,86 @@
+{"author":"","bib":"","title":"Proceedings of the Twentieth European Conference on Computer Systems, EuroSys 2025, Rotterdam, The Netherlands, 30 March 2025 - 3 April 2025","url":""}
+{"author":"","bib":"","title":"Empowering WebAssembly with Thin Kernel Interfaces","url":""}
+{"author":"","bib":"","title":"Revealing the Unstable Foundations of eBPF-Based Kernel Extensions","url":""}
+{"author":"","bib":"","title":"eNetSTL: Towards an In-kernel Library for High-Performance eBPF-based Network Functions","url":""}
+{"author":"","bib":"","title":"CRAVE: Analyzing Cross-Resource Interaction to Improve Energy Efficiency in Systems-on-Chip","url":""}
+{"author":"","bib":"","title":"Efeu: generating efficient, verified, hybrid hardware/software drivers for I2C devices","url":""}
+{"author":"","bib":"","title":"CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion","url":""}
+{"author":"","bib":"","title":"DeltaZip: Efficient Serving of Multiple Full-Model-Tuned LLMs","url":""}
+{"author":"","bib":"","title":"Fast State Restoration in LLM Serving with HCache","url":""}
+{"author":"","bib":"","title":"Stateful Large Language Model Serving with Pensieve","url":""}
+{"author":"","bib":"","title":"SkyServe: Serving AI Models across Regions and Clouds with Spot Instances","url":""}
+{"author":"","bib":"","title":"RoboRebound: Multi-Robot System Defense with Bounded-Time Interaction","url":""}
+{"author":"","bib":"","title":"Achilles: Efficient TEE-Assisted BFT Consensus via Rollback Resilient Recovery","url":""}
+{"author":"","bib":"","title":"ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains","url":""}
+{"author":"","bib":"","title":"Ladon: High-Performance Multi-BFT Consensus via Dynamic Global Ordering","url":""}
+{"author":"","bib":"","title":"SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs","url":""}
+{"author":"","bib":"","title":"Empower Vision Applications with LoRA LMM","url":""}
+{"author":"","bib":"","title":"T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge","url":""}
+{"author":"","bib":"","title":"Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores","url":""}
+{"author":"","bib":"","title":"Collaborative Text Editing with Eg-walker: Better, Faster, Smaller","url":""}
+{"author":"","bib":"","title":"Themis: Finding Imbalance Failures in Distributed File Systems via a Load Variance Model","url":""}
+{"author":"","bib":"","title":"Moko: Marrying Python with Big Data Systems","url":""}
+{"author":"","bib":"","title":"Pegasus: Transparent and Unified Kernel-Bypass Networking for Fast Local and Remote Communication","url":""}
+{"author":"","bib":"","title":"Multi-Grained Specifications for Distributed System Model Checking and Verification","url":""}
+{"author":"","bib":"","title":"Enabling Virtual Priority in Data Center Congestion Control","url":""}
+{"author":"","bib":"","title":"Achieving Fairness Generalizability for Learning-based Congestion Control with Jury","url":""}
+{"author":"","bib":"","title":"Introspective Congestion Control for Consistent High Performance","url":""}
+{"author":"","bib":"","title":"Fork: A Dual Congestion Control Loop for Small and Large Flows in Datacenters","url":""}
+{"author":"","bib":"","title":"Marlin: Enabling High-Throughput Congestion Control Testing in Large-Scale Networks","url":""}
+{"author":"","bib":"","title":"LOFT: A Lock-free and Adaptive Learned Index with High Scalability for Dynamic Workloads","url":""}
+{"author":"","bib":"","title":"MetaHG: Enhancing HGNN Systems Leveraging Advanced Metapath Graph Abstraction","url":""}
+{"author":"","bib":"","title":"Flex: Fast, Accurate DNN Inference on Low-Cost Edges Using Heterogeneous Accelerator Execution","url":""}
+{"author":"","bib":"","title":"A House United Within Itself: SLO-Awareness for On-Premises Containerized ML Inference Clusters via Faro","url":""}
+{"author":"","bib":"","title":"Comprehensive Deadlock Prevention for GPU Collective Communication","url":""}
+{"author":"","bib":"","title":"Jupiter: Pushing Speed and Scalability Limitations for Subgraph Matching on Multi-GPUs","url":""}
+{"author":"","bib":"","title":"Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing","url":""}
+{"author":"","bib":"","title":"Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters","url":""}
+{"author":"","bib":"","title":"Bingo: Radix-based Bias Factorization for Random Walk on Dynamic Graphs","url":""}
+{"author":"","bib":"","title":"OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining","url":""}
+{"author":"","bib":"","title":"Impeller: Stream Processing on Shared Logs","url":""}
+{"author":"","bib":"","title":"CAPSys: Contention-aware task placement for data stream processing","url":""}
+{"author":"","bib":"","title":"NeuStream: Bridging Deep Learning Serving and Stream Processing","url":""}
+{"author":"","bib":"","title":"Towards VM Rescheduling Optimization Through Deep Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"HyperAlloc: Efficient VM Memory De/Inflation via Hypervisor-Shared Page-Frame Allocators","url":""}
+{"author":"","bib":"","title":"FastIOV: Fast Startup of Passthrough Network I/O Virtualization for Secure Containers","url":""}
+{"author":"","bib":"","title":"Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic","url":""}
+{"author":"","bib":"","title":"Optimizing Task Scheduling in Cloud VMs with Accurate vCPU Abstraction","url":""}
+{"author":"","bib":"","title":"JABAS: Joint Adaptive Batching and Automatic Scaling for DNN Training on Heterogeneous GPUs","url":""}
+{"author":"","bib":"","title":"SpaceFusion: Advanced Deep Learning Operator Fusion via Space-Mapping Graph","url":""}
+{"author":"","bib":"","title":"Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores","url":""}
+{"author":"","bib":"","title":"SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications","url":""}
+{"author":"","bib":"","title":"Chrono: Meticulous Hotness Measurement and Flexible Page Migration for Memory Tiering","url":""}
+{"author":"","bib":"","title":"PET: Proactive Demotion for Efficient Tiered Memory Management","url":""}
+{"author":"","bib":"","title":"Adios to Busy-Waiting for Microsecond-scale Memory Disaggregation","url":""}
+{"author":"","bib":"","title":"Deft: A Scalable Tree Index for Disaggregated Memory","url":""}
+{"author":"","bib":"","title":"SeBS-Flow: Benchmarking Serverless Cloud Function Workflows","url":""}
+{"author":"","bib":"","title":"AlloyStack: A Library Operating System for Serverless Workflow Applications","url":""}
+{"author":"","bib":"","title":"Serverless Cold Starts and Where to Find Them","url":""}
+{"author":"","bib":"","title":"TUNA: Tuning Unstable and Noisy Cloud Applications","url":""}
+{"author":"","bib":"","title":"Solid State Drive Targeted Memory-Efficient Indexing for Universal I/O Patterns and Fragmentation Degrees","url":""}
+{"author":"","bib":"","title":"Daredevil: Rescue Your Flash Storage from Inflexible Kernel Storage Stack","url":""}
+{"author":"","bib":"","title":"Overcoming the Last Mile between Log-Structured File Systems and Persistent Memory via Scatter Logging","url":""}
+{"author":"","bib":"","title":"Garbage Collection Does Not Only Collect Garbage: Piggybacking-Style Defragmentation for Deduplicated Backup Storage","url":""}
+{"author":"","bib":"","title":"Understanding the Linux Kernel, Visually","url":""}
+{"author":"","bib":"","title":"Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds of DBMS Bugs","url":""}
+{"author":"","bib":"","title":"BESA: Extending Bugs Triggered by Runtime Testing via Static Analysis","url":""}
+{"author":"","bib":"","title":"HawkSet: Automatic, Application-Agnostic, and Efficient Concurrent PM Bug Detection","url":""}
+{"author":"","bib":"","title":"Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline","url":""}
+{"author":"","bib":"","title":"Cheetah: Metadata Aggregation for Fast Object Storage without Distributed Ordering","url":""}
+{"author":"","bib":"","title":"Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs","url":""}
+{"author":"","bib":"","title":"Pre-Stores: Proactive Software-guided Movement of Data Down the Memory Hierarchy","url":""}
+{"author":"","bib":"","title":"Rakis: Secure Fast I/O Primitives Across Trust Boundaries on Intel SGX","url":""}
+{"author":"","bib":"","title":"DPack: Efficiency-Oriented Privacy Budget Scheduling","url":""}
+{"author":"","bib":"","title":"Erebor: A Drop-In Sandbox Solution for Private Data Processing in Untrusted Confidential Virtual Machines","url":""}
+{"author":"","bib":"","title":"A Hardware-Software Co-Design for Efficient Secure Containers","url":""}
+{"author":"","bib":"","title":"Seal: Towards Diverse Specification Inference for Linux Interfaces from Security Patches","url":""}
+{"author":"","bib":"","title":"MEPipe: Democratizing LLM Training with Memory-Efficient Slice-Level Pipeline Scheduling on Cost-Effective Accelerators","url":""}
+{"author":"","bib":"","title":"HybridFlow: A Flexible and Efficient RLHF Framework","url":""}
+{"author":"","bib":"","title":"Mist: Efficient Distributed Training of Large Language Models via Memory-Parallelism Co-Optimization","url":""}
+{"author":"","bib":"","title":"Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism","url":""}
+{"author":"","bib":"","title":"FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models","url":""}
+{"author":"","bib":"","title":"Atlas: Towards Real-Time Verification in Large-Scale Networks via a Native Distributed Architecture","url":""}
+{"author":"","bib":"","title":"Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches","url":""}
+{"author":"","bib":"","title":"Phantom: Virtualizing Switch Register Resources for Accurate Sketch-based Network Measurement","url":""}
+{"author":"","bib":"","title":"Eva: Cost-Efficient Cloud-Based Cluster Scheduling","url":""}
+{"author":"","bib":"","title":"Byte vSwitch: A High-Performance Virtual Switch for Cloud Networking","url":""}

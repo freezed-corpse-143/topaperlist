@@ -1,0 +1,76 @@
+{"author":"","bib":"","title":"ASPLOS '21: 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Virtual Event, USA, April 19-23, 2021","url":""}
+{"author":"","bib":"","title":"PacketMill: toward per-Core 100-Gbps networking","url":""}
+{"author":"","bib":"","title":"Autonomous NIC offloads","url":""}
+{"author":"","bib":"","title":"Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs","url":""}
+{"author":"","bib":"","title":"BCD deduplication: effective memory compression using partial cache-line deduplication","url":""}
+{"author":"","bib":"","title":"KLOCs: kernel-level object contexts for heterogeneous memory systems","url":""}
+{"author":"","bib":"","title":"Rethinking software runtimes for disaggregated memory","url":""}
+{"author":"","bib":"","title":"DiAG: a dataflow-inspired architecture for general-purpose processors","url":""}
+{"author":"","bib":"","title":"LifeStream: a high-performance stream processing engine for periodic streams","url":""}
+{"author":"","bib":"","title":"When application-specific ISA meets FPGAs: a multi-layer virtualization framework for heterogeneous cloud FPGAs","url":""}
+{"author":"","bib":"","title":"Sage: practical and scalable ML-driven performance debugging in microservices","url":""}
+{"author":"","bib":"","title":"Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices","url":""}
+{"author":"","bib":"","title":"Sinan: ML-based and QoS-aware resource management for cloud microservices","url":""}
+{"author":"","bib":"","title":"NOREBA: a compiler-informed non-speculative out-of-order commit processor","url":""}
+{"author":"","bib":"","title":"Fast local page-tables for virtualized NUMA servers with vMitosis","url":""}
+{"author":"","bib":"","title":"PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds","url":""}
+{"author":"","bib":"","title":"In-fat pointer: hardware-assisted tagged-pointer spatial memory safety defense with subobject granularity protection","url":""}
+{"author":"","bib":"","title":"Judging a type by its pointer: optimizing GPU virtual functions","url":""}
+{"author":"","bib":"","title":"Enclosure: language-based restriction of untrusted libraries","url":""}
+{"author":"","bib":"","title":"Switches for HIRE: resource scheduling for data center in-network computing","url":""}
+{"author":"","bib":"","title":"Probabilistic profiling of stateful data planes for adversarial testing","url":""}
+{"author":"","bib":"","title":"MERCI: efficient embedding reduction on commodity hardware via sub-query memoization","url":""}
+{"author":"","bib":"","title":"SherLock: unsupervised synchronization-operation inference","url":""}
+{"author":"","bib":"","title":"SIMDRAM: a framework for bit-serial SIMD processing using DRAM","url":""}
+{"author":"","bib":"","title":"Clobber-NVM: log less, re-execute more","url":""}
+{"author":"","bib":"","title":"Time-optimal Qubit mapping","url":""}
+{"author":"","bib":"","title":"Orchestrated trios: compiling for efficient communication in Quantum programs with 3-Qubit gates","url":""}
+{"author":"","bib":"","title":"FaasCache: keeping serverless computing alive with greedy-dual caching","url":""}
+{"author":"","bib":"","title":"Hippocrates: healing persistent memory bugs without doing any harm","url":""}
+{"author":"","bib":"","title":"Jaaru: efficiently model checking persistent memory programs","url":""}
+{"author":"","bib":"","title":"Corundum: statically-enforced persistent memory safety","url":""}
+{"author":"","bib":"","title":"Qraft: reverse your Quantum circuit and know the correct program output","url":""}
+{"author":"","bib":"","title":"Logical abstractions for noisy variational Quantum algorithm simulation","url":""}
+{"author":"","bib":"","title":"CutQC: using small Quantum computers for large Quantum circuit evaluations","url":""}
+{"author":"","bib":"","title":"PMFuzz: test case generation for persistent memory programs","url":""}
+{"author":"","bib":"","title":"Fast, flexible, and comprehensive bug detection for persistent memory programs","url":""}
+{"author":"","bib":"","title":"PMEM-spec: persistent memory speculation (strict persistency can trump relaxed persistency)","url":""}
+{"author":"","bib":"","title":"VSync: push-button verification and optimization for synchronization primitives on weak memory models","url":""}
+{"author":"","bib":"","title":"CubicleOS: a library OS with software componentisation for practical isolation","url":""}
+{"author":"","bib":"","title":"Benchmarking, analysis, and optimization of serverless function snapshots","url":""}
+{"author":"","bib":"","title":"Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power","url":""}
+{"author":"","bib":"","title":"Q-VR: system-level design for future mobile collaborative virtual reality","url":""}
+{"author":"","bib":"","title":"Warehouse-scale video acceleration: co-design and deployment in the wild","url":""}
+{"author":"","bib":"","title":"Automatically detecting and fixing concurrency bugs in go software systems","url":""}
+{"author":"","bib":"","title":"C11Tester: a race detector for C/C++ atomics","url":""}
+{"author":"","bib":"","title":"Kard: lightweight data race detection with per-thread memory protection","url":""}
+{"author":"","bib":"","title":"Quantifying the design-space tradeoffs in autonomous drones","url":""}
+{"author":"","bib":"","title":"Robomorphic computing: a design methodology for domain-specific accelerators parameterized by robot morphology","url":""}
+{"author":"","bib":"","title":"Gamma: leveraging Gustavson's algorithm to accelerate sparse matrix multiplication","url":""}
+{"author":"","bib":"","title":"Reducing solid-state drive read latency by optimizing read-retry","url":""}
+{"author":"","bib":"","title":"RecSSD: near data processing for solid state drive based recommendation inference","url":""}
+{"author":"","bib":"","title":"Prolonging 3D NAND SSD lifetime via read latency relaxation","url":""}
+{"author":"","bib":"","title":"PIBE: practical kernel control-flow hardening with profile-guided indirect branch elimination","url":""}
+{"author":"","bib":"","title":"Computing with time: microarchitectural weird machines","url":""}
+{"author":"","bib":"","title":"HerQules: securing programs via hardware-enforced message queues","url":""}
+{"author":"","bib":"","title":"Effective simulation and debugging for a high-level hardware language using software compilers","url":""}
+{"author":"","bib":"","title":"A compiler infrastructure for accelerator generators","url":""}
+{"author":"","bib":"","title":"Compiler-driven FPGA virtualization with SYNERGY","url":""}
+{"author":"","bib":"","title":"BayesPerf: minimizing performance monitoring errors using Bayesian statistics","url":""}
+{"author":"","bib":"","title":"Training for multi-resolution inference using reusable quantization terms","url":""}
+{"author":"","bib":"","title":"A hierarchical neural model of data prefetching","url":""}
+{"author":"","bib":"","title":"Vectorization for digital signal processors via equality saturation","url":""}
+{"author":"","bib":"","title":"Scalable FSM parallelization via path fusion and higher-order speculation","url":""}
+{"author":"","bib":"","title":"VeGen: a vectorizer generator for SIMD and beyond","url":""}
+{"author":"","bib":"","title":"Neural architecture search as program transformation exploration","url":""}
+{"author":"","bib":"","title":"Analytical characterization and design space exploration for optimization of CNNs","url":""}
+{"author":"","bib":"","title":"Mind mappings: enabling efficient algorithm-accelerator mapping space search","url":""}
+{"author":"","bib":"","title":"Statistical robustness of Markov chain Monte Carlo accelerators","url":""}
+{"author":"","bib":"","title":"NeuroEngine: a hardware-based event-driven simulation system for advanced brain-inspired computing","url":""}
+{"author":"","bib":"","title":"Defensive approximation: securing CNNs using approximate computing","url":""}
+{"author":"","bib":"","title":"Language-parametric compiler validation with application to LLVM","url":""}
+{"author":"","bib":"","title":"Incremental CFG patching for binary rewriting","url":""}
+{"author":"","bib":"","title":"Who's debugging the debuggers? exposing debug information bugs in optimized binaries","url":""}
+{"author":"","bib":"","title":"Speculative interference attacks: breaking invisible speculation schemes","url":""}
+{"author":"","bib":"","title":"Jamais vu: thwarting microarchitectural replay attacks","url":""}
+{"author":"","bib":"","title":"Streamline: a fast, flushless cache covert-channel attack by enabling asynchronous collusion","url":""}

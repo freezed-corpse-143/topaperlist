@@ -1,0 +1,67 @@
+{"author":"","bib":"","title":"Proceedings of the ACM SIGOPS 31st Symposium on Operating Systems Principles, SOSP 2025, Lotte Hotel World, Seoul, Republic of Korea, October 13-16, 2025","url":""}
+{"author":"","bib":"","title":"LithOS: An Operating System for Efficient Machine Learning on GPUs","url":""}
+{"author":"","bib":"","title":"μFork: Supporting POSIX fork Within a Single-Address-Space OS","url":""}
+{"author":"","bib":"","title":"Tock: From Research To Securing 10 Million Computers","url":""}
+{"author":"","bib":"","title":"Proto: A Guided Journey through Modern OS Construction","url":""}
+{"author":"","bib":"","title":"CHERIoT RTOS: An OS for Fine-Grained Memory-Safe Compartments on Low-Cost Embedded Devices","url":""}
+{"author":"","bib":"","title":"The Design and Implementation of a Virtual Firmware Monitor","url":""}
+{"author":"","bib":"","title":"Oasis: Pooling PCIe Devices Over CXL to Boost Utilization","url":""}
+{"author":"","bib":"","title":"Spirit: Fair Allocation of Interdependent Resources in Remote Memory Systems","url":""}
+{"author":"","bib":"","title":"Scalable Far Memory: Balancing Faults and Evictions","url":""}
+{"author":"","bib":"","title":"Device-Assisted Live Migration of RDMA Devices","url":""}
+{"author":"","bib":"","title":"Demeter: A Scalable and Elastic Tiered Memory Solution for Virtualized Cloud via Guest Delegation","url":""}
+{"author":"","bib":"","title":"Robust LLM Training Infrastructure at ByteDance","url":""}
+{"author":"","bib":"","title":"Sailor: Automating Distributed Training over Dynamic, Heterogeneous, and Geo-distributed Clusters","url":""}
+{"author":"","bib":"","title":"DCP: Addressing Input Dynamism In Long-Context Training via Dynamic Context Parallelism","url":""}
+{"author":"","bib":"","title":"TrainVerify: Equivalence-Based Verification for Distributed LLM Training","url":""}
+{"author":"","bib":"","title":"Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training","url":""}
+{"author":"","bib":"","title":"Mitigating Application Resource Overload with Targeted Task Cancellation","url":""}
+{"author":"","bib":"","title":"Orthrus: Efficient and Timely Detection of Silent User Data Corruption in the Cloud with Resource-Adaptive Computation Validation","url":""}
+{"author":"","bib":"","title":"Optimistic Recovery for High-Availability Software via Partial Process State Preservation","url":""}
+{"author":"","bib":"","title":"COpter: Efficient Large-Scale Resource-Allocation via Continual Optimization","url":""}
+{"author":"","bib":"","title":"Fast End-to-End Performance Simulation of Accelerated Hardware-Software Stacks","url":""}
+{"author":"","bib":"","title":"Characterizing Mobile SoC for Accelerating Heterogeneous LLM Inference","url":""}
+{"author":"","bib":"","title":"IC-Cache: Efficient Large Language Model Serving via In-context Caching","url":""}
+{"author":"","bib":"","title":"PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications","url":""}
+{"author":"","bib":"","title":"Pie: A Programmable Serving System for Emerging LLM Applications","url":""}
+{"author":"","bib":"","title":"DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction","url":""}
+{"author":"","bib":"","title":"Jenga: Effective Memory Management for Serving LLM with Heterogeneity","url":""}
+{"author":"","bib":"","title":"cache_ext: Customizing the Page Cache with eBPF","url":""}
+{"author":"","bib":"","title":"Aeolia: A Fast and Secure Userspace Interrupt-Based Storage Stack","url":""}
+{"author":"","bib":"","title":"Sleeping with One Eye Open: Fast, Sustainable Storage with Sandman","url":""}
+{"author":"","bib":"","title":"Loom: Efficient Capture and Querying of High-Frequency Telemetry","url":""}
+{"author":"","bib":"","title":"Pesto: Cooking up High Performance BFT Queries","url":""}
+{"author":"","bib":"","title":"Tiga: Accelerating Geo-Distributed Transactions with Synchronized Clocks","url":""}
+{"author":"","bib":"","title":"Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs","url":""}
+{"author":"","bib":"","title":"SAND: A New Programming Abstraction for Video-based Deep Learning","url":""}
+{"author":"","bib":"","title":"METIS: Fast Quality-Aware RAG Systems with Configuration Adaptation","url":""}
+{"author":"","bib":"","title":"HedraRAG: Co-Optimizing Generation and Retrieval for Heterogeneous RAG Workflows","url":""}
+{"author":"","bib":"","title":"Coyote v2: Raising the Level of Abstraction for Data Center FPGAs","url":""}
+{"author":"","bib":"","title":"KNighter: Transforming Static Analysis with LLM-Synthesized Checkers","url":""}
+{"author":"","bib":"","title":"Fawkes: Finding Data Durability Bugs in DBMSs via Recovered Data State Verification","url":""}
+{"author":"","bib":"","title":"Ghost in the Android Shell: Pragmatic Test-oracle Specification of a Production Hypervisor","url":""}
+{"author":"","bib":"","title":"eBPF Misbehavior Detection: Fuzzing with a Specification-Based Oracle","url":""}
+{"author":"","bib":"","title":"WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations","url":""}
+{"author":"","bib":"","title":"Prove It to the Kernel: Precise Extension Analysis via Proof-Guided Abstraction Refinement","url":""}
+{"author":"","bib":"","title":"Atmosphere: Practical Verified Kernels with Rust and Verus","url":""}
+{"author":"","bib":"","title":"AutoMan: Facilitating Verified Distributed Systems Development Through Automatic Code Generation and Manual Optimizations","url":""}
+{"author":"","bib":"","title":"TickTock: Verified Isolation in a Production Embedded OS","url":""}
+{"author":"","bib":"","title":"ORQ: Complex Analytics on Private Data with Strong Security Guarantees","url":""}
+{"author":"","bib":"","title":"TRIP: Coercion-resistant Registration for E-Voting with Verifiability and Usability in Votegral","url":""}
+{"author":"","bib":"","title":"Moirai: Optimizing Placement of Data and Compute in Hybrid Clouds","url":""}
+{"author":"","bib":"","title":"Tai Chi: A General High-Efficiency Scheduling Framework for SmartNICs in Hyperscale Clouds","url":""}
+{"author":"","bib":"","title":"Quilt: Resource-aware Merging of Serverless Workflows","url":""}
+{"author":"","bib":"","title":"Mantle: Efficient Hierarchical Metadata Management for Cloud Object Storage Services","url":""}
+{"author":"","bib":"","title":"Unlocking True Elasticity for the Cloud-Native Era with Dandelion","url":""}
+{"author":"","bib":"","title":"Running Consistent Applications Closer to Users with Radical for Lower Latency","url":""}
+{"author":"","bib":"","title":"Managing Scalable Direct Storage Accesses for GPUs with GoFS","url":""}
+{"author":"","bib":"","title":"PhoenixOS: Concurrent OS-level GPU Checkpoint and Restore with Validated Speculation","url":""}
+{"author":"","bib":"","title":"KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models","url":""}
+{"author":"","bib":"","title":"Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market","url":""}
+{"author":"","bib":"","title":"Mercury: Unlocking Multi-GPU Operator Optimization for LLMs via Remote Memory Scheduling","url":""}
+{"author":"","bib":"","title":"How to Copy Memory? Coordinated Asynchronous Copy as a First-Class OS Service","url":""}
+{"author":"","bib":"","title":"CortenMM: Efficient Memory Management with Strong Correctness Guarantees","url":""}
+{"author":"","bib":"","title":"Rearchitecting the Thread Model of In-Memory Key-Value Stores with μTPS","url":""}
+{"author":"","bib":"","title":"FlexGuard: Fast Mutual Exclusion Independent of Subscription","url":""}
+{"author":"","bib":"","title":"Scalable Address Spaces using Concurrent Interval Skiplist","url":""}
+{"author":"","bib":"","title":"Analyzing and Enhancing ArckFS: An Anecdotal Example of Benefits of Artifact Evaluation","url":""}

@@ -7,8 +7,9 @@ param(
 $ErrorActionPreference = "Stop"
 
 $projectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
-$manifestPath = Join-Path $projectRoot "Cargo.toml"
-$sourcePaperDir = [System.IO.Path]::GetFullPath((Join-Path $projectRoot "Paper"))
+$projectDir = Join-Path $projectRoot "search"
+$manifestPath = Join-Path $projectDir "Cargo.toml"
+$sourcePapersDir = [System.IO.Path]::GetFullPath((Join-Path $projectRoot "PAPERS"))
 
 function Test-IsSameOrInside {
     param(
@@ -34,16 +35,17 @@ if ($installRootTrimmed -ieq $driveRoot) {
 }
 
 $binDir = Join-Path $InstallRoot "bin"
-$paperDir = Join-Path $InstallRoot "Paper"
+$papersDir = Join-Path $InstallRoot "PAPERS"
+$dbPath = Join-Path $InstallRoot "papers.db"
 $installedBinary = Join-Path $binDir "$CommandName.exe"
 
-if ((Test-IsSameOrInside -Path $paperDir -BasePath $sourcePaperDir) -or
-    (Test-IsSameOrInside -Path $sourcePaperDir -BasePath $paperDir)) {
-    throw "InstallRoot must not place installed Paper data inside, above, or equal to the source Paper directory."
+if ((Test-IsSameOrInside -Path $papersDir -BasePath $sourcePapersDir) -or
+    (Test-IsSameOrInside -Path $sourcePapersDir -BasePath $papersDir)) {
+    throw "InstallRoot must not place installed PAPERS data inside, above, or equal to the source PAPERS directory."
 }
 
-if (-not (Test-Path -LiteralPath $sourcePaperDir)) {
-    throw "Paper directory was not found at $sourcePaperDir"
+if (-not (Test-Path -LiteralPath $sourcePapersDir)) {
+    throw "PAPERS directory was not found at $sourcePapersDir"
 }
 
 $cargoCommand = (Get-Command cargo -ErrorAction SilentlyContinue).Source
@@ -57,23 +59,39 @@ if (-not $cargoCommand) {
 if (-not $cargoCommand) {
     throw "cargo was not found. Install Rust from https://rustup.rs/ and try again."
 }
+
+Write-Host "Building search from source..."
 & $cargoCommand build --release --manifest-path $manifestPath
 
-$builtBinary = Join-Path $projectRoot "target\release\search.exe"
+$builtBinary = Join-Path $projectDir "target\release\search.exe"
 if (-not (Test-Path -LiteralPath $builtBinary)) {
     throw "search.exe was not found at $builtBinary after building."
 }
 
+# Install binary
 New-Item -ItemType Directory -Force -Path $binDir | Out-Null
 Copy-Item -LiteralPath $builtBinary -Destination $installedBinary -Force
 
-if (Test-Path -LiteralPath $paperDir) {
-    Remove-Item -LiteralPath $paperDir -Recurse -Force
+# Install PAPERS data
+if (Test-Path -LiteralPath $papersDir) {
+    Remove-Item -LiteralPath $papersDir -Recurse -Force
 }
-Copy-Item -LiteralPath $sourcePaperDir -Destination $paperDir -Recurse -Force
+Copy-Item -LiteralPath $sourcePapersDir -Destination $papersDir -Recurse -Force
 
-$expectedSmokeOutput = "B`tEMNLP`t2020`tAttention Is All You Need for Chinese Word Segmentation."
+# Set env vars for the wrapper
+$env:PAPERS_DIR = $papersDir
+$env:PAPERS_DB_PATH = $dbPath
+
+# Build the database
+Write-Host "Building paper database..."
+& $installedBinary build-db 2>&1 | Out-Host
+if ($LASTEXITCODE -ne 0) {
+    throw "Database build failed"
+}
+
+# Smoke test
 $smokeArgs = @(
+    "query",
     "--conference",
     "EMNLP",
     "--year",
@@ -103,10 +121,12 @@ if ($smokeStatus -ne 0) {
     throw "Install smoke test failed with exit code ${smokeStatus}: $($smokeLines -join "`n")"
 }
 
-if ($smokeLines.Count -ne 1 -or $smokeLines[0] -ne $expectedSmokeOutput) {
-    throw "Install smoke test output mismatch. Expected: $expectedSmokeOutput Actual: $($smokeLines -join "`n")"
+$matched = $smokeLines | Where-Object { $_ -match "Attention Is All You Need" }
+if (-not $matched) {
+    throw "Install smoke test output mismatch. Expected to contain: Attention Is All You Need for Chinese Word Segmentation. Actual: $($smokeLines -join "`n")"
 }
 
+# Add to PATH
 if (-not $NoPath) {
     $userPath = [Environment]::GetEnvironmentVariable("Path", "User")
     $pathItems = @()
@@ -135,6 +155,7 @@ if (-not $NoPath) {
 }
 
 Write-Host "Installed $CommandName to $installedBinary"
-Write-Host "Paper data installed to $paperDir"
+Write-Host "PAPERS data installed to $papersDir"
+Write-Host "Database at $dbPath"
 Write-Host "Install smoke test passed"
-Write-Host "Try: $CommandName --conference AAAI --year 2024 diffusion"
+Write-Host "Try: $CommandName query --conference AAAI --year 2024 diffusion"

@@ -1,0 +1,139 @@
+{"author":"","bib":"","title":"Proceedings of the 21st European Conference on Computer Systems, EuroSys 2026, McEwan Hall/The University of Edinburgh, Edinburgh, Scotland, UK, April 27-30, 2026","url":""}
+{"author":"","bib":"","title":"MegaScale-Data: Scaling DataLoader for Multisource Large Foundation Model Training","url":""}
+{"author":"","bib":"","title":"CofferOS: Hardening OS-level Virtualization with Rust","url":""}
+{"author":"","bib":"","title":"AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding","url":""}
+{"author":"","bib":"","title":"High Throughput and Low Latency LLM Serving via Adaptive KV Caching","url":""}
+{"author":"","bib":"","title":"FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters","url":""}
+{"author":"","bib":"","title":"Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design","url":""}
+{"author":"","bib":"","title":"Learn-to-Probe: Achieving Signal Distinguishability in Learning-based Congestion Control","url":""}
+{"author":"","bib":"","title":"On-device Semantic Selection Made Low Latency and Memory Efficient with Monolithic Forwarding","url":""}
+{"author":"","bib":"","title":"iRoute: Local Routing Table-based Workflow Management in Serverless Computing","url":""}
+{"author":"","bib":"","title":"MesaFS: An I/O-Efficient Metadata Service for Distributed File Systems","url":""}
+{"author":"","bib":"","title":"Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading","url":""}
+{"author":"","bib":"","title":"Practical and Efficient x86-64 Emulation on RISC-V","url":""}
+{"author":"","bib":"","title":"RaidenSwap: A Multi-Swap Remote System for Multi-core Applications","url":""}
+{"author":"","bib":"","title":"REPS: Recycled Entropy Packet Spraying for Adaptive Load Balancing and Failure Mitigation","url":""}
+{"author":"","bib":"","title":"TierScape: Harnessing Multiple Compressed Tiers to Tame Server Memory TCO","url":""}
+{"author":"","bib":"","title":"Handling Network Faults in Distributed AI Training: Failover is Now an Option","url":""}
+{"author":"","bib":"","title":"Chimera: Transparent and High-Performance ISAX Heterogeneous Computing via Binary Rewriting","url":""}
+{"author":"","bib":"","title":"From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents","url":""}
+{"author":"","bib":"","title":"Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy","url":""}
+{"author":"","bib":"","title":"Proteus: Heterogeneous FPGA Virtualization","url":""}
+{"author":"","bib":"","title":"Mitigating CDN Cache Misses with Scheduling: An Origin Shield for Billion-QPS Social Platforms","url":""}
+{"author":"","bib":"","title":"MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production","url":""}
+{"author":"","bib":"","title":"Bridging the GPU Utilization Gap: Predictive Multi-Dimensional Resource Scheduling for AI Workloads","url":""}
+{"author":"","bib":"","title":"Laminar: A Scalable Asynchronous RL Post-Training Framework","url":""}
+{"author":"","bib":"","title":"PARD: Enhancing Goodput for Inference Pipeline via Proactive Request Dropping","url":""}
+{"author":"","bib":"","title":"Effective On-Hardware Fuzzing of Embedded Operating Systems","url":""}
+{"author":"","bib":"","title":"Fuzzing Enterprise-Grade Blockchain Systems: Industrial Practice and Solutions","url":""}
+{"author":"","bib":"","title":"GeDES: GPU-Driven Discrete Event Network Simulator","url":""}
+{"author":"","bib":"","title":"Digital Hole: Bypassing Commercial Audio DRM Solutions with DReaMcatcher","url":""}
+{"author":"","bib":"","title":"TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling","url":""}
+{"author":"","bib":"","title":"A Case for Elastic Quantum Error Correction Decoders","url":""}
+{"author":"","bib":"","title":"EMVOD: Elastic Multi-Path QUIC Scheduling for CDN Video-on-Demand Service","url":""}
+{"author":"","bib":"","title":"Federated Fine-Tuning of Sparsely-Activated Large Language Models on Resource-Constrained Devices","url":""}
+{"author":"","bib":"","title":"Multipath Collective Communication Beyond Scale-up Networks in GPU Clouds","url":""}
+{"author":"","bib":"","title":"LoRAFusion: Efficient LoRA Fine-Tuning for LLMs","url":""}
+{"author":"","bib":"","title":"SKernel: An Elastic and Efficient Secure Container System at Scale with a Split-Kernel Architecture","url":""}
+{"author":"","bib":"","title":"Untangling GPU Power Consumption: Job-Level Inference in Cloud Shared Settings","url":""}
+{"author":"","bib":"","title":"TrustWeave: Integrity Measurement and Attestation For Multi-Cloud LLMs","url":""}
+{"author":"","bib":"","title":"TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone","url":""}
+{"author":"","bib":"","title":"MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production","url":""}
+{"author":"","bib":"","title":"Enabling Packet Spraying over Commodity RNICs with In-Network Support","url":""}
+{"author":"","bib":"","title":"Wayfinder: Automated Operating System Specialization","url":""}
+{"author":"","bib":"","title":"STAlloc: Enhancing Memory Efficiency in Large-Scale Model Training with Spatio-Temporal Planning","url":""}
+{"author":"","bib":"","title":"Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach","url":""}
+{"author":"","bib":"","title":"HetAuto: Cross-Cluster Auto-Parallelism for Heterogeneous Distributed Training","url":""}
+{"author":"","bib":"","title":"PatternSketch: General and Runtime Reconfigurable Time-series Network Traffic Pattern Detection","url":""}
+{"author":"","bib":"","title":"Concord: Learning Network Configuration Contracts","url":""}
+{"author":"","bib":"","title":"Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation","url":""}
+{"author":"","bib":"","title":"ECOTE: Priority-Aware Optical Restoration for WAN Traffic Engineering","url":""}
+{"author":"","bib":"","title":"LLMFolder: Revisiting Constant Folding in Large Language Models","url":""}
+{"author":"","bib":"","title":"LCMP: Distributed Long-Haul Cost-Aware Multi-Path Routing for Inter-Datacenter RDMA Networks","url":""}
+{"author":"","bib":"","title":"SmartNS: Enabling Line-rate and Flexible Network Stack with SmartNIC","url":""}
+{"author":"","bib":"","title":"Reducing the GPU Memory Bottleneck with Lossless Compression for ML","url":""}
+{"author":"","bib":"","title":"Once Rolling Hashing is Enough: Exploiting Rolling Hash Reuse in Delta Compression","url":""}
+{"author":"","bib":"","title":"Ethane: Debloating State Data using Compact Trie for Account-based Blockchain","url":""}
+{"author":"","bib":"","title":"Accurate and Ultra-Fast Launch-Time Validation of Idempotency for GPU Kernels","url":""}
+{"author":"","bib":"","title":"Scheduling Cloud Block Storage Proactively and Reactively with Omar","url":""}
+{"author":"","bib":"","title":"Scalable RDMA-accelerated Distributed Locks with Shared Stream Abstraction","url":""}
+{"author":"","bib":"","title":"TCO-driven Storage Provisioning for Exascale Data Centers","url":""}
+{"author":"","bib":"","title":"No More Translation at Runtime: LLM-Empowered Static Binary Translation","url":""}
+{"author":"","bib":"","title":"OptiLog: Assigning Roles in Byzantine Consensus","url":""}
+{"author":"","bib":"","title":"FicusDB: Scalable Multi-Versioned Authenticated Archival Storage","url":""}
+{"author":"","bib":"","title":"FUR: Fast and Unlimited Reads on Persistent Memory Transactions","url":""}
+{"author":"","bib":"","title":"Rearchitecting Programmable Networks For In-Network Computing: From Hardware To Language","url":""}
+{"author":"","bib":"","title":"AdaGen: Workload-Adaptive Cluster Scheduler for Latency-Optimal LLM Inference Serving","url":""}
+{"author":"","bib":"","title":"AEP: Achieving Hierarchical Fault Tolerance in DSM Through Atomic Execution Protection","url":""}
+{"author":"","bib":"","title":"TailorLLM: Collaborative End-Cloud Inference of Large and Small Language Models Based on Low-Rank Adaptation","url":""}
+{"author":"","bib":"","title":"HARP: Orchestrating Automated Parallel Training on Heterogeneous GPU Clusters","url":""}
+{"author":"","bib":"","title":"swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture","url":""}
+{"author":"","bib":"","title":"SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning","url":""}
+{"author":"","bib":"","title":"NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines","url":""}
+{"author":"","bib":"","title":"Crimson: Collaborative Parameter Updates for Efficient Pipeline Training of Large Language Models","url":""}
+{"author":"","bib":"","title":"KUNSERVE: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving","url":""}
+{"author":"","bib":"","title":"SwitchFS: Asynchronous Metadata Updates for Distributed Filesystems with In-Network Coordination","url":""}
+{"author":"","bib":"","title":"DROPS: Managing Serverless Resource Pools in Microsoft Azure Functions","url":""}
+{"author":"","bib":"","title":"FlexiQ: Adaptive Mixed-Precision Quantization for Latency/Accuracy Trade-Offs in Deep Neural Networks","url":""}
+{"author":"","bib":"","title":"Five Minutes of DDoS Brings down Tor: DDoS Attacks on the Tor Directory Protocol and Mitigations","url":""}
+{"author":"","bib":"","title":"Turnstile: Hybrid Information Flow Control Framework for Managing Privacy in Internet-of-Things Applications","url":""}
+{"author":"","bib":"","title":"SkyWalker: A Locality-Aware Cross-Region Load Balancer for LLM Inference","url":""}
+{"author":"","bib":"","title":"PASS: A Power Adaptive Storage Server","url":""}
+{"author":"","bib":"","title":"A Logically Disaggregated Cache for Replicated Storage Systems","url":""}
+{"author":"","bib":"","title":"Everything You Need to Know About Virtual Machine Live Migration Between Heterogeneous Processors","url":""}
+{"author":"","bib":"","title":"Million-Scale Text-to-Video Retrieval with Hyperdimensional Computing","url":""}
+{"author":"","bib":"","title":"MFS: An Efficient Model Family Serving System for LLMs","url":""}
+{"author":"","bib":"","title":"LightDSA: Enabling Efficient DSA Through Hardware-Aware Transparent Optimization","url":""}
+{"author":"","bib":"","title":"Squeezy: Rapid VM Memory Reclamation for Serverless Functions","url":""}
+{"author":"","bib":"","title":"PointShuffler: Accelerating Point Cloud Neural Networks on General-Purpose GPUs","url":""}
+{"author":"","bib":"","title":"FlexiWalker: Extensible GPU Framework for Efficient Dynamic Random Walks with Runtime Adaptation","url":""}
+{"author":"","bib":"","title":"TAO: Tolerance-Aware Optimistic Verification for Floating-Point Neural Networks","url":""}
+{"author":"","bib":"","title":"PaCaR: Improved Buffered I/O Locality on NUMA Systems with Page Cache Replication","url":""}
+{"author":"","bib":"","title":"Efficient ML Model Updates for Deeply Embedded Microcontrollers","url":""}
+{"author":"","bib":"","title":"Proactive Change Risk Detection in Production Cloud Systems: ByteDance's Experience","url":""}
+{"author":"","bib":"","title":"Avicenna: Masking Slowdowns in Replicated State Machines with Counterfactual Evaluation","url":""}
+{"author":"","bib":"","title":"RLive: Robust Delivery System for Scaling Live Streaming Services","url":""}
+{"author":"","bib":"","title":"Yield Not Thy Core","url":""}
+{"author":"","bib":"","title":"Carbon-Aware Continuous Learning for Sustainable Real-Time Machine Learning Analytics","url":""}
+{"author":"","bib":"","title":"Canopy: Property-Driven Learning for Congestion Control","url":""}
+{"author":"","bib":"","title":"Towards Improving Throughput and Scalability of DAG-based BFT SMR","url":""}
+{"author":"","bib":"","title":"Prediction-Informed Power Management for General-Purpose Compute Servers","url":""}
+{"author":"","bib":"","title":"SAS: Sparse Attention Synthesizer for Efficient Language Model Inference","url":""}
+{"author":"","bib":"","title":"Gopher: Efficient Dynamic Graph Pattern Mining via DAG-Driven Execution","url":""}
+{"author":"","bib":"","title":"Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation","url":""}
+{"author":"","bib":"","title":"NutCracker: A Compilation Framework for Hybrid DPU Architectures","url":""}
+{"author":"","bib":"","title":"Serverless Replication of Object Storage across Multi-Vendor Clouds and Regions","url":""}
+{"author":"","bib":"","title":"Fast and Parallelized Crash Consistency with Opportunistic Order Elimination","url":""}
+{"author":"","bib":"","title":"viNPU: Optimizing Vision Transformer Inference on Mobile NPUs","url":""}
+{"author":"","bib":"","title":"RoPeerTo: A Datacenter-Scale Architecture for Peer-To-Peer DMA between GPUs and FPGAs","url":""}
+{"author":"","bib":"","title":"Accelerating Transactional Execution via Processing-In-Memory","url":""}
+{"author":"","bib":"","title":"AIMS: Cost-Efficient LLM-Based Agent Deployment in Hybrid Cloud-Edge Environments","url":""}
+{"author":"","bib":"","title":"Zeppelin: Balancing Variable-length Workloads in Data Parallel Large Model Training","url":""}
+{"author":"","bib":"","title":"Efficient and Adaptable Overlapping for Computation and Communication via Signaling and Reordering","url":""}
+{"author":"","bib":"","title":"MTTM: Dynamic Fast Memory Partitioning with Bandwidth Optimization for Multi-tenant Cloud","url":""}
+{"author":"","bib":"","title":"BASK: Batch And SmartNIC-offloaded KSM","url":""}
+{"author":"","bib":"","title":"CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations","url":""}
+{"author":"","bib":"","title":"Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling","url":""}
+{"author":"","bib":"","title":"E-Cube: Event Enhanced Efficient Video Streaming for Drones","url":""}
+{"author":"","bib":"","title":"Suika: Efficient and High-quality Re-scheduling of 3D-parallelized LLM Training Jobs in Shared Clusters","url":""}
+{"author":"","bib":"","title":"LifeFuzz: Lifecycle-Guided Fuzzing for Windows Driver Cross-Handler Vulnerabilities","url":""}
+{"author":"","bib":"","title":"MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing","url":""}
+{"author":"","bib":"","title":"In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies","url":""}
+{"author":"","bib":"","title":"Matrix‑PIC: Harnessing Matrix Outer-product for High‑Performance Particle‑in‑Cell Simulations","url":""}
+{"author":"","bib":"","title":"Rose: Reproducing External-Fault-Induced Failures in Distributed Systems with Lightweight Instrumentation","url":""}
+{"author":"","bib":"","title":"FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling","url":""}
+{"author":"","bib":"","title":"Neuro-C: Neural Inference Shaped by Hardware Limits","url":""}
+{"author":"","bib":"","title":"Practical and Scalable RDMA Connection Sharing for HPC Workload","url":""}
+{"author":"","bib":"","title":"Scaling LLM Test-Time Compute with Mobile NPU on Smartphones","url":""}
+{"author":"","bib":"","title":"Garen: Reliable Cluster Management with Atomic State Reconciliation","url":""}
+{"author":"","bib":"","title":"ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights","url":""}
+{"author":"","bib":"","title":"ECCB: Boosting Block Propagation of Blockchain with Erasure-Coded Compact Block","url":""}
+{"author":"","bib":"","title":"Lessons Learned from Incorporating Formal Methods in Huawei Cloud Reliability","url":""}
+{"author":"","bib":"","title":"Not A DPU in Name Only! Unleashing RDMA-capable DPUs in Multi-Tenant Serverless Clouds with NADINO","url":""}
+{"author":"","bib":"","title":"Fix: externalizing network I/O in serverless computing","url":""}
+{"author":"","bib":"","title":"ColdCode: Cold Data Encoding for Enhanced Reliability and Lifetime in 3D NAND Flash","url":""}
+{"author":"","bib":"","title":"Efficient Multimodal Serving via Module Multiplexing","url":""}
+{"author":"","bib":"","title":"CHARM: Chiplet Heterogeneity-Aware Runtime Mapping System","url":""}
+{"author":"","bib":"","title":"2DIO: Configurable and Cache-Accurate Trace Generation for Storage Benchmarking","url":""}
+{"author":"","bib":"","title":"Automated End-to-End Model Serving with Cooperative Compilation and Scheduling","url":""}
+{"author":"","bib":"","title":"PiLLM: Resource-Efficient LLM Inference Using Workload Prediction","url":""}

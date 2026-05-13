@@ -1,0 +1,88 @@
+{"author":"","bib":"","title":"PLDI '21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021","url":""}
+{"author":"","bib":"","title":"Incremental whole-program analysis in Datalog with lattices","url":""}
+{"author":"","bib":"","title":"Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8","url":""}
+{"author":"","bib":"","title":"Repairing serializability bugs in distributed database programs via automated schema refactoring","url":""}
+{"author":"","bib":"","title":"Gleipnir: toward practical error analysis for Quantum programs","url":""}
+{"author":"","bib":"","title":"Alive2: bounded translation validation for LLVM","url":""}
+{"author":"","bib":"","title":"Transfinite Iris: resolving an existential dilemma of step-indexed separation logic","url":""}
+{"author":"","bib":"","title":"Perceus: garbage free reference counting with reuse","url":""}
+{"author":"","bib":"","title":"Proof repair across type equivalences","url":""}
+{"author":"","bib":"","title":"Compiler-assisted object inlining with value fields","url":""}
+{"author":"","bib":"","title":"Unleashing the hidden power of compiler optimization on binary code difference: an empirical study","url":""}
+{"author":"","bib":"","title":"RefinedC: automating the foundational verification of C code with refined ownership types","url":""}
+{"author":"","bib":"","title":"Wire sorts: a language abstraction for safe hardware composition","url":""}
+{"author":"","bib":"","title":"DeepCuts: a deep learning optimization framework for versatile GPU workloads","url":""}
+{"author":"","bib":"","title":"Retrofitting effect handlers onto OCaml","url":""}
+{"author":"","bib":"","title":"Unqomp: synthesizing uncomputation in Quantum circuits","url":""}
+{"author":"","bib":"","title":"Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes","url":""}
+{"author":"","bib":"","title":"Fluid: a framework for approximate concurrency via controlled dependency relaxation","url":""}
+{"author":"","bib":"","title":"Developer and user-transparent compiler optimization for interactive applications","url":""}
+{"author":"","bib":"","title":"Demanded abstract interpretation","url":""}
+{"author":"","bib":"","title":"Learning to find naming issues with big code and small supervision","url":""}
+{"author":"","bib":"","title":"DIY assistant: a multi-modal end-user programmable virtual assistant","url":""}
+{"author":"","bib":"","title":"Web question answering with neurosymbolic program synthesis","url":""}
+{"author":"","bib":"","title":"RbSyn: type- and effect-guided program synthesis","url":""}
+{"author":"","bib":"","title":"High performance correctly rounded math libraries for 32-bit floating point representations","url":""}
+{"author":"","bib":"","title":"Porcupine: a synthesizing compiler for vectorized homomorphic encryption","url":""}
+{"author":"","bib":"","title":"Concolic program repair","url":""}
+{"author":"","bib":"","title":"Concise, type-safe, and efficient structural diffing","url":""}
+{"author":"","bib":"","title":"CoStar: a verified ALL(*) parser","url":""}
+{"author":"","bib":"","title":"Automated conformance testing for JavaScript engines via deep compiler fuzzing","url":""}
+{"author":"","bib":"","title":"Beyond the elementary representations of program invariants over algebraic data types","url":""}
+{"author":"","bib":"","title":"Fast and precise certification of transformers","url":""}
+{"author":"","bib":"","title":"Trace-based control-flow analysis","url":""}
+{"author":"","bib":"","title":"Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming","url":""}
+{"author":"","bib":"","title":"Filling typed holes with live GUIs","url":""}
+{"author":"","bib":"","title":"Concurrent deferred reference counting with constant-time overhead","url":""}
+{"author":"","bib":"","title":"Quantum abstract interpretation","url":""}
+{"author":"","bib":"","title":"Central moment analysis for cost accumulators in probabilistic programs","url":""}
+{"author":"","bib":"","title":"Synthesizing data structure refinements from integrity constraints","url":""}
+{"author":"","bib":"","title":"Provable repair of deep neural networks","url":""}
+{"author":"","bib":"","title":"Integration verification across software and hardware for a simple embedded system","url":""}
+{"author":"","bib":"","title":"Symbolic Boolean derivatives for efficiently solving extended regular expression constraints","url":""}
+{"author":"","bib":"","title":"Abstraction for conflict-free replicated data types","url":""}
+{"author":"","bib":"","title":"Boosting SMT solver performance on mixed-bitwise-arithmetic expressions","url":""}
+{"author":"","bib":"","title":"Distance-in-time versus distance-in-space","url":""}
+{"author":"","bib":"","title":"An efficient interpreter for Datalog by de-specializing relations","url":""}
+{"author":"","bib":"","title":"Adaptive restarts for stochastic synthesis","url":""}
+{"author":"","bib":"","title":"Scooter & Sidecar: a domain-specific approach to writing secure database migrations","url":""}
+{"author":"","bib":"","title":"When threads meet events: efficient and precise static race detection with origins","url":""}
+{"author":"","bib":"","title":"Viaduct: an extensible, optimizing compiler for secure distributed programs","url":""}
+{"author":"","bib":"","title":"Reticle: a virtual machine for programming modern FPGAs","url":""}
+{"author":"","bib":"","title":"Polynomial reachability witnesses via Stellensätze","url":""}
+{"author":"","bib":"","title":"Sound probabilistic inference via guide types","url":""}
+{"author":"","bib":"","title":"SPPL: probabilistic programming with fast exact symbolic inference","url":""}
+{"author":"","bib":"","title":"Reverse engineering for reduction parallelization via semiring polynomials","url":""}
+{"author":"","bib":"","title":"DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning","url":""}
+{"author":"","bib":"","title":"Automatically enforcing fresh and consistent inputs in intermittent systems","url":""}
+{"author":"","bib":"","title":"Modular data-race-freedom guarantees in the promising semantics","url":""}
+{"author":"","bib":"","title":"DNNFusion: accelerating deep neural networks execution with advanced operator fusion","url":""}
+{"author":"","bib":"","title":"SyRust: automatic testing of Rust libraries with semantic-aware program synthesis","url":""}
+{"author":"","bib":"","title":"Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code","url":""}
+{"author":"","bib":"","title":"Path-sensitive sparse analysis without path conditions","url":""}
+{"author":"","bib":"","title":"Cyclic program synthesis","url":""}
+{"author":"","bib":"","title":"Hashing modulo alpha-equivalence","url":""}
+{"author":"","bib":"","title":"Phased synthesis of divide and conquer programs","url":""}
+{"author":"","bib":"","title":"Snapshot-free, transparent, and robust memory reclamation for lock-free data structures","url":""}
+{"author":"","bib":"","title":"Logical bytecode reduction","url":""}
+{"author":"","bib":"","title":"Test-case reduction and deduplication almost for free with transformation-based compiler testing","url":""}
+{"author":"","bib":"","title":"Proving non-termination by program reversal","url":""}
+{"author":"","bib":"","title":"Vectorized secure evaluation of decision forests","url":""}
+{"author":"","bib":"","title":"Task parallel assembly language for uncompromising parallelism","url":""}
+{"author":"","bib":"","title":"JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace","url":""}
+{"author":"","bib":"","title":"CompCertO: compiling certified open C components","url":""}
+{"author":"","bib":"","title":"Example-guided synthesis of relational queries","url":""}
+{"author":"","bib":"","title":"Canary: practical static detection of inter-thread value-flow bugs","url":""}
+{"author":"","bib":"","title":"Robustness certification with generative models","url":""}
+{"author":"","bib":"","title":"Execution reconstruction: harnessing failure reoccurrences for failure reproduction","url":""}
+{"author":"","bib":"","title":"Quantitative analysis of assertion violations in probabilistic programs","url":""}
+{"author":"","bib":"","title":"IOOpt: automatic derivation of I/O complexity bounds for affine programs","url":""}
+{"author":"","bib":"","title":"Specification synthesis with constrained Horn clauses","url":""}
+{"author":"","bib":"","title":"Mirror: making lock-free data structures persistent","url":""}
+{"author":"","bib":"","title":"AKG: automatic kernel generation for neural processing units using polyhedral transformations","url":""}
+{"author":"","bib":"","title":"Frequent background polling on a shared thread, using light-weight compiler interrupts","url":""}
+{"author":"","bib":"","title":"Satisfiability modulo ordering consistency theory for multi-threaded program verification","url":""}
+{"author":"","bib":"","title":"Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models","url":""}
+{"author":"","bib":"","title":"Termination analysis without the tears","url":""}
+{"author":"","bib":"","title":"On probabilistic termination of functional programs with continuous distributions","url":""}
+{"author":"","bib":"","title":"Practical smart contract sharding with ownership and commutativity analysis","url":""}

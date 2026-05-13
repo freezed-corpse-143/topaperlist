@@ -1,0 +1,70 @@
+{"author":"","bib":"","title":"IEEE International Symposium on High-Performance Computer Architecture, HPCA 2021, Seoul, South Korea, February 27 - March 3, 2021","url":""}
+{"author":"","bib":"","title":"Common Counters: Compressed Encryption Counters for Secure GPU Memory","url":""}
+{"author":"","bib":"","title":"Streamline Ring ORAM Accesses through Spatial and Temporal Optimization","url":""}
+{"author":"","bib":"","title":"Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference","url":""}
+{"author":"","bib":"","title":"New Models for Understanding and Reasoning about Speculative Execution Attacks","url":""}
+{"author":"","bib":"","title":"A Computational Stack for Cross-Domain Acceleration","url":""}
+{"author":"","bib":"","title":"Heterogeneous Dataflow Accelerators for Multi-DNN Workloads","url":""}
+{"author":"","bib":"","title":"SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs","url":""}
+{"author":"","bib":"","title":"SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning","url":""}
+{"author":"","bib":"","title":"BBB: Simplifying Persistent Programming using Battery-Backed Buffers","url":""}
+{"author":"","bib":"","title":"TSOPER: Efficient Coherence-Based Strict Persistency","url":""}
+{"author":"","bib":"","title":"Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems","url":""}
+{"author":"","bib":"","title":"TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture","url":""}
+{"author":"","bib":"","title":"QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment","url":""}
+{"author":"","bib":"","title":"Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion","url":""}
+{"author":"","bib":"","title":"Faster Schrödinger-style simulation of quantum circuits","url":""}
+{"author":"","bib":"","title":"Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework","url":""}
+{"author":"","bib":"","title":"Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures","url":""}
+{"author":"","bib":"","title":"Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training","url":""}
+{"author":"","bib":"","title":"GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent","url":""}
+{"author":"","bib":"","title":"SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures","url":""}
+{"author":"","bib":"","title":"Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation","url":""}
+{"author":"","bib":"","title":"Designing a Cost-Effective Cache Replacement Policy using Machine Learning","url":""}
+{"author":"","bib":"","title":"WiDir: A Wireless-Enabled Directory Cache Coherence Protocol","url":""}
+{"author":"","bib":"","title":"Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers","url":""}
+{"author":"","bib":"","title":"Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery","url":""}
+{"author":"","bib":"","title":"BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows","url":""}
+{"author":"","bib":"","title":"A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories","url":""}
+{"author":"","bib":"","title":"DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing","url":""}
+{"author":"","bib":"","title":"QEI: Query Acceleration Can be Generic and Efficient in the Cloud","url":""}
+{"author":"","bib":"","title":"EXMA: A Genomics Accelerator for Exact-Matching","url":""}
+{"author":"","bib":"","title":"Ultra-Elastic CGRAs for Irregular Loop Specialization","url":""}
+{"author":"","bib":"","title":"GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs","url":""}
+{"author":"","bib":"","title":"Memristive Data Ranking","url":""}
+{"author":"","bib":"","title":"DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems","url":""}
+{"author":"","bib":"","title":"Analyzing and Leveraging Decoupled L1 Caches in GPUs","url":""}
+{"author":"","bib":"","title":"Deadline-Aware Offloading for High-Throughput Accelerators","url":""}
+{"author":"","bib":"","title":"Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference","url":""}
+{"author":"","bib":"","title":"Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together","url":""}
+{"author":"","bib":"","title":"ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance","url":""}
+{"author":"","bib":"","title":"CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers","url":""}
+{"author":"","bib":"","title":"Automatic Microprocessor Performance Bug Detection","url":""}
+{"author":"","bib":"","title":"CAPE: A Content-Addressable Processing Engine","url":""}
+{"author":"","bib":"","title":"SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator","url":""}
+{"author":"","bib":"","title":"Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling","url":""}
+{"author":"","bib":"","title":"Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning","url":""}
+{"author":"","bib":"","title":"CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters","url":""}
+{"author":"","bib":"","title":"Improving GPU Multi-tenancy with Page Walk Stealing","url":""}
+{"author":"","bib":"","title":"Stream Floating: Enabling Proactive and Decentralized Cache Optimizations","url":""}
+{"author":"","bib":"","title":"Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design","url":""}
+{"author":"","bib":"","title":"P-OPT: Practical Optimal Cache Replacement for Graph Analytics","url":""}
+{"author":"","bib":"","title":"Pitstop: Enabling a Virtual Network Free Network-on-Chip","url":""}
+{"author":"","bib":"","title":"BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks","url":""}
+{"author":"","bib":"","title":"CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition","url":""}
+{"author":"","bib":"","title":"Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures","url":""}
+{"author":"","bib":"","title":"Hardware-Based Address-Centric Acceleration of Key-Value Store","url":""}
+{"author":"","bib":"","title":"BRIM: Bistable Resistively-Coupled Ising Machine","url":""}
+{"author":"","bib":"","title":"An Analog Preconditioner for Solving Linear Systems","url":""}
+{"author":"","bib":"","title":"GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks","url":""}
+{"author":"","bib":"","title":"Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper","url":""}
+{"author":"","bib":"","title":"Understanding Training Efficiency of Deep Learning Recommendation Models at Scale","url":""}
+{"author":"","bib":"","title":"LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management","url":""}
+{"author":"","bib":"","title":"Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper","url":""}
+{"author":"","bib":"","title":"NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper","url":""}
+{"author":"","bib":"","title":"Chasing Carbon: The Elusive Environmental Footprint of Computing","url":""}
+{"author":"","bib":"","title":"Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator","url":""}
+{"author":"","bib":"","title":"Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures","url":""}
+{"author":"","bib":"","title":"FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks","url":""}
+{"author":"","bib":"","title":"FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction","url":""}
+{"author":"","bib":"","title":"VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations","url":""}

@@ -1,6 +1,18 @@
 # Changelog
 
-## Unreleased
+## v2.0.0-dev (Unreleased)
+
+- **架构重构**: Rust 项目封装到 `search/` 子目录，代码对用户透明。
+- **数据目录重命名**: `Paper/` → `PAPERS/`。
+- **JSONL 支持**: 每个 `<year>.txt` 对应 `<year>.jsonl`，元数据结构为 `{"title","author","bib","url"}`。
+- **读查分离**: `search build-db` 读取 JSONL 构建 SQLite 数据库；`search query` 从数据库查询。
+- **SQL 扩展层**: `sql/` 目录包含模块化过滤器（标题/等级/会议/年份的包含/排除），通过嵌套子查询管道组合。
+- **动态字段检测**: 从 JSONL 首行自动检测字段结构，无需硬编码。
+- **环境变量配置**: `PAPERS_DIR` 和 `PAPERS_DB_PATH` 取代硬编码路径；`RUST_LOG=debug` 启用调试日志。
+- **用户友好错误提示**: 目录缺失、结构不符、格式错误等提供明确中文错误信息。
+- **测试覆盖**: 34 个集成测试，覆盖所有过滤器、大小写、子串匹配、管道组合等场景。
+
+## v1.0.0-dev
 
 - Promote the Rust CLI to a root-level Cargo project.
 - Build the `search` binary from source instead of committing prebuilt binaries.

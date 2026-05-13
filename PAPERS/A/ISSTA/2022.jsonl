@@ -1,0 +1,73 @@
+{"author":"","bib":"","title":"ISSTA '22: 31st ACM SIGSOFT International Symposium on Software Testing and Analysis, Virtual Event, South Korea, July 18 - 22, 2022","url":""}
+{"author":"","bib":"","title":"jTrans: jump-aware transformer for binary code similarity detection","url":""}
+{"author":"","bib":"","title":"FDG: a precise measurement of fault diagnosability gain of test cases","url":""}
+{"author":"","bib":"","title":"TeLL: log level suggestions via modeling multi-level code block information","url":""}
+{"author":"","bib":"","title":"An extensive study on pre-trained models for program understanding and generation","url":""}
+{"author":"","bib":"","title":"Metamorphic relations via relaxations: an approach to obtain oracles for action-policy testing","url":""}
+{"author":"","bib":"","title":"Hunting bugs with accelerated optimal graph vertex matching","url":""}
+{"author":"","bib":"","title":"Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)","url":""}
+{"author":"","bib":"","title":"Combining solution reuse and bound tightening for efficient analysis of evolving systems","url":""}
+{"author":"","bib":"","title":"On the use of evaluation measures for defect prediction studies","url":""}
+{"author":"","bib":"","title":"Evolution-aware detection of order-dependent flaky tests","url":""}
+{"author":"","bib":"","title":"ε-weakened robustness of deep neural networks","url":""}
+{"author":"","bib":"","title":"Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study)","url":""}
+{"author":"","bib":"","title":"Improving cross-platform binary analysis using representation learning via graph alignment","url":""}
+{"author":"","bib":"","title":"BET: black-box efficient testing for convolutional neural networks","url":""}
+{"author":"","bib":"","title":"DocTer: documentation-guided fuzzing for testing deep learning API functions","url":""}
+{"author":"","bib":"","title":"ASRTest: automated testing for deep-neural-network-driven speech recognition systems","url":""}
+{"author":"","bib":"","title":"AEON: a method for automatic evaluation of NLP test cases","url":""}
+{"author":"","bib":"","title":"Human-in-the-loop oracle learning for semantic bugs in string processing programs","url":""}
+{"author":"","bib":"","title":"HybridRepair: towards annotation-efficient repair for deep learning models","url":""}
+{"author":"","bib":"","title":"Cross-lingual transfer learning for statistical type inference","url":""}
+{"author":"","bib":"","title":"Unicorn: detect runtime errors in time-series databases with hybrid input synthesis","url":""}
+{"author":"","bib":"","title":"On the use of mutation analysis for evaluating student test suite quality","url":""}
+{"author":"","bib":"","title":"Test mimicry to assess the exploitability of library vulnerabilities","url":""}
+{"author":"","bib":"","title":"Automated test generation for REST APIs: no time to rest yet","url":""}
+{"author":"","bib":"","title":"Finding bugs in Gremlin-based graph database systems via Randomized differential testing","url":""}
+{"author":"","bib":"","title":"RegMiner: towards constructing a large regression dataset from code evolution history","url":""}
+{"author":"","bib":"","title":"One step further: evaluating interpreters using metamorphic testing","url":""}
+{"author":"","bib":"","title":"SnapFuzz: high-throughput fuzzing of network applications","url":""}
+{"author":"","bib":"","title":"Almost correct invariants: synthesizing inductive invariants by fuzzing proofs","url":""}
+{"author":"","bib":"","title":"SLIME: program-sensitive energy allocation for fuzzing","url":""}
+{"author":"","bib":"","title":"MDPFuzz: testing models solving Markov decision processes","url":""}
+{"author":"","bib":"","title":"TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving","url":""}
+{"author":"","bib":"","title":"PrIntFuzz: fuzzing Linux drivers via automated virtual device simulation","url":""}
+{"author":"","bib":"","title":"Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation","url":""}
+{"author":"","bib":"","title":"Understanding device integration bugs in smart home system","url":""}
+{"author":"","bib":"","title":"A large-scale empirical analysis of the vulnerabilities introduced by third-party components in IoT firmware","url":""}
+{"author":"","bib":"","title":"Deadlock prediction via generalized dependency","url":""}
+{"author":"","bib":"","title":"Automated testing of image captioning systems","url":""}
+{"author":"","bib":"","title":"LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems","url":""}
+{"author":"","bib":"","title":"Detecting multi-sensor fusion errors in advanced driver-assistance systems","url":""}
+{"author":"","bib":"","title":"Precise and efficient atomicity violation detection for interrupt-driven programs via staged path pruning","url":""}
+{"author":"","bib":"","title":"Path-sensitive code embedding via contrastive learning for software vulnerability detection","url":""}
+{"author":"","bib":"","title":"A large-scale study of usability criteria addressed by static analysis tools","url":""}
+{"author":"","bib":"","title":"An empirical study on the effectiveness of static C code analyzers for vulnerability detection","url":""}
+{"author":"","bib":"","title":"Testing Dafny (experience paper)","url":""}
+{"author":"","bib":"","title":"Combining static analysis error traces with dynamic symbolic execution (experience paper)","url":""}
+{"author":"","bib":"","title":"The raise of machine learning hyperparameter constraints in Python code","url":""}
+{"author":"","bib":"","title":"PermDroid: automatically testing permission-related behaviour of Android applications","url":""}
+{"author":"","bib":"","title":"Detecting and fixing data loss issues in Android apps","url":""}
+{"author":"","bib":"","title":"Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study)","url":""}
+{"author":"","bib":"","title":"NCScope: hardware-assisted analyzer for native code in Android apps","url":""}
+{"author":"","bib":"","title":"Detecting resource utilization bugs induced by variant lifecycles in Android","url":""}
+{"author":"","bib":"","title":"Patch correctness assessment in automated program repair based on the impact of patches on production and test code","url":""}
+{"author":"","bib":"","title":"ATR: template-based repair for Alloy specifications","url":""}
+{"author":"","bib":"","title":"CIRCLE: continual repair across programming languages","url":""}
+{"author":"","bib":"","title":"Program vulnerability repair via inductive inference","url":""}
+{"author":"","bib":"","title":"WASAI: uncovering vulnerabilities in Wasm smart contracts","url":""}
+{"author":"","bib":"","title":"Finding permission bugs in smart contracts with role mining","url":""}
+{"author":"","bib":"","title":"eTainter: detecting gas-related vulnerabilities in smart contracts","url":""}
+{"author":"","bib":"","title":"Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution","url":""}
+{"author":"","bib":"","title":"SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability","url":""}
+{"author":"","bib":"","title":"ATUA: an update-driven app testing tool","url":""}
+{"author":"","bib":"","title":"Automatic generation of smoke test suites for kubernetes","url":""}
+{"author":"","bib":"","title":"ESBMC-CHERI: towards verification of C programs for CHERI platforms with ESBMC","url":""}
+{"author":"","bib":"","title":"ESBMC-Jimple: verifying Kotlin programs via jimple intermediate representation","url":""}
+{"author":"","bib":"","title":"Faster mutation analysis with MeMu","url":""}
+{"author":"","bib":"","title":"iFixDataloss: a tool for detecting and fixing data loss issues in Android apps","url":""}
+{"author":"","bib":"","title":"Maestro: a platform for benchmarking automatic program repair tools on software vulnerabilities","url":""}
+{"author":"","bib":"","title":"Pytest-Smell: a smell detection tool for Python unit tests","url":""}
+{"author":"","bib":"","title":"QMutPy: a mutation testing tool for Quantum algorithms and applications in Qiskit","url":""}
+{"author":"","bib":"","title":"SpecChecker-ISA: a data sharing analyzer for interrupt-driven embedded software","url":""}
+{"author":"","bib":"","title":"UniRLTest: universal platform-independent testing with reinforcement learning via image understanding","url":""}

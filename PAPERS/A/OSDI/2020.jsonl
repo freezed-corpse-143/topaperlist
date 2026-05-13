@@ -1,0 +1,70 @@
+{"author":"","bib":"","title":"Theseus: an Experiment in Operating System Structure and State Management.","url":""}
+{"author":"","bib":"","title":"RedLeaf: Isolation and Communication in a Safe Operating System.","url":""}
+{"author":"","bib":"","title":"Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel.","url":""}
+{"author":"","bib":"","title":"Cobra: Making Transactional Key-Value Stores Verifiably Serializable.","url":""}
+{"author":"","bib":"","title":"Determinizing Crash Behavior with a Verified Snapshot-Consistent Flash Translation Layer.","url":""}
+{"author":"","bib":"","title":"Storage Systems are Distributed Systems (So Verify Them That Way!).","url":""}
+{"author":"","bib":"","title":"Fast RDMA-based Ordered Key-Value Store using Remote Learned Cache.","url":""}
+{"author":"","bib":"","title":"CrossFS: A Cross-layered Direct-Access File System.","url":""}
+{"author":"","bib":"","title":"From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees.","url":""}
+{"author":"","bib":"","title":"LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network.","url":""}
+{"author":"","bib":"","title":"A large scale analysis of hundreds of in-memory cache clusters at Twitter.","url":""}
+{"author":"","bib":"","title":"Generalized Sub-Query Fusion for Eliminating Redundant I/O from Big-Data Queries.","url":""}
+{"author":"","bib":"","title":"A Simpler and Faster NIC Driver Model for Network Functions.","url":""}
+{"author":"","bib":"","title":"PANIC: A High-Performance Programmable NIC for Multi-tenant Networks.","url":""}
+{"author":"","bib":"","title":"Semeru: A Memory-Disaggregated Managed Runtime.","url":""}
+{"author":"","bib":"","title":"Caladan: Mitigating Interference at Microsecond Timescales.","url":""}
+{"author":"","bib":"","title":"Overload Control for µs-scale RPCs with Breakwater.","url":""}
+{"author":"","bib":"","title":"AIFM: High-Performance, Application-Integrated Far Memory.","url":""}
+{"author":"","bib":"","title":"Performance-Optimal Read-Only Transactions.","url":""}
+{"author":"","bib":"","title":"Toward a Generic Fault Tolerance Technique for Partial Network Partitioning.","url":""}
+{"author":"","bib":"","title":"PACEMAKER: Avoiding HeART attacks in storage clusters with disk-adaptive redundancy.","url":""}
+{"author":"","bib":"","title":"Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories.","url":""}
+{"author":"","bib":"","title":"FlightTracker: Consistency across Read-Optimized Online Stores at Facebook.","url":""}
+{"author":"","bib":"","title":"Kvell+: Snapshot Isolation without Snapshots.","url":""}
+{"author":"","bib":"","title":"Serving DNNs like Clockwork: Performance Predictability from the Bottom Up.","url":""}
+{"author":"","bib":"","title":"A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters.","url":""}
+{"author":"","bib":"","title":"Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads.","url":""}
+{"author":"","bib":"","title":"PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications.","url":""}
+{"author":"","bib":"","title":"HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees.","url":""}
+{"author":"","bib":"","title":"AntMan: Dynamic Scaling on GPU Clusters for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Write Dependency Disentanglement with HORAE.","url":""}
+{"author":"","bib":"","title":"Blockene: A High-throughput Blockchain Over Mobile Devices.","url":""}
+{"author":"","bib":"","title":"Tolerating Slowdowns in Replicated State Machines using Copilots.","url":""}
+{"author":"","bib":"","title":"Microsecond Consensus for Microsecond Applications.","url":""}
+{"author":"","bib":"","title":"Virtual Consensus in Delos.","url":""}
+{"author":"","bib":"","title":"Byzantine Ordered Consensus without Byzantine Oligarchy.","url":""}
+{"author":"","bib":"","title":"From Global to Local Quiescence: Wait-Free Code Patching of Multi-Threaded Processes.","url":""}
+{"author":"","bib":"","title":"Testing Database Engines via Pivoted Query Synthesis.","url":""}
+{"author":"","bib":"","title":"Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing.","url":""}
+{"author":"","bib":"","title":"Aragog: Scalable Runtime Verification of Shardable Networked Systems.","url":""}
+{"author":"","bib":"","title":"Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution.","url":""}
+{"author":"","bib":"","title":"Testing Configuration Changes in Context to Prevent Production Failures.","url":""}
+{"author":"","bib":"","title":"Providing SLOs for Resource-Harvesting VMs in Cloud Platforms.","url":""}
+{"author":"","bib":"","title":"The CacheLib Caching Engine: Design and Experiences at Scale.","url":""}
+{"author":"","bib":"","title":"Twine: A Unified Cluster Management System for Shared Infrastructure.","url":""}
+{"author":"","bib":"","title":"FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices.","url":""}
+{"author":"","bib":"","title":"Building Scalable and Flexible Cluster Managers Using Declarative Programming.","url":""}
+{"author":"","bib":"","title":"Protean: VM Allocation Service at Scale.","url":""}
+{"author":"","bib":"","title":"Ansor: Generating High-Performance Tensor Programs for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks.","url":""}
+{"author":"","bib":"","title":"A Tensor Compiler for Unified Machine Learning Prediction Serving.","url":""}
+{"author":"","bib":"","title":"Retiarii: A Deep Learning Exploratory-Training Framework.","url":""}
+{"author":"","bib":"","title":"KungFu: Making Training in Distributed Machine Learning Adaptive.","url":""}
+{"author":"","bib":"","title":"FVM: FPGA-assisted Virtual Device Emulation for Fast, Scalable, and Flexible Storage Virtualization.","url":""}
+{"author":"","bib":"","title":"hXDP: Efficient Software Packet Processing on FPGA NICs.","url":""}
+{"author":"","bib":"","title":"Do OS abstractions make sense on FPGAs?","url":""}
+{"author":"","bib":"","title":"Assise: Performance and Availability via Client-local NVM in a Distributed File System.","url":""}
+{"author":"","bib":"","title":"Persistent State Machines for Recoverable In-memory Storage Systems with NVRam.","url":""}
+{"author":"","bib":"","title":"AGAMOTTO: How Persistent is your Persistent Memory Application?","url":""}
+{"author":"","bib":"","title":"Orchard: Differentially Private Analytics at Scale.","url":""}
+{"author":"","bib":"","title":"Achieving 100Gbps Intrusion Prevention on a Single Server.","url":""}
+{"author":"","bib":"","title":"DORY: An Encrypted Search System with Distributed Trust.","url":""}
+{"author":"","bib":"","title":"SafetyPin: Encrypted Backups with Human-Memorable Secrets.","url":""}
+{"author":"","bib":"","title":"Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract.","url":""}
+{"author":"","bib":"","title":"Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions.","url":""}
+{"author":"","bib":"","title":"Sundial: Fault-tolerant Clock Synchronization for Datacenters.","url":""}
+{"author":"","bib":"","title":"Fault-tolerant and transactional stateful serverless workflows.","url":""}
+{"author":"","bib":"","title":"Unearthing inter-job dependencies for better cluster scheduling.","url":""}
+{"author":"","bib":"","title":"RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers.","url":""}
+{"author":"","bib":"","title":"Thunderbolt: Throughput-Optimized, Quality-of-Service-Aware Power Capping at Scale.","url":""}

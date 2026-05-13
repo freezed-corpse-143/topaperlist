@@ -1,0 +1,687 @@
+{"author":"","bib":"","title":"Large Batch Optimization for Deep Learning: Training BERT in 76 minutes.","url":""}
+{"author":"","bib":"","title":"SELF: Learning to Filter Noisy Labels with Self-Ensembling.","url":""}
+{"author":"","bib":"","title":"Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation.","url":""}
+{"author":"","bib":"","title":"Sharing Knowledge in Multi-Task Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"On the Weaknesses of Reinforcement Learning for Neural Machine Translation.","url":""}
+{"author":"","bib":"","title":"StructPool: Structured Graph Pooling via Conditional Random Fields.","url":""}
+{"author":"","bib":"","title":"Learning deep graph matching with channel-independent embedding and Hungarian attention.","url":""}
+{"author":"","bib":"","title":"Graph inference learning for semi-supervised classification.","url":""}
+{"author":"","bib":"","title":"SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards.","url":""}
+{"author":"","bib":"","title":"Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data.","url":""}
+{"author":"","bib":"","title":"Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.","url":""}
+{"author":"","bib":"","title":"Automatically Discovering and Learning New Visual Categories with Ranking Statistics.","url":""}
+{"author":"","bib":"","title":"Maxmin Q-learning: Controlling the Estimation Bias of Q-learning.","url":""}
+{"author":"","bib":"","title":"Federated Adversarial Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Depth-Adaptive Transformer.","url":""}
+{"author":"","bib":"","title":"DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures.","url":""}
+{"author":"","bib":"","title":"Evaluating The Search Phase of Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Diverse Trajectory Forecasting with Determinantal Point Processes.","url":""}
+{"author":"","bib":"","title":"ProxSGD: Training Structured Neural Networks under Regularization and Constraints.","url":""}
+{"author":"","bib":"","title":"LAMOL: LAnguage MOdeling for Lifelong Language Learning.","url":""}
+{"author":"","bib":"","title":"Learning Expensive Coordination: An Event-Based Deep RL Approach.","url":""}
+{"author":"","bib":"","title":"Curvature Graph Network.","url":""}
+{"author":"","bib":"","title":"Distance-Based Learning from Errors for Confidence Calibration.","url":""}
+{"author":"","bib":"","title":"Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient.","url":""}
+{"author":"","bib":"","title":"N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.","url":""}
+{"author":"","bib":"","title":"Automated Relational Meta-learning.","url":""}
+{"author":"","bib":"","title":"To Relieve Your Headache of Training an MRF, Take AdVIL.","url":""}
+{"author":"","bib":"","title":"Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Clustering by Exploiting Unique Class Count.","url":""}
+{"author":"","bib":"","title":"Scalable and Order-robust Continual Learning with Additive Parameter Decomposition.","url":""}
+{"author":"","bib":"","title":"Continual Learning with Adaptive Weights (CLAW).","url":""}
+{"author":"","bib":"","title":"Transferable Perturbations of Deep Feature Distributions.","url":""}
+{"author":"","bib":"","title":"A Learning-based Iterative Method for Solving Vehicle Routing Problems.","url":""}
+{"author":"","bib":"","title":"Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring.","url":""}
+{"author":"","bib":"","title":"AutoQ: Automated Kernel-Wise Neural Network Quantization.","url":""}
+{"author":"","bib":"","title":"Understanding Architectures Learnt by Cell-based Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"SVQN: Sequential Variational Soft Q-Learning Networks.","url":""}
+{"author":"","bib":"","title":"Ranking Policy Gradient.","url":""}
+{"author":"","bib":"","title":"On Mutual Information Maximization for Representation Learning.","url":""}
+{"author":"","bib":"","title":"Observational Overfitting in Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier.","url":""}
+{"author":"","bib":"","title":"Additive Powers-of-Two Quantization: An Efficient Non-uniform Discretization for Neural Networks.","url":""}
+{"author":"","bib":"","title":"Lazy-CFR: fast and near-optimal regret minimization for extensive games with imperfect information.","url":""}
+{"author":"","bib":"","title":"Knowledge Consistency between Neural Networks and Beyond.","url":""}
+{"author":"","bib":"","title":"Image-guided Neural Object Rendering.","url":""}
+{"author":"","bib":"","title":"Implicit Bias of Gradient Descent based Adversarial Training on Separable Data.","url":""}
+{"author":"","bib":"","title":"TabFact: A Large-scale Dataset for Table-based Fact Verification.","url":""}
+{"author":"","bib":"","title":"ES-MAML: Simple Hessian-Free Meta Learning.","url":""}
+{"author":"","bib":"","title":"Neural Stored-program Memory.","url":""}
+{"author":"","bib":"","title":"Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation.","url":""}
+{"author":"","bib":"","title":"Multi-agent Reinforcement Learning for Networked System Control.","url":""}
+{"author":"","bib":"","title":"FSPool: Learning Set Representations with Featurewise Sort Pooling.","url":""}
+{"author":"","bib":"","title":"Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction.","url":""}
+{"author":"","bib":"","title":"Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning.","url":""}
+{"author":"","bib":"","title":"Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Theory and Evaluation Metrics for Learning Disentangled Representations.","url":""}
+{"author":"","bib":"","title":"Measuring Compositional Generalization: A Comprehensive Method on Realistic Data.","url":""}
+{"author":"","bib":"","title":"Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness.","url":""}
+{"author":"","bib":"","title":"The Implicit Bias of Depth: How Incremental Learning Drives Generalization.","url":""}
+{"author":"","bib":"","title":"The Variational Bandwidth Bottleneck: Stochastic Evaluation on an Information Budget.","url":""}
+{"author":"","bib":"","title":"Learning the Arrow of Time for Problems in Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives.","url":""}
+{"author":"","bib":"","title":"Robust Local Features for Improving the Generalization of Adversarial Training.","url":""}
+{"author":"","bib":"","title":"Analysis of Video Feature Learning in Two-Stream CNNs on the Example of Zebrafish Swim Bout Classification.","url":""}
+{"author":"","bib":"","title":"Learning Disentangled Representations for CounterFactual Regression.","url":""}
+{"author":"","bib":"","title":"Exploration in Reinforcement Learning with Deep Covering Options.","url":""}
+{"author":"","bib":"","title":"Ae-OT: a New Generative Model based on Extended Semi-discrete Optimal transport.","url":""}
+{"author":"","bib":"","title":"Logic and the 2-Simplicial Transformer.","url":""}
+{"author":"","bib":"","title":"Watch, Try, Learn: Meta-Learning from Demonstrations and Rewards.","url":""}
+{"author":"","bib":"","title":"Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking.","url":""}
+{"author":"","bib":"","title":"DivideMix: Learning with Noisy Labels as Semi-supervised Learning.","url":""}
+{"author":"","bib":"","title":"Improving Adversarial Robustness Requires Revisiting Misclassified Examples.","url":""}
+{"author":"","bib":"","title":"V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control.","url":""}
+{"author":"","bib":"","title":"Interpretable Complex-Valued Neural Networks for Privacy Protection.","url":""}
+{"author":"","bib":"","title":"Accelerating SGD with momentum for over-parameterized learning.","url":""}
+{"author":"","bib":"","title":"A critical analysis of self-supervision, or what we can learn from a single image.","url":""}
+{"author":"","bib":"","title":"Disentangling Factors of Variations Using Few Labels.","url":""}
+{"author":"","bib":"","title":"Functional vs. parametric equivalence of ReLU networks.","url":""}
+{"author":"","bib":"","title":"Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models.","url":""}
+{"author":"","bib":"","title":"RTFM: Generalising to New Environment Dynamics via Reading.","url":""}
+{"author":"","bib":"","title":"What graph neural networks cannot learn: depth vs width.","url":""}
+{"author":"","bib":"","title":"Progressive Memory Banks for Incremental Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Automated curriculum generation through setter-solver interactions.","url":""}
+{"author":"","bib":"","title":"On Identifiability in Transformers.","url":""}
+{"author":"","bib":"","title":"Exploring Model-based Planning with Policy Networks.","url":""}
+{"author":"","bib":"","title":"Learning Self-Correctable Policies and Value Functions from Demonstrations with Negative Sampling.","url":""}
+{"author":"","bib":"","title":"Geometric Insights into the Convergence of Nonlinear TD Learning.","url":""}
+{"author":"","bib":"","title":"Few-shot Text Classification with Distributional Signatures.","url":""}
+{"author":"","bib":"","title":"Escaping Saddle Points Faster with Stochastic Momentum.","url":""}
+{"author":"","bib":"","title":"Adversarial Policies: Attacking Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.","url":""}
+{"author":"","bib":"","title":"GLAD: Learning Sparse Graph Recovery.","url":""}
+{"author":"","bib":"","title":"Pruned Graph Scattering Transforms.","url":""}
+{"author":"","bib":"","title":"Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model.","url":""}
+{"author":"","bib":"","title":"Can gradient clipping mitigate label noise?","url":""}
+{"author":"","bib":"","title":"Editable Neural Networks.","url":""}
+{"author":"","bib":"","title":"Learning Execution through Neural Code fusion.","url":""}
+{"author":"","bib":"","title":"FasterSeg: Searching for Faster Real-time Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Difference-Seeking Generative Adversarial Network-Unseen Sample Generation.","url":""}
+{"author":"","bib":"","title":"Stochastic AUC Maximization with Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Semantically-Guided Representation Learning for Self-Supervised Monocular Depth.","url":""}
+{"author":"","bib":"","title":"MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius.","url":""}
+{"author":"","bib":"","title":"Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions.","url":""}
+{"author":"","bib":"","title":"GAT: Generative Adversarial Training for Adversarial Example Detection and Robust Classification.","url":""}
+{"author":"","bib":"","title":"Variational Recurrent Models for Solving Partially Observable Control Tasks.","url":""}
+{"author":"","bib":"","title":"Population-Guided Parallel Policy Search for Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Compositional languages emerge in a neural iterated learning model.","url":""}
+{"author":"","bib":"","title":"Black-Box Adversarial Attack with Transferable Model-based Embedding.","url":""}
+{"author":"","bib":"","title":"I Am Going MAD: Maximum Discrepancy Competition for Comparing Classifiers Adaptively.","url":""}
+{"author":"","bib":"","title":"Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models.","url":""}
+{"author":"","bib":"","title":"Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP.","url":""}
+{"author":"","bib":"","title":"Deep Network Classification by Scattering and Homotopy Dictionary Learning.","url":""}
+{"author":"","bib":"","title":"Data-Independent Neural Pruning via Coresets.","url":""}
+{"author":"","bib":"","title":"Bounds on Over-Parameterization for Guaranteed Existence of Descent Paths in Shallow ReLU Networks.","url":""}
+{"author":"","bib":"","title":"Novelty Detection Via Blurring.","url":""}
+{"author":"","bib":"","title":"Piecewise linear activations substantially shape the loss surfaces of neural networks.","url":""}
+{"author":"","bib":"","title":"Relational State-Space Model for Stochastic Multi-Object Systems.","url":""}
+{"author":"","bib":"","title":"Learning Efficient Parameter Server Synchronization Policies for Distributed SGD.","url":""}
+{"author":"","bib":"","title":"Action Semantics Network: Considering the Effects of Actions in Multiagent Systems.","url":""}
+{"author":"","bib":"","title":"Vid2Game: Controllable Characters Extracted from Real-World Videos.","url":""}
+{"author":"","bib":"","title":"Self-Adversarial Learning with Comparative Discrimination for Text Generation.","url":""}
+{"author":"","bib":"","title":"Robust training with ensemble consensus.","url":""}
+{"author":"","bib":"","title":"Identifying through Flows for Recovering Latent Representations.","url":""}
+{"author":"","bib":"","title":"Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing.","url":""}
+{"author":"","bib":"","title":"Optimistic Exploration even with a Pessimistic Initialisation.","url":""}
+{"author":"","bib":"","title":"VL-BERT: Pre-training of Generic Visual-Linguistic Representations.","url":""}
+{"author":"","bib":"","title":"Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation.","url":""}
+{"author":"","bib":"","title":"Ensemble Distribution Distillation.","url":""}
+{"author":"","bib":"","title":"Gap-Aware Mitigation of Gradient Staleness.","url":""}
+{"author":"","bib":"","title":"Counterfactuals uncover the modular structure of deep generative models.","url":""}
+{"author":"","bib":"","title":"Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video.","url":""}
+{"author":"","bib":"","title":"An Inductive Bias for Distances: Neural Nets that Respect the Triangle Inequality.","url":""}
+{"author":"","bib":"","title":"A Constructive Prediction of the Generalization Error Across Scales.","url":""}
+{"author":"","bib":"","title":"Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base.","url":""}
+{"author":"","bib":"","title":"CLN2INV: Learning Loop Invariants with Continuous Logic Networks.","url":""}
+{"author":"","bib":"","title":"NAS evaluation is frustratingly hard.","url":""}
+{"author":"","bib":"","title":"Efficient and Information-Preserving Future Frame Prediction and Beyond.","url":""}
+{"author":"","bib":"","title":"Order Learning and Its Application to Age Estimation.","url":""}
+{"author":"","bib":"","title":"ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning.","url":""}
+{"author":"","bib":"","title":"AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures.","url":""}
+{"author":"","bib":"","title":"Adversarially Robust Representations with Smooth Encoders.","url":""}
+{"author":"","bib":"","title":"From Variational to Deterministic Autoencoders.","url":""}
+{"author":"","bib":"","title":"Computation Reallocation for Object Detection.","url":""}
+{"author":"","bib":"","title":"Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents.","url":""}
+{"author":"","bib":"","title":"A Fair Comparison of Graph Neural Networks for Graph Classification.","url":""}
+{"author":"","bib":"","title":"Generalization bounds for deep convolutional neural networks.","url":""}
+{"author":"","bib":"","title":"SAdam: A Variant of Adam for Strongly Convex Functions.","url":""}
+{"author":"","bib":"","title":"Continual Learning with Bayesian Neural Networks for Non-Stationary Data.","url":""}
+{"author":"","bib":"","title":"Multiplicative Interactions and Where to Find Them.","url":""}
+{"author":"","bib":"","title":"Few-Shot Learning on graphs via super-Classes based on Graph spectral Measures.","url":""}
+{"author":"","bib":"","title":"On Computation and Generalization of Generative Adversarial Imitation Learning.","url":""}
+{"author":"","bib":"","title":"A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning.","url":""}
+{"author":"","bib":"","title":"Low-Resource Knowledge-Grounded Dialogue Generation.","url":""}
+{"author":"","bib":"","title":"Deep 3D Pan via local adaptive \"t-shaped\" convolutions with global and local adaptive dilations.","url":""}
+{"author":"","bib":"","title":"Tree-Structured Attention with Hierarchical Accumulation.","url":""}
+{"author":"","bib":"","title":"The asymptotic spectrum of the Hessian of DNN throughout training.","url":""}
+{"author":"","bib":"","title":"Actor-Critic Provably Finds Nash Equilibria of Linear-Quadratic Mean-Field Games.","url":""}
+{"author":"","bib":"","title":"In Search for a SAT-friendly Binarized Neural Network Architecture.","url":""}
+{"author":"","bib":"","title":"Generative Ratio Matching Networks.","url":""}
+{"author":"","bib":"","title":"Learning to Represent Programs with Property Signatures.","url":""}
+{"author":"","bib":"","title":"V4D: 4D Convolutional Neural Networks for Video-level Representation Learning.","url":""}
+{"author":"","bib":"","title":"Option Discovery using Deep Skill Chaining.","url":""}
+{"author":"","bib":"","title":"Quantifying the Cost of Reliable Photo Authentication via High-Performance Learned Lossy Representations.","url":""}
+{"author":"","bib":"","title":"On the Variance of the Adaptive Learning Rate and Beyond.","url":""}
+{"author":"","bib":"","title":"Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery.","url":""}
+{"author":"","bib":"","title":"A Theoretical Analysis of the Number of Shots in Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Unsupervised Model Selection for Variational Disentangled Representation Learning.","url":""}
+{"author":"","bib":"","title":"Feature Interaction Interpretability: A Case for Explaining Ad-Recommendation Systems via Neural Interaction Detection.","url":""}
+{"author":"","bib":"","title":"Understanding the Limitations of Variational Mutual Information Estimators.","url":""}
+{"author":"","bib":"","title":"GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations.","url":""}
+{"author":"","bib":"","title":"Language GANs Falling Short.","url":""}
+{"author":"","bib":"","title":"Stochastic Conditional Generative Networks with Basis Decomposition.","url":""}
+{"author":"","bib":"","title":"Learned Step Size quantization.","url":""}
+{"author":"","bib":"","title":"On the \"steerability\" of generative adversarial networks.","url":""}
+{"author":"","bib":"","title":"Reinforced active learning for image segmentation.","url":""}
+{"author":"","bib":"","title":"Sign Bits Are All You Need for Black-Box Attacks.","url":""}
+{"author":"","bib":"","title":"Deep Semi-Supervised Anomaly Detection.","url":""}
+{"author":"","bib":"","title":"Budgeted Training: Rethinking Deep Neural Network Training Under Resource Constraints.","url":""}
+{"author":"","bib":"","title":"Minimizing FLOPs to Learn Efficient Sparse Representations.","url":""}
+{"author":"","bib":"","title":"Reanalysis of Variance Reduced Temporal Difference Learning.","url":""}
+{"author":"","bib":"","title":"Imitation Learning via Off-Policy Distribution Matching.","url":""}
+{"author":"","bib":"","title":"Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML.","url":""}
+{"author":"","bib":"","title":"Augmenting Genetic Algorithms with Deep Neural Networks for Exploring the Chemical Space.","url":""}
+{"author":"","bib":"","title":"Improved Sample Complexities for Deep Neural Networks and Robust Classification via an All-Layer Margin.","url":""}
+{"author":"","bib":"","title":"Identity Crisis: Memorization and Generalization Under Extreme Overparameterization.","url":""}
+{"author":"","bib":"","title":"ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring.","url":""}
+{"author":"","bib":"","title":"Adaptive Structural Fingerprints for Graph Attention Networks.","url":""}
+{"author":"","bib":"","title":"CAQL: Continuous Action Q-Learning.","url":""}
+{"author":"","bib":"","title":"Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Pure and Spurious Critical Points: a Geometric Study of Linear Networks.","url":""}
+{"author":"","bib":"","title":"Neural Text Generation With Unlikelihood Training.","url":""}
+{"author":"","bib":"","title":"Semi-Supervised Generative Modeling for Controllable Speech Synthesis.","url":""}
+{"author":"","bib":"","title":"Dynamic Time Lag Regression: Predicting What & When.","url":""}
+{"author":"","bib":"","title":"Scalable Model Compression by Entropy Penalized Reparameterization.","url":""}
+{"author":"","bib":"","title":"AMRL: Aggregated Memory For Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Efficient Riemannian Optimization on the Stiefel Manifold via the Cayley Transform.","url":""}
+{"author":"","bib":"","title":"Unpaired Point Cloud Completion on Real Scans using Adversarial Training.","url":""}
+{"author":"","bib":"","title":"Adjustable Real-time Style Transfer.","url":""}
+{"author":"","bib":"","title":"Stochastic Weight Averaging in Parallel: Large-Batch Training That Generalizes Well.","url":""}
+{"author":"","bib":"","title":"Short and Sparse Deconvolution - A Geometric Approach.","url":""}
+{"author":"","bib":"","title":"Selection via Proxy: Efficient Data Selection for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Global Relational Models of Source Code.","url":""}
+{"author":"","bib":"","title":"Detecting Extrapolation with Local Ensembles.","url":""}
+{"author":"","bib":"","title":"Learning to Link.","url":""}
+{"author":"","bib":"","title":"Adversarially robust transfer learning.","url":""}
+{"author":"","bib":"","title":"Overlearning Reveals Sensitive Attributes.","url":""}
+{"author":"","bib":"","title":"Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.","url":""}
+{"author":"","bib":"","title":"Differentially Private Meta-Learning.","url":""}
+{"author":"","bib":"","title":"One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation.","url":""}
+{"author":"","bib":"","title":"Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples.","url":""}
+{"author":"","bib":"","title":"Are Transformers universal approximators of sequence-to-sequence functions?","url":""}
+{"author":"","bib":"","title":"Pre-training Tasks for Embedding-based Large-scale Retrieval.","url":""}
+{"author":"","bib":"","title":"Deep Imitative Models for Flexible Inference, Planning, and Control.","url":""}
+{"author":"","bib":"","title":"CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets.","url":""}
+{"author":"","bib":"","title":"DeepV2D: Video to Depth with Differentiable Structure from Motion.","url":""}
+{"author":"","bib":"","title":"Learning Space Partitions for Nearest Neighbor Search.","url":""}
+{"author":"","bib":"","title":"Playing the lottery with rewards and multiple languages: lottery tickets in RL and NLP.","url":""}
+{"author":"","bib":"","title":"Sign-OPT: A Query-Efficient Hard-label Adversarial Attack.","url":""}
+{"author":"","bib":"","title":"RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering.","url":""}
+{"author":"","bib":"","title":"Intrinsic Motivation for Encouraging Synergistic Behavior.","url":""}
+{"author":"","bib":"","title":"Chameleon: Adaptive Code Optimization for Expedited Deep Neural Network Compilation.","url":""}
+{"author":"","bib":"","title":"Recurrent neural circuits for contour detection.","url":""}
+{"author":"","bib":"","title":"Locality and Compositionality in Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Understanding Knowledge Distillation in Non-autoregressive Machine Translation.","url":""}
+{"author":"","bib":"","title":"Thieves on Sesame Street! Model Extraction of BERT-based APIs.","url":""}
+{"author":"","bib":"","title":"Fast is better than free: Revisiting adversarial training.","url":""}
+{"author":"","bib":"","title":"DBA: Distributed Backdoor Attacks against Federated Learning.","url":""}
+{"author":"","bib":"","title":"DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling.","url":""}
+{"author":"","bib":"","title":"Sampling-Free Learning of Bayesian Quantized Neural Networks.","url":""}
+{"author":"","bib":"","title":"Learning to solve the credit assignment problem.","url":""}
+{"author":"","bib":"","title":"Four Things Everyone Should Know to Improve Batch Normalization.","url":""}
+{"author":"","bib":"","title":"Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"SlowMo: Improving Communication-Efficient Distributed SGD with Slow Momentum.","url":""}
+{"author":"","bib":"","title":"MetaPix: Few-Shot Video Retargeting.","url":""}
+{"author":"","bib":"","title":"Learning to Learn by Zeroth-Order Oracle.","url":""}
+{"author":"","bib":"","title":"DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames.","url":""}
+{"author":"","bib":"","title":"PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction.","url":""}
+{"author":"","bib":"","title":"Precision Gating: Improving Neural Network Efficiency with Dynamic Dual-Precision Activations.","url":""}
+{"author":"","bib":"","title":"Oblique Decision Trees from Derivatives of ReLU Networks.","url":""}
+{"author":"","bib":"","title":"Span Recovery for Deep Neural Networks with Applications to Input Obfuscation.","url":""}
+{"author":"","bib":"","title":"Improving Neural Language Generation with Spectrum Control.","url":""}
+{"author":"","bib":"","title":"Learn to Explain Efficiently via Neural Logic Inductive Learning.","url":""}
+{"author":"","bib":"","title":"Improved memory in recurrent neural networks with sequential non-normal dynamics.","url":""}
+{"author":"","bib":"","title":"Neural Module Networks for Reasoning over Text.","url":""}
+{"author":"","bib":"","title":"Higher-Order Function Networks for Learning Composable 3D Object Representations.","url":""}
+{"author":"","bib":"","title":"Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling.","url":""}
+{"author":"","bib":"","title":"Towards Fast Adaptation of Neural Architectures with Meta Learning.","url":""}
+{"author":"","bib":"","title":"Graph Constrained Reinforcement Learning for Natural Language Action Spaces.","url":""}
+{"author":"","bib":"","title":"Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control.","url":""}
+{"author":"","bib":"","title":"Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History.","url":""}
+{"author":"","bib":"","title":"BERTScore: Evaluating Text Generation with BERT.","url":""}
+{"author":"","bib":"","title":"Neural Execution of Graph Algorithms.","url":""}
+{"author":"","bib":"","title":"On the Need for Topology-Aware Generative Models for Manifold-Based Defenses.","url":""}
+{"author":"","bib":"","title":"FSNet: Compression of Deep Convolutional Neural Networks by Filter Summary.","url":""}
+{"author":"","bib":"","title":"Capsules with Inverted Dot-Product Attention Routing.","url":""}
+{"author":"","bib":"","title":"Composition-based Multi-Relational Graph Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"Gradient-Based Neural DAG Learning.","url":""}
+{"author":"","bib":"","title":"The Local Elasticity of Neural Networks.","url":""}
+{"author":"","bib":"","title":"Composing Task-Agnostic Policies with Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Convergence of Gradient Methods on Bilinear Zero-Sum Games.","url":""}
+{"author":"","bib":"","title":"Discovering Motor Programs by Recomposing Demonstrations.","url":""}
+{"author":"","bib":"","title":"Learning from Explanations with Neural Execution Tree.","url":""}
+{"author":"","bib":"","title":"Jelly Bean World: A Testbed for Never-Ending Learning.","url":""}
+{"author":"","bib":"","title":"Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization.","url":""}
+{"author":"","bib":"","title":"Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"MEMO: A Deep Network for Flexible Combination of Episodic Memories.","url":""}
+{"author":"","bib":"","title":"Economy Statistical Recurrent Units For Inferring Nonlinear Granger Causality.","url":""}
+{"author":"","bib":"","title":"Bayesian Meta Sampling for Fast Uncertainty Adaptation.","url":""}
+{"author":"","bib":"","title":"Non-Autoregressive Dialog State Tracking.","url":""}
+{"author":"","bib":"","title":"Extreme Tensoring for Low-Memory Preconditioning.","url":""}
+{"author":"","bib":"","title":"RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?","url":""}
+{"author":"","bib":"","title":"The Early Phase of Neural Network Training.","url":""}
+{"author":"","bib":"","title":"NeurQuRI: Neural Question Requirement Inspector for Answerability Prediction in Machine Reading Comprehension.","url":""}
+{"author":"","bib":"","title":"Towards Stabilizing Batch Statistics in Backward Propagation of Batch Normalization.","url":""}
+{"author":"","bib":"","title":"Single Episode Policy Transfer in Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Generalization through Memorization: Nearest Neighbor Language Models.","url":""}
+{"author":"","bib":"","title":"Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention.","url":""}
+{"author":"","bib":"","title":"Synthesizing Programmatic Policies that Inductively Generalize.","url":""}
+{"author":"","bib":"","title":"Decoding As Dynamic Programming For Recurrent Autoregressive Models.","url":""}
+{"author":"","bib":"","title":"Deep Double Descent: Where Bigger Models and More Data Hurt.","url":""}
+{"author":"","bib":"","title":"Intriguing Properties of Adversarial Training at Scale.","url":""}
+{"author":"","bib":"","title":"Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Distributed Bandit Learning: Near-Optimal Regret with Efficient Communication.","url":""}
+{"author":"","bib":"","title":"Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks.","url":""}
+{"author":"","bib":"","title":"A Closer Look at the Optimization Landscapes of Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"On the Global Convergence of Training Deep Linear ResNets.","url":""}
+{"author":"","bib":"","title":"Towards a Deep Network Architecture for Structured Smoothness.","url":""}
+{"author":"","bib":"","title":"Revisiting Self-Training for Neural Sequence Generation.","url":""}
+{"author":"","bib":"","title":"Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators.","url":""}
+{"author":"","bib":"","title":"Variational Autoencoders for Highly Multivariate Spatial Point Processes Intensities.","url":""}
+{"author":"","bib":"","title":"Model-Augmented Actor-Critic: Backpropagating through Paths.","url":""}
+{"author":"","bib":"","title":"LambdaNet: Probabilistic Type Inference using Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"From Inference to Generation: End-to-end Fully Self-supervised Generation of Human Face from Speech.","url":""}
+{"author":"","bib":"","title":"Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping.","url":""}
+{"author":"","bib":"","title":"Decoupling Representation and Classifier for Long-Tailed Recognition.","url":""}
+{"author":"","bib":"","title":"Robust Reinforcement Learning for Continuous Control with Model Misspecification.","url":""}
+{"author":"","bib":"","title":"Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework.","url":""}
+{"author":"","bib":"","title":"Training Recurrent Neural Networks Online by Learning Explicit State Variables.","url":""}
+{"author":"","bib":"","title":"Uncertainty-guided Continual Learning with Bayesian Neural Networks.","url":""}
+{"author":"","bib":"","title":"Curriculum Loss: Robust Learning and Generalization against Label Corruption.","url":""}
+{"author":"","bib":"","title":"Picking Winning Tickets Before Training by Preserving Gradient Flow.","url":""}
+{"author":"","bib":"","title":"Generative Models for Effective ML on Private, Decentralized Datasets.","url":""}
+{"author":"","bib":"","title":"Inductive representation learning on temporal graphs.","url":""}
+{"author":"","bib":"","title":"BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning.","url":""}
+{"author":"","bib":"","title":"Towards neural networks that provably know when they don't know.","url":""}
+{"author":"","bib":"","title":"Iterative energy-based projection on a normal data manifold for anomaly localization.","url":""}
+{"author":"","bib":"","title":"Towards Stable and Efficient Training of Verifiably Robust Neural Networks.","url":""}
+{"author":"","bib":"","title":"Frequency-based Search-control in Dyna.","url":""}
+{"author":"","bib":"","title":"Learning representations for binary-classification without backpropagation.","url":""}
+{"author":"","bib":"","title":"Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks.","url":""}
+{"author":"","bib":"","title":"Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics.","url":""}
+{"author":"","bib":"","title":"HiLLoC: lossless image compression with hierarchical latent variable models.","url":""}
+{"author":"","bib":"","title":"IMPACT: Importance Weighted Asynchronous Architectures with Clipped Target Networks.","url":""}
+{"author":"","bib":"","title":"On Bonus Based Exploration Methods In The Arcade Learning Environment.","url":""}
+{"author":"","bib":"","title":"Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation.","url":""}
+{"author":"","bib":"","title":"Smoothness and Stability in GANs.","url":""}
+{"author":"","bib":"","title":"SNOW: Subscribing to Knowledge via Channel Pooling for Transfer & Lifelong Learning of Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Empirical Studies on the Properties of Linear Regions in Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Black-box Off-policy Estimation for Infinite-Horizon Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"PairNorm: Tackling Oversmoothing in GNNs.","url":""}
+{"author":"","bib":"","title":"Unsupervised Clustering using Pseudo-semi-supervised Learning.","url":""}
+{"author":"","bib":"","title":"Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee.","url":""}
+{"author":"","bib":"","title":"Controlling generative models with continuous factors of variations.","url":""}
+{"author":"","bib":"","title":"Symplectic ODE-Net: Learning Hamiltonian Dynamics with Control.","url":""}
+{"author":"","bib":"","title":"Understanding l4-based Dictionary Learning: Interpretation, Stability, and Robustness.","url":""}
+{"author":"","bib":"","title":"Quantum Algorithms for Deep Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Learning of Appliance Usage.","url":""}
+{"author":"","bib":"","title":"Deep Graph Matching Consensus.","url":""}
+{"author":"","bib":"","title":"Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks.","url":""}
+{"author":"","bib":"","title":"Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers.","url":""}
+{"author":"","bib":"","title":"Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference.","url":""}
+{"author":"","bib":"","title":"Neural Policy Gradient Methods: Global Optimality and Rates of Convergence.","url":""}
+{"author":"","bib":"","title":"Double Neural Counterfactual Regret Minimization.","url":""}
+{"author":"","bib":"","title":"GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation.","url":""}
+{"author":"","bib":"","title":"The Gambler's Problem and Beyond.","url":""}
+{"author":"","bib":"","title":"Multilingual Alignment of Contextual Word Representations.","url":""}
+{"author":"","bib":"","title":"The Curious Case of Neural Text Degeneration.","url":""}
+{"author":"","bib":"","title":"Graph Convolutional Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Meta-Learning Deep Energy-Based Memory Models.","url":""}
+{"author":"","bib":"","title":"Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Fast Neural Network Adaptation via Parameter Remapping and Architecture Search.","url":""}
+{"author":"","bib":"","title":"Guiding Program Synthesis by Learning to Generate Examples.","url":""}
+{"author":"","bib":"","title":"SNODE: Spectral Discretization of Neural ODEs for System Identification.","url":""}
+{"author":"","bib":"","title":"Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Once-for-All: Train One Network and Specialize it for Efficient Deployment.","url":""}
+{"author":"","bib":"","title":"Multi-Agent Interactions Modeling with Correlated Policies.","url":""}
+{"author":"","bib":"","title":"PCMC-Net: Feature-based Pairwise Choice Markov Chains.","url":""}
+{"author":"","bib":"","title":"Implementing Inductive bias for different navigation tasks through diverse RNN attrractors.","url":""}
+{"author":"","bib":"","title":"Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings.","url":""}
+{"author":"","bib":"","title":"Rethinking the Hyperparameters for Fine-tuning.","url":""}
+{"author":"","bib":"","title":"Plug and Play Language Models: A Simple Approach to Controlled Text Generation.","url":""}
+{"author":"","bib":"","title":"Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks.","url":""}
+{"author":"","bib":"","title":"RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Towards Verified Robustness under Text Deletion Interventions.","url":""}
+{"author":"","bib":"","title":"Jacobian Adversarially Regularized Networks for Robustness.","url":""}
+{"author":"","bib":"","title":"Thinking While Moving: Deep Reinforcement Learning with Concurrent Control.","url":""}
+{"author":"","bib":"","title":"Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators.","url":""}
+{"author":"","bib":"","title":"Environmental drivers of systematicity and generalization in a situated agent.","url":""}
+{"author":"","bib":"","title":"Abstract Diagrammatic Reasoning with Multiplex Graph Networks.","url":""}
+{"author":"","bib":"","title":"A Baseline for Few-Shot Image Classification.","url":""}
+{"author":"","bib":"","title":"Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering.","url":""}
+{"author":"","bib":"","title":"Padé Activation Units: End-to-end Learning of Flexible Activation Functions in Deep Networks.","url":""}
+{"author":"","bib":"","title":"A Framework for robustness Certification of Smoothed Classifiers using F-Divergences.","url":""}
+{"author":"","bib":"","title":"Contrastive Representation Distillation.","url":""}
+{"author":"","bib":"","title":"Certified Defenses for Adversarial Patches.","url":""}
+{"author":"","bib":"","title":"Sample Efficient Policy Gradient Methods with Recursive Variance Reduction.","url":""}
+{"author":"","bib":"","title":"Deep Symbolic Superoptimization Without Human Knowledge.","url":""}
+{"author":"","bib":"","title":"Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution.","url":""}
+{"author":"","bib":"","title":"Universal Approximation with Certified Networks.","url":""}
+{"author":"","bib":"","title":"Measuring and Improving the Use of Graph Information in Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"State-only Imitation with Transition Dynamics Mismatch.","url":""}
+{"author":"","bib":"","title":"Adversarial AutoAugment.","url":""}
+{"author":"","bib":"","title":"Meta Dropout: Learning to Perturb Latent Features for Generalization.","url":""}
+{"author":"","bib":"","title":"Rényi Fair Inference.","url":""}
+{"author":"","bib":"","title":"Learning transport cost from subset correspondence.","url":""}
+{"author":"","bib":"","title":"BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget.","url":""}
+{"author":"","bib":"","title":"Variance Reduction With Sparse Gradients.","url":""}
+{"author":"","bib":"","title":"Abductive Commonsense Reasoning.","url":""}
+{"author":"","bib":"","title":"Discrepancy Ratio: Evaluating Model Performance When Even Experts Disagree on the Truth.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Disentanglement with Guarantees.","url":""}
+{"author":"","bib":"","title":"Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Fantastic Generalization Measures and Where to Find Them.","url":""}
+{"author":"","bib":"","title":"Robustness Verification for Transformers.","url":""}
+{"author":"","bib":"","title":"Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Tensor Decompositions for Temporal Knowledge Base Completion.","url":""}
+{"author":"","bib":"","title":"On Universal Equivariant Set Networks.","url":""}
+{"author":"","bib":"","title":"Provable robustness against all adversarial $l_p$-perturbations for $p\\geq 1$.","url":""}
+{"author":"","bib":"","title":"Don't Use Large Mini-batches, Use Local SGD.","url":""}
+{"author":"","bib":"","title":"Kernel of CycleGAN as a principal homogeneous space.","url":""}
+{"author":"","bib":"","title":"Distributionally Robust Neural Networks.","url":""}
+{"author":"","bib":"","title":"On Solving Minimax Optimization Locally: A Follow-the-Ridge Approach.","url":""}
+{"author":"","bib":"","title":"A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning.","url":""}
+{"author":"","bib":"","title":"Hyper-SAGNN: a self-attention based graph neural network for hypergraphs.","url":""}
+{"author":"","bib":"","title":"Neural Epitome Search for Architecture-Agnostic Network Compression.","url":""}
+{"author":"","bib":"","title":"On the Equivalence between Positional Node Embeddings and Structural Graph Representations.","url":""}
+{"author":"","bib":"","title":"Probability Calibration for Knowledge Graph Embedding Models.","url":""}
+{"author":"","bib":"","title":"Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks.","url":""}
+{"author":"","bib":"","title":"DropEdge: Towards Deep Graph Convolutional Networks on Node Classification.","url":""}
+{"author":"","bib":"","title":"Masked Based Unsupervised Content Transfer.","url":""}
+{"author":"","bib":"","title":"U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"Inductive and Unsupervised Representation Learning on Graph Structured Objects.","url":""}
+{"author":"","bib":"","title":"Batch-shaping for learning conditional channel gated networks.","url":""}
+{"author":"","bib":"","title":"Learning Robust Representations via Multi-View Information Bottleneck.","url":""}
+{"author":"","bib":"","title":"Deep probabilistic subsampling for task-adaptive compressed sensing.","url":""}
+{"author":"","bib":"","title":"Robust anomaly detection and backdoor attack detection via differential privacy.","url":""}
+{"author":"","bib":"","title":"Learning to Guide Random Search.","url":""}
+{"author":"","bib":"","title":"Lagrangian Fluid Simulation with Continuous Convolutions.","url":""}
+{"author":"","bib":"","title":"Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs.","url":""}
+{"author":"","bib":"","title":"Compressive Transformers for Long-Range Sequence Modelling.","url":""}
+{"author":"","bib":"","title":"A Stochastic Derivative Free Optimization Method with Momentum.","url":""}
+{"author":"","bib":"","title":"Understanding and Improving Information Transfer in Multi-Task Learning.","url":""}
+{"author":"","bib":"","title":"Learning To Explore Using Active Neural SLAM.","url":""}
+{"author":"","bib":"","title":"EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness Against Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Quantifying Point-Prediction Uncertainty in Neural Networks via Residual Estimation with an I/O Kernel.","url":""}
+{"author":"","bib":"","title":"B-Spline CNNs on Lie groups.","url":""}
+{"author":"","bib":"","title":"Neural Outlier Rejection for Self-Supervised Keypoint Learning.","url":""}
+{"author":"","bib":"","title":"Reducing Transformer Depth on Demand with Structured Dropout.","url":""}
+{"author":"","bib":"","title":"Cross-Lingual Ability of Multilingual BERT: An Empirical Study.","url":""}
+{"author":"","bib":"","title":"SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition.","url":""}
+{"author":"","bib":"","title":"RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments.","url":""}
+{"author":"","bib":"","title":"Low-dimensional statistical manifold embedding of directed graphs.","url":""}
+{"author":"","bib":"","title":"Efficient Probabilistic Logic Reasoning with Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"GraphSAINT: Graph Sampling Based Inductive Learning Method.","url":""}
+{"author":"","bib":"","title":"You Only Train Once: Loss-Conditional Training of Deep Networks.","url":""}
+{"author":"","bib":"","title":"Projection-Based Constrained Policy Optimization.","url":""}
+{"author":"","bib":"","title":"Infinite-Horizon Differentiable Model Predictive Control.","url":""}
+{"author":"","bib":"","title":"Combining Q-Learning and Search with Amortized Value Estimates.","url":""}
+{"author":"","bib":"","title":"Training Generative Adversarial Networks from Incomplete Observations using Factorised Discriminators.","url":""}
+{"author":"","bib":"","title":"Decentralized Deep Learning with Arbitrary Communication Compression.","url":""}
+{"author":"","bib":"","title":"Toward Evaluating Robustness of Deep Reinforcement Learning with Continuous Control.","url":""}
+{"author":"","bib":"","title":"Gradient $\\ell_1$ Regularization for Quantization Robustness.","url":""}
+{"author":"","bib":"","title":"SpikeGrad: An ANN-equivalent Computation Model for Implementing Backpropagation with Spikes.","url":""}
+{"author":"","bib":"","title":"On the Relationship between Self-Attention and Convolutional Layers.","url":""}
+{"author":"","bib":"","title":"Learning-Augmented Data Stream Algorithms.","url":""}
+{"author":"","bib":"","title":"Structured Object-Aware Physics Prediction for Video Modeling and Planning.","url":""}
+{"author":"","bib":"","title":"Incorporating BERT into Neural Machine Translation.","url":""}
+{"author":"","bib":"","title":"MMA Training: Direct Input Space Margin Maximization through Adversarial Training.","url":""}
+{"author":"","bib":"","title":"Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies.","url":""}
+{"author":"","bib":"","title":"vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations.","url":""}
+{"author":"","bib":"","title":"Meta-learning curiosity algorithms.","url":""}
+{"author":"","bib":"","title":"Making Efficient Use of Demonstrations to Solve Hard Exploration Problems.","url":""}
+{"author":"","bib":"","title":"VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning.","url":""}
+{"author":"","bib":"","title":"Lookahead: A Far-sighted Alternative of Magnitude-based Pruning.","url":""}
+{"author":"","bib":"","title":"Spike-based causal inference for weight alignment.","url":""}
+{"author":"","bib":"","title":"Empirical Bayes Transductive Meta-Learning with Synthetic Gradients.","url":""}
+{"author":"","bib":"","title":"Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Understanding the Limitations of Conditional Generative Models.","url":""}
+{"author":"","bib":"","title":"Demystifying Inter-Class Disentanglement.","url":""}
+{"author":"","bib":"","title":"Mixed-curvature Variational Autoencoders.","url":""}
+{"author":"","bib":"","title":"BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations.","url":""}
+{"author":"","bib":"","title":"Model-based reinforcement learning for biological sequence design.","url":""}
+{"author":"","bib":"","title":"BayesOpt Adversarial Attack.","url":""}
+{"author":"","bib":"","title":"Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies.","url":""}
+{"author":"","bib":"","title":"Hypermodels for Exploration.","url":""}
+{"author":"","bib":"","title":"RaPP: Novelty Detection with Reconstruction along Projection Pathway.","url":""}
+{"author":"","bib":"","title":"Dynamics-Aware Embeddings.","url":""}
+{"author":"","bib":"","title":"Functional Regularisation for Continual Learning with Gaussian Processes.","url":""}
+{"author":"","bib":"","title":"You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings.","url":""}
+{"author":"","bib":"","title":"AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing.","url":""}
+{"author":"","bib":"","title":"Never Give Up: Learning Directed Exploration Strategies.","url":""}
+{"author":"","bib":"","title":"Fair Resource Allocation in Federated Learning.","url":""}
+{"author":"","bib":"","title":"Smooth markets: A basic mechanism for organizing gradient-based learners.","url":""}
+{"author":"","bib":"","title":"StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding.","url":""}
+{"author":"","bib":"","title":"Training binary neural networks with real-to-binary convolutions.","url":""}
+{"author":"","bib":"","title":"Permutation Equivariant Models for Compositional Generalization in Language.","url":""}
+{"author":"","bib":"","title":"Continual learning with hypernetworks.","url":""}
+{"author":"","bib":"","title":"Phase Transitions for the Information Bottleneck in Representation Learning.","url":""}
+{"author":"","bib":"","title":"Variational Template Machine for Data-to-Text Generation.","url":""}
+{"author":"","bib":"","title":"Memory-Based Graph Networks.","url":""}
+{"author":"","bib":"","title":"AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty.","url":""}
+{"author":"","bib":"","title":"AtomNAS: Fine-Grained End-to-End Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Residual Energy-Based Models for Text Generation.","url":""}
+{"author":"","bib":"","title":"A closer look at the approximation capabilities of neural networks.","url":""}
+{"author":"","bib":"","title":"Deep Audio Priors Emerge From Harmonic Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"Expected Information Maximization: Using the I-Projection for Mixture Density Estimation.","url":""}
+{"author":"","bib":"","title":"A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms.","url":""}
+{"author":"","bib":"","title":"On the interaction between supervision and self-play in emergent communication.","url":""}
+{"author":"","bib":"","title":"Dynamic Model Pruning with Feedback.","url":""}
+{"author":"","bib":"","title":"Latent Normalizing Flows for Many-to-Many Cross-Domain Mappings.","url":""}
+{"author":"","bib":"","title":"Transferring Optimality Across Data Distributions via Homotopy Methods.","url":""}
+{"author":"","bib":"","title":"Regularizing activations in neural networks via distribution matching with the Wasserstein metric.","url":""}
+{"author":"","bib":"","title":"Mutual Information Gradient Estimation for Representation Learning.","url":""}
+{"author":"","bib":"","title":"Lite Transformer with Long-Short Range Attention.","url":""}
+{"author":"","bib":"","title":"A Function Space View of Bounded Norm Infinite Width ReLU Nets: The Multivariate Case.","url":""}
+{"author":"","bib":"","title":"Adversarial Lipschitz Regularization.","url":""}
+{"author":"","bib":"","title":"Compositional Language Continual Learning.","url":""}
+{"author":"","bib":"","title":"End to End Trainable Active Contours via Differentiable Rendering.","url":""}
+{"author":"","bib":"","title":"Provable Filter Pruning for Efficient Neural Networks.","url":""}
+{"author":"","bib":"","title":"Effect of Activation Functions on the Training of Overparametrized Neural Nets.","url":""}
+{"author":"","bib":"","title":"Lipschitz constant estimation of Neural Networks via sparse polynomial optimization.","url":""}
+{"author":"","bib":"","title":"State Alignment-based Imitation Learning.","url":""}
+{"author":"","bib":"","title":"Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories.","url":""}
+{"author":"","bib":"","title":"Discriminative Particle Filter Reinforcement Learning for Complex Partial observations.","url":""}
+{"author":"","bib":"","title":"Unrestricted Adversarial Examples via Semantic Manipulation.","url":""}
+{"author":"","bib":"","title":"Classification-Based Anomaly Detection for General Data.","url":""}
+{"author":"","bib":"","title":"Scale-Equivariant Steerable Networks.","url":""}
+{"author":"","bib":"","title":"On Generalization Error Bounds of Noisy Gradient Methods for Non-Convex Learning.","url":""}
+{"author":"","bib":"","title":"Consistency Regularization for Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"Differentiable learning of numerical rules in knowledge graphs.","url":""}
+{"author":"","bib":"","title":"Learning to Move with Affordance Maps.","url":""}
+{"author":"","bib":"","title":"Neural tangent kernels, transportation mappings, and universal approximation.","url":""}
+{"author":"","bib":"","title":"SCALOR: Generative World Models with Scalable Object Representations.","url":""}
+{"author":"","bib":"","title":"Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks.","url":""}
+{"author":"","bib":"","title":"Domain Adaptive Multibranch Networks.","url":""}
+{"author":"","bib":"","title":"DiffTaichi: Differentiable Programming for Physical Simulation.","url":""}
+{"author":"","bib":"","title":"Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning.","url":""}
+{"author":"","bib":"","title":"Episodic Reinforcement Learning with Associative Memory.","url":""}
+{"author":"","bib":"","title":"Sub-policy Adaptation for Hierarchical Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Critical initialisation in continuous approximations of binary neural networks.","url":""}
+{"author":"","bib":"","title":"Deep Orientation Uncertainty Learning based on a Bingham Loss.","url":""}
+{"author":"","bib":"","title":"Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data.","url":""}
+{"author":"","bib":"","title":"Mixed Precision DNNs: All you need is a good parametrization.","url":""}
+{"author":"","bib":"","title":"Information Geometry of Orthogonal Initializations and Training.","url":""}
+{"author":"","bib":"","title":"Extreme Classification via Adversarial Softmax Approximation.","url":""}
+{"author":"","bib":"","title":"Learning Nearly Decomposable Value Functions Via Communication Minimization.","url":""}
+{"author":"","bib":"","title":"Robust Subspace Recovery Layer for Unsupervised Anomaly Detection.","url":""}
+{"author":"","bib":"","title":"Learning to Coordinate Manipulation Skills via Skill Behavior Diversification.","url":""}
+{"author":"","bib":"","title":"NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Conservative Uncertainty Estimation By Fitting Prior Networks.","url":""}
+{"author":"","bib":"","title":"Understanding Generalization in Recurrent Neural Networks.","url":""}
+{"author":"","bib":"","title":"The Shape of Data: Intrinsic Distance for Data Distributions.","url":""}
+{"author":"","bib":"","title":"How to 0wn the NAS in Your Spare Time.","url":""}
+{"author":"","bib":"","title":"Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation.","url":""}
+{"author":"","bib":"","title":"Breaking Certified Defenses: Semantic Adversarial Examples with Spoofed robustness Certificates.","url":""}
+{"author":"","bib":"","title":"Query-efficient Meta Attack to Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Massively Multilingual Sparse Word Representations.","url":""}
+{"author":"","bib":"","title":"Monotonic Multihead Attention.","url":""}
+{"author":"","bib":"","title":"Gradients as Features for Deep Representation Learning.","url":""}
+{"author":"","bib":"","title":"Pay Attention to Features, Transfer Learn Faster CNNs.","url":""}
+{"author":"","bib":"","title":"Program Guided Agent.","url":""}
+{"author":"","bib":"","title":"Sparse Coding with Gated Learned ISTA.","url":""}
+{"author":"","bib":"","title":"Graph Neural Networks Exponentially Lose Expressive Power for Node Classification.","url":""}
+{"author":"","bib":"","title":"Multi-Scale Representation Learning for Spatial Feature Distributions using Grid Cells.","url":""}
+{"author":"","bib":"","title":"InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization.","url":""}
+{"author":"","bib":"","title":"On Robustness of Neural Ordinary Differential Equations.","url":""}
+{"author":"","bib":"","title":"Defending Against Physically Realizable Attacks on Image Classification.","url":""}
+{"author":"","bib":"","title":"Estimating Gradients for Discrete Random Variables by Sampling without Replacement.","url":""}
+{"author":"","bib":"","title":"Learning to Control PDEs with Differentiable Physics.","url":""}
+{"author":"","bib":"","title":"Intensity-Free Learning of Temporal Point Processes.","url":""}
+{"author":"","bib":"","title":"A Signal Propagation Perspective for Pruning Neural Networks at Initialization.","url":""}
+{"author":"","bib":"","title":"Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets.","url":""}
+{"author":"","bib":"","title":"White Noise Analysis of Neural Networks.","url":""}
+{"author":"","bib":"","title":"Neural Machine Translation with Universal Visual Representation.","url":""}
+{"author":"","bib":"","title":"Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds.","url":""}
+{"author":"","bib":"","title":"PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search.","url":""}
+{"author":"","bib":"","title":"Online and stochastic optimization beyond Lipschitz continuity: A Riemannian approach.","url":""}
+{"author":"","bib":"","title":"Enhancing Adversarial Defense by k-Winners-Take-All.","url":""}
+{"author":"","bib":"","title":"Encoding word order in complex embeddings.","url":""}
+{"author":"","bib":"","title":"DDSP: Differentiable Digital Signal Processing.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation.","url":""}
+{"author":"","bib":"","title":"Ridge Regression: Structure, Cross-Validation, and Sketching.","url":""}
+{"author":"","bib":"","title":"Finite Depth and Width Corrections to the Neural Tangent Kernel.","url":""}
+{"author":"","bib":"","title":"Meta-Learning without Memorization.","url":""}
+{"author":"","bib":"","title":"Influence-Based Multi-Agent Exploration.","url":""}
+{"author":"","bib":"","title":"Hoppity: Learning Graph Transformations to Detect and Fix Bugs in Programs.","url":""}
+{"author":"","bib":"","title":"Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations.","url":""}
+{"author":"","bib":"","title":"How much Position Information Do Convolutional Neural Networks Encode?","url":""}
+{"author":"","bib":"","title":"Hamiltonian Generative Networks.","url":""}
+{"author":"","bib":"","title":"CoPhy: Counterfactual Learning of Physical Dynamics.","url":""}
+{"author":"","bib":"","title":"Estimating counterfactual treatment outcomes over time through adversarially balanced representations.","url":""}
+{"author":"","bib":"","title":"Gradientless Descent: High-Dimensional Zeroth-Order Optimization.","url":""}
+{"author":"","bib":"","title":"Conditional Learning of Fair Representations.","url":""}
+{"author":"","bib":"","title":"Inductive Matrix Completion Based on Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"Duration-of-Stay Storage Assignment under Uncertainty.","url":""}
+{"author":"","bib":"","title":"Emergence of functional and structural properties of the head direction system by optimization of recurrent neural networks.","url":""}
+{"author":"","bib":"","title":"Deep neuroethology of a virtual rodent.","url":""}
+{"author":"","bib":"","title":"Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation.","url":""}
+{"author":"","bib":"","title":"Learning Compositional Koopman Operators for Model-Based Control.","url":""}
+{"author":"","bib":"","title":"CLEVRER: Collision Events for Video Representation and Reasoning.","url":""}
+{"author":"","bib":"","title":"The Logical Expressiveness of Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"The Break-Even Point on Optimization Trajectories of Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"ALBERT: A Lite BERT for Self-supervised Learning of Language Representations.","url":""}
+{"author":"","bib":"","title":"Disentangling neural mechanisms for perceptual grouping.","url":""}
+{"author":"","bib":"","title":"Learning to Plan in High Dimensions via Neural Exploration-Exploitation Trees.","url":""}
+{"author":"","bib":"","title":"Symplectic Recurrent Neural Networks.","url":""}
+{"author":"","bib":"","title":"Asymptotics of Wide Networks from Feynman Diagrams.","url":""}
+{"author":"","bib":"","title":"Learning The Difference That Makes A Difference With Counterfactually-Augmented Data.","url":""}
+{"author":"","bib":"","title":"Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?","url":""}
+{"author":"","bib":"","title":"Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Network Deconvolution.","url":""}
+{"author":"","bib":"","title":"Neural Symbolic Reader: Scalable Integration of Distributed and Symbolic Representations for Reading Comprehension.","url":""}
+{"author":"","bib":"","title":"Real or Not Real, that is the Question.","url":""}
+{"author":"","bib":"","title":"Dream to Control: Learning Behaviors by Latent Imagination.","url":""}
+{"author":"","bib":"","title":"A Probabilistic Formulation of Unsupervised Text Style Transfer.","url":""}
+{"author":"","bib":"","title":"Emergent Tool Use From Multi-Agent Autocurricula.","url":""}
+{"author":"","bib":"","title":"NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Strategies for Pre-training Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"Behaviour Suite for Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"FreeLB: Enhanced Adversarial Training for Natural Language Understanding.","url":""}
+{"author":"","bib":"","title":"Kernelized Wasserstein Natural Gradient.","url":""}
+{"author":"","bib":"","title":"And the Bit Goes Down: Revisiting the Quantization of Neural Networks.","url":""}
+{"author":"","bib":"","title":"A Latent Morphology Model for Open-Vocabulary Neural Machine Translation.","url":""}
+{"author":"","bib":"","title":"Understanding Why Neural Networks Generalize Well Through GSNR of Parameters.","url":""}
+{"author":"","bib":"","title":"Model Based Reinforcement Learning for Atari.","url":""}
+{"author":"","bib":"","title":"Disagreement-Regularized Imitation Learning.","url":""}
+{"author":"","bib":"","title":"Stable Rank Normalization for Improved Generalization in Neural Networks and GANs.","url":""}
+{"author":"","bib":"","title":"Measuring the Reliability of Reinforcement Learning Algorithms.","url":""}
+{"author":"","bib":"","title":"Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue.","url":""}
+{"author":"","bib":"","title":"Neural Tangents: Fast and Easy Infinite Neural Networks in Python.","url":""}
+{"author":"","bib":"","title":"Self-labelling via simultaneous clustering and representation learning.","url":""}
+{"author":"","bib":"","title":"The intriguing role of module criticality in the generalization of deep networks.","url":""}
+{"author":"","bib":"","title":"Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks.","url":""}
+{"author":"","bib":"","title":"Differentiation of Blackbox Combinatorial Solvers.","url":""}
+{"author":"","bib":"","title":"Scaling Autoregressive Video Models.","url":""}
+{"author":"","bib":"","title":"The Ingredients of Real World Robotic Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization.","url":""}
+{"author":"","bib":"","title":"Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Spectral Embedding of Regularized Block Models.","url":""}
+{"author":"","bib":"","title":"Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.","url":""}
+{"author":"","bib":"","title":"word2ket: Space-efficient Word Embeddings inspired by Quantum Entanglement.","url":""}
+{"author":"","bib":"","title":"What Can Neural Networks Reason About?","url":""}
+{"author":"","bib":"","title":"Training individually fair ML models with sensitive subspace robustness.","url":""}
+{"author":"","bib":"","title":"Learning from Rules Generalizing Labeled Exemplars.","url":""}
+{"author":"","bib":"","title":"Directional Message Passing for Molecular Graphs.","url":""}
+{"author":"","bib":"","title":"Explanation by Progressive Exaggeration.","url":""}
+{"author":"","bib":"","title":"Compression based bound for non-compressed network: unified generalization error analysis of large compressible deep neural network.","url":""}
+{"author":"","bib":"","title":"At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?","url":""}
+{"author":"","bib":"","title":"Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN).","url":""}
+{"author":"","bib":"","title":"Kaleidoscope: An Efficient, Learnable Representation For All Structured Linear Maps.","url":""}
+{"author":"","bib":"","title":"Improving Generalization in Meta Reinforcement Learning using Learned Objectives.","url":""}
+{"author":"","bib":"","title":"Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks.","url":""}
+{"author":"","bib":"","title":"Truth or backpropaganda? An empirical investigation of deep learning theory.","url":""}
+{"author":"","bib":"","title":"Neural Arithmetic Units.","url":""}
+{"author":"","bib":"","title":"DeepSphere: a graph-based spherical CNN.","url":""}
+{"author":"","bib":"","title":"SUMO: Unbiased Estimation of Log Marginal Probability for Latent Variable Models.","url":""}
+{"author":"","bib":"","title":"Deep Learning For Symbolic Mathematics.","url":""}
+{"author":"","bib":"","title":"Making Sense of Reinforcement Learning and Probabilistic Inference.","url":""}
+{"author":"","bib":"","title":"Unbiased Contrastive Divergence Algorithm for Training Energy-Based Latent Variable Models.","url":""}
+{"author":"","bib":"","title":"A Mutual Information Maximization Perspective of Language Representation Learning.","url":""}
+{"author":"","bib":"","title":"Energy-based models for atomic-resolution protein conformations.","url":""}
+{"author":"","bib":"","title":"Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem.","url":""}
+{"author":"","bib":"","title":"Generalization of Two-layer Neural Networks: An Asymptotic Viewpoint.","url":""}
+{"author":"","bib":"","title":"Reconstructing continuous distributions of 3D protein structure from cryo-EM images.","url":""}
+{"author":"","bib":"","title":"Progressive Learning and Disentanglement of Hierarchical Representations.","url":""}
+{"author":"","bib":"","title":"An Exponential Learning Rate Schedule for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Geom-GCN: Geometric Graph Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning.","url":""}
+{"author":"","bib":"","title":"BackPACK: Packing more into Backprop.","url":""}
+{"author":"","bib":"","title":"GenDICE: Generalized Offline Estimation of Stationary Values.","url":""}
+{"author":"","bib":"","title":"Principled Weight Initialization for Hypernetworks.","url":""}
+{"author":"","bib":"","title":"On the Convergence of FedAvg on Non-IID Data.","url":""}
+{"author":"","bib":"","title":"Data-dependent Gaussian Prior Objective for Language Generation.","url":""}
+{"author":"","bib":"","title":"Contrastive Learning of Structured World Models.","url":""}
+{"author":"","bib":"","title":"Neural Network Branching for Neural Network Verification.","url":""}
+{"author":"","bib":"","title":"Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity.","url":""}
+{"author":"","bib":"","title":"Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information.","url":""}
+{"author":"","bib":"","title":"Mogrifier LSTM.","url":""}
+{"author":"","bib":"","title":"Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech.","url":""}
+{"author":"","bib":"","title":"Mirror-Generative Neural Machine Translation.","url":""}
+{"author":"","bib":"","title":"Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning.","url":""}
+{"author":"","bib":"","title":"Your classifier is secretly an energy based model and you should treat it like one.","url":""}
+{"author":"","bib":"","title":"Dynamics-Aware Unsupervised Discovery of Skills.","url":""}
+{"author":"","bib":"","title":"Optimal Strategies Against Generative Attacks.","url":""}
+{"author":"","bib":"","title":"GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding.","url":""}
+{"author":"","bib":"","title":"Harnessing Structures for Value-Based Planning and Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Comparing Rewinding and Fine-tuning in Neural Network Pruning.","url":""}
+{"author":"","bib":"","title":"Meta-Q-Learning.","url":""}
+{"author":"","bib":"","title":"Mathematical Reasoning in Latent Space.","url":""}
+{"author":"","bib":"","title":"A Theory of Usable Information under Computational Constraints.","url":""}
+{"author":"","bib":"","title":"Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning.","url":""}
+{"author":"","bib":"","title":"Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.","url":""}
+{"author":"","bib":"","title":"Understanding and Robustifying Differentiable Architecture Search.","url":""}
+{"author":"","bib":"","title":"A Closer Look at Deep Policy Gradients.","url":""}
+{"author":"","bib":"","title":"Implementation Matters in Deep RL: A Case Study on PPO and TRPO.","url":""}
+{"author":"","bib":"","title":"Fast Task Inference with Variational Intrinsic Successor Features.","url":""}
+{"author":"","bib":"","title":"Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks.","url":""}
+{"author":"","bib":"","title":"RNA Secondary Structure Prediction By Learning Unrolled Algorithms.","url":""}
+{"author":"","bib":"","title":"Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search.","url":""}
+{"author":"","bib":"","title":"Target-Embedding Autoencoders for Supervised Representation Learning.","url":""}
+{"author":"","bib":"","title":"Reformer: The Efficient Transformer.","url":""}
+{"author":"","bib":"","title":"Rotation-invariant clustering of neuronal responses in primary visual cortex.","url":""}
+{"author":"","bib":"","title":"Causal Discovery with Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Intrinsically Motivated Discovery of Diverse Patterns in Self-Organizing Systems.","url":""}
+{"author":"","bib":"","title":"Restricting the Flow: Information Bottlenecks for Attribution.","url":""}
+{"author":"","bib":"","title":"Building Deep Equivariant Capsule Networks.","url":""}
+{"author":"","bib":"","title":"A Generalized Training Approach for Multiagent Learning.","url":""}
+{"author":"","bib":"","title":"High Fidelity Speech Synthesis with Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference.","url":""}
+{"author":"","bib":"","title":"Meta-Learning with Warped Gradient Descent.","url":""}
+{"author":"","bib":"","title":"Convolutional Conditional Neural Processes.","url":""}
+{"author":"","bib":"","title":"Gradient Descent Maximizes the Margin of Homogeneous Neural Networks.","url":""}
+{"author":"","bib":"","title":"Adversarial Training and Provable Defenses: Bridging the Gap.","url":""}
+{"author":"","bib":"","title":"Differentiable Reasoning over a Virtual Knowledge Base.","url":""}
+{"author":"","bib":"","title":"Federated Learning with Matched Averaging.","url":""}

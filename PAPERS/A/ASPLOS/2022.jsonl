@@ -1,0 +1,81 @@
+{"author":"","bib":"","title":"ASPLOS '22: 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Lausanne, Switzerland, 28 February 2022 - 4 March 2022","url":""}
+{"author":"","bib":"","title":"TaskStream: accelerating task-parallel workloads by recovering program structure","url":""}
+{"author":"","bib":"","title":"DOTA: detect and omit weak attentions for scalable transformer acceleration","url":""}
+{"author":"","bib":"","title":"A full-stack search technique for domain optimized deep learning accelerators","url":""}
+{"author":"","bib":"","title":"FINGERS: exploiting fine-grained parallelism in graph mining accelerators","url":""}
+{"author":"","bib":"","title":"BiSon-e: a lightweight and high-performance accelerator for narrow integer linear algebra computing on the edge","url":""}
+{"author":"","bib":"","title":"Software-defined address mapping: a case on 3D memory","url":""}
+{"author":"","bib":"","title":"Parallel virtualized memory translation with nested elastic cuckoo page tables","url":""}
+{"author":"","bib":"","title":"CARAT CAKE: replacing paging via compiler/kernel cooperation","url":""}
+{"author":"","bib":"","title":"NVAlloc: rethinking heap metadata management in persistent memory allocators","url":""}
+{"author":"","bib":"","title":"Every walk's a hit: making page walks single-access cache hits","url":""}
+{"author":"","bib":"","title":"GPM: leveraging persistent memory from a GPU","url":""}
+{"author":"","bib":"","title":"GPUReplay: a 50-KB GPU stack for client ML","url":""}
+{"author":"","bib":"","title":"ValueExpert: exploring value patterns in GPU-accelerated applications","url":""}
+{"author":"","bib":"","title":"SparseCore: stream ISA and processor specialization for sparse computation","url":""}
+{"author":"","bib":"","title":"JSONSki: streaming semi-structured data with bit-parallel fast-forwarding","url":""}
+{"author":"","bib":"","title":"MineSweeper: a \"clean sweep\" for drop-in use-after-free prevention","url":""}
+{"author":"","bib":"","title":"Revizor: testing black-box CPUs against speculation contracts","url":""}
+{"author":"","bib":"","title":"Protecting adaptive sampling from information leakage on low-power sensors","url":""}
+{"author":"","bib":"","title":"One size does not fit all: security hardening of MIPS embedded systems via static binary debloating for shared libraries","url":""}
+{"author":"","bib":"","title":"ViK: practical mitigation of temporal memory safety violations through object ID inspection","url":""}
+{"author":"","bib":"","title":"Eavesdropping user credentials via GPU side channels on smartphones","url":""}
+{"author":"","bib":"","title":"CRISP: critical slice prefetching","url":""}
+{"author":"","bib":"","title":"Pinned loads: taming speculative loads in secure processors","url":""}
+{"author":"","bib":"","title":"DAGguise: mitigating memory timing side channels","url":""}
+{"author":"","bib":"","title":"RecShard: statistical feature-based memory optimization for industry-scale neural recommendation","url":""}
+{"author":"","bib":"","title":"AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures","url":""}
+{"author":"","bib":"","title":"NASPipe: high performance and reproducible pipeline parallel supernet training via causal synchronous parallelism","url":""}
+{"author":"","bib":"","title":"VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling","url":""}
+{"author":"","bib":"","title":"Breaking the computation and communication abstraction barrier in distributed machine learning workloads","url":""}
+{"author":"","bib":"","title":"Clio: a hardware-software co-designed disaggregated memory system","url":""}
+{"author":"","bib":"","title":"Enzian: an open, general, CPU/FPGA platform for systems software research","url":""}
+{"author":"","bib":"","title":"Efficient and scalable core multiplexing with M³v","url":""}
+{"author":"","bib":"","title":"FlexOS: towards flexible OS isolation","url":""}
+{"author":"","bib":"","title":"Adelie: continuous address space layout re-randomization for Linux drivers","url":""}
+{"author":"","bib":"","title":"Suppressing ZZ crosstalk of Quantum computers through pulse and scheduling co-optimization","url":""}
+{"author":"","bib":"","title":"QUEST: systematically approximating Quantum circuits for higher output fidelity","url":""}
+{"author":"","bib":"","title":"HAMMER: boosting fidelity of noisy Quantum circuits by exploiting Hamming behavior of erroneous outcomes","url":""}
+{"author":"","bib":"","title":"LILLIPUT: a lightweight low-latency lookup-table decoder for near-term Quantum error correction","url":""}
+{"author":"","bib":"","title":"Paulihedral: a generalized block-wise compiler optimization framework for Quantum simulation kernels","url":""}
+{"author":"","bib":"","title":"Astraea: towards QoS-aware and resource-efficient multi-stage GPU services","url":""}
+{"author":"","bib":"","title":"Memory-harvesting VMs in cloud platforms","url":""}
+{"author":"","bib":"","title":"IOCost: block IO control for containers in datacenters","url":""}
+{"author":"","bib":"","title":"TMO: transparent memory offloading in datacenters","url":""}
+{"author":"","bib":"","title":"SOL: safe on-node learning in cloud platforms","url":""}
+{"author":"","bib":"","title":"GenStore: a high-performance in-storage processing system for genome sequence analysis","url":""}
+{"author":"","bib":"","title":"ProSE: the architecture and design of a protein discovery engine","url":""}
+{"author":"","bib":"","title":"A one-for-all and o(v log(v ))-cost solution for parallel merge style operations on sorted key-value arrays","url":""}
+{"author":"","bib":"","title":"Client-optimized algorithms and acceleration for encrypted compute offloading","url":""}
+{"author":"","bib":"","title":"Finding missed optimizations through the lens of dead code elimination","url":""}
+{"author":"","bib":"","title":"A tree clock data structure for causal orderings in concurrent executions","url":""}
+{"author":"","bib":"","title":"RSSD: defend against ransomware with hardware-isolated network-storage codesign and post-attack analysis","url":""}
+{"author":"","bib":"","title":"Creating concise and efficient dynamic analyses with ALDA","url":""}
+{"author":"","bib":"","title":"IceBreaker: warming serverless functions better with heterogeneity","url":""}
+{"author":"","bib":"","title":"INFless: a native serverless system for low-latency, high-throughput inference","url":""}
+{"author":"","bib":"","title":"FaaSFlow: enable efficient workflow execution for function-as-a-service","url":""}
+{"author":"","bib":"","title":"Serverless computing on heterogeneous computers","url":""}
+{"author":"","bib":"","title":"CoolEdge: hotspot-relievable warm water cooling for energy-efficient edge datacenters","url":""}
+{"author":"","bib":"","title":"Yashme: detecting persistency races","url":""}
+{"author":"","bib":"","title":"EXAMINER: automatically locating inconsistent instructions between real devices and CPU emulators for ARM","url":""}
+{"author":"","bib":"","title":"Path-sensitive and alias-aware typestate analysis for detecting OS bugs","url":""}
+{"author":"","bib":"","title":"Efficiently detecting concurrency bugs in persistent memory programs","url":""}
+{"author":"","bib":"","title":"Who goes first? detecting go concurrency bugs via message reordering","url":""}
+{"author":"","bib":"","title":"CryoWire: wire-driven microarchitecture designs for cryogenic computing","url":""}
+{"author":"","bib":"","title":"REVAMP: a systematic framework for heterogeneous CGRA realization","url":""}
+{"author":"","bib":"","title":"PLD: fast FPGA compilation to make reconfigurable acceleration compatible with modern incremental refinement software development","url":""}
+{"author":"","bib":"","title":"Debugging in the brave new world of reconfigurable hardware","url":""}
+{"author":"","bib":"","title":"Temporal and SFQ pulse-streams encoding for area-efficient superconducting accelerators","url":""}
+{"author":"","bib":"","title":"Understanding and exploiting optimal function inlining","url":""}
+{"author":"","bib":"","title":"CirFix: automatically repairing defects in hardware design code","url":""}
+{"author":"","bib":"","title":"Vector instruction selection for digital signal processors using program synthesis","url":""}
+{"author":"","bib":"","title":"HeteroGen: transpiling C to heterogeneous HLS code with automated test generation and program repair","url":""}
+{"author":"","bib":"","title":"Tree traversal synthesis using domain-specific symbolic compilation","url":""}
+{"author":"","bib":"","title":"SRAM has no chill: exploiting power domain separation to steal on-chip secrets","url":""}
+{"author":"","bib":"","title":"Randomized row-swap: mitigating Row Hammer by breaking spatial correlation between aggressor and victim rows","url":""}
+{"author":"","bib":"","title":"ShEF: shielded enclaves for cloud FPGAs","url":""}
+{"author":"","bib":"","title":"Invisible bits: hiding secret messages in SRAM's analog domain","url":""}
+{"author":"","bib":"","title":"Taurus: a data plane architecture for per-packet ML","url":""}
+{"author":"","bib":"","title":"FlexDriver: a network driver for your accelerator","url":""}
+{"author":"","bib":"","title":"The benefits of general-purpose on-NIC memory","url":""}
+{"author":"","bib":"","title":"Domain specific run time optimization for software data planes","url":""}

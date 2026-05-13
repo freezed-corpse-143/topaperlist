@@ -1,0 +1,68 @@
+{"author":"","bib":"","title":"Proceedings of the 2022 USENIX Annual Technical Conference, USENIX ATC 2022, Carlsbad, CA, USA, July 11-13, 2022","url":""}
+{"author":"","bib":"","title":"Surprise-Inspired Networking","url":""}
+{"author":"","bib":"","title":"ZNSwap: un-Block your Swap","url":""}
+{"author":"","bib":"","title":"Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio","url":""}
+{"author":"","bib":"","title":"Secure and Lightweight Deduplicated Storage via Shielded Deduplication-Before-Encryption","url":""}
+{"author":"","bib":"","title":"RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing","url":""}
+{"author":"","bib":"","title":"Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing","url":""}
+{"author":"","bib":"","title":"RRC: Responsive Replicated Containers","url":""}
+{"author":"","bib":"","title":"uKharon: A Membership Service for Microsecond Applications","url":""}
+{"author":"","bib":"","title":"KRCORE: A Microsecond-scale RDMA Control Plane for Elastic Computing","url":""}
+{"author":"","bib":"","title":"Zero-Change Object Transmission for Distributed Big Data Analytics","url":""}
+{"author":"","bib":"","title":"Sift: Using Refinement-guided Automation to Verify Complex Distributed Systems","url":""}
+{"author":"","bib":"","title":"Faith: An Efficient Framework for Transformer Verification on GPUs","url":""}
+{"author":"","bib":"","title":"DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs","url":""}
+{"author":"","bib":"","title":"Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing","url":""}
+{"author":"","bib":"","title":"PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training","url":""}
+{"author":"","bib":"","title":"Privbox: Faster System Calls Through Sandboxed Privileged Execution","url":""}
+{"author":"","bib":"","title":"BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling","url":""}
+{"author":"","bib":"","title":"Sibylla: To Retry or Not To Retry on Deep Learning Job Failure","url":""}
+{"author":"","bib":"","title":"Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage","url":""}
+{"author":"","bib":"","title":"Direct Access, High-Performance Memory Disaggregation with DirectCXL","url":""}
+{"author":"","bib":"","title":"Not that Simple: Email Delivery in the 21st Century","url":""}
+{"author":"","bib":"","title":"AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System","url":""}
+{"author":"","bib":"","title":"Co-opting Linux Processes for High-Performance Network Simulation","url":""}
+{"author":"","bib":"","title":"KSG: Augmenting Kernel Fuzzing with System Call Specification Generation","url":""}
+{"author":"","bib":"","title":"DLOS: Effective Static Detection of Deadlocks in OS Kernels","url":""}
+{"author":"","bib":"","title":"Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models","url":""}
+{"author":"","bib":"","title":"Eric Brewer, VP Infrastructure, Google Fellow and Professor Emeritus, UC Berkeley","url":""}
+{"author":"","bib":"","title":"SoftTRR: Protect Page Tables against Rowhammer Attacks using Software-only Target Row Refresh","url":""}
+{"author":"","bib":"","title":"Hardening Hypervisors with Ombro","url":""}
+{"author":"","bib":"","title":"HyperEnclave: An Open and Cross-platform Trusted Execution Environment","url":""}
+{"author":"","bib":"","title":"PRIDWEN: Universally Hardening SGX Programs via Load-Time Synthesis","url":""}
+{"author":"","bib":"","title":"Tetris: Memory-efficient Serverless Inference through Tensor Sharing","url":""}
+{"author":"","bib":"","title":"PetS: A Unified Framework for Parameter-Efficient Transformers Serving","url":""}
+{"author":"","bib":"","title":"Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training","url":""}
+{"author":"","bib":"","title":"Primo: Practical Learning-Augmented Systems with Interpretable Models","url":""}
+{"author":"","bib":"","title":"Meces: Latency-efficient Rescaling via Prioritized State Migration for Stateful Distributed Stream Processing Systems","url":""}
+{"author":"","bib":"","title":"DepFast: Orchestrating Code of Quorum Systems","url":""}
+{"author":"","bib":"","title":"High Throughput Replication with Integrated Membership Management","url":""}
+{"author":"","bib":"","title":"CBMM: Financial Advice for Kernel Memory Managers","url":""}
+{"author":"","bib":"","title":"EPK: Scalable and Efficient Memory Protection Keys","url":""}
+{"author":"","bib":"","title":"Memory Harvesting in Multi-GPU Systems with Hierarchical Unified Virtual Memory","url":""}
+{"author":"","bib":"","title":"Zero Overhead Monitoring for Cloud-native Infrastructure using RDMA","url":""}
+{"author":"","bib":"","title":"CRISP: Critical Path Analysis of Large-Scale Microservice Architectures","url":""}
+{"author":"","bib":"","title":"Whale: Efficient Giant Model Training over Heterogeneous GPUs","url":""}
+{"author":"","bib":"","title":"Cachew: Machine Learning Input Data Processing as a Service","url":""}
+{"author":"","bib":"","title":"CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics","url":""}
+{"author":"","bib":"","title":"SOTER: Guarding Black-box Inference for General Neural Networks at the Edge","url":""}
+{"author":"","bib":"","title":"IPLFS: Log-Structured File System without Garbage Collection","url":""}
+{"author":"","bib":"","title":"Vigil-KV: Hardware-Software Co-Design to Integrate Strong Latency Determinism into Log-Structured Merge Key-Value Stores","url":""}
+{"author":"","bib":"","title":"Pacman: An Efficient Compaction Approach for Log-Structured Key-Value Store on Persistent Memory","url":""}
+{"author":"","bib":"","title":"Towards Latency Awareness for Content Delivery Network Caching","url":""}
+{"author":"","bib":"","title":"Hashing Design in Modern Networks: Challenges and Mitigation Techniques","url":""}
+{"author":"","bib":"","title":"Firebolt: Finding Bugs in Programmable Data Plane Generators","url":""}
+{"author":"","bib":"","title":"Margaret Martonosi, National Science Foundation","url":""}
+{"author":"","bib":"","title":"Investigating Managed Language Runtime Performance: Why JavaScript and Python are 8x and 29x slower than C++, yet Java and Go can be Faster?","url":""}
+{"author":"","bib":"","title":"Automatic Recovery of Fine-grained Compiler Artifacts at the Binary Level","url":""}
+{"author":"","bib":"","title":"JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud","url":""}
+{"author":"","bib":"","title":"Riker: Always-Correct and Fast Incremental Builds from Simple Specifications","url":""}
+{"author":"","bib":"","title":"FlatFS: Flatten Hierarchical File System Namespace on Non-volatile Memories","url":""}
+{"author":"","bib":"","title":"StRAID: Stripe-threaded Architecture for Parity-based RAIDs with Ultra-fast SSDs","url":""}
+{"author":"","bib":"","title":"Vinter: Automatic Non-Volatile Memory Crash Consistency Testing for Full Systems","url":""}
+{"author":"","bib":"","title":"AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing","url":""}
+{"author":"","bib":"","title":"FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs","url":""}
+{"author":"","bib":"","title":"Faster Software Packet Processing on FPGA NICs with eBPF Program Warping","url":""}
+{"author":"","bib":"","title":"NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow","url":""}
+{"author":"","bib":"","title":"CacheSack: Admission Optimization for Google Datacenter Flash Caches","url":""}
+{"author":"","bib":"","title":"Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service","url":""}

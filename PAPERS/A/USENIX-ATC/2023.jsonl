@@ -1,0 +1,66 @@
+{"author":"","bib":"","title":"Proceedings of the 2023 USENIX Annual Technical Conference, USENIX ATC 2023, Boston, MA, USA, July 10-12, 2023","url":""}
+{"author":"","bib":"","title":"Bifrost: Analysis and Optimization of Network I/O Tax in Confidential Virtual Machines","url":""}
+{"author":"","bib":"","title":"SecretFlow-SPU: A Performant and User-Friendly Framework for Privacy-Preserving Machine Learning","url":""}
+{"author":"","bib":"","title":"Portunus: Re-imagining Access Control in Distributed Systems","url":""}
+{"author":"","bib":"","title":"GLogS: Interactive Graph Pattern Matching Query At Large Scale","url":""}
+{"author":"","bib":"","title":"Cyclosa: Redundancy-Free Graph Pattern Mining via Set Dataflow","url":""}
+{"author":"","bib":"","title":"SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks","url":""}
+{"author":"","bib":"","title":"Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems","url":""}
+{"author":"","bib":"","title":"TiDedup: A New Distributed Deduplication Architecture for Ceph","url":""}
+{"author":"","bib":"","title":"LoopDelta: Embedding Locality-aware Opportunistic Delta Compression in Inline Deduplication for Highly Efficient Data Reduction","url":""}
+{"author":"","bib":"","title":"TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs","url":""}
+{"author":"","bib":"","title":"Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training","url":""}
+{"author":"","bib":"","title":"Bridging the Gap between Relational OLTP and Graph-based OLAP","url":""}
+{"author":"","bib":"","title":"Comosum: An Extensible, Reconfigurable, and Fault-Tolerant IoT Platform for Digital Agriculture","url":""}
+{"author":"","bib":"","title":"Oakestra: A Lightweight Hierarchical Orchestration Framework for Edge Computing","url":""}
+{"author":"","bib":"","title":"Explore Data Placement Algorithm for Balanced Recovery Load Distribution","url":""}
+{"author":"","bib":"","title":"Luci: Loader-based Dynamic Software Updates for Off-the-shelf Shared Objects","url":""}
+{"author":"","bib":"","title":"MELF: Multivariant Executables for a Heterogeneous World","url":""}
+{"author":"","bib":"","title":"APRON: Authenticated and Progressive System Image Renovation","url":""}
+{"author":"","bib":"","title":"zpoline: a system call hook mechanism based on binary rewriting","url":""}
+{"author":"","bib":"","title":"Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks","url":""}
+{"author":"","bib":"","title":"On-demand Container Loading in AWS Lambda","url":""}
+{"author":"","bib":"","title":"Decentralized and Stateful Serverless Computing on the Internet Computer Blockchain","url":""}
+{"author":"","bib":"","title":"Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis","url":""}
+{"author":"","bib":"","title":"AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure","url":""}
+{"author":"","bib":"","title":"Avoiding the Ordering Trap in Systems Performance Measurement","url":""}
+{"author":"","bib":"","title":"AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems","url":""}
+{"author":"","bib":"","title":"Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters","url":""}
+{"author":"","bib":"","title":"Lifting the veil on Meta's microservice architecture: Analyses of topology and request workflows","url":""}
+{"author":"","bib":"","title":"Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training","url":""}
+{"author":"","bib":"","title":"Calcspar: A Contract-Aware LSM Store for Cloud Storage with Low Latency Spikes","url":""}
+{"author":"","bib":"","title":"Adaptive Online Cache Capacity Optimization via Lightweight Working Set Size Estimation at Scale","url":""}
+{"author":"","bib":"","title":"SAGE: Software-based Attestation for GPU Execution","url":""}
+{"author":"","bib":"","title":"Confidential Computing within an AI Accelerator","url":""}
+{"author":"","bib":"","title":"Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators","url":""}
+{"author":"","bib":"","title":"oBBR: Optimize Retransmissions of BBR Flows on the Internet","url":""}
+{"author":"","bib":"","title":"Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective","url":""}
+{"author":"","bib":"","title":"FarReach: Write-back Caching in Programmable Switches","url":""}
+{"author":"","bib":"","title":"CXL-ANNS: Software-Hardware Collaborative Memory Disaggregation and Computation for Billion-Scale Approximate Nearest Neighbor Search","url":""}
+{"author":"","bib":"","title":"Overcoming the Memory Wall with CXL-Enabled SSDs","url":""}
+{"author":"","bib":"","title":"STYX: Exploiting SmartNIC Capability to Reduce Datacenter Memory Tax","url":""}
+{"author":"","bib":"","title":"Change Management in Physical Network Lifecycle Automation","url":""}
+{"author":"","bib":"","title":"AAsclepius: Monitoring, Diagnosing, and Detouring at the Internet Peering Edge","url":""}
+{"author":"","bib":"","title":"Deploying User-space TCP at Cloud Scale with LUNA","url":""}
+{"author":"","bib":"","title":"RubbleDB: CPU-Efficient Replication with NVMe-oF","url":""}
+{"author":"","bib":"","title":"Distributed Transactions at Scale in Amazon DynamoDB","url":""}
+{"author":"","bib":"","title":"Prefix Siphoning: Exploiting LSM-Tree Range Filters For Information Disclosure","url":""}
+{"author":"","bib":"","title":"EPF: Evil Packet Filter","url":""}
+{"author":"","bib":"","title":"Translation Pass-Through for Near-Native Paging Performance in VMs","url":""}
+{"author":"","bib":"","title":"Efficient Memory Overcommitment for I/O Passthrough Enabled VMs via Fine-grained Page Meta-data Management","url":""}
+{"author":"","bib":"","title":"LPNS: Scalable and Latency-Predictable Local Storage Virtualization for Unpredictable NVMe SSDs in Clouds","url":""}
+{"author":"","bib":"","title":"P2CACHE: Exploring Tiered Memory for In-Kernel File Systems Caching","url":""}
+{"author":"","bib":"","title":"Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory","url":""}
+{"author":"","bib":"","title":"Zhuque: Failure is Not an Option, it's an Exception","url":""}
+{"author":"","bib":"","title":"EnvPipe: Performance-preserving DNN Training Framework for Saving Energy","url":""}
+{"author":"","bib":"","title":"Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices","url":""}
+{"author":"","bib":"","title":"UnFaaSener: Latency and Cost Aware Offloading of Functions from Serverless Platforms","url":""}
+{"author":"","bib":"","title":"LLFree: Scalable and Optionally-Persistent Page-Frame Allocation","url":""}
+{"author":"","bib":"","title":"SingularFS: A Billion-Scale Distributed File System Using a Single Metadata Server","url":""}
+{"author":"","bib":"","title":"The Hitchhiker's Guide to Operating Systems","url":""}
+{"author":"","bib":"","title":"Accelerating Distributed MoE Training and Inference with Lina","url":""}
+{"author":"","bib":"","title":"SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization","url":""}
+{"author":"","bib":"","title":"MSRL: Distributed Reinforcement Learning with Dataflow Fragments","url":""}
+{"author":"","bib":"","title":"Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent","url":""}
+{"author":"","bib":"","title":"Towards Iterative Relational Algebra on the GPU","url":""}
+{"author":"","bib":"","title":"VectorVisor: A Binary Translation Scheme for Throughput-Oriented GPU Acceleration","url":""}

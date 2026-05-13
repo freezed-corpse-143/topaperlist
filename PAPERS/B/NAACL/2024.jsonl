@@ -1,0 +1,859 @@
+{"author":"","bib":"","title":"Named Entity Recognition Under Domain Shift via Metric Learning for Life Sciences","url":""}
+{"author":"","bib":"","title":"Text Diffusion Model with Encoder-Decoder Transformers for Sequence-to-Sequence Generation","url":""}
+{"author":"","bib":"","title":"An Interactive Framework for Profiling News Media Sources","url":""}
+{"author":"","bib":"","title":"Assessing Logical Puzzle Solving in Large Language Models: Insights from a Minesweeper Case Study","url":""}
+{"author":"","bib":"","title":"TelME: Teacher-leading Multimodal Fusion Network for Emotion Recognition in Conversation","url":""}
+{"author":"","bib":"","title":"Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries","url":""}
+{"author":"","bib":"","title":"Promptly Predicting Structures: The Return of Inference","url":""}
+{"author":"","bib":"","title":"On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL","url":""}
+{"author":"","bib":"","title":"Extractive Summarization with Text Generator","url":""}
+{"author":"","bib":"","title":"Self-generated Replay Memories for Continual Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models","url":""}
+{"author":"","bib":"","title":"Building Knowledge-Guided Lexica to Model Cultural Variation","url":""}
+{"author":"","bib":"","title":"Adaptive Rank Selections for Low-Rank Approximation of Language Models","url":""}
+{"author":"","bib":"","title":"An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation","url":""}
+{"author":"","bib":"","title":"Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration","url":""}
+{"author":"","bib":"","title":"FPT: Feature Prompt Tuning for Few-shot Readability Assessment","url":""}
+{"author":"","bib":"","title":"Self-Prompting Large Language Models for Zero-Shot Open-Domain QA","url":""}
+{"author":"","bib":"","title":"Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?","url":""}
+{"author":"","bib":"","title":"$k$NN-ICL: Compositional Task-Oriented Parsing Generalization with Nearest Neighbor In-Context Learning","url":""}
+{"author":"","bib":"","title":"ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems","url":""}
+{"author":"","bib":"","title":"DEMO: A Statistical Perspective for Efficient Image-Text Matching","url":""}
+{"author":"","bib":"","title":"SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning","url":""}
+{"author":"","bib":"","title":"Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision","url":""}
+{"author":"","bib":"","title":"LLMs Are Few-Shot In-Context Low-Resource Language Learners","url":""}
+{"author":"","bib":"","title":"Simple and effective data augmentation for compositional generalization","url":""}
+{"author":"","bib":"","title":"Rethinking Tabular Data Understanding with Large Language Models","url":""}
+{"author":"","bib":"","title":"From Shortcuts to Triggers: Backdoor Defense with Denoised PoE","url":""}
+{"author":"","bib":"","title":"BookSQL: A Large Scale Text-to-SQL Dataset for Accounting Domain","url":""}
+{"author":"","bib":"","title":"FLAP: Flow-Adhering Planning with Constrained Decoding in LLMs","url":""}
+{"author":"","bib":"","title":"DuRE: Dual Contrastive Self Training for Semi-Supervised Relation Extraction","url":""}
+{"author":"","bib":"","title":"Query-Efficient Textual Adversarial Example Generation for Black-Box Attacks","url":""}
+{"author":"","bib":"","title":"Embrace Divergence for Richer Insights: A Multi-document Summarization Benchmark and a Case Study on Summarizing Diverse Information from News Articles","url":""}
+{"author":"","bib":"","title":"AMRFact: Enhancing Summarization Factuality Evaluation with AMR-Driven Negative Samples Generation","url":""}
+{"author":"","bib":"","title":"PILOT: Legal Case Outcome Prediction with Case Law","url":""}
+{"author":"","bib":"","title":"ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models","url":""}
+{"author":"","bib":"","title":"R-Spin: Efficient Speaker and Noise-invariant Representation Learning with Acoustic Pieces","url":""}
+{"author":"","bib":"","title":"InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions","url":""}
+{"author":"","bib":"","title":"Language Agnostic Code Embeddings","url":""}
+{"author":"","bib":"","title":"An Examination of the Compositionality of Large Generative Vision-Language Models","url":""}
+{"author":"","bib":"","title":"Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors","url":""}
+{"author":"","bib":"","title":"VertAttack: Taking Advantage of Text Classifiers’ Horizontal Vision","url":""}
+{"author":"","bib":"","title":"KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning","url":""}
+{"author":"","bib":"","title":"The taste of IPA: Towards open-vocabulary keyword spotting and forced alignment in any language","url":""}
+{"author":"","bib":"","title":"Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks","url":""}
+{"author":"","bib":"","title":"BeLLM: Backward Dependency Enhanced Large Language Model for Sentence Embeddings","url":""}
+{"author":"","bib":"","title":"Assessing Factual Reliability of Large Language Model Knowledge","url":""}
+{"author":"","bib":"","title":"Dial-MAE: ConTextual Masked Auto-Encoder for Retrieval-based Dialogue Systems","url":""}
+{"author":"","bib":"","title":"Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model","url":""}
+{"author":"","bib":"","title":"Create! Don’t Repeat: A Paradigm Shift in Multi-Label Augmentation through Label Creative Generation","url":""}
+{"author":"","bib":"","title":"Neurocache: Efficient Vector Retrieval for Long-range Language Modeling","url":""}
+{"author":"","bib":"","title":"Unveiling the Generalization Power of Fine-Tuned Large Language Models","url":""}
+{"author":"","bib":"","title":"A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning","url":""}
+{"author":"","bib":"","title":"Exploring Self-supervised Logic-enhanced Training for Large Language Models","url":""}
+{"author":"","bib":"","title":"MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning","url":""}
+{"author":"","bib":"","title":"CoUDA: Coherence Evaluation via Unified Data Augmentation","url":""}
+{"author":"","bib":"","title":"mEdIT: Multilingual Text Editing via Instruction Tuning","url":""}
+{"author":"","bib":"","title":"Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning","url":""}
+{"author":"","bib":"","title":"In-context Learning and Gradient Descent Revisited","url":""}
+{"author":"","bib":"","title":"Corpus Considerations for Annotator Modeling and Scaling","url":""}
+{"author":"","bib":"","title":"On Large Language Models’ Hallucination with Regard to Known Facts","url":""}
+{"author":"","bib":"","title":"One-Size-Fits-All? Examining Expectations around What Constitute “Fair” or “Good” NLG System Behaviors","url":""}
+{"author":"","bib":"","title":"Language Models Hallucinate, but May Excel at Fact Verification","url":""}
+{"author":"","bib":"","title":"A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution","url":""}
+{"author":"","bib":"","title":"TrojFSP: Trojan Insertion in Few-shot Prompt Tuning","url":""}
+{"author":"","bib":"","title":"Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models","url":""}
+{"author":"","bib":"","title":"X-PARADE: Cross-Lingual Textual Entailment and Information Divergence across Paragraphs","url":""}
+{"author":"","bib":"","title":"Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers","url":""}
+{"author":"","bib":"","title":"$E^5$: Zero-shot Hierarchical Table Analysis using Augmented LLMs via Explain, Extract, Execute, Exhibit and Extrapolate","url":""}
+{"author":"","bib":"","title":"S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Model","url":""}
+{"author":"","bib":"","title":"MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning","url":""}
+{"author":"","bib":"","title":"Visual Grounding Helps Learn Word Meanings in Low-Data Regimes","url":""}
+{"author":"","bib":"","title":"Accurate Knowledge Distillation via n-best Reranking","url":""}
+{"author":"","bib":"","title":"AutoPRM: Automating Procedural Supervision for Multi-Step Reasoning via Controllable Question Decomposition","url":""}
+{"author":"","bib":"","title":"SEMQA: Semi-Extractive Multi-Source Question Answering","url":""}
+{"author":"","bib":"","title":"Fine-Tuning Language Models with Reward Learning on Policy","url":""}
+{"author":"","bib":"","title":"A Universal Dependencies Treebank for Highland Puebla Nahuatl","url":""}
+{"author":"","bib":"","title":"COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances","url":""}
+{"author":"","bib":"","title":"IterAlign: Iterative Constitutional Alignment of Large Language Models","url":""}
+{"author":"","bib":"","title":"OrchestraLLM: Efficient Orchestration of Language Models for Dialogue State Tracking","url":""}
+{"author":"","bib":"","title":"Multi-Operational Mathematical Derivations in Latent Space","url":""}
+{"author":"","bib":"","title":"Large Language Models Help Humans Verify Truthfulness – Except When They Are Convincingly Wrong","url":""}
+{"author":"","bib":"","title":"XferBench: a Data-Driven Benchmark for Emergent Language","url":""}
+{"author":"","bib":"","title":"Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation","url":""}
+{"author":"","bib":"","title":"A Symbolic Framework for Evaluating Mathematical Reasoning and Generalisation with Transformers","url":""}
+{"author":"","bib":"","title":"Identifying Linear Relational Concepts in Large Language Models","url":""}
+{"author":"","bib":"","title":"Benchmark Transparency: Measuring the Impact of Data on Evaluation","url":""}
+{"author":"","bib":"","title":"JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models","url":""}
+{"author":"","bib":"","title":"REST: Retrieval-Based Speculative Decoding","url":""}
+{"author":"","bib":"","title":"Sub-Sentence Encoder: Contrastive Learning of Propositional Semantic Representations","url":""}
+{"author":"","bib":"","title":"MSciNLI: A Diverse Benchmark for Scientific Natural Language Inference","url":""}
+{"author":"","bib":"","title":"Causal Inference for Human-Language Model Collaboration","url":""}
+{"author":"","bib":"","title":"SELF-GUARD: Empower the LLM to Safeguard Itself","url":""}
+{"author":"","bib":"","title":"COSIGN: Contextual Facts Guided Generation for Knowledge Graph Completion","url":""}
+{"author":"","bib":"","title":"Toward Informal Language Processing: Knowledge of Slang in Large Language Models","url":""}
+{"author":"","bib":"","title":"Ghostbuster: Detecting Text Ghostwritten by Large Language Models","url":""}
+{"author":"","bib":"","title":"End-to-End Beam Retrieval for Multi-Hop Question Answering","url":""}
+{"author":"","bib":"","title":"Leveraging Generative Large Language Models with Visual Instruction and Demonstration Retrieval for Multimodal Sarcasm Detection","url":""}
+{"author":"","bib":"","title":"Multi-Scale Prompt Memory-Augmented Model for Black-Box Scenarios","url":""}
+{"author":"","bib":"","title":"Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction","url":""}
+{"author":"","bib":"","title":"BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer","url":""}
+{"author":"","bib":"","title":"TISE: A Tripartite In-context Selection Method for Event Argument Extraction","url":""}
+{"author":"","bib":"","title":"Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks","url":""}
+{"author":"","bib":"","title":"TRUE-UIE: Two Universal Relations Unify Information Extraction Tasks","url":""}
+{"author":"","bib":"","title":"zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models","url":""}
+{"author":"","bib":"","title":"Embodied Executable Policy Learning with Language-based Scene Summarization","url":""}
+{"author":"","bib":"","title":"Metacognitive Prompting Improves Understanding in Large Language Models","url":""}
+{"author":"","bib":"","title":"MART: Improving LLM Safety with Multi-round Automatic Red-Teaming","url":""}
+{"author":"","bib":"","title":"DialogCC: An Automated Pipeline for Creating High-Quality Multi-Modal Dialogue Dataset","url":""}
+{"author":"","bib":"","title":"Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models","url":""}
+{"author":"","bib":"","title":"Automatic Generation of Model and Data Cards: A Step Towards Responsible AI","url":""}
+{"author":"","bib":"","title":"FUN with Fisher: Improving Generalization of Adapter-Based Cross-lingual Transfer with Scheduled Unfreezing","url":""}
+{"author":"","bib":"","title":"Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings","url":""}
+{"author":"","bib":"","title":"The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth","url":""}
+{"author":"","bib":"","title":"IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model","url":""}
+{"author":"","bib":"","title":"QualEval: Qualitative Evaluation for Model Improvement","url":""}
+{"author":"","bib":"","title":"Quantum-inspired Language Model with Lindblad Master Equation and Interference Measurement for Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"VisLingInstruct: Elevating Zero-Shot Learning in Multi-Modal Language Models with Autonomous Instruction Optimization","url":""}
+{"author":"","bib":"","title":"A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily","url":""}
+{"author":"","bib":"","title":"P$^3$Sum: Preserving Author’s Perspective in News Summarization with Diffusion Language Models","url":""}
+{"author":"","bib":"","title":"Bridging the Novice-Expert Gap via Models of Decision-Making: A Case Study on Remediating Math Mistakes","url":""}
+{"author":"","bib":"","title":"RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization","url":""}
+{"author":"","bib":"","title":"Strings from the Library of Babel: Random Sampling as a Strong Baseline for Prompt Optimisation","url":""}
+{"author":"","bib":"","title":"ReTA: Recursively Thinking Ahead to Improve the Strategic Reasoning of Large Language Models","url":""}
+{"author":"","bib":"","title":"Fact Checking Beyond Training Set","url":""}
+{"author":"","bib":"","title":"Program-Aided Reasoners (Better) Know What They Know","url":""}
+{"author":"","bib":"","title":"The Perspectivist Paradigm Shift: Assumptions and Challenges of Capturing Human Labels","url":""}
+{"author":"","bib":"","title":"Principles from Clinical Research for NLP Model Generalization","url":""}
+{"author":"","bib":"","title":"First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models","url":""}
+{"author":"","bib":"","title":"Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models","url":""}
+{"author":"","bib":"","title":"From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning","url":""}
+{"author":"","bib":"","title":"POLYIE: A Dataset of Information Extraction from Polymer Material Scientific Literature","url":""}
+{"author":"","bib":"","title":"LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination","url":""}
+{"author":"","bib":"","title":"SumTra: A Differentiable Pipeline for Few-Shot Cross-Lingual Summarization","url":""}
+{"author":"","bib":"","title":"KTRL+F: Knowledge-Augmented In-Document Search","url":""}
+{"author":"","bib":"","title":"How Well Do Large Language Models Truly Ground?","url":""}
+{"author":"","bib":"","title":"ALBA: Adaptive Language-Based Assessments for Mental Health","url":""}
+{"author":"","bib":"","title":"FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering","url":""}
+{"author":"","bib":"","title":"MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion","url":""}
+{"author":"","bib":"","title":"Efficient Benchmarking (of Language Models)","url":""}
+{"author":"","bib":"","title":"ReFACT: Updating Text-to-Image Models by Editing the Text Encoder","url":""}
+{"author":"","bib":"","title":"A Likelihood Ratio Test of Genetic Relationship among Languages","url":""}
+{"author":"","bib":"","title":"PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning","url":""}
+{"author":"","bib":"","title":"MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks","url":""}
+{"author":"","bib":"","title":"Unlocking Emergent Modularity in Large Language Models","url":""}
+{"author":"","bib":"","title":"A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality","url":""}
+{"author":"","bib":"","title":"Adjusting Interpretable Dimensions in Embedding Space with Human Judgments","url":""}
+{"author":"","bib":"","title":"PatentEval: Understanding Errors in Patent Generation","url":""}
+{"author":"","bib":"","title":"Contextual Refinement of Translations: Large Language Models for Sentence and Document-Level Post-Editing","url":""}
+{"author":"","bib":"","title":"Metaphor Detection with Context Enhancement and Curriculum Learning","url":""}
+{"author":"","bib":"","title":"What Causes the Failure of Explicit to Implicit Discourse Relation Recognition?","url":""}
+{"author":"","bib":"","title":"UniverSLU: Universal Spoken Language Understanding for Diverse Tasks with Natural Language Instructions","url":""}
+{"author":"","bib":"","title":"How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities","url":""}
+{"author":"","bib":"","title":"Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models","url":""}
+{"author":"","bib":"","title":"TriSum: Learning Summarization Ability from Large Language Models with Structured Rationale","url":""}
+{"author":"","bib":"","title":"GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models","url":""}
+{"author":"","bib":"","title":"Curated Datasets and Neural Models for Machine Translation of Informal Registers between Mayan and Spanish Vernaculars","url":""}
+{"author":"","bib":"","title":"The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation","url":""}
+{"author":"","bib":"","title":"Measuring Entrainment in Spontaneous Code-switched Speech","url":""}
+{"author":"","bib":"","title":"A Survey of Meaning Representations – From Theory to Practical Utility","url":""}
+{"author":"","bib":"","title":"Mitigating Language-Level Performance Disparity in mPLMs via Teacher Language Selection and Cross-lingual Self-Distillation","url":""}
+{"author":"","bib":"","title":"Evaluating In-Context Learning of Libraries for Code Generation","url":""}
+{"author":"","bib":"","title":"Visually-Aware Context Modeling for News Image Captioning","url":""}
+{"author":"","bib":"","title":"Regularized Conventions: Equilibrium Computation as a Model of Pragmatic Reasoning","url":""}
+{"author":"","bib":"","title":"TopicGPT: A Prompt-based Topic Modeling Framework","url":""}
+{"author":"","bib":"","title":"ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger","url":""}
+{"author":"","bib":"","title":"Social Meme-ing: Measuring Linguistic Variation in Memes","url":""}
+{"author":"","bib":"","title":"ExpertQA: Expert-Curated Questions and Attributed Answers","url":""}
+{"author":"","bib":"","title":"What if you said that differently?: How Explanation Formats Affect Human Feedback Efficacy and User Perception","url":""}
+{"author":"","bib":"","title":"When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels","url":""}
+{"author":"","bib":"","title":"Kreyòl-MT: Building MT for Latin American, Caribbean and Colonial African Creole Languages","url":""}
+{"author":"","bib":"","title":"Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models","url":""}
+{"author":"","bib":"","title":"Modeling Empathetic Alignment in Conversation","url":""}
+{"author":"","bib":"","title":"Native Language Identification in Texts: A Survey","url":""}
+{"author":"","bib":"","title":"LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models","url":""}
+{"author":"","bib":"","title":"Which One? Leveraging Context Between Objects and Multiple Views for Language Grounding","url":""}
+{"author":"","bib":"","title":"Do Localization Methods Actually Localize Memorized Data in LLMs? A Tale of Two Benchmarks","url":""}
+{"author":"","bib":"","title":"PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning","url":""}
+{"author":"","bib":"","title":"Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models","url":""}
+{"author":"","bib":"","title":"A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity","url":""}
+{"author":"","bib":"","title":"Instructional Fingerprinting of Large Language Models","url":""}
+{"author":"","bib":"","title":"Reinforced Multiple Instance Selection for Speaker Attribute Prediction","url":""}
+{"author":"","bib":"","title":"DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling","url":""}
+{"author":"","bib":"","title":"Few-shot Knowledge Graph Relational Reasoning via Subgraph Adaptation","url":""}
+{"author":"","bib":"","title":"Uncertainty Quantification for In-Context Learning of Large Language Models","url":""}
+{"author":"","bib":"","title":"HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM","url":""}
+{"author":"","bib":"","title":"A Preference-driven Paradigm for Enhanced Translation with Large Language Models","url":""}
+{"author":"","bib":"","title":"Fair Abstractive Summarization of Diverse Perspectives","url":""}
+{"author":"","bib":"","title":"What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases","url":""}
+{"author":"","bib":"","title":"Show Your Work with Confidence: Confidence Bands for Tuning Curves","url":""}
+{"author":"","bib":"","title":"GRASP: A Disagreement Analysis Framework to Assess Group Associations in Perspectives","url":""}
+{"author":"","bib":"","title":"Event Causality Is Key to Computational Story Understanding","url":""}
+{"author":"","bib":"","title":"Subspace Representations for Soft Set Operations and Sentence Similarities","url":""}
+{"author":"","bib":"","title":"My Heart Skipped a Beat! Recognizing Expressions of Embodied Emotion in Natural Language","url":""}
+{"author":"","bib":"","title":"Low-Cost Generation and Evaluation of Dictionary Example Sentences","url":""}
+{"author":"","bib":"","title":"Making Language Models Better Tool Learners with Execution Feedback","url":""}
+{"author":"","bib":"","title":"Complex Claim Verification with Evidence Retrieved in the Wild","url":""}
+{"author":"","bib":"","title":"Multimodal Multi-loss Fusion Network for Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Confronting LLMs with Traditional ML: Rethinking the Fairness of Large Language Models in Tabular Classifications","url":""}
+{"author":"","bib":"","title":"Analyzing the Use of Metaphors in News Editorials for Political Framing","url":""}
+{"author":"","bib":"","title":"SharpSeq: Empowering Continual Event Detection through Sharpness-Aware Sequential-task Learning","url":""}
+{"author":"","bib":"","title":"Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models","url":""}
+{"author":"","bib":"","title":"Know When To Stop: A Study of Semantic Drift in Text Generation","url":""}
+{"author":"","bib":"","title":"Curriculum Masking in Vision-Language Pretraining to Maximize Cross Modal Interaction","url":""}
+{"author":"","bib":"","title":"Elote, Choclo and Mazorca: on the Varieties of Spanish","url":""}
+{"author":"","bib":"","title":"Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks","url":""}
+{"author":"","bib":"","title":"A Zero-Shot Monolingual Dual Stage Information Retrieval System for Spanish Biomedical Systematic Literature Reviews","url":""}
+{"author":"","bib":"","title":"LayoutPointer: A Spatial-Context Adaptive Pointer Network for Visual Information Extraction","url":""}
+{"author":"","bib":"","title":"Long-form evaluation of model editing","url":""}
+{"author":"","bib":"","title":"Analyzing the Role of Semantic Representations in the Era of Large Language Models","url":""}
+{"author":"","bib":"","title":"TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction","url":""}
+{"author":"","bib":"","title":"MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities","url":""}
+{"author":"","bib":"","title":"On-the-fly Definition Augmentation of LLMs for Biomedical NER","url":""}
+{"author":"","bib":"","title":"This Land is {Your, My} Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes","url":""}
+{"author":"","bib":"","title":"Set-Aligning Framework for Auto-Regressive Event Temporal Graph Generation","url":""}
+{"author":"","bib":"","title":"LanguageFlow: Advancing Diffusion Language Generation with Probabilistic Flows","url":""}
+{"author":"","bib":"","title":"Towards Improved Multi-Source Attribution for Long-Form Answer Generation","url":""}
+{"author":"","bib":"","title":"Synthetic Query Generation for Privacy-Preserving Deep Retrieval Systems using Differentially Private Language Models","url":""}
+{"author":"","bib":"","title":"Okay, Let’s Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation","url":""}
+{"author":"","bib":"","title":"Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey","url":""}
+{"author":"","bib":"","title":"Pedagogically aligned objectives create reliable automatic cloze tests","url":""}
+{"author":"","bib":"","title":"Take One Step at a Time to Know Incremental Utility of Demonstration: An Analysis on Reranking for Few-Shot In-Context Learning","url":""}
+{"author":"","bib":"","title":"LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models","url":""}
+{"author":"","bib":"","title":"CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants","url":""}
+{"author":"","bib":"","title":"Advancing Beyond Identification: Multi-bit Watermark for Large Language Models","url":""}
+{"author":"","bib":"","title":"HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation","url":""}
+{"author":"","bib":"","title":"Media Bias Detection Across Families of Language Models","url":""}
+{"author":"","bib":"","title":"Better Zero-Shot Reasoning with Role-Play Prompting","url":""}
+{"author":"","bib":"","title":"Event-Content-Oriented Dialogue Generation in Short Video","url":""}
+{"author":"","bib":"","title":"DoG-Instruct: Towards Premium Instruction-Tuning Data via Text-Grounded Instruction Wrapping","url":""}
+{"author":"","bib":"","title":"Beyond Borders: Investigating Cross-Jurisdiction Transfer in Legal Case Summarization","url":""}
+{"author":"","bib":"","title":"EDC: Effective and Efficient Dialog Comprehension For Dialog State Tracking","url":""}
+{"author":"","bib":"","title":"Automatic Restoration of Diacritics for Speech Data Sets","url":""}
+{"author":"","bib":"","title":"XNLIeu: a dataset for cross-lingual NLI in Basque","url":""}
+{"author":"","bib":"","title":"MDR: Model-Specific Demonstration Retrieval at Inference Time for In-Context Learning","url":""}
+{"author":"","bib":"","title":"Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis","url":""}
+{"author":"","bib":"","title":"Enhancing Contextual Understanding in Large Language Models through Contrastive Decoding","url":""}
+{"author":"","bib":"","title":"Generalizable Sarcasm Detection is Just Around the Corner, of Course!","url":""}
+{"author":"","bib":"","title":"Encoding of lexical tone in self-supervised models of spoken language","url":""}
+{"author":"","bib":"","title":"A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change","url":""}
+{"author":"","bib":"","title":"iACOS: Advancing Implicit Sentiment Extraction with Informative and Adaptive Negative Examples","url":""}
+{"author":"","bib":"","title":"Rectifying Demonstration Shortcut in In-Context Learning","url":""}
+{"author":"","bib":"","title":"Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark","url":""}
+{"author":"","bib":"","title":"ODD: A Benchmark Dataset for the Natural Language Processing Based Opioid Related Aberrant Behavior Detection","url":""}
+{"author":"","bib":"","title":"A Comprehensive Study of Gender Bias in Chemical Named Entity Recognition Models","url":""}
+{"author":"","bib":"","title":"The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education","url":""}
+{"author":"","bib":"","title":"Differentially Private Next-Token Prediction of Large Language Models","url":""}
+{"author":"","bib":"","title":"Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset","url":""}
+{"author":"","bib":"","title":"Memory Augmented Language Models through Mixture of Word Experts","url":""}
+{"author":"","bib":"","title":"Impossible Distillation for Paraphrasing and Summarization: How to Make High-quality Lemonade out of Small, Low-quality Model","url":""}
+{"author":"","bib":"","title":"TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization","url":""}
+{"author":"","bib":"","title":"MOKA: Moral Knowledge Augmentation for Moral Event Extraction","url":""}
+{"author":"","bib":"","title":"Fixing Rogue Memorization in Many-to-One Multilingual Translators of Extremely-Low-Resource Languages by Rephrasing Training Samples","url":""}
+{"author":"","bib":"","title":"Backdoor Attacks on Multilingual Machine Translation","url":""}
+{"author":"","bib":"","title":"Personalized Jargon Identification for Enhanced Interdisciplinary Communication","url":""}
+{"author":"","bib":"","title":"Flames: Benchmarking Value Alignment of LLMs in Chinese","url":""}
+{"author":"","bib":"","title":"Mitigating Bias for Question Answering Models by Tracking Bias Influence","url":""}
+{"author":"","bib":"","title":"Extending CLIP’s Image-Text Alignment to Referring Image Segmentation","url":""}
+{"author":"","bib":"","title":"Generating Attractive and Authentic Copywriting from Customer Reviews","url":""}
+{"author":"","bib":"","title":"Effective Long-Context Scaling of Foundation Models","url":""}
+{"author":"","bib":"","title":"Empowering Diffusion Models on the Embedding Space for Text Generation","url":""}
+{"author":"","bib":"","title":"Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback","url":""}
+{"author":"","bib":"","title":"Fake Alignment: Are LLMs Really Aligned Well?","url":""}
+{"author":"","bib":"","title":"Visually Guided Generative Text-Layout Pre-training for Document Intelligence","url":""}
+{"author":"","bib":"","title":"HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification","url":""}
+{"author":"","bib":"","title":"Investigating the Emergent Audio Classification Ability of ASR Foundation Models","url":""}
+{"author":"","bib":"","title":"In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax","url":""}
+{"author":"","bib":"","title":"Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt","url":""}
+{"author":"","bib":"","title":"Lost in Transcription: Identifying and Quantifying the Accuracy Biases of Automatic Speech Recognition Systems Against Disfluent Speech","url":""}
+{"author":"","bib":"","title":"MAFALDA: A Benchmark and Comprehensive Study of Fallacy Detection and Classification","url":""}
+{"author":"","bib":"","title":"Diffusion Glancing Transformer for Parallel Sequence-to-Sequence Learning","url":""}
+{"author":"","bib":"","title":"No Context Needed: Contextual Quandary In Idiomatic Reasoning With Pre-Trained Language Models","url":""}
+{"author":"","bib":"","title":"Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation","url":""}
+{"author":"","bib":"","title":"Anisotropy is Not Inherent to Transformers","url":""}
+{"author":"","bib":"","title":"Finding Replicable Human Evaluations via Stable Ranking Probability","url":""}
+{"author":"","bib":"","title":"Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections","url":""}
+{"author":"","bib":"","title":"Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts","url":""}
+{"author":"","bib":"","title":"Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning","url":""}
+{"author":"","bib":"","title":"Leveraging Code to Improve In-Context Learning for Semantic Parsing","url":""}
+{"author":"","bib":"","title":"Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER","url":""}
+{"author":"","bib":"","title":"Language Models Implement Simple Word2Vec-style Vector Arithmetic","url":""}
+{"author":"","bib":"","title":"AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning","url":""}
+{"author":"","bib":"","title":"SportQA: A Benchmark for Sports Understanding in Large Language Models","url":""}
+{"author":"","bib":"","title":"Revisiting subword tokenization: A case study on affixal negation in large language models","url":""}
+{"author":"","bib":"","title":"Generating Mental Health Transcripts with SAPE (Spanish Adaptive Prompt Engineering)","url":""}
+{"author":"","bib":"","title":"Where are you from? Geolocating Speech and Applications to Language Identification","url":""}
+{"author":"","bib":"","title":"Teaching Language Models to Self-Improve through Interactive Demonstrations","url":""}
+{"author":"","bib":"","title":"MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets","url":""}
+{"author":"","bib":"","title":"Zero-shot Generative Linguistic Steganography","url":""}
+{"author":"","bib":"","title":"Does GPT-4 pass the Turing test?","url":""}
+{"author":"","bib":"","title":"Polarity Calibration for Opinion Summarization","url":""}
+{"author":"","bib":"","title":"Sentence-level Media Bias Analysis with Event Relation Graph","url":""}
+{"author":"","bib":"","title":"EMONA: Event-level Moral Opinions in News Articles","url":""}
+{"author":"","bib":"","title":"DLM: A Decoupled Learning Model for Long-tailed Polyphone Disambiguation in Mandarin","url":""}
+{"author":"","bib":"","title":"You don’t need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments","url":""}
+{"author":"","bib":"","title":"CASA: Causality-driven Argument Sufficiency Assessment","url":""}
+{"author":"","bib":"","title":"MacGyver: Are Large Language Models Creative Problem Solvers?","url":""}
+{"author":"","bib":"","title":"To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages","url":""}
+{"author":"","bib":"","title":"Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting","url":""}
+{"author":"","bib":"","title":"GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer","url":""}
+{"author":"","bib":"","title":"XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models","url":""}
+{"author":"","bib":"","title":"Carpe diem: On the Evaluation of World Knowledge in Lifelong Language Models","url":""}
+{"author":"","bib":"","title":"Fine-grained Gender Control in Machine Translation with Large Language Models","url":""}
+{"author":"","bib":"","title":"DialogVCS: Robust Natural Language Understanding in Dialogue System Upgrade","url":""}
+{"author":"","bib":"","title":"LLatrieval: LLM-Verified Retrieval for Verifiable Generation","url":""}
+{"author":"","bib":"","title":"Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media","url":""}
+{"author":"","bib":"","title":"Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches","url":""}
+{"author":"","bib":"","title":"Retrieval Helps or Hurts? A Deeper Dive into the Efficacy of Retrieval Augmentation to Language Models","url":""}
+{"author":"","bib":"","title":"AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs","url":""}
+{"author":"","bib":"","title":"Whispers of Doubt Amidst Echoes of Triumph in NLP Robustness","url":""}
+{"author":"","bib":"","title":"Sequential Compositional Generalization in Multimodal Models","url":""}
+{"author":"","bib":"","title":"Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction","url":""}
+{"author":"","bib":"","title":"Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation","url":""}
+{"author":"","bib":"","title":"Open-Vocabulary Federated Learning with Multimodal Prototyping","url":""}
+{"author":"","bib":"","title":"Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning","url":""}
+{"author":"","bib":"","title":"Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense","url":""}
+{"author":"","bib":"","title":"Code Models are Zero-shot Precondition Reasoners","url":""}
+{"author":"","bib":"","title":"Contrastive and Consistency Learning for Neural Noisy-Channel Model in Spoken Language Understanding","url":""}
+{"author":"","bib":"","title":"Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers","url":""}
+{"author":"","bib":"","title":"TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition","url":""}
+{"author":"","bib":"","title":"Contextual Label Projection for Cross-Lingual Structured Prediction","url":""}
+{"author":"","bib":"","title":"Event Detection from Social Media for Epidemic Prediction","url":""}
+{"author":"","bib":"","title":"RESPROMPT: Residual Connection Prompting Advances Multi-Step Reasoning in Large Language Models","url":""}
+{"author":"","bib":"","title":"BPE-knockout: Pruning Pre-existing BPE Tokenisers with Backwards-compatible Morphological Semi-supervision","url":""}
+{"author":"","bib":"","title":"How are Prompts Different in Terms of Sensitivity?","url":""}
+{"author":"","bib":"","title":"LSTDial: Enhancing Dialogue Generation via Long- and Short-Term Measurement Feedback","url":""}
+{"author":"","bib":"","title":"The ART of LLM Refinement: Ask, Refine, and Trust","url":""}
+{"author":"","bib":"","title":"Modularized Multilingual NMT with Fine-grained Interlingua","url":""}
+{"author":"","bib":"","title":"ParallelPARC: A Scalable Pipeline for Generating Natural-Language Analogies","url":""}
+{"author":"","bib":"","title":"AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content","url":""}
+{"author":"","bib":"","title":"NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps","url":""}
+{"author":"","bib":"","title":"Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations","url":""}
+{"author":"","bib":"","title":"Semi-Supervised Dialogue Abstractive Summarization via High-Quality Pseudolabel Selection","url":""}
+{"author":"","bib":"","title":"AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages","url":""}
+{"author":"","bib":"","title":"TableLlama: Towards Open Large Generalist Models for Tables","url":""}
+{"author":"","bib":"","title":"PEMA: An Offsite-Tunable Plug-in External Memory Adaptation for Language Models","url":""}
+{"author":"","bib":"","title":"Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection","url":""}
+{"author":"","bib":"","title":"Exploring the Factual Consistency in Dialogue Comprehension of Large Language Models","url":""}
+{"author":"","bib":"","title":"Multilingual Pretraining and Instruction Tuning Improve Cross-Lingual Knowledge Alignment, But Only Shallowly","url":""}
+{"author":"","bib":"","title":"A Study on the Calibration of In-context Learning","url":""}
+{"author":"","bib":"","title":"DialogBench: Evaluating LLMs as Human-like Dialogue Systems","url":""}
+{"author":"","bib":"","title":"GINopic: Topic Modeling with Graph Isomorphism Network","url":""}
+{"author":"","bib":"","title":"CMB: A Comprehensive Medical Benchmark in Chinese","url":""}
+{"author":"","bib":"","title":"Massive End-to-end Speech Recognition Models with Time Reduction","url":""}
+{"author":"","bib":"","title":"SlimFit: Memory-Efficient Fine-Tuning of Transformer-based Models Using Training Dynamics","url":""}
+{"author":"","bib":"","title":"Effective Large Language Model Adaptation for Improved Grounding and Citation Generation","url":""}
+{"author":"","bib":"","title":"Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models","url":""}
+{"author":"","bib":"","title":"Grounding Gaps in Language Model Generations","url":""}
+{"author":"","bib":"","title":"When Does Monolingual Data Help Multilingual Translation: The Role of Domain and Model Scale","url":""}
+{"author":"","bib":"","title":"ContraSim – Analyzing Neural Representations Based on Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Universal Prompt Optimizer for Safe Text-to-Image Generation","url":""}
+{"author":"","bib":"","title":"Language Model Based Unsupervised Dependency Parsing with Conditional Mutual Information and Grammatical Constraints","url":""}
+{"author":"","bib":"","title":"The Bias Amplification Paradox in Text-to-Image Generation","url":""}
+{"author":"","bib":"","title":"Grammar-based Data Augmentation for Low-Resource Languages: The Case of Guarani-Spanish Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Global Gallery: The Fine Art of Painting Culture Portraits through Multilingual Instruction Tuning","url":""}
+{"author":"","bib":"","title":"Toward Interactive Regional Understanding in Vision-Large Language Models","url":""}
+{"author":"","bib":"","title":"Script-mix: Mixing Scripts for Low-resource Language Parsing","url":""}
+{"author":"","bib":"","title":"MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation","url":""}
+{"author":"","bib":"","title":"ToXCL: A Unified Framework for Toxic Speech Detection and Explanation","url":""}
+{"author":"","bib":"","title":"$\\\\textit{LinkPrompt}$: Natural and Universal Adversarial Attacks on Prompt-based Language Models","url":""}
+{"author":"","bib":"","title":"CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions","url":""}
+{"author":"","bib":"","title":"ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models","url":""}
+{"author":"","bib":"","title":"Entity Disambiguation via Fusion Entity Decoding","url":""}
+{"author":"","bib":"","title":"PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers","url":""}
+{"author":"","bib":"","title":"GPTScore: Evaluate as You Desire","url":""}
+{"author":"","bib":"","title":"A Survey of Confidence Estimation and Calibration in Large Language Models","url":""}
+{"author":"","bib":"","title":"Not All Metrics Are Guilty: Improving NLG Evaluation by Diversifying References","url":""}
+{"author":"","bib":"","title":"Separation and Fusion: A Novel Multiple Token Linking Model for Event Argument Extraction","url":""}
+{"author":"","bib":"","title":"The Integration of Semantic and Structural Knowledge in Knowledge Graph Entity Typing","url":""}
+{"author":"","bib":"","title":"ComCLIP: Training-Free Compositional Image and Text Matching","url":""}
+{"author":"","bib":"","title":"ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications","url":""}
+{"author":"","bib":"","title":"XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners","url":""}
+{"author":"","bib":"","title":"LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?","url":""}
+{"author":"","bib":"","title":"Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Task Instruction Tuning with RLAIF","url":""}
+{"author":"","bib":"","title":"Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey","url":""}
+{"author":"","bib":"","title":"Mind’s Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models","url":""}
+{"author":"","bib":"","title":"Divergent Token Metrics: Measuring degradation to prune away LLM components – and optimize quantization","url":""}
+{"author":"","bib":"","title":"Beyond Performance: Quantifying and Mitigating Label Bias in LLMs","url":""}
+{"author":"","bib":"","title":"Instructing Large Language Models to Identify and Ignore Irrelevant Conditions","url":""}
+{"author":"","bib":"","title":"On the Relationship Between Non-deterministic FSLMs and RNN LMs","url":""}
+{"author":"","bib":"","title":"Transformer LMs Can Represent Probabilistic Strictly Local Languages","url":""}
+{"author":"","bib":"","title":"The Role of $n$-gram Smoothing in the Age of Neural Networks","url":""}
+{"author":"","bib":"","title":"Reliability Estimation of News Media Sources: Birds of a Feather Flock Together","url":""}
+{"author":"","bib":"","title":"On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons","url":""}
+{"author":"","bib":"","title":"NLP Progress in Indigenous Latin American Languages","url":""}
+{"author":"","bib":"","title":"On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech","url":""}
+{"author":"","bib":"","title":"Leveraging the Structure of Pre-trained Embeddings to Minimize Annotation Effort","url":""}
+{"author":"","bib":"","title":"UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing","url":""}
+{"author":"","bib":"","title":"Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity","url":""}
+{"author":"","bib":"","title":"Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method","url":""}
+{"author":"","bib":"","title":"Are Large Language Model Temporally Grounded?","url":""}
+{"author":"","bib":"","title":"Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling","url":""}
+{"author":"","bib":"","title":"Elastic Weight Removal for Faithful and Abstractive Dialogue Generation","url":""}
+{"author":"","bib":"","title":"R-Tuning: Instructing Large Language Models to Say `I Don’t Know’","url":""}
+{"author":"","bib":"","title":"Bridging the Gap between Different Vocabularies for LLM Ensemble","url":""}
+{"author":"","bib":"","title":"KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation","url":""}
+{"author":"","bib":"","title":"Extremely Weakly-supervised Text Classification with Wordsets Mining and Sync-Denoising","url":""}
+{"author":"","bib":"","title":"F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Towards Reducing Diagnostic Errors with Interpretable Risk Prediction","url":""}
+{"author":"","bib":"","title":"Generalizable Multilingual Hate Speech Detection on Low Resource Indian Languages using Fair Selection in Federated Learning","url":""}
+{"author":"","bib":"","title":"Key ingredients for effective zero-shot cross-lingual knowledge transfer in generative tasks","url":""}
+{"author":"","bib":"","title":"The Impact of Depth on Compositional Generalization in Transformer Language Models","url":""}
+{"author":"","bib":"","title":"Pregnant Questions: The Importance of Pragmatic Awareness in Maternal Health Question Answering","url":""}
+{"author":"","bib":"","title":"Towards Explainability in Legal Outcome Prediction Models","url":""}
+{"author":"","bib":"","title":"The steerability of large language models toward data-driven personas","url":""}
+{"author":"","bib":"","title":"CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization","url":""}
+{"author":"","bib":"","title":"Capturing Perspectives of Crowdsourced Annotators in Subjective Learning Tasks","url":""}
+{"author":"","bib":"","title":"Improving Factual Accuracy of Neural Table-to-Text Output by Addressing Input Problems in ToTTo","url":""}
+{"author":"","bib":"","title":"CERET: Cost-Effective Extrinsic Refinement for Text Generation","url":""}
+{"author":"","bib":"","title":"Parameter-Efficient Instruction Tuning of Large Language Models For Extreme Financial Numeral Labelling","url":""}
+{"author":"","bib":"","title":"Analysis of State-Level Legislative Process in Enhanced Linguistic and Nationwide Network Contexts","url":""}
+{"author":"","bib":"","title":"DeMuX: Data-efficient Multilingual Learning","url":""}
+{"author":"","bib":"","title":"DUQGen: Effective Unsupervised Domain Adaptation of Neural Rankers by Diversifying Synthetic Query Generation","url":""}
+{"author":"","bib":"","title":"How did we get here? Summarizing conversation dynamics","url":""}
+{"author":"","bib":"","title":"Can Language Model Moderators Improve the Health of Online Discourse?","url":""}
+{"author":"","bib":"","title":"LeanReasoner: Boosting Complex Logical Reasoning with Lean","url":""}
+{"author":"","bib":"","title":"UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback","url":""}
+{"author":"","bib":"","title":"Measuring Cross-lingual Transfer in Bytes","url":""}
+{"author":"","bib":"","title":"MisgenderMender: A Community-Informed Approach to Interventions for Misgendering","url":""}
+{"author":"","bib":"","title":"Interplay of Machine Translation, Diacritics, and Diacritization","url":""}
+{"author":"","bib":"","title":"From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning","url":""}
+{"author":"","bib":"","title":"Safer-Instruct: Aligning Language Models with Automated Preference Data","url":""}
+{"author":"","bib":"","title":"PELMS: Pre-training for Effective Low-Shot Multi-Document Summarization","url":""}
+{"author":"","bib":"","title":"Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?","url":""}
+{"author":"","bib":"","title":"IndiSentiment140: Sentiment Analysis Dataset for Indian Languages with Emphasis on Low-Resource Languages using Machine Translation","url":""}
+{"author":"","bib":"","title":"Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval","url":""}
+{"author":"","bib":"","title":"SCANNER: Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities","url":""}
+{"author":"","bib":"","title":"A Theory Guided Scaffolding Instruction Framework for LLM-Enabled Metaphor Reasoning","url":""}
+{"author":"","bib":"","title":"Learning to Compress Prompt in Natural Language Formats","url":""}
+{"author":"","bib":"","title":"Automatic, Meta and Human Evaluation for Multimodal Summarization with Multimodal Output","url":""}
+{"author":"","bib":"","title":"Naive Bayes-based Context Extension for Large Language Models","url":""}
+{"author":"","bib":"","title":"Leitner-Guided Memory Replay for Cross-lingual Continual Learning","url":""}
+{"author":"","bib":"","title":"Multilingual Nonce Dependency Treebanks: Understanding how Language Models Represent and Process Syntactic Structure","url":""}
+{"author":"","bib":"","title":"Actively Learn from LLMs with Uncertainty Propagation for Generalized Category Discovery","url":""}
+{"author":"","bib":"","title":"Explaining Text Similarity in Transformer Models","url":""}
+{"author":"","bib":"","title":"Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning","url":""}
+{"author":"","bib":"","title":"HIL: Hybrid Isotropy Learning for Zero-shot Performance in Dense retrieval","url":""}
+{"author":"","bib":"","title":"SuperGLEBer: German Language Understanding Evaluation Benchmark","url":""}
+{"author":"","bib":"","title":"You are an expert annotator: Automatic Best–Worst-Scaling Annotations for Emotion Intensity Modeling","url":""}
+{"author":"","bib":"","title":"What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?","url":""}
+{"author":"","bib":"","title":"Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation","url":""}
+{"author":"","bib":"","title":"MOSAICo: a Multilingual Open-text Semantically Annotated Interlinked Corpus","url":""}
+{"author":"","bib":"","title":"SemRoDe: Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks","url":""}
+{"author":"","bib":"","title":"BUST: Benchmark for the evaluation of detectors of LLM-Generated Text","url":""}
+{"author":"","bib":"","title":"Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment","url":""}
+{"author":"","bib":"","title":"MaCSC: Towards Multimodal-augmented Pre-trained Language Models via Conceptual Prototypes and Self-balancing Calibration","url":""}
+{"author":"","bib":"","title":"Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?","url":""}
+{"author":"","bib":"","title":"Discovering Lobby-Parliamentarian Alignments through NLP","url":""}
+{"author":"","bib":"","title":"IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance","url":""}
+{"author":"","bib":"","title":"AceGPT, Localizing Large Language Models in Arabic","url":""}
+{"author":"","bib":"","title":"Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model","url":""}
+{"author":"","bib":"","title":"Depression Detection in Clinical Interviews with LLM-Empowered Structural Element Graph","url":""}
+{"author":"","bib":"","title":"SQATIN: Supervised Instruction Tuning Meets Question Answering for Improved Dialogue NLU","url":""}
+{"author":"","bib":"","title":"Enhancing Argument Summarization: Prioritizing Exhaustiveness in Key Point Generation and Introducing an Automatic Coverage Evaluation Metric","url":""}
+{"author":"","bib":"","title":"ARM: Alignment with Residual Energy-Based Model","url":""}
+{"author":"","bib":"","title":"HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants","url":""}
+{"author":"","bib":"","title":"FAMuS: Frames Across Multiple Sources","url":""}
+{"author":"","bib":"","title":"Rationale-based Opinion Summarization","url":""}
+{"author":"","bib":"","title":"Mustango: Toward Controllable Text-to-Music Generation","url":""}
+{"author":"","bib":"","title":"Adaptive Cross-lingual Text Classification through In-Context One-Shot Demonstrations","url":""}
+{"author":"","bib":"","title":"CNER: Concept and Named Entity Recognition","url":""}
+{"author":"","bib":"","title":"Branch-Solve-Merge Improves Large Language Model Evaluation and Generation","url":""}
+{"author":"","bib":"","title":"REPLUG: Retrieval-Augmented Black-Box Language Models","url":""}
+{"author":"","bib":"","title":"David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs","url":""}
+{"author":"","bib":"","title":"Efficient End-to-End Visual Document Understanding with Rationale Distillation","url":""}
+{"author":"","bib":"","title":"A Systematic Comparison of Syllogistic Reasoning in Humans and Language Models","url":""}
+{"author":"","bib":"","title":"Computationally Efficient Active Learning for Large Imbalanced Datasets","url":""}
+{"author":"","bib":"","title":"ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring","url":""}
+{"author":"","bib":"","title":"UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations","url":""}
+{"author":"","bib":"","title":"To Tell The Truth: Language of Deception and Language Models","url":""}
+{"author":"","bib":"","title":"Multilingual Models for ASR in Chibchan Languages","url":""}
+{"author":"","bib":"","title":"LegalDiscourse: Interpreting When Laws Apply and To Whom","url":""}
+{"author":"","bib":"","title":"X-Eval: Generalizable Multi-aspect Text Evaluation via Augmented Instruction Tuning with Auxiliary Evaluation Aspects","url":""}
+{"author":"","bib":"","title":"Is Reference Necessary in the Evaluation of NLG Systems? When and Where?","url":""}
+{"author":"","bib":"","title":"Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning","url":""}
+{"author":"","bib":"","title":"Evaluating the Deductive Competence of Large Language Models","url":""}
+{"author":"","bib":"","title":"Large Human Language Models: A Need and the Challenges","url":""}
+{"author":"","bib":"","title":"On Learning to Summarize with Large Language Models as References","url":""}
+{"author":"","bib":"","title":"Hallucination Diversity-Aware Active Learning for Text Summarization","url":""}
+{"author":"","bib":"","title":"{K}eep it {P}rivate: Unsupervised Privatization of Online Text","url":""}
+{"author":"","bib":"","title":"Tied-LoRA: Enhancing parameter efficiency of LoRA with Weight Tying","url":""}
+{"author":"","bib":"","title":"Investigating Data Contamination in Modern Benchmarks for Large Language Models","url":""}
+{"author":"","bib":"","title":"Pre-trained Language Models for Entity Blocking: A Reproducibility Study","url":""}
+{"author":"","bib":"","title":"$RE^2$: Region-Aware Relation Extraction from Visually Rich Documents","url":""}
+{"author":"","bib":"","title":"Mix-Initiative Response Generation with Dynamic Prefix Tuning","url":""}
+{"author":"","bib":"","title":"Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Value","url":""}
+{"author":"","bib":"","title":"IndiBias: A Benchmark Dataset to Measure Social Biases in Language Models for Indian Context","url":""}
+{"author":"","bib":"","title":"Revisiting Zero-Shot Abstractive Summarization in the Era of Large Language Models from the Perspective of Position Bias","url":""}
+{"author":"","bib":"","title":"Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?","url":""}
+{"author":"","bib":"","title":"Improving Toponym Resolution by Predicting Attributes to Constrain Geographical Ontology Entries","url":""}
+{"author":"","bib":"","title":"Advancing Regular Language Reasoning in Linear Recurrent Neural Networks","url":""}
+{"author":"","bib":"","title":"Extracting Lexical Features from Dialects via Interpretable Dialect Classifiers","url":""}
+{"author":"","bib":"","title":"Clear Up Confusion: Advancing Cross-Domain Few-Shot Relation Extraction through Relation-Aware Prompt Learning","url":""}
+{"author":"","bib":"","title":"Fusion Makes Perfection: An Efficient Multi-Grained Matching Approach for Zero-Shot Relation Extraction","url":""}
+{"author":"","bib":"","title":"Personalized Review Recommendation based on Implicit dimension mining","url":""}
+{"author":"","bib":"","title":"Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence","url":""}
+{"author":"","bib":"","title":"Returning to the Start: Generating Narratives with Related Endpoints","url":""}
+{"author":"","bib":"","title":"Unified Examination of Entity Linking in Absence of Candidate Sets","url":""}
+{"author":"","bib":"","title":"MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages","url":""}
+{"author":"","bib":"","title":"SKICSE: Sentence Knowable Information Prompted by LLMs Improves Contrastive Sentence Embeddings","url":""}
+{"author":"","bib":"","title":"A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models","url":""}
+{"author":"","bib":"","title":"How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes","url":""}
+{"author":"","bib":"","title":"CELI: Simple yet Effective Approach to Enhance Out-of-Domain Generalization of Cross-Encoders.","url":""}
+{"author":"","bib":"","title":"ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval","url":""}
+{"author":"","bib":"","title":"SLIDE: Reference-free Evaluation for Machine Translation using a Sliding Document Window","url":""}
+{"author":"","bib":"","title":"Separately Parameterizing Singleton Detection Improves End-to-end Neural Coreference Resolution","url":""}
+{"author":"","bib":"","title":"Unveiling Divergent Inductive Biases of LLMs on Temporal Data","url":""}
+{"author":"","bib":"","title":"On Retrieval Augmentation and the Limitations of Language Model Training","url":""}
+{"author":"","bib":"","title":"GenDecider: Integrating “None of the Candidates” Judgments in Zero-Shot Entity Linking Re-ranking","url":""}
+{"author":"","bib":"","title":"Advancing the Robustness of Large Language Models through Self-Denoised Smoothing","url":""}
+{"author":"","bib":"","title":"Can LLM’s Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis","url":""}
+{"author":"","bib":"","title":"On the Role of Summary Content Units in Text Summarization Evaluation","url":""}
+{"author":"","bib":"","title":"More room for language: Investigating the effect of retrieval on language models","url":""}
+{"author":"","bib":"","title":"Discourse-Aware In-Context Learning for Temporal Expression Normalization","url":""}
+{"author":"","bib":"","title":"Contextualizing Argument Quality Assessment with Relevant Knowledge","url":""}
+{"author":"","bib":"","title":"Selective Perception: Learning Concise State Descriptions for Language Model Actors","url":""}
+{"author":"","bib":"","title":"ALOHa: A New Measure for Hallucination in Captioning Models","url":""}
+{"author":"","bib":"","title":"Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels","url":""}
+{"author":"","bib":"","title":"LLM-Driven Knowledge Injection Advances Zero-Shot and Cross-Target Stance Detection","url":""}
+{"author":"","bib":"","title":"Leveraging Prototypical Representations for Mitigating Social Bias without Demographic Information","url":""}
+{"author":"","bib":"","title":"Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding","url":""}
+{"author":"","bib":"","title":"EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning","url":""}
+{"author":"","bib":"","title":"LEAF: Language Learners’ English Essays and Feedback Corpus","url":""}
+{"author":"","bib":"","title":"Zero-Shot vs. Translation-Based Cross-Lingual Transfer: The Case of Lexical Gaps","url":""}
+{"author":"","bib":"","title":"On the True Distribution Approximation of Minimum Bayes-Risk Decoding","url":""}
+{"author":"","bib":"","title":"Rehearsal-Free Modular and Compositional Continual Learning for Language Models","url":""}
+{"author":"","bib":"","title":"Llama meets EU: Investigating the European political spectrum through the lens of LLMs","url":""}
+{"author":"","bib":"","title":"M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation","url":""}
+{"author":"","bib":"","title":"Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata","url":""}
+{"author":"","bib":"","title":"Do Vision-Language Models Understand Compound Nouns?","url":""}
+{"author":"","bib":"","title":"Is Prompt Transfer Always Effective? An Empirical Study of Prompt Transfer for Question Answering","url":""}
+{"author":"","bib":"","title":"Lost in Space: Probing Fine-grained Spatial Understanding in Vision and Language Resamplers","url":""}
+{"author":"","bib":"","title":"Do Multilingual Language Models Think Better in English?","url":""}
+{"author":"","bib":"","title":"A Continued Pretrained LLM Approach for Automatic Medical Note Generation","url":""}
+{"author":"","bib":"","title":"Lost in Translation? Translation Errors and Challenges for Fair Assessment of Text-to-Image Models on Multilingual Concepts","url":""}
+{"author":"","bib":"","title":"Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models","url":""}
+{"author":"","bib":"","title":"Lifelong Event Detection with Embedding Space Separation and Compaction","url":""}
+{"author":"","bib":"","title":"Language Models (Mostly) Do Not Consider Emotion Triggers When Predicting Emotion","url":""}
+{"author":"","bib":"","title":"CPopQA: Ranking Cultural Concept Popularity by LLMs","url":""}
+{"author":"","bib":"","title":"The Impact of Language on Arithmetic Proficiency: A Multilingual Investigation with Cross-Agent Checking Computation","url":""}
+{"author":"","bib":"","title":"Efficient Information Extraction in Few-Shot Relation Classification through Contrastive Representation Learning","url":""}
+{"author":"","bib":"","title":"A diverse Multilingual News Headlines Dataset from around the World","url":""}
+{"author":"","bib":"","title":"The Unreasonable Effectiveness of Random Target Embeddings for Continuous-Output Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Efficient Sample-Specific Encoder Perturbations","url":""}
+{"author":"","bib":"","title":"Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter","url":""}
+{"author":"","bib":"","title":"Removing RLHF Protections in GPT-4 via Fine-Tuning","url":""}
+{"author":"","bib":"","title":"$\\\\texttt{LifeTox}$: Unveiling Implicit Toxicity in $\\\\texttt{Life}$ Advice","url":""}
+{"author":"","bib":"","title":"Arithmetic Reasoning with LLM: Prolog Generation & Permutation","url":""}
+{"author":"","bib":"","title":"Verifying Claims About Metaphors with Large-Scale Automatic Metaphor Identification","url":""}
+{"author":"","bib":"","title":"InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"MEMORY-VQ: Compression for Tractable Internet-Scale Memory","url":""}
+{"author":"","bib":"","title":"Unveiling the Magic: Investigating Attention Distillation in Retrieval-Augmented Generation","url":""}
+{"author":"","bib":"","title":"Improving Factuality in Clinical Abstractive Multi-Document Summarization by Guided Continued Pre-training","url":""}
+{"author":"","bib":"","title":"MuLan: A Study of Fact Mutability in Language Models","url":""}
+{"author":"","bib":"","title":"Language-Independent Representations Improve Zero-Shot Summarization","url":""}
+{"author":"","bib":"","title":"Trusting Your Evidence: Hallucinate Less with Context-aware Decoding","url":""}
+{"author":"","bib":"","title":"GuyLingo: The Republic of Guyana Creole Corpora","url":""}
+{"author":"","bib":"","title":"DoubleLingo: Causal Estimation with Large Language Models","url":""}
+{"author":"","bib":"","title":"Improved Text Emotion Prediction Using Combined Valence and Arousal Ordinal Classification","url":""}
+{"author":"","bib":"","title":"On Narrative Question Answering Skills","url":""}
+{"author":"","bib":"","title":"Order-Based Pre-training Strategies for Procedural Text Understanding","url":""}
+{"author":"","bib":"","title":"Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?","url":""}
+{"author":"","bib":"","title":"Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning","url":""}
+{"author":"","bib":"","title":"Weight-Inherited Distillation for Task-Agnostic BERT Compression","url":""}
+{"author":"","bib":"","title":"Ignore Me But Don’t Replace Me: Utilizing Non-Linguistic Elements for Pretraining on the Cybersecurity Domain","url":""}
+{"author":"","bib":"","title":"Extremely efficient online query encoding for dense retrieval","url":""}
+{"author":"","bib":"","title":"DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text","url":""}
+{"author":"","bib":"","title":"SpeedE: Euclidean Geometric Knowledge Graph Embedding Strikes Back","url":""}
+{"author":"","bib":"","title":"Language Guided Exploration for RL Agents in Text Environments","url":""}
+{"author":"","bib":"","title":"GPT-who: An Information Density-based Machine-Generated Text Detector","url":""}
+{"author":"","bib":"","title":"DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models","url":""}
+{"author":"","bib":"","title":"Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation","url":""}
+{"author":"","bib":"","title":"Automatic Pair Construction for Contrastive Post-training","url":""}
+{"author":"","bib":"","title":"Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models","url":""}
+{"author":"","bib":"","title":"Low-resource neural machine translation with morphological modeling","url":""}
+{"author":"","bib":"","title":"Self-Cleaning: Improving a Named Entity Recognizer Trained on Noisy Data with a Few Clean Instances","url":""}
+{"author":"","bib":"","title":"VLUE: A New Benchmark and Multi-task Knowledge Transfer Learning for Vietnamese Natural Language Understanding","url":""}
+{"author":"","bib":"","title":"LETI: Learning to Generate from Textual Interactions","url":""}
+{"author":"","bib":"","title":"Bilateral Masking with prompt for Knowledge Graph Completion","url":""}
+{"author":"","bib":"","title":"MiLe Loss: a New Loss for Mitigating the Bias of Learning Difficulties in Generative Language Models","url":""}
+{"author":"","bib":"","title":"GOLD: Geometry Problem Solver with Natural Language Description","url":""}
+{"author":"","bib":"","title":"RoDia: A New Dataset for Romanian Dialect Identification from Speech","url":""}
+{"author":"","bib":"","title":"Examining Modularity in Multilingual LMs via Language-Specialized Subnetworks","url":""}
+{"author":"","bib":"","title":"Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning","url":""}
+{"author":"","bib":"","title":"Incorporating Exponential Smoothing into MLP: a Simple but Effective Sequence Model","url":""}
+{"author":"","bib":"","title":"OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models","url":""}
+{"author":"","bib":"","title":"Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?","url":""}
+{"author":"","bib":"","title":"VOLTA: Improving Generative Diversity by Variational Mutual Information Maximizing Autoencoder","url":""}
+{"author":"","bib":"","title":"EcoSpeak: Cost-Efficient Bias Mitigation for Partially Cross-Lingual Speaker Verification","url":""}
+{"author":"","bib":"","title":"Leveraging Contextual Information for Effective Entity Salience Detection","url":""}
+{"author":"","bib":"","title":"LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?","url":""}
+{"author":"","bib":"","title":"A (More) Realistic Evaluation Setup for Generalisation of Community Models on Malicious Content Detection","url":""}
+{"author":"","bib":"","title":"Citation: A Key to Building Responsible and Accountable Large Language Models","url":""}
+{"author":"","bib":"","title":"Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders","url":""}
+{"author":"","bib":"","title":"Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles","url":""}
+{"author":"","bib":"","title":"Which Modality should I use - Text, Motif, or Image? : Understanding Graphs with Large Language Models","url":""}
+{"author":"","bib":"","title":"On-the-Fly Fusion of Large Language Models and Machine Translation","url":""}
+{"author":"","bib":"","title":"READ: Improving Relation Extraction from an ADversarial Perspective","url":""}
+{"author":"","bib":"","title":"REQUAL-LM: Reliability and Equity through Aggregation in Large Language Models","url":""}
+{"author":"","bib":"","title":"Addressing Both Statistical and Causal Gender Fairness in NLP Models","url":""}
+{"author":"","bib":"","title":"LLM-Rec: Personalized Recommendation via Prompting Large Language Models","url":""}
+{"author":"","bib":"","title":"A Robust Semantics-based Watermark for Large Language Model against Paraphrasing","url":""}
+{"author":"","bib":"","title":"Solving Data-centric Tasks using Large Language Models","url":""}
+{"author":"","bib":"","title":"A Novel Paradigm Boosting Translation Capabilities of Large Language Models","url":""}
+{"author":"","bib":"","title":"Measuring Social Norms of Large Language Models","url":""}
+{"author":"","bib":"","title":"Source-Free Unsupervised Domain Adaptation for Question Answering via Prompt-Assisted Self-learning","url":""}
+{"author":"","bib":"","title":"Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level","url":""}
+{"author":"","bib":"","title":"LEEETs-Dial: Linguistic Entrainment in End-to-End Task-oriented Dialogue systems","url":""}
+{"author":"","bib":"","title":"Efficient Dependency Tree Sampling Without Replacement","url":""}
+{"author":"","bib":"","title":"Towards Better Generalization in Open-Domain Question Answering by Mitigating Context Memorization","url":""}
+{"author":"","bib":"","title":"GEE! Grammar Error Explanation with Large Language Models","url":""}
+{"author":"","bib":"","title":"AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback","url":""}
+{"author":"","bib":"","title":"DivTOD: Unleashing the Power of LLMs for Diversifying Task-Oriented Dialogue Representations","url":""}
+{"author":"","bib":"","title":"Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training","url":""}
+{"author":"","bib":"","title":"CLEAN–EVAL: Clean Evaluation on Contaminated Large Language Models","url":""}
+{"author":"","bib":"","title":"R-BASS : Relevance-aided Block-wise Adaptation for Speech Summarization","url":""}
+{"author":"","bib":"","title":"OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning","url":""}
+{"author":"","bib":"","title":"The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation","url":""}
+{"author":"","bib":"","title":"Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA","url":""}
+{"author":"","bib":"","title":"GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism","url":""}
+{"author":"","bib":"","title":"Can Public Large Language Models Help Private Cross-device Federated Learning?","url":""}
+{"author":"","bib":"","title":"LangNav: Language as a Perceptual Representation for Navigation","url":""}
+{"author":"","bib":"","title":"Planning and Editing What You Retrieve for Enhanced Tool Learning","url":""}
+{"author":"","bib":"","title":"Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs","url":""}
+{"author":"","bib":"","title":"SLiM: Speculative Decoding with Hypothesis Reduction","url":""}
+{"author":"","bib":"","title":"REMATCH: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity","url":""}
+{"author":"","bib":"","title":"Modeling the Sacred: Considerations when Using Religious Texts in Natural Language Processing","url":""}
+{"author":"","bib":"","title":"Testing the Effect of Code Documentation on Large Language Model Code Understanding","url":""}
+{"author":"","bib":"","title":"Aligning Large Language Models with Recommendation Knowledge","url":""}
+{"author":"","bib":"","title":"OFA: A Framework of Initializing Unseen Subword Embeddings for Efficient Large-scale Multilingual Continued Pretraining","url":""}
+{"author":"","bib":"","title":"SELF-EXPERTISE: Knowledge-based Instruction Dataset Augmentation for a Legal Expert Language Model","url":""}
+{"author":"","bib":"","title":"Re-evaluating the Need for Visual Signals in Unsupervised Grammar Induction","url":""}
+{"author":"","bib":"","title":"EDEntail: An Entailment-based Few-shot Text Classification with Extensional Definition","url":""}
+{"author":"","bib":"","title":"What Makes Math Word Problems Challenging for LLMs?","url":""}
+{"author":"","bib":"","title":"SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models","url":""}
+{"author":"","bib":"","title":"T3M: Text Guided 3D Human Motion Synthesis from Speech","url":""}
+{"author":"","bib":"","title":"Deja vu: Contrastive Historical Modeling with Prefix-tuning for Temporal Knowledge Graph Reasoning","url":""}
+{"author":"","bib":"","title":"Explanation Extraction from Hierarchical Classification Frameworks for Long Legal Documents","url":""}
+{"author":"","bib":"","title":"Low-Rank Adaptation for Multilingual Summarization: An Empirical Study","url":""}
+{"author":"","bib":"","title":"Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts","url":""}
+{"author":"","bib":"","title":"Emergent Abilities in Reduced-Scale Generative Language Models","url":""}
+{"author":"","bib":"","title":"Context Does Matter: Implications for Crowdsourced Evaluation Labels in Task-Oriented Dialogue Systems","url":""}
+{"author":"","bib":"","title":"Matching Varying-Length Texts via Topic-Informed and Decoupled Sentence Embeddings","url":""}
+{"author":"","bib":"","title":"Instruction Tuning with Human Curriculum","url":""}
+{"author":"","bib":"","title":"Natural Language-based State Representation in Deep Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"Learning Cross-Architecture Instruction Embeddings for Binary Code Analysis in Low-Resource Architectures","url":""}
+{"author":"","bib":"","title":"ReEval: Automatic Hallucination Evaluation for Retrieval-Augmented Large Language Models via Transferable Adversarial Attacks","url":""}
+{"author":"","bib":"","title":"An Effective Automated Speaking Assessment Approach to Mitigating Data Scarcity and Imbalanced Distribution","url":""}
+{"author":"","bib":"","title":"GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond","url":""}
+{"author":"","bib":"","title":"Subword Attention and Post-Processing for Rare and Unknown Contextualized Embeddings","url":""}
+{"author":"","bib":"","title":"UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI","url":""}
+{"author":"","bib":"","title":"SimSCOOD: Systematic Analysis of Out-of-Distribution Generalization in Fine-tuned Source Code Models","url":""}
+{"author":"","bib":"","title":"Pruning as a Domain-specific LLM Extractor","url":""}
+{"author":"","bib":"","title":"LLMRefine: Pinpointing and Refining Large Language Models via Fine-Grained Actionable Feedback","url":""}
+{"author":"","bib":"","title":"Noisy Multi-Label Text Classification via Instance-Label Pair Correction","url":""}
+{"author":"","bib":"","title":"Composite Backdoor Attacks Against Large Language Models","url":""}
+{"author":"","bib":"","title":"Adapting Fake News Detection to the Era of Large Language Models","url":""}
+{"author":"","bib":"","title":"MCAD: Multi-teacher Cross-modal Alignment Distillation for efficient image-text retrieval","url":""}
+{"author":"","bib":"","title":"Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting","url":""}
+{"author":"","bib":"","title":"FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based Language Family Clustering","url":""}
+{"author":"","bib":"","title":"Gaussian Process Optimization for Adaptable Multi-Objective Text Generation using Linearly-Weighted Language Models","url":""}
+{"author":"","bib":"","title":"Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study","url":""}
+{"author":"","bib":"","title":"TagDebias: Entity and Concept Tagging for Social Bias Mitigation in Pretrained Language Models","url":""}
+{"author":"","bib":"","title":"Improving Absent Keyphrase Generation with Diversity Heads","url":""}
+{"author":"","bib":"","title":"mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?","url":""}
+{"author":"","bib":"","title":"Discovering and Mitigating Indirect Bias in Attention-Based Model Explanations","url":""}
+{"author":"","bib":"","title":"i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data","url":""}
+{"author":"","bib":"","title":"Think While You Write: Hypothesis Verification Promotes Faithful Knowledge-to-Text Generation","url":""}
+{"author":"","bib":"","title":"It’s All Relative! – A Synthetic Query Generation Approach for Improving Zero-Shot Relevance Prediction","url":""}
+{"author":"","bib":"","title":"RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models","url":""}
+{"author":"","bib":"","title":"Hypernetwork-Assisted Parameter-Efficient Fine-Tuning with Meta-Knowledge Distillation for Domain Knowledge Disentanglement","url":""}
+{"author":"","bib":"","title":"MICo: Preventative Detoxification of Large Language Models through Inhibition Control","url":""}
+{"author":"","bib":"","title":"Reinforcement Learning with Token-level Feedback for Controllable Text Generation","url":""}
+{"author":"","bib":"","title":"CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving","url":""}
+{"author":"","bib":"","title":"Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies","url":""}
+{"author":"","bib":"","title":"AdaPT: A Set of Guidelines for Hyperbolic Multimodal Multilingual NLP","url":""}
+{"author":"","bib":"","title":"More Samples or More Prompts? Exploring Effective Few-Shot In-Context Learning for LLMs with In-Context Sampling","url":""}
+{"author":"","bib":"","title":"ZSEE: A Dataset based on Zeolite Synthesis Event Extraction for Automated Synthesis Platform","url":""}
+{"author":"","bib":"","title":"Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information","url":""}
+{"author":"","bib":"","title":"Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents","url":""}
+{"author":"","bib":"","title":"Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models","url":""}
+{"author":"","bib":"","title":"DAGCN: Distance-based and Aspect-oriented Graph Convolutional Network for Aspect-based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Connecting the Dots: Inferring Patent Phrase Similarity with Retrieved Phrase Graphs","url":""}
+{"author":"","bib":"","title":"Self-Regulated Sample Diversity in Large Language Models","url":""}
+{"author":"","bib":"","title":"Methods, Applications, and Directions of Learning-to-Rank in NLP Research","url":""}
+{"author":"","bib":"","title":"When Quantization Affects Confidence of Large Language Models?","url":""}
+{"author":"","bib":"","title":"MedCycle: Unpaired Medical Report Generation via Cycle-Consistency","url":""}
+{"author":"","bib":"","title":"Beta-LR: Interpretable Logical Reasoning based on Beta Distribution","url":""}
+{"author":"","bib":"","title":"Applications of BERT Models Towards Automation of Clinical Coding in Icelandic","url":""}
+{"author":"","bib":"","title":"Tell me who you are and I tell you how you argue: Predicting Stances and Arguments for Stakeholder Groups","url":""}
+{"author":"","bib":"","title":"Psychometric Predictive Power of Large Language Models","url":""}
+{"author":"","bib":"","title":"Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions","url":""}
+{"author":"","bib":"","title":"PEEB: Part-based Image Classifiers with an Explainable and Editable Language Bottleneck","url":""}
+{"author":"","bib":"","title":"Ethos: Rectifying Language Models in Orthogonal Parameter Space","url":""}
+{"author":"","bib":"","title":"Crafting In-context Examples according to LMs’ Parametric Knowledge","url":""}
+{"author":"","bib":"","title":"ICXML: An In-Context Learning Framework for Zero-Shot Extreme Multi-Label Classification","url":""}
+{"author":"","bib":"","title":"CLGSI: A Multimodal Sentiment Analysis Framework based on Contrastive Learning Guided by Sentiment Intensity","url":""}
+{"author":"","bib":"","title":"Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains","url":""}
+{"author":"","bib":"","title":"Enhancing Perception: Refining Explanations of News Claims with LLM Conversations","url":""}
+{"author":"","bib":"","title":"How Interpretable are Reasoning Explanations from Prompting Large Language Models?","url":""}
+{"author":"","bib":"","title":"Plug-in Language Model: Controlling Text Generation with a Simple Regression Model","url":""}
+{"author":"","bib":"","title":"Signer Diversity-driven Data Augmentation for Signer-Independent Sign Language Translation","url":""}
+{"author":"","bib":"","title":"A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation","url":""}
+{"author":"","bib":"","title":"Multi-Granularity Guided Fusion-in-Decoder","url":""}
+{"author":"","bib":"","title":"Group Fairness in Multilingual Speech Recognition Models","url":""}
+{"author":"","bib":"","title":"Rethinking Machine Ethics – Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?","url":""}
+{"author":"","bib":"","title":"Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models","url":""}
+{"author":"","bib":"","title":"BERTweet’s TACO Fiesta: Contrasting Flavors On The Path Of Inference And Information-Driven Argument Mining On Twitter","url":""}
+{"author":"","bib":"","title":"Testing the limits of logical reasoning in neural and hybrid models","url":""}
+{"author":"","bib":"","title":"METAL: Towards Multilingual Meta-Evaluation","url":""}
+{"author":"","bib":"","title":"AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models","url":""}
+{"author":"","bib":"","title":"Product Description and QA Assisted Self-Supervised Opinion Summarization","url":""}
+{"author":"","bib":"","title":"COMEM: In-Context Retrieval-Augmented Mass-Editing Memory in Large Language Models","url":""}
+{"author":"","bib":"","title":"Content-Specific Humorous Image Captioning Using Incongruity Resolution Chain-of-Thought","url":""}
+{"author":"","bib":"","title":"Denoising Attention for Query-aware User Modeling","url":""}
+{"author":"","bib":"","title":"A Lightweight Mixture-of-Experts Neural Machine Translation Model With Stage-wise Training Strategy","url":""}
+{"author":"","bib":"","title":"BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models","url":""}
+{"author":"","bib":"","title":"Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition","url":""}
+{"author":"","bib":"","title":"Anonymity at Risk? Assessing Re-Identification Capabilities of Large Language Models in Court Decisions","url":""}
+{"author":"","bib":"","title":"X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment","url":""}
+{"author":"","bib":"","title":"Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise","url":""}
+{"author":"","bib":"","title":"Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake","url":""}
+{"author":"","bib":"","title":"Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts","url":""}
+{"author":"","bib":"","title":"Self-Adaptive Sampling for Accurate Video Question Answering on Image Text Models","url":""}
+{"author":"","bib":"","title":"Towards an On-device Agent for Text Rewriting","url":""}
+{"author":"","bib":"","title":"Tailoring Vaccine Messaging with Common-Ground Opinions","url":""}
+{"author":"","bib":"","title":"Best of Both Worlds: A Pliable and Generalizable Neuro-Symbolic Approach for Relation Classification","url":""}
+{"author":"","bib":"","title":"Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language Learning","url":""}
+{"author":"","bib":"","title":"In-Context Example Ordering Guided by Label Distributions","url":""}
+{"author":"","bib":"","title":"Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives","url":""}
+{"author":"","bib":"","title":"Laying Anchors: Semantically Priming Numerals in Language Modeling","url":""}
+{"author":"","bib":"","title":"UEGP: Unified Expert-Guided Pre-training for Knowledge Rekindle","url":""}
+{"author":"","bib":"","title":"LatticeGen: Hiding Generated Text in a Lattice for Privacy-Aware Large Language Model Generation on Cloud","url":""}
+{"author":"","bib":"","title":"HateModerate: Testing Hate Speech Detectors against Content Moderation Policies","url":""}
+{"author":"","bib":"","title":"Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other","url":""}
+{"author":"","bib":"","title":"Contrastive Preference Learning for Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"SocREval: Large Language Models with the Socratic Method for Reference-free Reasoning Evaluation","url":""}
+{"author":"","bib":"","title":"Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis","url":""}
+{"author":"","bib":"","title":"Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge","url":""}
+{"author":"","bib":"","title":"Prompting Vision-Language Models For Aspect-Controlled Generation of Referring Expressions","url":""}
+{"author":"","bib":"","title":"Task-Agnostic Detector for Insertion-Based Backdoor Attacks","url":""}
+{"author":"","bib":"","title":"Uncertainty Estimation on Sequential Labeling via Uncertainty Transmission","url":""}
+{"author":"","bib":"","title":"Exploring Language Model’s Code Generation Ability with Auxiliary Functions","url":""}
+{"author":"","bib":"","title":"Crossing Linguistic Horizons: Finetuning and Comprehensive Evaluation of Vietnamese Large Language Models","url":""}
+{"author":"","bib":"","title":"GoT: Effective Graph-of-Thought Reasoning in Language Models","url":""}
+{"author":"","bib":"","title":"Enhancing the General Agent Capabilities of Low-Paramter LLMs through Tuning and Multi-Branch Reasoning","url":""}
+{"author":"","bib":"","title":"MuMath: Multi-perspective Data Augmentation for Mathematical Reasoning in Large Language Models","url":""}
+{"author":"","bib":"","title":"Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization","url":""}
+{"author":"","bib":"","title":"UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking","url":""}
+{"author":"","bib":"","title":"Evaluating Step-by-Step Reasoning through Symbolic Verification","url":""}
+{"author":"","bib":"","title":"Multi-Review Fusion-in-Context","url":""}
+{"author":"","bib":"","title":"Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison","url":""}
+{"author":"","bib":"","title":"Extending Input Contexts of Language Models through Training on Segmented Sequences","url":""}
+{"author":"","bib":"","title":"Reason from Fallacy: Enhancing Large Language Models’ Logical Reasoning through Logical Fallacy Understanding","url":""}
+{"author":"","bib":"","title":"Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models","url":""}
+{"author":"","bib":"","title":"Aspect-based Sentiment Analysis with Context Denoising","url":""}
+{"author":"","bib":"","title":"IruMozhi: Automatically classifying diglossia in Tamil","url":""}
+{"author":"","bib":"","title":"RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations","url":""}
+{"author":"","bib":"","title":"Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking","url":""}
+{"author":"","bib":"","title":"COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning","url":""}
+{"author":"","bib":"","title":"DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation","url":""}
+{"author":"","bib":"","title":"MindAgent: Emergent Gaming Interaction","url":""}
+{"author":"","bib":"","title":"BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues","url":""}
+{"author":"","bib":"","title":"Learning Mutually Informed Representations for Characters and Subwords","url":""}
+{"author":"","bib":"","title":"A Novel Two-step Fine-tuning Framework for Transfer Learning in Low-Resource Neural Machine Translation","url":""}
+{"author":"","bib":"","title":"Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment","url":""}
+{"author":"","bib":"","title":"C$^{3}$LPGCN:Integrating Contrastive Learning and Cooperative Learning with Prompt into Graph Convolutional Network for Aspect-based Sentiment Analysis","url":""}
+{"author":"","bib":"","title":"Visual Enhanced Entity-Level Interaction Network for Multimodal Summarization","url":""}
+{"author":"","bib":"","title":"Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning","url":""}
+{"author":"","bib":"","title":"Time Machine GPT","url":""}
+{"author":"","bib":"","title":"An End-to-End Submodular Framework for Data-Efficient In-Context Learning","url":""}
+{"author":"","bib":"","title":"Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer","url":""}
+{"author":"","bib":"","title":"Simulating Opinion Dynamics with Networks of LLM-based Agents","url":""}
+{"author":"","bib":"","title":"Probing the Category of Verbal Aspect in Transformer Language Models","url":""}
+{"author":"","bib":"","title":"A Measure for Transparent Comparison of Linguistic Diversity in Multilingual NLP Data Sets","url":""}
+{"author":"","bib":"","title":"Beyond Read-Only: Crafting a Comprehensive Chinese Text-to-SQL Dataset for Database Manipulation and Query","url":""}
+{"author":"","bib":"","title":"Normalizing without Modernizing: Keeping Historical Wordforms of Middle French while Reducing Spelling Variants","url":""}
+{"author":"","bib":"","title":"Anti-LM Decoding for Zero-shot In-context Machine Translation","url":""}
+{"author":"","bib":"","title":"Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning","url":""}
+{"author":"","bib":"","title":"Select and Summarize: Scene Saliency for Movie Script Summarization","url":""}
+{"author":"","bib":"","title":"Don’t be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks","url":""}
+{"author":"","bib":"","title":"Z-GMOT: Zero-shot Generic Multiple Object Tracking","url":""}
+{"author":"","bib":"","title":"NLP for Counterspeech against Hate: A Survey and How-To Guide","url":""}
+{"author":"","bib":"","title":"PRODIGy: a PROfile-based DIalogue Generation dataset","url":""}
+{"author":"","bib":"","title":"WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models","url":""}
+{"author":"","bib":"","title":"Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking","url":""}
+{"author":"","bib":"","title":"PAELLA: Parameter-Efficient Lightweight Language-Agnostic Captioning Model","url":""}
+{"author":"","bib":"","title":"OSCaR: Object State Captioning and State Change Representation","url":""}
+{"author":"","bib":"","title":"SumCSE: Summary as a transformation for Contrastive Learning","url":""}
+{"author":"","bib":"","title":"The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text","url":""}
+{"author":"","bib":"","title":"PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits","url":""}
+{"author":"","bib":"","title":"MoE-SLU: Towards ASR-Robust Spoken Language Understanding via Mixture-of-Experts","url":""}
+{"author":"","bib":"","title":"FIRE: A Dataset for Financial Relation Extraction","url":""}
+{"author":"","bib":"","title":"MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response","url":""}
+{"author":"","bib":"","title":"Investigating Acceleration of LLaMA Inference by Enabling Intermediate Layer Decoding via Instruction Tuning with ‘LITE’","url":""}
+{"author":"","bib":"","title":"Instruction-following Evaluation through Verbalizer Manipulation","url":""}
+{"author":"","bib":"","title":"WebWISE: Unlocking Web Interface Control for LLMs via Sequential Exploration","url":""}
+{"author":"","bib":"","title":"CodecLM: Aligning Language Models with Tailored Synthetic Data","url":""}
+{"author":"","bib":"","title":"Prompting Few-shot Multi-hop Question Generation via Comprehending Type-aware Semantics","url":""}
+{"author":"","bib":"","title":"When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models","url":""}
+{"author":"","bib":"","title":"CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP","url":""}
+{"author":"","bib":"","title":"Synonym relations affect object detection learned on vision-language data","url":""}
+{"author":"","bib":"","title":"CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models","url":""}
+{"author":"","bib":"","title":"RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning","url":""}
+{"author":"","bib":"","title":"Characterizing Human and Zero-Shot GPT-3.5 Object-Similarity Judgments","url":""}
+{"author":"","bib":"","title":"Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models","url":""}
+{"author":"","bib":"","title":"Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning","url":""}
+{"author":"","bib":"","title":"MCECR: A Novel Dataset for Multilingual Cross-Document Event Coreference Resolution","url":""}
+{"author":"","bib":"","title":"Sentiment Analysis in the Era of Large Language Models: A Reality Check","url":""}
+{"author":"","bib":"","title":"Tokenizer Choice For LLM Training: Negligible or Crucial?","url":""}
+{"author":"","bib":"","title":"Think Before You Speak: Cultivating Communication Skills of Large Language Models via Inner Monologue","url":""}
+{"author":"","bib":"","title":"The Impact of Differential Privacy on Group Disparity Mitigation","url":""}
+{"author":"","bib":"","title":"Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"Read between the lines - Functionality Extraction From READMEs","url":""}
+{"author":"","bib":"","title":"AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph","url":""}
+{"author":"","bib":"","title":"Few-TK: A Dataset for Few-shot Scientific Typed Keyphrase Recognition","url":""}
+{"author":"","bib":"","title":"Language Models can be Deductive Solvers","url":""}
+{"author":"","bib":"","title":"Interpreting User Requests in the Context of Natural Language Standing Instructions","url":""}
+{"author":"","bib":"","title":"Secure Your Model: An Effective Key Prompt Protection Mechanism for Large Language Models","url":""}
+{"author":"","bib":"","title":"Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models","url":""}
+{"author":"","bib":"","title":"Do Prompt Positions Really Matter?","url":""}
+{"author":"","bib":"","title":"Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning","url":""}
+{"author":"","bib":"","title":"A Study on Scaling Up Multilingual News Framing Analysis","url":""}
+{"author":"","bib":"","title":"ViGLUE: A Vietnamese General Language Understanding Benchmark and Analysis of Vietnamese Language Models","url":""}
+{"author":"","bib":"","title":"Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales","url":""}
+{"author":"","bib":"","title":"Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation","url":""}
+{"author":"","bib":"","title":"ADaPT: As-Needed Decomposition and Planning with Language Models","url":""}
+{"author":"","bib":"","title":"Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations","url":""}
+{"author":"","bib":"","title":"Non-contrastive sentence representations via self-supervision","url":""}
+{"author":"","bib":"","title":"Semantically-Prompted Language Models Improve Visual Descriptions","url":""}
+{"author":"","bib":"","title":"GenTKG: Generative Forecasting on Temporal Knowledge Graph","url":""}
+{"author":"","bib":"","title":"A Transformer Language Model with Stack Attention","url":""}
+{"author":"","bib":"","title":"InstructEval: Systematic Evaluation of Instruction Selection Methods","url":""}
+{"author":"","bib":"","title":"RecMind: Large Language Model Powered Agent For Recommendation","url":""}
+{"author":"","bib":"","title":"GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation","url":""}
+{"author":"","bib":"","title":"How Lexical is Bilingual Lexicon Induction?","url":""}
+{"author":"","bib":"","title":"Fumbling in Babel: An Investigation into ChatGPT’s Language Identification Ability","url":""}
+{"author":"","bib":"","title":"Targeted Augmentation for Low-Resource Event Extraction","url":""}
+{"author":"","bib":"","title":"Asking More Informative Questions for Grounded Retrieval","url":""}
+{"author":"","bib":"","title":"Efficient Citer: Tuning Large Language Models for Enhanced Answer Quality and Verification","url":""}
+{"author":"","bib":"","title":"Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models","url":""}
+{"author":"","bib":"","title":"ATG: Benchmarking Automated Theorem Generation for Generative Language Models","url":""}
+{"author":"","bib":"","title":"Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization","url":""}
+{"author":"","bib":"","title":"NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge","url":""}
+{"author":"","bib":"","title":"Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation","url":""}
+{"author":"","bib":"","title":"SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models","url":""}
+{"author":"","bib":"","title":"On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering","url":""}
+{"author":"","bib":"","title":"CARE: Extracting Experimental Findings From Clinical Literature","url":""}
+{"author":"","bib":"","title":"Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning","url":""}
+{"author":"","bib":"","title":"SGSH: Stimulate Large Language Models with Skeleton Heuristics for Knowledge Base Question Generation","url":""}
+{"author":"","bib":"","title":"Biomedical Entity Representation with Graph-Augmented Multi-Objective Transformer","url":""}
+{"author":"","bib":"","title":"Cross-Lingual Summarization with Pseudo-Label Regularization","url":""}
+{"author":"","bib":"","title":"On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good","url":""}
+{"author":"","bib":"","title":"Leveraging Summarization for Unsupervised Dialogue Topic Segmentation","url":""}
+{"author":"","bib":"","title":"LLaMA-Rider: Spurring Large Language Models to Explore the Open World","url":""}
+{"author":"","bib":"","title":"Contrastive Learning as a Polarizer: Mitigating Gender Bias by Fair and Biased sentences","url":""}
+{"author":"","bib":"","title":"PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics","url":""}
+{"author":"","bib":"","title":"Improving Open-Domain Health Question Answering with Evidence Quality Assessment","url":""}
+{"author":"","bib":"","title":"DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers","url":""}

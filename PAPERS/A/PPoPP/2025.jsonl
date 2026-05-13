@@ -1,0 +1,51 @@
+{"author":"","bib":"","title":"Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2025, Las Vegas, NV, USA, March 1-5, 2025","url":""}
+{"author":"","bib":"","title":"Setting a Course for Post-Moore Software Performance","url":""}
+{"author":"","bib":"","title":"Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference","url":""}
+{"author":"","bib":"","title":"Accelerating GNNs on GPU Sparse Tensor Cores through N: M Sparsity-Oriented Graph Reordering","url":""}
+{"author":"","bib":"","title":"Adaptive Parallel Training for Graph Neural Networks","url":""}
+{"author":"","bib":"","title":"RT-BarnesHut: Accelerating Barnes-Hut Using Ray-Tracing Hardware","url":""}
+{"author":"","bib":"","title":"EVeREST: An Effective and Versatile Runtime Energy Saving Tool for GPUs","url":""}
+{"author":"","bib":"","title":"TurboFFT: Co-Designed High-Performance and Fault-Tolerant Fast Fourier Transform on GPUs","url":""}
+{"author":"","bib":"","title":"Reciprocating Locks","url":""}
+{"author":"","bib":"","title":"Aggregating Funnels for Faster Fetch&Add and Queues","url":""}
+{"author":"","bib":"","title":"Fairer and More Scalable Reader-Writer Locks by Optimizing Queue Management","url":""}
+{"author":"","bib":"","title":"Publish on Ping: A Better Way to Publish Reservations in Memory Reclamation for Concurrent Data Structures","url":""}
+{"author":"","bib":"","title":"AC-Cache: A Memory-Efficient Caching System for Small Objects via Exploiting Access Correlations","url":""}
+{"author":"","bib":"","title":"Effectively Virtual Page Prefetching via Spatial-Temporal Patterns for Memory-intensive Cloud Applications","url":""}
+{"author":"","bib":"","title":"Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion","url":""}
+{"author":"","bib":"","title":"FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property","url":""}
+{"author":"","bib":"","title":"Mario: Near Zero-cost Activation Checkpointing in Pipeline Parallelism","url":""}
+{"author":"","bib":"","title":"COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers","url":""}
+{"author":"","bib":"","title":"WeiPipe: Weight Pipeline Parallelism for Communication-Effective Long-Context Large Model Training","url":""}
+{"author":"","bib":"","title":"MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models","url":""}
+{"author":"","bib":"","title":"ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training","url":""}
+{"author":"","bib":"","title":"SGDRC: Software-Defined Dynamic Resource Control for Concurrent DNN Inference on NVIDIA GPUs","url":""}
+{"author":"","bib":"","title":"DORADD: Deterministic Parallel Execution in the Era of Microsecond-Scale Computing","url":""}
+{"author":"","bib":"","title":"WaterWise: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing","url":""}
+{"author":"","bib":"","title":"FlashSparse: Minimizing Computation Redundancy for Fast Sparse Matrix Multiplications on Tensor Cores","url":""}
+{"author":"","bib":"","title":"Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores","url":""}
+{"author":"","bib":"","title":"BerryBees: Breadth First Search by Bit-Tensor-Cores","url":""}
+{"author":"","bib":"","title":"FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units","url":""}
+{"author":"","bib":"","title":"PANNS: Enhancing Graph-based Approximate Nearest Neighbor Search through Recency-aware Construction and Parameterized Search","url":""}
+{"author":"","bib":"","title":"Balanced Allocations over Efficient Queues: A Fast Relaxed FIFO Queue","url":""}
+{"author":"","bib":"","title":"LibRTS: A Spatial Indexing Library by Ray Tracing","url":""}
+{"author":"","bib":"","title":"Crystality: A Programming Model for Smart Contracts on Parallel EVMs","url":""}
+{"author":"","bib":"","title":"Popcorn: Accelerating Kernel K-means on GPUs through Sparse Linear Algebra","url":""}
+{"author":"","bib":"","title":"Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm","url":""}
+{"author":"","bib":"","title":"GLumin: Fast Connectivity Check Based on LUTs For Efficient Graph Pattern Mining","url":""}
+{"author":"","bib":"","title":"Improving Tridiagonalization Performance on GPU Architectures","url":""}
+{"author":"","bib":"","title":"Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers","url":""}
+{"author":"","bib":"","title":"Semi-StructMG: A Fast and Scalable Semi-Structured Algebraic Multigrid","url":""}
+{"author":"","bib":"","title":"SBMGT: Scaling Bayesian Multinomial Group Testing","url":""}
+{"author":"","bib":"","title":"An AI-Enhanced 1km-Resolution Seamless Global Weather and Climate Model to Achieve Year-Scale Simulation Speed using 34 Million Cores","url":""}
+{"author":"","bib":"","title":"Big Atomics and Fast Hash Tables","url":""}
+{"author":"","bib":"","title":"Frontier-guided Graph Reordering","url":""}
+{"author":"","bib":"","title":"Transactional Data Structures with Orthogonal Metadata","url":""}
+{"author":"","bib":"","title":"Boost Lock-free Queue and Stack with Batching","url":""}
+{"author":"","bib":"","title":"TensorMD: Molecular Dynamics Simulation with Ab Initio Accuracy of 50 Billion Atoms","url":""}
+{"author":"","bib":"","title":"FastBWA: Practical and Cost-Efficient Genome Sequence Alignment Pipeline","url":""}
+{"author":"","bib":"","title":"High-performance Visual Semantics Compression for AI-Driven Science","url":""}
+{"author":"","bib":"","title":"Triangle Counting on Tensor Cores","url":""}
+{"author":"","bib":"","title":"Magneto: Accelerating Parallel Structures in DNNs via Co-Optimization of Operators","url":""}
+{"author":"","bib":"","title":"A General and Scalable GCN Training Framework on CPU Supercomputers","url":""}
+{"author":"","bib":"","title":"Minimizing speculation overhead in a parallel recognizer for regular texts","url":""}

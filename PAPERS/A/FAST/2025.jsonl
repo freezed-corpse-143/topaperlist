@@ -1,0 +1,37 @@
+{"author":"","bib":"","title":"23rd USENIX Conference on File and Storage Technologies, FAST 2025, Santa Clara, CA, February 25-27, 2025","url":""}
+{"author":"","bib":"","title":"Fast, Transparent Filesystem Microkernel Recovery with Ananke","url":""}
+{"author":"","bib":"","title":"Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems","url":""}
+{"author":"","bib":"","title":"DJFS : Directory-Granularity Filesystem Journaling for CMM-H SSDs","url":""}
+{"author":"","bib":"","title":"ScaleLFS: A Log-Structured File System with Scalable Garbage Collection for Commodity SSDs","url":""}
+{"author":"","bib":"","title":"Rethinking the Request-to-IO Transformation Process of File Systems for Full Utilization of High-Bandwidth SSDs","url":""}
+{"author":"","bib":"","title":"FlacIO: Flat and Collective I/O for Container Image Service","url":""}
+{"author":"","bib":"","title":"Cloudscape: A Study of Storage Services in Modern Cloud Architectures","url":""}
+{"author":"","bib":"","title":"Maat: Analyzing and Optimizing Overcharge on Blockchain Storage","url":""}
+{"author":"","bib":"","title":"Revisiting Network Coding for Warm Blob Storage","url":""}
+{"author":"","bib":"","title":"Mooncake: Trading More Storage for Less Computation - A KVCache-centric Architecture for Serving LLM Chatbot","url":""}
+{"author":"","bib":"","title":"Towards High-throughput and Low-latency Billion-scale Vector Search via CPU/GPU Collaborative Filtering and Re-ranking","url":""}
+{"author":"","bib":"","title":"IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference","url":""}
+{"author":"","bib":"","title":"GPHash: An Efficient Hash Index for GPU with Byte-Granularity Persistent Memory","url":""}
+{"author":"","bib":"","title":"GeminiFS: A Companion File System for GPUs","url":""}
+{"author":"","bib":"","title":"3L-Cache: Low Overhead and Precise Learning-based Eviction Policy for Caches","url":""}
+{"author":"","bib":"","title":"LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration","url":""}
+{"author":"","bib":"","title":"HiDPU: A DPU-Oriented Hybrid Indexing Scheme for Disaggregated Storage Systems","url":""}
+{"author":"","bib":"","title":"PIMLex: A High-Performance Learned Index with Processing-in-Memory","url":""}
+{"author":"","bib":"","title":"HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing","url":""}
+{"author":"","bib":"","title":"AegonKV: A High Bandwidth, Low Tail Latency, and Low Storage Cost KV-Separated LSM Store with SmartSSD-based GC Offloading","url":""}
+{"author":"","bib":"","title":"D2FS: Device-Driven Filesystem Garbage Collection","url":""}
+{"author":"","bib":"","title":"ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover","url":""}
+{"author":"","bib":"","title":"Selective On-Device Execution of Data-Dependent Read I/Os","url":""}
+{"author":"","bib":"","title":"On Scalable Integrity Checking for Secure Cloud Disks","url":""}
+{"author":"","bib":"","title":"Silhouette: Leveraging Consistency Mechanisms to Detect Bugs in Persistent Memory-Based File Systems","url":""}
+{"author":"","bib":"","title":"OPIMQ: Order Preserving IO stack for Multi-Queue Block Device","url":""}
+{"author":"","bib":"","title":"AWUPF Rediscovered: Atomic Writes to Unleash Pivotal Fault-Tolerance in SSDs","url":""}
+{"author":"","bib":"","title":"AtomicDisk: A Secure Virtual Disk for TEEs against Eviction Attacks","url":""}
+{"author":"","bib":"","title":"MedFS: Pursuing Low Update Overhead via Metadata-Enabled Delta Compression for Log-structured File System on Mobile Device","url":""}
+{"author":"","bib":"","title":"Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS","url":""}
+{"author":"","bib":"","title":"Archer: Adaptive Memory Compression with Page-Association-Rule Awareness for High-Speed Response of Mobile Devices","url":""}
+{"author":"","bib":"","title":"VectorCDC: Accelerating Data Deduplication with Vector Instructions","url":""}
+{"author":"","bib":"","title":"Oasis: An Out-of-core Approximate Graph System via All-Distances Sketches","url":""}
+{"author":"","bib":"","title":"PolyStore: Exploiting Combined Capabilities of Heterogeneous Storage","url":""}
+{"author":"","bib":"","title":"Liquid-State Drive: A Case for DNA Block Device for Enormous Data","url":""}
+{"author":"","bib":"","title":"DNA data storage: A generative tool for Motif-based DNA storage","url":""}

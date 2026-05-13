@@ -1,5 +1,18 @@
-search copy
+# Build output
 target/
 dist/
 search.exe
 search-linux
+
+# Database files
+papers.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE / Editor
+.claude/
+CLAUDE.md
+
+# Temporary
+tmp/

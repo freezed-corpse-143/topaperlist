@@ -1,0 +1,689 @@
+{"author":"","bib":"","title":"ICSE Yoga","url":""}
+{"author":"","bib":"","title":"Quiet Room","url":""}
+{"author":"","bib":"","title":"ICSE 2026 Registration","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"Welcome to ICSE 2026","url":""}
+{"author":"","bib":"","title":"Overview of the Program from the Program Chairs","url":""}
+{"author":"","bib":"","title":"Jan Bosch Keynote: Towards an Awesome AI-driven Future for Software Engineering","url":""}
+{"author":"","bib":"","title":"Qinghua Lu Keynote: AI Engineering: From Software-Centric Systems to AIware-Centric Systems","url":""}
+{"author":"","bib":"","title":"Neurodiverse Café","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing","url":""}
+{"author":"","bib":"","title":"Repairing LLM Executions for Secure Automatic Programming","url":""}
+{"author":"","bib":"","title":"SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-Aware Fine-Tuning","url":""}
+{"author":"","bib":"","title":"Find My Code Twin: Improving SNIPPET SEARCH Performance Using LLMs in Practice","url":""}
+{"author":"","bib":"","title":"Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz","url":""}
+{"author":"","bib":"","title":"EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation","url":""}
+{"author":"","bib":"","title":"Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents","url":""}
+{"author":"","bib":"","title":"SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution","url":""}
+{"author":"","bib":"","title":"More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents","url":""}
+{"author":"","bib":"","title":"ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction","url":""}
+{"author":"","bib":"","title":"Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents","url":""}
+{"author":"","bib":"","title":"Agent-Based Ensemble Reasoning for Repository-Level Issue Resolution","url":""}
+{"author":"","bib":"","title":"Newcomers SpeedNetworking","url":""}
+{"author":"","bib":"","title":"Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices","url":""}
+{"author":"","bib":"","title":"R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"LLM-Based Automated Diagnosis Of Integration Test Failures At Google","url":""}
+{"author":"","bib":"","title":"Automated Bug Frame Retrieval from Gameplay Videos Using Vision-Language Models","url":""}
+{"author":"","bib":"","title":"Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL","url":""}
+{"author":"","bib":"","title":"PerFrame: Monitoring GUI Loading Performance in Mobile Apps via Semantic Distinguish","url":""}
+{"author":"","bib":"","title":"TestifAI: Tomography-Based Testing for Deep Learning Systems","url":""}
+{"author":"","bib":"","title":"Automated Software Test Generation at Industry Scale Using a Multi-Agent Architecture and Workflow IntegrationDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"On the Flakiness of LLM-generated Tests for Industrial and Open-Source Database Management Systems","url":""}
+{"author":"","bib":"","title":"Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study","url":""}
+{"author":"","bib":"","title":"Hamster: A Large-Scale Study and Characterization of Developer-Written Tests","url":""}
+{"author":"","bib":"","title":"AutoOracle: High-Quality C++ Test Oracle Generation via Data Quality-Driven and Filtering-Enabled LLMs","url":""}
+{"author":"","bib":"","title":"An industrial experience report on applying search-based boundary input generation to cyber-physical systems","url":""}
+{"author":"","bib":"","title":"Testing CPS with Design Assumptions-Based Metamorphic Relations and Genetic Programming","url":""}
+{"author":"","bib":"","title":"Signal Feature Coverage and Testing for CPS Dataflow Models","url":""}
+{"author":"","bib":"","title":"Uncovering Failures in Cyber-Physical System State Transitions: A Fuzzing-Based Approach Applied to sUAS","url":""}
+{"author":"","bib":"","title":"Vision Language Model-based Testing of Industrial Autonomous Mobile Robots","url":""}
+{"author":"","bib":"","title":"Misbehavior Forecasting for Focused Autonomous Driving Systems Testing","url":""}
+{"author":"","bib":"","title":"Bayesian Multi-Level Performance Models for Multi-Factor Variability of Configurable Software Systems","url":""}
+{"author":"","bib":"","title":"Light over Heavy: Automated Performance Requirements Quantification with Linguistic Inducement","url":""}
+{"author":"","bib":"","title":"Can SAT Solvers Keep Up With the Linux Kernel's Feature Model?Distinguished Paper Award","url":""}
+{"author":"","bib":"","title":"What Does Explainable AI Mean in Practice? Evaluative Requirements from a Longitudinal Clinical Case Study","url":""}
+{"author":"","bib":"","title":"Deriving and Validating Requirements Engineering Principles for Large-Scale Agile Development: An Industrial Longitudinal Study","url":""}
+{"author":"","bib":"","title":"Developers’ Blind Spot: Designing Systems to Enable Stakeholders’ Understanding of Ethical Qualities","url":""}
+{"author":"","bib":"","title":"BFix: Automated Safe Memory-Leak Fixing for Binary Code","url":""}
+{"author":"","bib":"","title":"Learning without Forgetting: Towards Continual learning of Fault Localization Models in Industrial Software Systems","url":""}
+{"author":"","bib":"","title":"Memory-Efficient Large Language Models for Program Repair with Semantic-Guided Patch Generation","url":""}
+{"author":"","bib":"","title":"Addressing Test Flakiness: Practical Approaches in a Database-Reliant Industrial System","url":""}
+{"author":"","bib":"","title":"XTrace: A Non-Invasive Dynamic Tracing Framework for Android Applications in Production","url":""}
+{"author":"","bib":"","title":"Delta Debugging for LLM-integrated Systems","url":""}
+{"author":"","bib":"","title":"Small Changes, Big Trouble: Demystifying and Parsing License Variants for Incompatibility Detection in the PyPI Ecosystem","url":""}
+{"author":"","bib":"","title":"WhyFlow: Interrogative Debugger for Sensemaking Taint Analysis","url":""}
+{"author":"","bib":"","title":"Designing Abandabot: When Does Open Source Dependency Abandonment Matter?","url":""}
+{"author":"","bib":"","title":"Demystifying the CVE Ecosystem: Community-Perceived Impacts and Problems","url":""}
+{"author":"","bib":"","title":"Reading Between the Lines: Scalable User Feedback via Implicit Sentiment in Developer PromptsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Revealing the Dark Matter: Connecting Tacit and System Knowledge in Human-AI Collaborations","url":""}
+{"author":"","bib":"","title":"Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses","url":""}
+{"author":"","bib":"","title":"What barriers do students experience when trying to contribute to Open Source Software projects?","url":""}
+{"author":"","bib":"","title":"Mapping educational software engineering content on YouTube","url":""}
+{"author":"","bib":"","title":"When Emotions Matter: Speech-Based Emotion Detection in Capstone Project Retrospective Meetings while Working Hybrid","url":""}
+{"author":"","bib":"","title":"Examining Productivity in Educational Environments: Perspectives of Professors and Students on a Capstone Project","url":""}
+{"author":"","bib":"","title":"An Empirical Study of Anonymous, Unmoderated, and Online Peer-to-Peer Programming Tutoring Conversations","url":""}
+{"author":"","bib":"","title":"Fairness Is Not Just Ethical: Performance Trade-Off via Data Correlation Tuning to Mitigate Bias in ML Software","url":""}
+{"author":"","bib":"","title":"TACO: Trust Assessment of Large Language Models in Coding Assistance Tasks","url":""}
+{"author":"","bib":"","title":"Toward Systematic Counterfactual Fairness Evaluation of Large Language Models: The CAFFE Framework","url":""}
+{"author":"","bib":"","title":"Attention Pruning: Automated Fairness Repair of Language Models via Surrogate Simulated Annealing","url":""}
+{"author":"","bib":"","title":"Building an Open AIBOM Standard in the Wild: An Experience Report on Extending the SPDX SBOM (ISO/IEC 5962:2021) for AI Supply Chains","url":""}
+{"author":"","bib":"","title":"Data-Dependent Goal modeling for ML-Enabled Law Enforcement Systems","url":""}
+{"author":"","bib":"","title":"Func: Reducing the impact of Android framework evolution on malware detection","url":""}
+{"author":"","bib":"","title":"Unraveling Code Clone Dynamics in Deep Learning Frameworks","url":""}
+{"author":"","bib":"","title":"Remediating Superfluous Re-Rendering in React ApplicationsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects","url":""}
+{"author":"","bib":"","title":"CRUDinfer: Automated CRUD Semantics Inference for REST APIs Through Black-box Testing","url":""}
+{"author":"","bib":"","title":"Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities","url":""}
+{"author":"","bib":"","title":"Towards Global Matches for Third-Party Library Detection in Android","url":""}
+{"author":"","bib":"","title":"ViTAL: LLM-Powered Taint Analysis for GUI Field Visualization Auditing in Android","url":""}
+{"author":"","bib":"","title":"Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?","url":""}
+{"author":"","bib":"","title":"OctopusGuard: K-Line Enhanced Token Scam Detector Powered by Multimodal LLMs","url":""}
+{"author":"","bib":"","title":"UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk","url":""}
+{"author":"","bib":"","title":"Foiegras: Source Code Based Software Composition Analysis For C/C++ Applications","url":""}
+{"author":"","bib":"","title":"SE.next: In the Agentic Trenches","url":""}
+{"author":"","bib":"","title":"Lunch","url":""}
+{"author":"","bib":"","title":"ICSE 2027 Organizing Committee Meeting","url":""}
+{"author":"","bib":"","title":"FSE Steering Committee Meeting","url":""}
+{"author":"","bib":"","title":"TCSE Executive Committee Meeting","url":""}
+{"author":"","bib":"","title":"JSS Board Meeting","url":""}
+{"author":"","bib":"","title":"TestWeaver: Execution-aware, Feedback-driven Regression Testing Generation with Large Language Models","url":""}
+{"author":"","bib":"","title":"RealityCraft: Automated Synthesis of Extended Reality Device Interaction Scripts from Natural Language Instructions","url":""}
+{"author":"","bib":"","title":"Heterogeneous Prompting and Execution Feedback for SWE Issue Test Generation and Selection","url":""}
+{"author":"","bib":"","title":"LLM Test Generation via Iterative Hybrid Program Analysis","url":""}
+{"author":"","bib":"","title":"Scaling Security Testing by Addressing the Reachability Gap","url":""}
+{"author":"","bib":"","title":"XBIDetective: Leveraging Vision Language Models for Identifying Cross-Browser Visual Inconsistencies","url":""}
+{"author":"","bib":"","title":"SpecGuru: Hierarchical LLM-Driven API Points-to Specification Generation with Self-Validation","url":""}
+{"author":"","bib":"","title":"Panoptes: A Profile Clustering Framework for Context-Aware Binary Optimization","url":""}
+{"author":"","bib":"","title":"HoarePrompt: Structural Reasoning About Program Correctness in Natural LanguageDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Large Language Model-Aided Partial Program Dependence Analysis","url":""}
+{"author":"","bib":"","title":"Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry","url":""}
+{"author":"","bib":"","title":"CASCADE: LLM-powered JavaScript Deobfuscator at Google","url":""}
+{"author":"","bib":"","title":"Cobblestone: A Divide-and-Conquer Approach for Automating Formal Verification","url":""}
+{"author":"","bib":"","title":"RISE: Rule-Driven SQL Dialect Translation via Query Reduction","url":""}
+{"author":"","bib":"","title":"RepoScope: Leveraging Call Chain-Aware Multi-View Context for Repository-Level Code Generation","url":""}
+{"author":"","bib":"","title":"What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond","url":""}
+{"author":"","bib":"","title":"SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning","url":""}
+{"author":"","bib":"","title":"SmartC2Rust: Iterative, Feedback-Driven C-to-Rust Translation via Large Language Models for Safety and Equivalence","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World ExploitsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Defects4REST: A Benchmark of Real-World Defects to Enable Controlled Testing and Debugging Studies for REST APIs","url":""}
+{"author":"","bib":"","title":"JEDI: Java Evaluation of Declarative and Imperative Queries - Benchmarking the Java Stream API","url":""}
+{"author":"","bib":"","title":"Characterizing GPU-accelerated Web Applications in Browsers","url":""}
+{"author":"","bib":"","title":"Green Software Engineering in Practice: Quantifying the Impact of Carbon Reduction Strategies in Enterprise Software","url":""}
+{"author":"","bib":"","title":"An Empirical Study of WebAssembly Usage in Node.js","url":""}
+{"author":"","bib":"","title":"Parallelization in System-level Testing: Novel Approaches to Manage Test Suite Dependencies","url":""}
+{"author":"","bib":"","title":"Automated Network-Level Fault Injection Testing of Microservice Architectures","url":""}
+{"author":"","bib":"","title":"Predicting Failures in Smart Human-Centric EcoSystems","url":""}
+{"author":"","bib":"","title":"PerfScout: An Adaptive Workload Generator in Software Performance Testing","url":""}
+{"author":"","bib":"","title":"Scaling Mobile Chaos Testing with AI-Driven Test Execution","url":""}
+{"author":"","bib":"","title":"CAST: Automated Resilience Testing for Production Cloud Service Systems","url":""}
+{"author":"","bib":"","title":"Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives","url":""}
+{"author":"","bib":"","title":"A comparative study on reward models for user interface adaptation with reinforcement learning","url":""}
+{"author":"","bib":"","title":"Self-monitoring of Developers' Emotions: the Case of Agile Retrospective Meetings","url":""}
+{"author":"","bib":"","title":"What Makes a Great Software Quality Assurance Engineer?","url":""}
+{"author":"","bib":"","title":"Women’s Participation in Student Software Development Teams: A Cross-Sectional Study on Role Distribution","url":""}
+{"author":"","bib":"","title":"Negativity in Self-Admitted Technical Debt: How Sentiment Influences Prioritization","url":""}
+{"author":"","bib":"","title":"SymRadar: PoC-Centered Bounded Verification for Vulnerability Repair","url":""}
+{"author":"","bib":"","title":"Fine-Grained Analyses for Evolution-Aware Runtime Verification","url":""}
+{"author":"","bib":"","title":"An Empirical Study on Static Application Security Testing (SAST) Tools for PythonDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery","url":""}
+{"author":"","bib":"","title":"PyXray: Practical Cross-Language Call Graph Construction through Object Layout Analysis","url":""}
+{"author":"","bib":"","title":"HapCheck: DSL-Based Static Bug Detection Framework for OpenHarmony","url":""}
+{"author":"","bib":"","title":"Connected to Stay: Gender Homophily and Its Role in Open-Source Software Developer Retention","url":""}
+{"author":"","bib":"","title":"Beyond Adoption: Examining the Evolution and Impact of Codes of Conduct on Open-Source Communities","url":""}
+{"author":"","bib":"","title":"Toxicity Ahead: Forecasting Conversational Derailment on GitHub","url":""}
+{"author":"","bib":"","title":"Challenges and Enablers: Remote Work for People with Disabilities in Software Development Teams","url":""}
+{"author":"","bib":"","title":"Scrolling with Caution: Perceptions of Older Adults on Ethical Issues in Social Media","url":""}
+{"author":"","bib":"","title":"The State of Open Science in Software Engineering Research: A Case Study of ICSE Artifacts","url":""}
+{"author":"","bib":"","title":"Two Decades of Software Architecture Education: State of the Art, Challenges, and Future Directions","url":""}
+{"author":"","bib":"","title":"Lessons Learned from Training the Next Generation of Space Software EngineersDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Leveling Up: Experiences and Evidence-driven Upgrades to a Game Coding Camp for Autistic High School Students","url":""}
+{"author":"","bib":"","title":"AI-Driven Software Development: A New Course Concept and Assessment Model for the Era of Large Language Models","url":""}
+{"author":"","bib":"","title":"Bridging Education and Practice: Lessons Learned from 10 Years of Using Reflective Practices in a Software Engineering Studio","url":""}
+{"author":"","bib":"","title":"Beyond the Prompt: How Novices Engage with AI During Code SummarizationDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses","url":""}
+{"author":"","bib":"","title":"Checking Unsupervised Learning for Nondeterminism and Inconsistency via SMT Solving","url":""}
+{"author":"","bib":"","title":"Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts","url":""}
+{"author":"","bib":"","title":"AtPatch: Debugging Transformers via Hot-Fixing Over-Attention","url":""}
+{"author":"","bib":"","title":"Why Attention Fails: A Taxonomy of Faults in Attention-Based Neural Networks","url":""}
+{"author":"","bib":"","title":"Empirical Evaluation of PDF Parsing and Chunking for Financial Question Answering with RAG","url":""}
+{"author":"","bib":"","title":"Metronome: Differentiated Delay Scheduling for Serverless Functions","url":""}
+{"author":"","bib":"","title":"An Enterprise Marketplace for Unified Access to Multi-Cloud and Enterprise Products in a Large Banking Infrastructure","url":""}
+{"author":"","bib":"","title":"CCLInsight: Unveiling Insights in GPU Collective Communication Libraries via Primitive-Centric Analysis","url":""}
+{"author":"","bib":"","title":"FlowScope: Non-Intrusive Distributed Tracing with Method-Level Delay Estimation for Microservices Troubleshooting","url":""}
+{"author":"","bib":"","title":"LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding","url":""}
+{"author":"","bib":"","title":"Large Language Model powered Test Driver Generation for High-performance Computing Library","url":""}
+{"author":"","bib":"","title":"TraceCaps: Inline Provenance and Risk Enforcement for Agentic Software Engineering","url":""}
+{"author":"","bib":"","title":"Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks","url":""}
+{"author":"","bib":"","title":"PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing","url":""}
+{"author":"","bib":"","title":"Evaluating and Improving the Robustness of Security Attack Detectors Generated by LLMs","url":""}
+{"author":"","bib":"","title":"LLM4JMH: Studying the Use of LLMs for Generating Java Performance Microbenchmarks","url":""}
+{"author":"","bib":"","title":"RulePilot: An LLM-Powered Agent for Security Rule Generation","url":""}
+{"author":"","bib":"","title":"Opening by the Awards Chairs","url":""}
+{"author":"","bib":"","title":"IEEE Computer Society Harlan D. Mills Award and Talk by Andreas Zeller: Should Computer Scientists Experiment Less? On the past, present, and future of software engineering research","url":""}
+{"author":"","bib":"","title":"Most influential Paper ICSE N-10 Award and Talk for: Automatically learning semantic features for defect prediction","url":""}
+{"author":"","bib":"","title":"Student Research Competition Awards and Distinguished Reviewer Awards","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System","url":""}
+{"author":"","bib":"","title":"Enterprise-Scale COBOL-to-Java Translation: LLMs Augmented with Program Analysis","url":""}
+{"author":"","bib":"","title":"Smart Paste: Automatically Fixing Copy/Paste for Google Developers","url":""}
+{"author":"","bib":"","title":"Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs","url":""}
+{"author":"","bib":"","title":"Less Effort, More Productivity: Lessons Learned from Developing Millions of Lines of Code with Large Language Model","url":""}
+{"author":"","bib":"","title":"WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp","url":""}
+{"author":"","bib":"","title":"Quantifying Memorization Advantage in Code LLMs","url":""}
+{"author":"","bib":"","title":"Assessing Coherency and Consistency of Code Execution Reasoning by Large Language Models","url":""}
+{"author":"","bib":"","title":"Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark","url":""}
+{"author":"","bib":"","title":"What’s in a Benchmark? The Case of SWE-Bench in Automated Program Repair","url":""}
+{"author":"","bib":"","title":"The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason","url":""}
+{"author":"","bib":"","title":"Rethinking the Evaluation of Secure Code Generation","url":""}
+{"author":"","bib":"","title":"Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair","url":""}
+{"author":"","bib":"","title":"STEM-EF: A Model for Assessing Scrum Team Effectiveness Based on Emotional Factors","url":""}
+{"author":"","bib":"","title":"INTENTFIX: Automated Logic Vulnerability Repair via LLM-Driven Intent Modeling","url":""}
+{"author":"","bib":"","title":"Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability RepairDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging","url":""}
+{"author":"","bib":"","title":"Unlocking LLM Repair Capabilities Through Cross-Language Translation and Multi-Agent Refinement","url":""}
+{"author":"","bib":"","title":"Energy-Efficient Software Development: A Multi-dimensional Empirical Analysis of Stack Overflow","url":""}
+{"author":"","bib":"","title":"Towards Supporting Open Source Library Maintainers with Community-Based Analytics","url":""}
+{"author":"","bib":"","title":"The Cost vs the Benefit of Adding an Extra Code Reviewer to Mitigate Developer Turnover through Reviewer Recommenders","url":""}
+{"author":"","bib":"","title":"Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions","url":""}
+{"author":"","bib":"","title":"Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild","url":""}
+{"author":"","bib":"","title":"What’s DAT? Three Case Studies of Measuring Software Development Productivity at Meta With Diff Authoring Time","url":""}
+{"author":"","bib":"","title":"Dependency-aware Residual Risk Analysis","url":""}
+{"author":"","bib":"","title":"Hallucinating Certificates: Differential Testing of TLS Certificate Validation Using Generative Language Models","url":""}
+{"author":"","bib":"","title":"Fuzzing Java Optimizing Compilers with Complex Inter-Class Structures Guided by Heterogeneous Program Graphs","url":""}
+{"author":"","bib":"","title":"Variability-Aware Fuzzing","url":""}
+{"author":"","bib":"","title":"Temporal Specification Oriented Fuzzing for Trigger-Action-Programming Smart Home Integrations","url":""}
+{"author":"","bib":"","title":"DyMA-Fuzz: Dynamic Direct Memory Access Abstraction for Re-hosted Monolithic Firmware Fuzzing","url":""}
+{"author":"","bib":"","title":"\"Maybe We Need Some More Examples:\" Individual and Team Drivers of Developer GenAI Tool UseDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"\"Game Changer\" or \"Overenthusiastic Drunk Acquaintance\"? Generative AI Use by Blind and Low Vision Software Professionals in the Workplace","url":""}
+{"author":"","bib":"","title":"Cognitive Biases in LLM-Assisted Software Development","url":""}
+{"author":"","bib":"","title":"Are Humans and LLMs Confused by the Same Code? An Empirical Study on Fixation-Related Potentials and LLM Perplexity","url":""}
+{"author":"","bib":"","title":"TaCoS: Generated Context Summaries for Task Resumption","url":""}
+{"author":"","bib":"","title":"Evolving with AI: A Longitudinal Analysis of Developer Logs","url":""}
+{"author":"","bib":"","title":"SAFE: Harnessing LLM for Scenario-Driven ADS Testing from Multimodal Crash Data","url":""}
+{"author":"","bib":"","title":"Bounded Exhaustive Random Program Generation for Testing Solidity Compilers","url":""}
+{"author":"","bib":"","title":"META²V2V: Revealing Behavioural Deviations under Mutual Perception in Multi-Vehicle Autonomous Driving","url":""}
+{"author":"","bib":"","title":"DeFT: Maintaining Determinism and Extracting Unit Tests for Autonomous Driving Planning","url":""}
+{"author":"","bib":"","title":"TARIPlay: A Test Framework for AR Applications based on Interactive Area Detection in Playback Videos","url":""}
+{"author":"","bib":"","title":"Validating Mixed-Integer Programming Solvers","url":""}
+{"author":"","bib":"","title":"Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants","url":""}
+{"author":"","bib":"","title":"Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook – a Grey Literature Review","url":""}
+{"author":"","bib":"","title":"Developer Needs and Feasible Features for AI Assistants in IDEs","url":""}
+{"author":"","bib":"","title":"Developers’ Experience with Generative AI - First Insights from an Empirical Mixed-Methods Field Study","url":""}
+{"author":"","bib":"","title":"AI Where It Matters: Where, Why, and How Developers Want AI Support in Daily Work","url":""}
+{"author":"","bib":"","title":"Perspective Coach: Exploring LLMs for Developer Reflection","url":""}
+{"author":"","bib":"","title":"GenEDIt: A Context-Aware Equity, Diversity and Inclusion Principles Integration Tool for Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Assessing the Sustainability-Quality (SQ) Model: A Multi-Year Empirical Study in Education","url":""}
+{"author":"","bib":"","title":"Who Teaches AI Ethics? Understanding the Gaps in AI Ethics Education in Computing Programs","url":""}
+{"author":"","bib":"","title":"They Call Her ‘Miss’ and Him ‘Professor’: Lived Experiences of Women Teaching Support Staff in IT/SE Education","url":""}
+{"author":"","bib":"","title":"Fairness-First Design Thinking for Software Architecture","url":""}
+{"author":"","bib":"","title":"Beyond the Binary: Motivations, Challenges, and Strategies of Transgender and Non-binary Software Engineering Students","url":""}
+{"author":"","bib":"","title":"Training on Clean Data but Getting Backdoored Models! A Poisoning Attack on Code Encoders","url":""}
+{"author":"","bib":"","title":"Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time","url":""}
+{"author":"","bib":"","title":"AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents","url":""}
+{"author":"","bib":"","title":"On the Effectiveness of Proposed Techniques to Reduce Energy Consumption in RAG Systems: A Controlled Experiment","url":""}
+{"author":"","bib":"","title":"FM4MC: Improving Feature Models for Microservice Chains—Towards More Efficient Configuration and Validation","url":""}
+{"author":"","bib":"","title":"A Semantic-based Optimization Approach for Repairing LLMs: Case Study on Code Generation","url":""}
+{"author":"","bib":"","title":"Diagnosing Unknown Attacks in Smart Homes Using Abductive Reasoning","url":""}
+{"author":"","bib":"","title":"Attention Distance: A Novel Metric for Directed Fuzzing with Large Language Models","url":""}
+{"author":"","bib":"","title":"BTreeFuzz: Enhanced Feedback Mechanism for ROS Program Fuzzer Based on Behavior Tree","url":""}
+{"author":"","bib":"","title":"GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade","url":""}
+{"author":"","bib":"","title":"ConfuGuard: Using Metadata to Detect Active and Stealthy Package Confusion Attacks Accurately and at Scale","url":""}
+{"author":"","bib":"","title":"Enforcing Control Flow Integrity on DeFi Smart Contracts","url":""}
+{"author":"","bib":"","title":"Polaris: MIR-Level Obfuscation in LLVM for Efficient and Robust Decompiler Resistance","url":""}
+{"author":"","bib":"","title":"AnchorDiff: Binary OSS Version Identification Method Based on Anchor Node Slicing","url":""}
+{"author":"","bib":"","title":"One Size Does Fit All: Kernel-Assisted Fine-Grained Debloating and Layout Randomization for Shared Libraries","url":""}
+{"author":"","bib":"","title":"Beyond Fuzzy Matching: Constraint-Guided Patch Presence Testing for Obfuscated Java Binaries","url":""}
+{"author":"","bib":"","title":"Fast Flow-Sensitive C Program Partitioning via Iterative Value-Flow Refinement","url":""}
+{"author":"","bib":"","title":"An Empirical Study on the Robustness of Android Third-Party Library Detection Tools Against Advanced Obfuscation","url":""}
+{"author":"","bib":"","title":"ICSE Wednesday Banquet","url":""}
+{"author":"","bib":"","title":"ICSE Run","url":""}
+{"author":"","bib":"","title":"ICSE 2028 Organizing Committee Meeting","url":""}
+{"author":"","bib":"","title":"Quiet Room","url":""}
+{"author":"","bib":"","title":"ICSE 2026 Registration","url":""}
+{"author":"","bib":"","title":"ICSE Distinguished Paper","url":""}
+{"author":"","bib":"","title":"Laurie Williams Keynote: What We’ve Learned By Actually Talking to Practitioners about Software Supply Chain Security (and How we Do it)","url":""}
+{"author":"","bib":"","title":"Silvio Meira Keynote: Adaptive Interventionist Method (AIM): Rethinking Research Methodologies for Software Engineering and Interventionist Sciences in the Phygital Age","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"FlipFlop: A Static Analysis-based Energy Optimization Framework for GPU Kernels","url":""}
+{"author":"","bib":"","title":"Portable Power Modeling with Transfer Learning on JVM-Based Applications","url":""}
+{"author":"","bib":"","title":"End-to-End Model Generation with Large Language Models for Adaptive IoT Application Deployment","url":""}
+{"author":"","bib":"","title":"Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead","url":""}
+{"author":"","bib":"","title":"An Empirical Study of Knowledge Distillation for Code Understanding Tasks","url":""}
+{"author":"","bib":"","title":"Generating Energy-Efficient Code via Large-Language Models - Where are we now?","url":""}
+{"author":"","bib":"","title":"LLM-based Agents for Automated Bug Fixing: How Far Are We?","url":""}
+{"author":"","bib":"","title":"Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries","url":""}
+{"author":"","bib":"","title":"Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair","url":""}
+{"author":"","bib":"","title":"OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies","url":""}
+{"author":"","bib":"","title":"Intelligent Triage: Interpretable Incident Triage Workflow using LLM Extracted Triage Reasoning","url":""}
+{"author":"","bib":"","title":"How Do Semantically Equivalent Code Transformations Impact Membership Inference on LLMs for Code?","url":""}
+{"author":"","bib":"","title":"Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning","url":""}
+{"author":"","bib":"","title":"3D Software Synthesis Driven by Constraint-Expressive Intermediate Representation","url":""}
+{"author":"","bib":"","title":"PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning","url":""}
+{"author":"","bib":"","title":"From Seed to Scope: Reasoning to Identify Change Impact Sets","url":""}
+{"author":"","bib":"","title":"TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier FeedbackDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"From Code Changes to Quality Gains: An Empirical Study in Python ML Systems with PyQu","url":""}
+{"author":"","bib":"","title":"Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps","url":""}
+{"author":"","bib":"","title":"PriviSense: A Frida-Based Framework for Multi-Sensor Spoofing on Android","url":""}
+{"author":"","bib":"","title":"Optimization-Aware Test Generation for Deep Learning Compilers","url":""}
+{"author":"","bib":"","title":"Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning","url":""}
+{"author":"","bib":"","title":"Scalpel: Automotive Deep Learning Framework Testing via Assembling Model Components","url":""}
+{"author":"","bib":"","title":"CombCT: Compiler Testing via Combinatorial Testing","url":""}
+{"author":"","bib":"","title":"GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes","url":""}
+{"author":"","bib":"","title":"Valg: A Fast Reinforcement Learning-Based Runtime Verification Tool for Java","url":""}
+{"author":"","bib":"","title":"Quantum Neural Network Classifier for Cancer Registry System Testing: A Feasibility Study","url":""}
+{"author":"","bib":"","title":"Testora: Using Natural Language Intent to Detect Behavioral Regressions","url":""}
+{"author":"","bib":"","title":"Automatic Validation of LLM-Generated Code with Prompt Paraphrasing","url":""}
+{"author":"","bib":"","title":"Causally Perturbed Fairness Testing","url":""}
+{"author":"","bib":"","title":"Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation","url":""}
+{"author":"","bib":"","title":"Context-Adaptive Requirements Defect Prediction through Human-LLM Collaboration","url":""}
+{"author":"","bib":"","title":"RECOVER: Toward Requirements Generation from Stakeholders' Conversations","url":""}
+{"author":"","bib":"","title":"Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion","url":""}
+{"author":"","bib":"","title":"LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints","url":""}
+{"author":"","bib":"","title":"Agentic Generation of Structured Clinical Specifications for Digital Healthcare Services","url":""}
+{"author":"","bib":"","title":"RusyFuzz: Unhandled Exception Guided Fuzzing for Rust OS Kernel","url":""}
+{"author":"","bib":"","title":"VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems","url":""}
+{"author":"","bib":"","title":"GPTrace: Effective Crash Deduplication Using LLM Embeddings","url":""}
+{"author":"","bib":"","title":"Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context","url":""}
+{"author":"","bib":"","title":"EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models","url":""}
+{"author":"","bib":"","title":"StorFuzz: Using Data Diversity to Overcome Fuzzing Plateaus","url":""}
+{"author":"","bib":"","title":"Developer reactions to protestware in open source software: the cases of color.js and es5.ext","url":""}
+{"author":"","bib":"","title":"Addressing OSS Community Managers’ Challenges in Contributor Retention","url":""}
+{"author":"","bib":"","title":"The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub","url":""}
+{"author":"","bib":"","title":"“Write in English, Nobody Understands Your Language Here”: A Study of Non-English Trends in Open-Source Repositories","url":""}
+{"author":"","bib":"","title":"How Does Core Contributor Disengagement Impact Open Source Project Activity? A Quasi-Experiment","url":""}
+{"author":"","bib":"","title":"An empirical Analysis of Community and Coding Patterns in OSS4SG vs. Conventional OSS","url":""}
+{"author":"","bib":"","title":"Exploring the Community of Inquiry in Online Computing Education: Student Perceptions and Opportunities for Generative AI","url":""}
+{"author":"","bib":"","title":"Prompting Without Principles: Are Students Transferring Software Engineering Knowledge to LLM Use?","url":""}
+{"author":"","bib":"","title":"\"Can you feel the vibes?\": An exploration of novice programmer engagement with vibe coding","url":""}
+{"author":"","bib":"","title":"The Clash of Codes: From Peer-to-Peer Duplication to AI-Generation in Introductory Programming Assignments","url":""}
+{"author":"","bib":"","title":"AI-Assisted Code Review as a Scaffold for Code Quality and Self-Regulated Learning: An Experience Report","url":""}
+{"author":"","bib":"","title":"Amplifiers or Equalizers? A Longitudinal Study of LLM Evolution in Software Engineering Project-Based Learning","url":""}
+{"author":"","bib":"","title":"NeMo: A Neuron-level Modularizing-While-Training Approach for Decomposing DNN Models","url":""}
+{"author":"","bib":"","title":"A Selective Quantization Tuner for ONNX Models","url":""}
+{"author":"","bib":"","title":"Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?","url":""}
+{"author":"","bib":"","title":"DNN Modularization via Activation-Driven Training","url":""}
+{"author":"","bib":"","title":"ModularEvo: Evolving Multi-Task Models via Neural Network Modularization and Composition","url":""}
+{"author":"","bib":"","title":"The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM BudgetDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"How do Machine Learning Models Change?","url":""}
+{"author":"","bib":"","title":"A Taxonomy of Contextual Factors in Continuous Integration Processes","url":""}
+{"author":"","bib":"","title":"Understanding the adoption of modern Javascript features: An empirical study on open-source systems","url":""}
+{"author":"","bib":"","title":"Adapting Installation Instructions in Rapidly Evolving Software Ecosystems","url":""}
+{"author":"","bib":"","title":"On the Need to Monitor Continuous Integration Practices","url":""}
+{"author":"","bib":"","title":"Technical Credit: Industry Views on Benefits and BarriersDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Maven-Lockfile: High Integrity Rebuild of Past Java Releases","url":""}
+{"author":"","bib":"","title":"Build Code is Still Code: Finding the Antidote for Pipeline Poisoning","url":""}
+{"author":"","bib":"","title":"Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils","url":""}
+{"author":"","bib":"","title":"Bytecode-centric Detection of Known-to-be-vulnerable Dependencies in Java Projects","url":""}
+{"author":"","bib":"","title":"Insecure Ingredients? Exploring Dependency Update Patterns of Bundled JavaScript Packages on the Web","url":""}
+{"author":"","bib":"","title":"Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?","url":""}
+{"author":"","bib":"","title":"SE.next: Research in the Agentic Era","url":""}
+{"author":"","bib":"","title":"Lunch","url":""}
+{"author":"","bib":"","title":"TOSEM Journal Editorial Board Meeting","url":""}
+{"author":"","bib":"","title":"TSE Journal Editorial Board Meeting","url":""}
+{"author":"","bib":"","title":"Improving Code Generation via Small Language Model-as-a-judge","url":""}
+{"author":"","bib":"","title":"Think Like Human Developers: Harnessing Community Knowledge for Structured Code ReasoningDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"On LLMs’ Internal Representation of Code Correctness","url":""}
+{"author":"","bib":"","title":"Write Your Own Code Checker: An Automated Test-Driven Checker Development Approach with LLMs","url":""}
+{"author":"","bib":"","title":"RovoDev Code Reviewer: A Large-Scale Online Evaluation of LLM-based Code Review Automation at Atlassian","url":""}
+{"author":"","bib":"","title":"Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation","url":""}
+{"author":"","bib":"","title":"Knowledge Matters: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation","url":""}
+{"author":"","bib":"","title":"Issue2Test: Generating Reproducing Test Cases from Issue Reports","url":""}
+{"author":"","bib":"","title":"RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing","url":""}
+{"author":"","bib":"","title":"Measuring the Influence of Incorrect Code on Test Generation","url":""}
+{"author":"","bib":"","title":"Retrieval-Augmented Test Generation: How Far Are We?","url":""}
+{"author":"","bib":"","title":"SAINT: Service-level Integration Test Generation with Program Analysis and LLM-based Agents","url":""}
+{"author":"","bib":"","title":"SCLA: Automated Smart Contract Summarization via LLMs and Control Flow Prompt","url":""}
+{"author":"","bib":"","title":"Leveraging Design-Aware Context in Large Language Models for Code Comment Generation","url":""}
+{"author":"","bib":"","title":"From Execution to Embedding: Enriching Code Representations with Data Difference Signals for Comment Generation","url":""}
+{"author":"","bib":"","title":"Towards Bridging Language Gaps in OSS with LLM-Driven Documentation Translation","url":""}
+{"author":"","bib":"","title":"Automating API Documentation from Crowdsourced Knowledge","url":""}
+{"author":"","bib":"","title":"UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code RetrievalDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Package Information from Cyber Intelligence","url":""}
+{"author":"","bib":"","title":"A Large-Scale Empirical Study of Secret Key Leakage in Hugging Face Spaces","url":""}
+{"author":"","bib":"","title":"A Comprehensive Study of Concurrency Bugs in the Linux Kernel","url":""}
+{"author":"","bib":"","title":"Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics","url":""}
+{"author":"","bib":"","title":"Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios","url":""}
+{"author":"","bib":"","title":"Learning from Change: Predictive Models for Incident Prevention in a Regulated IT Environment","url":""}
+{"author":"","bib":"","title":"Generator Solving for Symbolic Execution","url":""}
+{"author":"","bib":"","title":"How Good are Input Grammar Miners? An Empirical Study","url":""}
+{"author":"","bib":"","title":"LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation","url":""}
+{"author":"","bib":"","title":"Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing","url":""}
+{"author":"","bib":"","title":"Testing Deep Learning Libraries via Neurosymbolic Constraint Learning","url":""}
+{"author":"","bib":"","title":"MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing","url":""}
+{"author":"","bib":"","title":"Opening of the Industry Challenge Track","url":""}
+{"author":"","bib":"","title":"Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis - Solution to challenge  #19","url":""}
+{"author":"","bib":"","title":"A Localization Framework for Reasoning Faults in LLM-based Code Agents - Solution to challenge #18","url":""}
+{"author":"","bib":"","title":"Catching License Changes Before They Cost: Leveraging LLMs to Analyze License Evolution in Open Source Software - Solution to challenge #13","url":""}
+{"author":"","bib":"","title":"DBcover: A White-box SQL Test Generation Framework for Coverage Improvement - Solution to challenge  #9","url":""}
+{"author":"","bib":"","title":"LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search - Solution to challenge  #9","url":""}
+{"author":"","bib":"","title":"PLATO: Platform-Neutral Automotive Software Development leveraging Aspect-Oriented Programming - Solution to challenge #8","url":""}
+{"author":"","bib":"","title":"Connecting Industry and Academia","url":""}
+{"author":"","bib":"","title":"Determining Code Proficiency Levels from Python Textbooks","url":""}
+{"author":"","bib":"","title":"Guiding principles for mixed methods research in software engineering","url":""}
+{"author":"","bib":"","title":"SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment","url":""}
+{"author":"","bib":"","title":"Views on Internal and External Validity in Empirical Software Engineering: 10 Years Later and Beyond","url":""}
+{"author":"","bib":"","title":"Weak Programmers Need Not Apply, LLMs Welcome! Survey Screening in the AI Era","url":""}
+{"author":"","bib":"","title":"Sapling: Quantifying and Measuring the Maturity of the RISC-V Software Ecosystem","url":""}
+{"author":"","bib":"","title":"Efficient Build Dependency Verification Using eBPF and Incremental Analysis","url":""}
+{"author":"","bib":"","title":"Hybrid Fault-Driven Mutation Testing for Python","url":""}
+{"author":"","bib":"","title":"No Shot in the Dark: Efficient Context-Free Language Reachability via Context-Aware Tabulation","url":""}
+{"author":"","bib":"","title":"Is Call Graph Pruning Really Effective? An Empirical Re-evaluation","url":""}
+{"author":"","bib":"","title":"MutDafny: A Mutation-Based Approach to Assess Dafny Specifications","url":""}
+{"author":"","bib":"","title":"Enhancing Symbolic Execution with Self-Configuring Parameters","url":""}
+{"author":"","bib":"","title":"Invisible Load: Uncovering the Challenges of Neurodivergent Women in Software Engineering","url":""}
+{"author":"","bib":"","title":"From Gains to Strains: Modeling Developer Burnout with GenAI Adoption","url":""}
+{"author":"","bib":"","title":"Demystifying Knowledge Hiding in Software Testing: Insights from Practitioners","url":""}
+{"author":"","bib":"","title":"Click, Scroll, Consent: Uncovering Australia’s Privacy Knowledge Crisis","url":""}
+{"author":"","bib":"","title":"From Inclusion to Action: The Role of Allyship for Women in Software Teams","url":""}
+{"author":"","bib":"","title":"Connecting Generations Through Code: GABI, A Community-Driven Framework for Engineering Inclusive Financial Software for the ElderlyDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Using Peer Evaluations and Team Contracts in Software Engineering Team Project Courses","url":""}
+{"author":"","bib":"","title":"Scaling Assessment of Student Models with LLMs: Integrating Feedback into Practice","url":""}
+{"author":"","bib":"","title":"The Efficacy of Exams in Assessing Student Learning in Capstones","url":""}
+{"author":"","bib":"","title":"FORGET-SE: A Controlled Dataset to Investigate Memory Decay and Interference in Software Engineering Knowledge Tracing","url":""}
+{"author":"","bib":"","title":"On-Premise Kubernetes in Software Engineering Education: An Experience Report","url":""}
+{"author":"","bib":"","title":"Utilizing Adaptive Gamification in an Intelligent Tutoring System for Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Logging requirement for continuous auditing of responsible machine learning-based applications","url":""}
+{"author":"","bib":"","title":"Model Cards for Responsible AI: Stop Carding, Start Modelling","url":""}
+{"author":"","bib":"","title":"Redundancy as the Shadow of Explainability: A Trade-Off Principle for AI-Intensive Systems","url":""}
+{"author":"","bib":"","title":"FairFLRep: Fairness aware fault localization and repair of Deep Neural Networks","url":""}
+{"author":"","bib":"","title":"Exploring the black box: analysing explainable AI challenges and best practices through stack exchange discussions","url":""}
+{"author":"","bib":"","title":"SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models","url":""}
+{"author":"","bib":"","title":"Quantum Software Engineering: Roadmap and Challenges Ahead","url":""}
+{"author":"","bib":"","title":"ArchHypo: Managing Software Architecture Uncertainty Using Hypotheses Engineering","url":""}
+{"author":"","bib":"","title":"A Holistic Approach to Design Understanding Through Concept Explanation","url":""}
+{"author":"","bib":"","title":"SSAR: A Novel Software Architecture Recovery Approach Enhancing Accuracy and Scalability","url":""}
+{"author":"","bib":"","title":"Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs","url":""}
+{"author":"","bib":"","title":"Technohealth: A Modular Framework for Reproducible Research in Precision Healthcare with Heterogeneous Wearable Data","url":""}
+{"author":"","bib":"","title":"\"Where is My Troubleshooting Procedure?\": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System","url":""}
+{"author":"","bib":"","title":"Deploying SafeKAN for Anomaly Detection in Safety-Critical Satellite Operations: An Industry-Guided Study","url":""}
+{"author":"","bib":"","title":"FoundRoot: Towards Foundation Model for Root Cause Analysis via Structured Deep Thinking","url":""}
+{"author":"","bib":"","title":"An Ontology-Based Approach to Security Risk Identification for Container Deployments in OT Contexts","url":""}
+{"author":"","bib":"","title":"PCICF: A Pedestrian Crossing Identification and Classification Framework","url":""}
+{"author":"","bib":"","title":"Engineering Future Critical CPSs with Trustworthy GenAI Across the Lifecycle","url":""}
+{"author":"","bib":"","title":"Technical Debt in the AI Era","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software","url":""}
+{"author":"","bib":"","title":"RefAgent: A Multi-agent LLM-based Framework for Automatic Software Refactoring","url":""}
+{"author":"","bib":"","title":"ProofCoop: Collaborative Automated Formal Verification","url":""}
+{"author":"","bib":"","title":"Unified Software Engineering agent as AI Software Engineer","url":""}
+{"author":"","bib":"","title":"Argus: A Multi-agent Sensitive Information Leakage Detection Framework Based on Hierarchical Reference Relationships","url":""}
+{"author":"","bib":"","title":"MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming","url":""}
+{"author":"","bib":"","title":"TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs","url":""}
+{"author":"","bib":"","title":"InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching","url":""}
+{"author":"","bib":"","title":"Order Matters! An Empirical Study on Large Language Models' Input Order Bias in Software Fault Localization","url":""}
+{"author":"","bib":"","title":"When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems","url":""}
+{"author":"","bib":"","title":"MagmaScope: Identifying Root-Cause Changes for Emergency Incident in Large-Scale Cloud Infrastructure","url":""}
+{"author":"","bib":"","title":"Correctness isn’t Efficiency: Runtime Memory Divergence in LLM-Generated Code","url":""}
+{"author":"","bib":"","title":"ICSE Beach Soccer","url":""}
+{"author":"","bib":"","title":"Are “Solved Issues” in SWE-bench Really Solved Correctly? An Empirical Study","url":""}
+{"author":"","bib":"","title":"EmbedAgent: Benchmarking Large Language Models in Embedded System Development","url":""}
+{"author":"","bib":"","title":"When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions","url":""}
+{"author":"","bib":"","title":"Reflections on the Reproducibility of Commercial LLM Performance in Empirical Software Engineering Studies","url":""}
+{"author":"","bib":"","title":"FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration","url":""}
+{"author":"","bib":"","title":"ProxyWar: Dynamic Assessment of LLM Code Generation in Game ArenasDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"The Undecidability of Overfitting in Automated Program Repair","url":""}
+{"author":"","bib":"","title":"Test Flimsiness: Characterizing Flakiness Induced by Mutation to the Code Under Test","url":""}
+{"author":"","bib":"","title":"Debugging Performance Issues in WebAssembly Runtimes via Mutation-based Inference","url":""}
+{"author":"","bib":"","title":"CoReX: Context-Aware Refinement-Based Slicing for Debugging Regression Failures","url":""}
+{"author":"","bib":"","title":"Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search","url":""}
+{"author":"","bib":"","title":"Online and Interactive Bayesian Inference Debugging","url":""}
+{"author":"","bib":"","title":"How to Save My Gas Fees: Understanding and Detecting Real-World Gas Issues in Solidity Programs","url":""}
+{"author":"","bib":"","title":"Reasoning About Bugs in Learners’ Scratch Programs Using Large Language Models","url":""}
+{"author":"","bib":"","title":"Characterizing and Refactoring Table-Driven Tests in Go","url":""}
+{"author":"","bib":"","title":"Data-aware Static Analysis: Improving Semantic Fault Detection in Machine Learning Code Using Data Characteristics","url":""}
+{"author":"","bib":"","title":"Towards Automatically Inferring Constraints to Identify Implicit Assumptions in Data Analysis","url":""}
+{"author":"","bib":"","title":"QSolver: A Quantum Constraint Solver","url":""}
+{"author":"","bib":"","title":"How Fair is Software Fairness Testing?","url":""}
+{"author":"","bib":"","title":"Cyberbullying Safety Engineering by Patent: Trends, Solution Paradigms, and Societal Impacts","url":""}
+{"author":"","bib":"","title":"From Big Tech to Big Politics: Users' Discourse on the Politicization of Technology Companies","url":""}
+{"author":"","bib":"","title":"Once Upon a Team: Investigating Bias in LLM-Driven Software Team Composition and Task Allocation","url":""}
+{"author":"","bib":"","title":"Negotiating Ethics in Video Game Development: Insights from Practitioners","url":""}
+{"author":"","bib":"","title":"Exploring Societal Biases in Generative AI using Social Science Constructs and Theories","url":""}
+{"author":"","bib":"","title":"An Eye for AI: Eye-Tracking the Micro-Interruptions of GenAI Code SuggestionsArtifact Award Winner","url":""}
+{"author":"","bib":"","title":"Inside Out: Uncovering How Comment Internalization Steers LLMs for Better or Worse","url":""}
+{"author":"","bib":"","title":"Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning","url":""}
+{"author":"","bib":"","title":"What Makes Code Generation Ethically Sourced?Distinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Filtering before Tuning: Robust Fine-Tuning of Large Code Models under Noisy Labels","url":""}
+{"author":"","bib":"","title":"Automating Requirements Formalization: Using LLMs and Low-Complexity Distinguishing Traces for Semantic Validation","url":""}
+{"author":"","bib":"","title":"Breaking the Alphabet: Rethinking File Ordering in Code Review","url":""}
+{"author":"","bib":"","title":"“Still in the Loop”: Coping with Technostress in DevOps Teams and the Impact of GenAI","url":""}
+{"author":"","bib":"","title":"Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen","url":""}
+{"author":"","bib":"","title":"Product Manager Practices for Delegating Work to Generative AI: ``Accountability must not be delegated to non-human actors''","url":""}
+{"author":"","bib":"","title":"Understanding Task Enjoyment in Software Development: A Mixed-Methods Study on Practitioners From Poland and Brazil","url":""}
+{"author":"","bib":"","title":"Group versus Individual Review Requests: Tradeoffs in Speed and Quality at Mozilla Firefox","url":""}
+{"author":"","bib":"","title":"Integrating Mental Health, Well-Being, and Sustainability into Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Embedding Sustainability in Software Engineering Curriculum: A Case Study","url":""}
+{"author":"","bib":"","title":"But Have You Ever Deployed a Model to Production? Experiences with Teaching Machine Learning Operations in a Data Science Curriculum","url":""}
+{"author":"","bib":"","title":"From Personas to Programming: Gender-specific Effects of Design Thinking-Based Computing Education at Secondary Schools","url":""}
+{"author":"","bib":"","title":"On Fun for Teaching Large Programming Courses","url":""}
+{"author":"","bib":"","title":"“I Value LeetCode Over My Coursework”: CS Students’ Preparation Strategies and Perceptions of Technical Interviews","url":""}
+{"author":"","bib":"","title":"TenderChat with Dynamic RAG: A Prompt-Adaptive RAG Framework for Australian Government Tender Analysis","url":""}
+{"author":"","bib":"","title":"PreServe: Intelligent Management for LMaaS Systems via Hierarchical PredictionDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"From Tea Leaves to System Maps: Context-awareness in Monitoring Operational Machine Learning Models","url":""}
+{"author":"","bib":"","title":"Specification and Detection of LLM Code Smells","url":""}
+{"author":"","bib":"","title":"A First Look at Model Supply Chain: From the Risk Perspective","url":""}
+{"author":"","bib":"","title":"An Efficient Model Maintenance Approach for MLOps","url":""}
+{"author":"","bib":"","title":"MINES: Explainable Anomaly Detection through Web API Invariant Inference","url":""}
+{"author":"","bib":"","title":"Actionable Warning Is Not Enough: Recommending Valid Actionable Warnings with Weak Supervision","url":""}
+{"author":"","bib":"","title":"SeRe: A Security-Related Code Review Dataset Aligned with Real-World Review Activities","url":""}
+{"author":"","bib":"","title":"Translating PL/I Macro Procedures into Java Using Automatic Templatization and Large Language Models","url":""}
+{"author":"","bib":"","title":"An Empirical Study of Fine-Grained Entity Relationships for Tracing Natural Language and Code Vulnerability Artifacts","url":""}
+{"author":"","bib":"","title":"Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval","url":""}
+{"author":"","bib":"","title":"WhisperCatcher: Demystifying Unauthorized and Encrypted Private Data Transmission in Android ApplicationsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Exploring and Improving Real-World Vulnerability Data Generation via Prompting Large Language Models","url":""}
+{"author":"","bib":"","title":"TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications","url":""}
+{"author":"","bib":"","title":"CoBrA: Context-, Branch-sensitive Static Analysis for Detecting Taint-style Vulnerabilities in PHP Web Applications","url":""}
+{"author":"","bib":"","title":"Project-Level Resource Leak Detection through Agent-based Ownership Analysis and Repair Pattern Verification","url":""}
+{"author":"","bib":"","title":"Understanding DevOps Security of Google Workspace Apps","url":""}
+{"author":"","bib":"","title":"TCSE and SIGSOFT Town Hall","url":""}
+{"author":"","bib":"","title":"Guidelines for Empirical Studies in Software Engineering involving Large Language Models","url":""}
+{"author":"","bib":"","title":"Reproducibility Initiatives with Chameleon Cloud: Packaging and Re-running Software Engineering Experiments","url":""}
+{"author":"","bib":"","title":"ICSE Thursday Banquet","url":""}
+{"author":"","bib":"","title":"Quiet Room","url":""}
+{"author":"","bib":"","title":"ICSE 2026 Registration","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"Final thanks from the ICSE 2026 organizers","url":""}
+{"author":"","bib":"","title":"Introduction to ICSE 2027 in Ireland","url":""}
+{"author":"","bib":"","title":"Introduction to ICSE 2028 in Hawaii","url":""}
+{"author":"","bib":"","title":"Introduction to ICSE 2029 in Japan","url":""}
+{"author":"","bib":"","title":"Alexander Serebrenik Keynote: Beyond chasing the medals: software development as an Olympic sport","url":""}
+{"author":"","bib":"","title":"Virgilio Almeida Keynote: Governing Software and Algorithms as Institutions","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"Is Hyper-Parameter Optimization Different for Software Analytics?","url":""}
+{"author":"","bib":"","title":"On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization","url":""}
+{"author":"","bib":"","title":"A Catalog of Data Smells for Coding Tasks","url":""}
+{"author":"","bib":"","title":"Towards Automating Domain-Specific Data Generation for Text-to-SQL: A Comprehensive Approach","url":""}
+{"author":"","bib":"","title":"Empirical and Sustainability Aspects of Software Engineering Research in the Era of Large Language Models: A Reflection","url":""}
+{"author":"","bib":"","title":"FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction","url":""}
+{"author":"","bib":"","title":"On the Evaluation of Large Language Models in Multilingual Vulnerability Repair","url":""}
+{"author":"","bib":"","title":"Not All Input Helps: What Information Should We Feed to LLMs for Vulnerability Repair?","url":""}
+{"author":"","bib":"","title":"EMC: A Semantic-Enhanced Malware Classification Method with Robustness and Scalability","url":""}
+{"author":"","bib":"","title":"When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation","url":""}
+{"author":"","bib":"","title":"Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective","url":""}
+{"author":"","bib":"","title":"Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models","url":""}
+{"author":"","bib":"","title":"Environment-Aware Code Generation: How far are We?","url":""}
+{"author":"","bib":"","title":"LLM-based API Argument Completion with Knowledge-Augmented Prompts","url":""}
+{"author":"","bib":"","title":"Distance-Guided Search in Program Synthesis with Imperfect LLM Solutions","url":""}
+{"author":"","bib":"","title":"Automatic Dockerfile Generation with Large Language Models","url":""}
+{"author":"","bib":"","title":"A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code","url":""}
+{"author":"","bib":"","title":"A Comparison of Conversational Models and Humans in Answering Technical Questions: the Firefox Case","url":""}
+{"author":"","bib":"","title":"PySTAAR: An End-to-End, Extensible Framework for Automated Python Type Error Repair","url":""}
+{"author":"","bib":"","title":"FlakeSync: A Tool for Automatically Repairing Async Flaky Tests","url":""}
+{"author":"","bib":"","title":"The Sustainability Face of Automated Program Repair Tools","url":""}
+{"author":"","bib":"","title":"Towards Understanding the Challenges of Bug Localization in Deep Learning Systems","url":""}
+{"author":"","bib":"","title":"Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism","url":""}
+{"author":"","bib":"","title":"Abductive Reasoning for Neurosymbolic Fault Localization","url":""}
+{"author":"","bib":"","title":"Parse this! Summoning Context-Sensitive Inputs with Goblin","url":""}
+{"author":"","bib":"","title":"Context-Free Property Oriented Fuzzing","url":""}
+{"author":"","bib":"","title":"Metamorphic Fuzzing for Multi-Agent Path Finding Algorithms","url":""}
+{"author":"","bib":"","title":"Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly","url":""}
+{"author":"","bib":"","title":"TypeJinja: Static Type Checking of Jinja Templates at dbt Labs","url":""}
+{"author":"","bib":"","title":"Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach","url":""}
+{"author":"","bib":"","title":"torte: Reproducible Feature-Model Experiments à la Carte","url":""}
+{"author":"","bib":"","title":"The Design Multiverse: A Scientific Model for Design Evolution and Co-evolution","url":""}
+{"author":"","bib":"","title":"Synthesizing Hardware-Specific Instructions for Efficient Code Generation of Simulink","url":""}
+{"author":"","bib":"","title":"Bridging Code and Graphic: A Cross-Mode Framework for Large-Scale Network Scenario Construction","url":""}
+{"author":"","bib":"","title":"DSL or Code? Evaluating the Quality of LLM-Generated Algebraic Specifications: A Case Study in Optimization at Kinaxis","url":""}
+{"author":"","bib":"","title":"Beyond Spec Conformance: A Logic for Validating Stakeholder Expectations","url":""}
+{"author":"","bib":"","title":"Bridging the Final Gap: Fuzzing Template Generation from Protocol Reverse Engineering","url":""}
+{"author":"","bib":"","title":"The Havoc Paradox in Generator-Based Fuzzing","url":""}
+{"author":"","bib":"","title":"Visualization Task Taxonomy to Understand the Fuzzing Internals","url":""}
+{"author":"","bib":"","title":"FrameShift: Resizing Fuzzer Inputs Without Breaking Them","url":""}
+{"author":"","bib":"","title":"On Interaction Effects in Greybox Fuzzing","url":""}
+{"author":"","bib":"","title":"Configuration-Sensitive Linux Kernel Fuzzing","url":""}
+{"author":"","bib":"","title":"Practitioner Views on Mobile App Accessibility: Practices and Challenges","url":""}
+{"author":"","bib":"","title":"Perspective-Taking in Software Engineering: A Study on its Relationship to Team Performance","url":""}
+{"author":"","bib":"","title":"Women’s Career Paths in the Nordic Software Industry: A Narrative Analysis Through Gender-Switched Personas","url":""}
+{"author":"","bib":"","title":"The Software Infrastructure Attitude Scale (SIAS): A Questionnaire Instrument for Measuring Professionals’ Attitudes Toward Technical and Sociotechnical Infrastructure","url":""}
+{"author":"","bib":"","title":"\"Making Our Life Less Monotonous\" or \"Just Tick Things Off\": An Exploratory Multi-Method Study of ToilDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code","url":""}
+{"author":"","bib":"","title":"A Roadmap for Integrating Sustainability into Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Use-Modify-Create turned \"Upside Down\" by AI: Towards Higher-Level Competences via the Scientific Method","url":""}
+{"author":"","bib":"","title":"Hey, ChatGPT, Look at My Work: Using Conversational AI in Requirements Engineering Education","url":""}
+{"author":"","bib":"","title":"Ecosystem-Centric Capstone: Lessons from Simulating a Tech Company in Software Engineering Education","url":""}
+{"author":"","bib":"","title":"EXEMPLIFY-SEE: A Structured Approach and Portal for Example-Based Learning in Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Teamwork in Software Engineering Education: Exploring Team Dynamics and Challenges Across Course Projects","url":""}
+{"author":"","bib":"","title":"Prophecy: Inferring Formal Properties from Neuron Activations","url":""}
+{"author":"","bib":"","title":"Do Unit Proofs Work? An Empirical Study of Compositional Bounded Model Checking for Memory Safety Verification","url":""}
+{"author":"","bib":"","title":"Accurate Inference of Termination ConditionsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Verification of Multi-Model Stochastic Systems","url":""}
+{"author":"","bib":"","title":"Accelerating IC3 Verification by Exploiting Unsatisfiable Cores and Satisfying ModelsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Agentic Taxation Optimization via LLM SMT-Constraint Reasoning","url":""}
+{"author":"","bib":"","title":"Turning Merge Conflicts Into Conflict-Induced Variability","url":""}
+{"author":"","bib":"","title":"Towards a feasible evaluation function for search-based merge conflict resolution","url":""}
+{"author":"","bib":"","title":"Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation","url":""}
+{"author":"","bib":"","title":"HistoryFinder: Advancing Method-Level Source Code History Generation with Accurate Oracles and Enhanced Algorithm","url":""}
+{"author":"","bib":"","title":"CodeMapper: A Language-Agnostic Approach to Mapping Code Regions Across Commits","url":""}
+{"author":"","bib":"","title":"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better?","url":""}
+{"author":"","bib":"","title":"DamFlow: Preventing a Flood of Irrelevant Data Flows in Android Apps","url":""}
+{"author":"","bib":"","title":"LVing: A Vulnerability Detection and Visualization Platform for Rust","url":""}
+{"author":"","bib":"","title":"StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model","url":""}
+{"author":"","bib":"","title":"Just-in-Time Detection of Silent Security Patches","url":""}
+{"author":"","bib":"","title":"Rusted Types: Static Detection of Rust Type Confusion Bugs","url":""}
+{"author":"","bib":"","title":"LLM-based Vulnerability Discovery through the Lens of Code Metrics","url":""}
+{"author":"","bib":"","title":"SE.next: Raising the Agentic Engineer","url":""}
+{"author":"","bib":"","title":"Lunch","url":""}
+{"author":"","bib":"","title":"ICSE 2027 Program Committee Meeting","url":""}
+{"author":"","bib":"","title":"CI-Bench: A Framework for Evaluating Large Language Model Tools on CI Failures","url":""}
+{"author":"","bib":"","title":"Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation","url":""}
+{"author":"","bib":"","title":"XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models","url":""}
+{"author":"","bib":"","title":"Synthetic Repo-level Bug Dataset for Training Automated Program Repair ModelsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"PredicateFix: Repairing Static Analysis Alerts with Bridging Predicates","url":""}
+{"author":"","bib":"","title":"Input Reduction Enhanced LLM-based Program Repair","url":""}
+{"author":"","bib":"","title":"Exploring Fine-Grained Bug Report Categorization with Large Language Models and Prompt Engineering: An Empirical Study","url":""}
+{"author":"","bib":"","title":"Mapping the Trust Terrain: LLMs in Software Engineering — Insights and Perspectives","url":""}
+{"author":"","bib":"","title":"On-the-Fly Input Adaptation for Reliable Code Intelligence","url":""}
+{"author":"","bib":"","title":"From RSE to AI4RSE: A Quadrant Model for AI-Augmented Research Software","url":""}
+{"author":"","bib":"","title":"Enabling Global, Human-Centered Explanations for LLMs: From Tokens to Interpretable Code and Test Generation","url":""}
+{"author":"","bib":"","title":"When to Answer and When to Defer: A Decision Framework for Reliable Code Predictions","url":""}
+{"author":"","bib":"","title":"ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis","url":""}
+{"author":"","bib":"","title":"Introducing Phylogenetics in Search-based Software Engineering: Phylogenetics-aware SBSE","url":""}
+{"author":"","bib":"","title":"Automating Terraform Code Migration through Provider Evolution Knowledge","url":""}
+{"author":"","bib":"","title":"Replacing Training with Reasoning: Reinterpreting Classic ML Pipelines with LLMs","url":""}
+{"author":"","bib":"","title":"NB2P: Generating Data Science Pipelines from Computational Notebooks","url":""}
+{"author":"","bib":"","title":"Multi-Location Software Model Completion","url":""}
+{"author":"","bib":"","title":"Child Care","url":""}
+{"author":"","bib":"","title":"Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits","url":""}
+{"author":"","bib":"","title":"Predicting the Understandability of Computational Notebooks through Code Metrics Analysis","url":""}
+{"author":"","bib":"","title":"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History","url":""}
+{"author":"","bib":"","title":"Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse","url":""}
+{"author":"","bib":"","title":"Causal or Correlational? A Cohort Study on the Effects of Code Smells on Class Change- and Fault-Proneness","url":""}
+{"author":"","bib":"","title":"Six Million (Suspected) Fake Stars on GitHub: A Growing Spiral of Popularity Contests, Spams, and Malware","url":""}
+{"author":"","bib":"","title":"E-Test: E'er-Improving Test Suites","url":""}
+{"author":"","bib":"","title":"AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests","url":""}
+{"author":"","bib":"","title":"Boosting Gas Revenues of Ethereum Miners","url":""}
+{"author":"","bib":"","title":"LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling","url":""}
+{"author":"","bib":"","title":"On the Robustness of Fairness Practices: A Causal Framework for Systematic Evaluation","url":""}
+{"author":"","bib":"","title":"Characterizing Regression Bug‑Inducing Changes and Improving LLM‑Based Regression Bug Detection","url":""}
+{"author":"","bib":"","title":"Drivora: A Unified and Extensible Infrastructure for Search-based Autonomous Driving Testing","url":""}
+{"author":"","bib":"","title":"CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge","url":""}
+{"author":"","bib":"","title":"How Toxic Can You Get? Search-Based Toxicity Testing for Large Language Models","url":""}
+{"author":"","bib":"","title":"Using Cooperative Co-evolutionary Search to Generate Metamorphic Test Cases for Autonomous Driving Systems","url":""}
+{"author":"","bib":"","title":"Atomicity Violation Detection for Interrupt-Driven Programs via Incrementally Exploring Concurrent Paths","url":""}
+{"author":"","bib":"","title":"EVATest: Domain-Oriented Android GUI Testing based on Reward-Guided Retrieval-Augmented Generation","url":""}
+{"author":"","bib":"","title":"What Could Possibly Go Wrong: Undesirable Patterns in Collective Development","url":""}
+{"author":"","bib":"","title":"Improving Code Reviewer Recommendation: Accuracy, Latency, Workload, and Bystanders","url":""}
+{"author":"","bib":"","title":"With Great Power Comes Great Responsibility: The Role of Software Engineers","url":""}
+{"author":"","bib":"","title":"Staying or Leaving? How Job Satisfaction, Embeddedness and Antecedents Predict Turnover Intentions of Software Professionals","url":""}
+{"author":"","bib":"","title":"“I need to learn better searching tactics for privacy policy laws.” Investigating Software Developers’ Behavior When Using Sources on Privacy Issues","url":""}
+{"author":"","bib":"","title":"What’s in a Software Engineering Job Posting?","url":""}
+{"author":"","bib":"","title":"Beyond Answer Engines: LLMs as Reasoning Partners in Data Structures and Algorithms Education","url":""}
+{"author":"","bib":"","title":"The Boundary-Spanning Assistant: Understanding the Role and Usage patterns of LLMs in Project-Based Software Engineering","url":""}
+{"author":"","bib":"","title":"An Experience Report on a Pedagogically Controlled, Curriculum-Constrained AI Tutor for SE Education","url":""}
+{"author":"","bib":"","title":"Enhancing Debugging Skills With AI-Powered Assistance: A Real-Time Tool for Debugging Support","url":""}
+{"author":"","bib":"","title":"Learning to Program Alongside AI: Critical Thinking, AI Ethics, and Gendered Patterns of German Secondary School Students","url":""}
+{"author":"","bib":"","title":"Towards Understanding the Impact of Data Bugs on Deep Learning Models in Software Engineering","url":""}
+{"author":"","bib":"","title":"T4PC: Training Deep Neural Networks for Property Conformance","url":""}
+{"author":"","bib":"","title":"A Comprehensive Study of Deep Learning Model Fixing ApproachesDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Imitation Game: Reproducing Deep Learning Bugs Leveraging an Intelligent Agent","url":""}
+{"author":"","bib":"","title":"TypeCare: Boosting Python Type Inference Models via Context-Aware Re-Ranking and AugmentationArtifact Award Winner","url":""}
+{"author":"","bib":"","title":"Aligning Requirement for Large Language Model's Code Generation","url":""}
+{"author":"","bib":"","title":"When Uncertainty Leads to Unsafety: Empirical Insights into the Role of Uncertainty in Unmanned Aerial Vehicle Safety","url":""}
+{"author":"","bib":"","title":"Structural Causal World Models: Towards An Assurance Framework for Safety-Critical Systems and Safeguarded AI","url":""}
+{"author":"","bib":"","title":"Towards Verifiably Safe Tool Use for LLM Agents","url":""}
+{"author":"","bib":"","title":"A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles","url":""}
+{"author":"","bib":"","title":"Model Discovery and Graph Simulation: A Lightweight Gateway to Chaos EngineeringDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Learning From Software Failures: A Case Study at a National Space Research Center","url":""}
+{"author":"","bib":"","title":"Future of Software Engineering: Toward a Healthy Software Engineering Community","url":""}
+{"author":"","bib":"","title":"Break","url":""}
+{"author":"","bib":"","title":"AdapTrack: Constrained Decoding without Distorting LLM's Output Intent","url":""}
+{"author":"","bib":"","title":"Evaluating Generated Commit Messages with Large Language ModelsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Automating Just-In-Time Python Type Annotation UpdatingDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study","url":""}
+{"author":"","bib":"","title":"Enhancing LLM Code Generation with Ensembles: A Similarity-Based Selection Approach","url":""}
+{"author":"","bib":"","title":"Code4MeV2: a Research-oriented Code-completion Platform","url":""}
+{"author":"","bib":"","title":"Setup AGent (SAG): A Dual-Model LLM Agent for Autonomous End-to-End Java Project Configuration","url":""}
+{"author":"","bib":"","title":"MAJIT: Just-in-Time Detection of Compatibility Issues in Android and iOS Apps through Large Language Model-based Multi-Agent Collaboration","url":""}
+{"author":"","bib":"","title":"Code Wars: Adversarial Self-Play for Evolving Software Validation Tools","url":""}
+{"author":"","bib":"","title":"SEAlign: Alignment Training for Software Engineering AgentDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Atomizer: An LLM-based Collaborative Multi-Agent Framework for Intent-Driven Commit Untangling","url":""}
+{"author":"","bib":"","title":"Enhancing Issue Localization Agent with Tool-Interactive Training","url":""}
+{"author":"","bib":"","title":"ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging","url":""}
+{"author":"","bib":"","title":"Towards Better Linux Kernel Fault Localization: Leveraging Contrastive Reasoning and Hierarchical Context Analysis","url":""}
+{"author":"","bib":"","title":"LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs","url":""}
+{"author":"","bib":"","title":"Generality Is Not Enough: Zero-Label Cross-System Log-Based Anomaly Detection via Knowledge-Level Collaboration","url":""}
+{"author":"","bib":"","title":"Knowledge-Augmented Log Anomaly Detection with Large Language Models","url":""}
+{"author":"","bib":"","title":"FairRF: Multi-Objective Search for Single and Intersectional Software Fairness","url":""}
+{"author":"","bib":"","title":"Precise Static Identification of Ethereum Storage Variables","url":""}
+{"author":"","bib":"","title":"D-BUNDLR: Destructing JavaScript Bundles for Effective Static Analysis","url":""}
+{"author":"","bib":"","title":"PTV: Scalable Version Detection of Web Libraries and its Security Application","url":""}
+{"author":"","bib":"","title":"Context-Free Grammar Inference for Complex Programming Languages in Black Box Settings","url":""}
+{"author":"","bib":"","title":"LoopSCC: Summarizing Complex Multi-branch Nested Loops via Periodic Oscillation Interval","url":""}
+{"author":"","bib":"","title":"Efficient Strong Updates For Path Sensitive Data Dependence Analysis","url":""}
+{"author":"","bib":"","title":"JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models","url":""}
+{"author":"","bib":"","title":"BugHunter: An Automated Tool for Bug-Aware GUI Testing via Retrieval Augmentation","url":""}
+{"author":"","bib":"","title":"Automated Testing of Conversational Agents with Chatbot Dōjō","url":""}
+{"author":"","bib":"","title":"GDSynth: A Graph Database Testing Framework via Effective Graph Synthesis","url":""}
+{"author":"","bib":"","title":"WiseUT: An Intelligent Framework for Unit Test Generation","url":""}
+{"author":"","bib":"","title":"RESTifAI: LLM-Based Workflow for Reusable REST API Testing","url":""}
+{"author":"","bib":"","title":"Learning Program Behavioral Models from Synthesized Input-Output Pairs","url":""}
+{"author":"","bib":"","title":"MeDeT: Medical Device Digital Twins Creation with Few-shot Meta-learning","url":""}
+{"author":"","bib":"","title":"Change And Cover: Last-Mile, Pull Request-Based Regression Test Augmentation","url":""}
+{"author":"","bib":"","title":"HarnessLLM: Rust Verification Harness Generation with Large Language Models","url":""}
+{"author":"","bib":"","title":"Agentic Predicates Reasoning for Directed Fuzzing","url":""}
+{"author":"","bib":"","title":"Relax with Capybaras","url":""}
+{"author":"","bib":"","title":"PosEyeDOM: Lightweight Positional Copilot Suggestion Logger for Eye-Tracking Applications using the DOM","url":""}
+{"author":"","bib":"","title":"Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development","url":""}
+{"author":"","bib":"","title":"The Impact of Generative AI on Creativity in Software Development: A Research Agenda","url":""}
+{"author":"","bib":"","title":"Investigating the Role of Cultural Values in Adopting Large Language Models for Software Engineering","url":""}
+{"author":"","bib":"","title":"On the Role and Impact of GenAI Tools in Software Engineering Education","url":""}
+{"author":"","bib":"","title":"Learning Programming in Informal Spaces: Using Emotion as a Lens to Understand Novice Struggles on r/learnprogramming","url":""}
+{"author":"","bib":"","title":"From Struggle to Success: Unveiling Students’ Emotional Journeys during Capstone ProjectsDistinguished Paper Award","url":""}
+{"author":"","bib":"","title":"Same Same But Different: Preventing Refactoring Attacks on Software Plagiarism Detection","url":""}
+{"author":"","bib":"","title":"TaskEval: Synthesised Evaluation for Foundation-Model Tasks","url":""}
+{"author":"","bib":"","title":"SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments","url":""}
+{"author":"","bib":"","title":"Revisiting \"Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion\": A Critical Review and Implications on DNN Coverage Testing","url":""}
+{"author":"","bib":"","title":"VADA: A Multicultural Benchmark for Value-Aware Data Generation and Alignment Evaluation in LLMs","url":""}
+{"author":"","bib":"","title":"Evaluating the effectiveness of LLM-based interoperability","url":""}
+{"author":"","bib":"","title":"Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving","url":""}
+{"author":"","bib":"","title":"AtomGraph: Tackling Atomicity Violation in Smart Contracts using Multimodal GCNs","url":""}
+{"author":"","bib":"","title":"ACFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts","url":""}
+{"author":"","bib":"","title":"Do Automated Fixes Truly Mitigate Smart Contract Exploits?","url":""}
+{"author":"","bib":"","title":"CKG-LLM: LLM-Assisted Detection of Smart Contract Access Control Vulnerabilities Based on Knowledge Graphs","url":""}
+{"author":"","bib":"","title":"One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts","url":""}
+{"author":"","bib":"","title":"USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts","url":""}
+{"author":"","bib":"","title":"ICSE Organizing Committee Victory Dinner","url":""}

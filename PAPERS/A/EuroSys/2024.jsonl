@@ -1,0 +1,72 @@
+{"author":"","bib":"","title":"Proceedings of the Nineteenth European Conference on Computer Systems, EuroSys 2024, Athens, Greece, April 22-25, 2024","url":""}
+{"author":"","bib":"","title":"WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations","url":""}
+{"author":"","bib":"","title":"Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries","url":""}
+{"author":"","bib":"","title":"LSGraph: A Locality-centric High-performance Streaming Graph Engine","url":""}
+{"author":"","bib":"","title":"Contigra: Graph Mining with Containment Constraints","url":""}
+{"author":"","bib":"","title":"Halflife: An Adaptive Flowlet-based Load Balancer with Fading Timeout in Data Center Networks","url":""}
+{"author":"","bib":"","title":"Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths","url":""}
+{"author":"","bib":"","title":"Astraea: Towards Fair and Efficient Learning-based Congestion Control","url":""}
+{"author":"","bib":"","title":"Unison: A Parallel-Efficient and User-Transparent Network Simulation Kernel","url":""}
+{"author":"","bib":"","title":"Serialization/Deserialization-free State Transfer in Serverless Workflows","url":""}
+{"author":"","bib":"","title":"Occam: A Programming System for Reliable Network Management","url":""}
+{"author":"","bib":"","title":"Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation","url":""}
+{"author":"","bib":"","title":"Totoro: A Scalable Federated Learning Engine for the Edge","url":""}
+{"author":"","bib":"","title":"FLOAT: Federated Learning Optimizations with Automated Tuning","url":""}
+{"author":"","bib":"","title":"DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and Trustworthy Aggregation","url":""}
+{"author":"","bib":"","title":"ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling","url":""}
+{"author":"","bib":"","title":"Dashing and Star: Byzantine Fault Tolerance with Weak Certificates","url":""}
+{"author":"","bib":"","title":"Bandle: Asynchronous State Machine Replication Made Efficient","url":""}
+{"author":"","bib":"","title":"Characterization and Reclamation of Frozen Garbage in Managed FaaS Workloads","url":""}
+{"author":"","bib":"","title":"Pronghorn: Effective Checkpoint Orchestration for Serverless Hot-Starts","url":""}
+{"author":"","bib":"","title":"Improving Resource and Energy Efficiency for Cloud 3D through Excessive Rendering Reduction","url":""}
+{"author":"","bib":"","title":"Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads","url":""}
+{"author":"","bib":"","title":"Snatch: Online Streaming Analytics at the Network Edge","url":""}
+{"author":"","bib":"","title":"Blaze: Holistic Caching for Iterative Data Processing","url":""}
+{"author":"","bib":"","title":"TTLs Matter: Efficient Cache Sizing with TTL-Aware Miss Ratio Curves and Working Set Sizes","url":""}
+{"author":"","bib":"","title":"Trinity: A Fast Compressed Multi-attribute Data Store","url":""}
+{"author":"","bib":"","title":"FLOWS: Balanced MRC Profiling for Heterogeneous Object-Size Cache","url":""}
+{"author":"","bib":"","title":"CCL-BTree: A Crash-Consistent Locality-Aware B+-Tree for Reducing XPBuffer-Induced Write Amplification in Persistent Memory","url":""}
+{"author":"","bib":"","title":"Wormhole Filters: Caching Your Hash on Persistent Memory","url":""}
+{"author":"","bib":"","title":"Dordis: Efficient Federated Learning with Dropout-Resilient Differential Privacy","url":""}
+{"author":"","bib":"","title":"Accelerating Privacy-Preserving Machine Learning With GeniBatch","url":""}
+{"author":"","bib":"","title":"GMorph: Accelerating Multi-DNN Inference via Model Fusion","url":""}
+{"author":"","bib":"","title":"HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis","url":""}
+{"author":"","bib":"","title":"DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines","url":""}
+{"author":"","bib":"","title":"ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs","url":""}
+{"author":"","bib":"","title":"Puddles: Application-Independent Recovery and Location-Independent Data for Persistent Memory","url":""}
+{"author":"","bib":"","title":"SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging","url":""}
+{"author":"","bib":"","title":"CSAL: the Next-Gen Local Disks for the Cloud","url":""}
+{"author":"","bib":"","title":"Exploring the Asynchrony of Slow Memory Filesystem with EasyIO","url":""}
+{"author":"","bib":"","title":"ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives","url":""}
+{"author":"","bib":"","title":"Volley: Accelerating Write-Read Orders in Disaggregated Storage","url":""}
+{"author":"","bib":"","title":"Automatic Root Cause Analysis via Large Language Models for Cloud Incidents","url":""}
+{"author":"","bib":"","title":"Finding Correctness Bugs in eBPF Verifier with Structured and Sanitized Program","url":""}
+{"author":"","bib":"","title":"Noctua: Towards Automated and Practical Fine-grained Consistency Analysis","url":""}
+{"author":"","bib":"","title":"Effective Bug Detection with Unused Definitions","url":""}
+{"author":"","bib":"","title":"SandTable: Scalable Distributed System Model Checking with Specification-Level State Exploration","url":""}
+{"author":"","bib":"","title":"Validating Database System Isolation Level Implementations with Version Certificate Recovery","url":""}
+{"author":"","bib":"","title":"Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance","url":""}
+{"author":"","bib":"","title":"Minuet: Accelerating 3D Sparse Convolutions on GPUs","url":""}
+{"author":"","bib":"","title":"MTM: Rethinking Memory Profiling and Migration for Multi-Tiered Large Memory","url":""}
+{"author":"","bib":"","title":"Exploring Performance and Cost Optimization with ASIC-Based CXL Memory","url":""}
+{"author":"","bib":"","title":"HD-IOV: SW-HW Co-designed I/O Virtualization with Scalability and Flexibility for Hyper-Density Cloud","url":""}
+{"author":"","bib":"","title":"SmartNIC Security Isolation in the Cloud with S-NIC","url":""}
+{"author":"","bib":"","title":"Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices","url":""}
+{"author":"","bib":"","title":"Erlang: Application-Aware Autoscaling for Cloud Microservices","url":""}
+{"author":"","bib":"","title":"On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud","url":""}
+{"author":"","bib":"","title":"TraceUpscaler: Upscaling Traces to Evaluate Systems at High Load","url":""}
+{"author":"","bib":"","title":"Enoki: High Velocity Linux Kernel Scheduler Development","url":""}
+{"author":"","bib":"","title":"Concealing Compression-accelerated I/O for HPC Applications through In Situ Task Scheduling","url":""}
+{"author":"","bib":"","title":"NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning","url":""}
+{"author":"","bib":"","title":"Model Selection for Latency-Critical Inference Serving","url":""}
+{"author":"","bib":"","title":"Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation","url":""}
+{"author":"","bib":"","title":"CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs","url":""}
+{"author":"","bib":"","title":"Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications","url":""}
+{"author":"","bib":"","title":"Blox: A Modular Toolkit for Deep Learning Schedulers","url":""}
+{"author":"","bib":"","title":"Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures","url":""}
+{"author":"","bib":"","title":"Polynima: Practical Hybrid Recompilation for Multithreaded Binaries","url":""}
+{"author":"","bib":"","title":"Transparent Multicore Scaling of Single-Threaded Network Functions","url":""}
+{"author":"","bib":"","title":"Jade: A High-throughput Concurrent Copying Garbage Collector","url":""}
+{"author":"","bib":"","title":"Adaptable Runtime Monitoring for Intermittent Systems","url":""}
+{"author":"","bib":"","title":"Save the Bruised Striver: A Reliable Live Patching Framework for Protecting Real-World PLCs","url":""}
+{"author":"","bib":"","title":"Efficient Auditing of Event-driven Web Applications","url":""}

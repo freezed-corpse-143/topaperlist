@@ -1,0 +1,1465 @@
+{"author":"","bib":"","title":"Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild.","url":""}
+{"author":"","bib":"","title":"Footprints and Free Space From a Single Color Image.","url":""}
+{"author":"","bib":"","title":"Dynamic Fluid Surface Reconstruction Using Deep Neural Network.","url":""}
+{"author":"","bib":"","title":"CvxNet: Learnable Convex Decomposition.","url":""}
+{"author":"","bib":"","title":"BSP-Net: Generating Compact Meshes via Binary Space Partitioning.","url":""}
+{"author":"","bib":"","title":"Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image.","url":""}
+{"author":"","bib":"","title":"Generating and Exploiting Probabilistic Monocular Depth Estimates.","url":""}
+{"author":"","bib":"","title":"Neural Cages for Detail-Preserving 3D Deformations.","url":""}
+{"author":"","bib":"","title":"PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization.","url":""}
+{"author":"","bib":"","title":"A Lighting-Invariant Point Processor for Shading.","url":""}
+{"author":"","bib":"","title":"ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture.","url":""}
+{"author":"","bib":"","title":"Peek-a-Boo: Occlusion Reasoning in Indoor Scenes With Plane Representations.","url":""}
+{"author":"","bib":"","title":"Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.","url":""}
+{"author":"","bib":"","title":"Evolving Losses for Unsupervised Video Representation Learning.","url":""}
+{"author":"","bib":"","title":"Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition.","url":""}
+{"author":"","bib":"","title":"A Multigrid Method for Efficiently Training Video Models.","url":""}
+{"author":"","bib":"","title":"Ego-Topo: Environment Affordances From Egocentric Video.","url":""}
+{"author":"","bib":"","title":"Generative Hybrid Representations for Activity Forecasting With No-Regret Learning.","url":""}
+{"author":"","bib":"","title":"Skeleton-Based Action Recognition With Shift Graph Convolutional Network.","url":""}
+{"author":"","bib":"","title":"Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"X3D: Expanding Architectures for Efficient Video Recognition.","url":""}
+{"author":"","bib":"","title":"Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction.","url":""}
+{"author":"","bib":"","title":"Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects.","url":""}
+{"author":"","bib":"","title":"DaST: Data-Free Substitute Training for Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Towards Verifying Robustness of Neural Networks Against A Family of Semantic Perturbations.","url":""}
+{"author":"","bib":"","title":"The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"A Self-supervised Approach for Adversarial Robustness.","url":""}
+{"author":"","bib":"","title":"Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization.","url":""}
+{"author":"","bib":"","title":"How Does Noise Help Robustness? Explanation and Exploration under the Neural SDE Framework.","url":""}
+{"author":"","bib":"","title":"Unpaired Image Super-Resolution Using Pseudo-Supervision.","url":""}
+{"author":"","bib":"","title":"Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.","url":""}
+{"author":"","bib":"","title":"Robustness Guarantees for Deep Neural Networks on Videos.","url":""}
+{"author":"","bib":"","title":"Benchmarking Adversarial Robustness on Image Classification.","url":""}
+{"author":"","bib":"","title":"What It Thinks Is Important Is Important: Robustness Transfers Through Input Gradients.","url":""}
+{"author":"","bib":"","title":"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking.","url":""}
+{"author":"","bib":"","title":"Video Modeling With Correlation Networks.","url":""}
+{"author":"","bib":"","title":"Projection & Probability-Driven Black-Box Attack.","url":""}
+{"author":"","bib":"","title":"Auxiliary Training: Towards Accurate and Robust Models.","url":""}
+{"author":"","bib":"","title":"PaStaNet: Toward Human Activity Knowledge Engine.","url":""}
+{"author":"","bib":"","title":"A Hierarchical Graph Network for 3D Object Detection on Point Clouds.","url":""}
+{"author":"","bib":"","title":"Learning Generative Models of Shape Handles.","url":""}
+{"author":"","bib":"","title":"One Man's Trash Is Another Man's Treasure: Resisting Adversarial Examples by Adversarial Examples.","url":""}
+{"author":"","bib":"","title":"Toward a Universal Model for Shape From Texture.","url":""}
+{"author":"","bib":"","title":"HybridPose: 6D Object Pose Estimation Under Hybrid Representations.","url":""}
+{"author":"","bib":"","title":"Boundary-Aware 3D Building Reconstruction From a Single Overhead Image.","url":""}
+{"author":"","bib":"","title":"Articulation-Aware Canonical Surface Mapping.","url":""}
+{"author":"","bib":"","title":"BiFuse: Monocular 360 Depth Estimation via Bi-Projection Fusion.","url":""}
+{"author":"","bib":"","title":"Transformation GAN for Unsupervised Image Synthesis and Representation Learning.","url":""}
+{"author":"","bib":"","title":"PPDM: Parallel Point Detection and Matching for Real-Time Human-Object Interaction Detection.","url":""}
+{"author":"","bib":"","title":"Height and Uprightness Invariance for 3D Prediction From a Single View.","url":""}
+{"author":"","bib":"","title":"SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation.","url":""}
+{"author":"","bib":"","title":"3DV: 3D Dynamic Voxel for Action Recognition in Depth Video.","url":""}
+{"author":"","bib":"","title":"Adaptive Interaction Modeling via Graph Operations Search.","url":""}
+{"author":"","bib":"","title":"Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction.","url":""}
+{"author":"","bib":"","title":"SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Single-View View Synthesis With Multiplane Images.","url":""}
+{"author":"","bib":"","title":"Deep Parametric Shape Predictions Using Distance Fields.","url":""}
+{"author":"","bib":"","title":"Leveraging Photometric Consistency Over Time for Sparsely Supervised Hand-Object Reconstruction.","url":""}
+{"author":"","bib":"","title":"Ensemble Generative Cleaning With Feedback Loops for Defending Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Temporal Pyramid Network for Action Recognition.","url":""}
+{"author":"","bib":"","title":"FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction.","url":""}
+{"author":"","bib":"","title":"Structure-Guided Ranking Loss for Single Image Depth Prediction.","url":""}
+{"author":"","bib":"","title":"In Perfect Shape: Certifiably Optimal 3D Shape Reconstruction From 2D Landmarks.","url":""}
+{"author":"","bib":"","title":"When NAS Meets Robustness: In Search of Robust Architectures Against Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Towards Transferable Targeted Attack.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Human Depth Estimation From Monocular Videos.","url":""}
+{"author":"","bib":"","title":"Recursive Social Behavior Graph for Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"Context-Aware and Scale-Insensitive Temporal Repetition Counting.","url":""}
+{"author":"","bib":"","title":"OASIS: A Large-Scale Dataset for Single Image 3D in the Wild.","url":""}
+{"author":"","bib":"","title":"VPLNet: Deep Single View Normal Estimation With Vanishing Points and Lines.","url":""}
+{"author":"","bib":"","title":"Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning.","url":""}
+{"author":"","bib":"","title":"Defending Against Universal Attacks Through Selective Feature Regeneration.","url":""}
+{"author":"","bib":"","title":"Universal Physical Camouflage Attacks on Object Detectors.","url":""}
+{"author":"","bib":"","title":"Intra- and Inter-Action Understanding via Temporal Action Parsing.","url":""}
+{"author":"","bib":"","title":"Lightweight Photometric Stereo for Facial Details Recovery.","url":""}
+{"author":"","bib":"","title":"Bundle Pooling for Polygonal Architecture Segmentation Problem.","url":""}
+{"author":"","bib":"","title":"AvatarMe: Realistically Renderable 3D Facial Reconstruction \"In-the-Wild\".","url":""}
+{"author":"","bib":"","title":"Defending Against Model Stealing Attacks With Adaptive Misinformation.","url":""}
+{"author":"","bib":"","title":"Learning to Generate 3D Training Data Through Hybrid Gradient.","url":""}
+{"author":"","bib":"","title":"Cascaded Refinement Network for Point Cloud Completion.","url":""}
+{"author":"","bib":"","title":"Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder.","url":""}
+{"author":"","bib":"","title":"Learning to Discriminate Information for Online Action Detection.","url":""}
+{"author":"","bib":"","title":"Adversarial Examples Improve Image Recognition.","url":""}
+{"author":"","bib":"","title":"PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes.","url":""}
+{"author":"","bib":"","title":"Actor-Transformers for Group Activity Recognition.","url":""}
+{"author":"","bib":"","title":"SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans.","url":""}
+{"author":"","bib":"","title":"Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas.","url":""}
+{"author":"","bib":"","title":"Action Modifiers: Learning From Adverbs in Instructional Videos.","url":""}
+{"author":"","bib":"","title":"ZSTAD: Zero-Shot Temporal Activity Detection.","url":""}
+{"author":"","bib":"","title":"Geometric Structure Based and Regularized Depth Estimation From 360 Indoor Imagery.","url":""}
+{"author":"","bib":"","title":"Deep Kinematics Analysis for Monocular 3D Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"TEA: Temporal Excitation and Aggregation for Action Recognition.","url":""}
+{"author":"","bib":"","title":"Oops! Predicting Unintentional Action in Video.","url":""}
+{"author":"","bib":"","title":"Scene Recomposition by Learning-Based ICP.","url":""}
+{"author":"","bib":"","title":"Enhancing Cross-Task Black-Box Transferability of Adversarial Examples With Dispersion Reduction.","url":""}
+{"author":"","bib":"","title":"Single-Step Adversarial Training With Dropout Scheduling.","url":""}
+{"author":"","bib":"","title":"Deep Non-Line-of-Sight Reconstruction.","url":""}
+{"author":"","bib":"","title":"SSRNet: Scalable 3D Surface Reconstruction Network.","url":""}
+{"author":"","bib":"","title":"Progressive Relation Learning for Group Activity Recognition.","url":""}
+{"author":"","bib":"","title":"Cooling-Shrinking Attack: Blinding the Tracker With Imperceptible Noises.","url":""}
+{"author":"","bib":"","title":"Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised Action Localization by Generative Attention Modeling.","url":""}
+{"author":"","bib":"","title":"Towards Achieving Adversarial Robustness by Enforcing Feature Consistency Across Bit Planes.","url":""}
+{"author":"","bib":"","title":"Polishing Decision-Based Adversarial Noise With a Customized Sampling.","url":""}
+{"author":"","bib":"","title":"Towards Large Yet Imperceptible Adversarial Image Perturbations With Perceptual Color Distance.","url":""}
+{"author":"","bib":"","title":"Something-Else: Compositional Action Recognition With Spatial-Temporal Interaction Networks.","url":""}
+{"author":"","bib":"","title":"Learning Unsupervised Hierarchical Part Decomposition of 3D Objects From a Single RGB Image.","url":""}
+{"author":"","bib":"","title":"Focus on Defocus: Bridging the Synthetic to Real Domain Gap for Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Active Vision for Early Recognition of Human Actions.","url":""}
+{"author":"","bib":"","title":"SmallBigNet: Integrating Core and Contextual Views for Video Classification.","url":""}
+{"author":"","bib":"","title":"Gate-Shift Networks for Video Action Recognition.","url":""}
+{"author":"","bib":"","title":"Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition.","url":""}
+{"author":"","bib":"","title":"Exploiting Joint Robustness to Adversarial Perturbations.","url":""}
+{"author":"","bib":"","title":"From Image Collections to Point Clouds With Self-Supervised Shape and Pose Networks.","url":""}
+{"author":"","bib":"","title":"Searching for Actions on the Hyperbole.","url":""}
+{"author":"","bib":"","title":"ColorFool: Semantic Adversarial Colorization.","url":""}
+{"author":"","bib":"","title":"Boosting the Transferability of Adversarial Samples via Attention.","url":""}
+{"author":"","bib":"","title":"ActionBytes: Learning From Trimmed Videos to Localize Actions.","url":""}
+{"author":"","bib":"","title":"Efficient Adversarial Training With Transferable Adversarial Examples.","url":""}
+{"author":"","bib":"","title":"Alleviation of Gradient Exploding in GANs: Fake Can Be Real.","url":""}
+{"author":"","bib":"","title":"On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations.","url":""}
+{"author":"","bib":"","title":"QEBA: Query-Efficient Boundary-Based Blackbox Attack.","url":""}
+{"author":"","bib":"","title":"Learning to Simulate Dynamic Environments With GameGAN.","url":""}
+{"author":"","bib":"","title":"Learn2Perturb: An End-to-End Feature Perturbation Learning to Improve Adversarial Robustness.","url":""}
+{"author":"","bib":"","title":"SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.","url":""}
+{"author":"","bib":"","title":"Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes.","url":""}
+{"author":"","bib":"","title":"TextureFusion: High-Quality Texture Acquisition for Real-Time RGB-D Scanning.","url":""}
+{"author":"","bib":"","title":"D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry.","url":""}
+{"author":"","bib":"","title":"Deep Implicit Volume Compression.","url":""}
+{"author":"","bib":"","title":"MAGSAC++, a Fast, Reliable and Accurate Robust Estimator.","url":""}
+{"author":"","bib":"","title":"OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression.","url":""}
+{"author":"","bib":"","title":"4D Association Graph for Realtime Multi-Person Motion Capture Using Multiple Video Cameras.","url":""}
+{"author":"","bib":"","title":"Upgrading Optical Flow to 3D Scene Flow Through Optical Expansion.","url":""}
+{"author":"","bib":"","title":"Robust 3D Self-Portraits in Seconds.","url":""}
+{"author":"","bib":"","title":"FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation.","url":""}
+{"author":"","bib":"","title":"Learning to Have an Ear for Face Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Deep Optics for Single-Shot High-Dynamic-Range Imaging.","url":""}
+{"author":"","bib":"","title":"Learning Rank-1 Diffractive Optics for Single-Shot High Dynamic Range Imaging.","url":""}
+{"author":"","bib":"","title":"Deep White-Balance Editing.","url":""}
+{"author":"","bib":"","title":"Non-Line-of-Sight Surface Reconstruction Using the Directional Light-Cone Transform.","url":""}
+{"author":"","bib":"","title":"Seeing the World in a Bag of Chips.","url":""}
+{"author":"","bib":"","title":"Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers.","url":""}
+{"author":"","bib":"","title":"Retina-Like Visual Image Reconstruction via Spiking Neural Model.","url":""}
+{"author":"","bib":"","title":"Plug-and-Play Algorithms for Large-Scale Snapshot Compressive Imaging.","url":""}
+{"author":"","bib":"","title":"Neural Network Pruning With Residual-Connections and Limited-Data.","url":""}
+{"author":"","bib":"","title":"AdderNet: Do We Really Need Multiplications in Deep Learning?","url":""}
+{"author":"","bib":"","title":"NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Training Quantized Neural Networks With a Full-Precision Auxiliary Module.","url":""}
+{"author":"","bib":"","title":"Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model.","url":""}
+{"author":"","bib":"","title":"Multi-Dimensional Pruning: A Unified Framework for Model Compression.","url":""}
+{"author":"","bib":"","title":"Towards Efficient Model Compression via Learned Global Ranking.","url":""}
+{"author":"","bib":"","title":"HRank: Filter Pruning Using High-Rank Feature Map.","url":""}
+{"author":"","bib":"","title":"DMCP: Differentiable Markov Channel Pruning for Neural Networks.","url":""}
+{"author":"","bib":"","title":"ReSprop: Reuse Sparsified Backpropagation.","url":""}
+{"author":"","bib":"","title":"Adversarial Texture Optimization From RGB-D Scans.","url":""}
+{"author":"","bib":"","title":"Synchronizing Probability Measures on Rotations via Optimal Transport.","url":""}
+{"author":"","bib":"","title":"GhostNet: More Features From Cheap Operations.","url":""}
+{"author":"","bib":"","title":"Attention-Aware Multi-View Stereo.","url":""}
+{"author":"","bib":"","title":"Bi3D: Stereo Depth Estimation via Binary Classifications.","url":""}
+{"author":"","bib":"","title":"Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging.","url":""}
+{"author":"","bib":"","title":"SGAS: Sequential Greedy Architecture Search.","url":""}
+{"author":"","bib":"","title":"HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Frequency Domain Compact 3D Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.","url":""}
+{"author":"","bib":"","title":"DNU: Deep Non-Local Unrolling for Computational Spectral Imaging.","url":""}
+{"author":"","bib":"","title":"Single Image Optical Flow Estimation With an Event Camera.","url":""}
+{"author":"","bib":"","title":"Multi-View Neural Human Rendering.","url":""}
+{"author":"","bib":"","title":"Depth Sensing Beyond LiDAR Range.","url":""}
+{"author":"","bib":"","title":"Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras.","url":""}
+{"author":"","bib":"","title":"Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud.","url":""}
+{"author":"","bib":"","title":"Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence.","url":""}
+{"author":"","bib":"","title":"Neuromorphic Camera Guided High Dynamic Range Imaging.","url":""}
+{"author":"","bib":"","title":"Learning in the Frequency Domain.","url":""}
+{"author":"","bib":"","title":"Polarized Reflection Removal With Perfect Alignment in the Wild.","url":""}
+{"author":"","bib":"","title":"Learning Multiview 3D Point Cloud Registration.","url":""}
+{"author":"","bib":"","title":"A Sparse Resultant Based Method for Efficient Minimal Solvers.","url":""}
+{"author":"","bib":"","title":"Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.","url":""}
+{"author":"","bib":"","title":"BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Networks.","url":""}
+{"author":"","bib":"","title":"Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis.","url":""}
+{"author":"","bib":"","title":"A Semi-Supervised Assessor of Neural Architectures.","url":""}
+{"author":"","bib":"","title":"Learning a Reinforced Agent for Flexible Exposure Bracketing Selection.","url":""}
+{"author":"","bib":"","title":"CARS: Continuous Evolution for Efficient Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Joint 3D Instance Segmentation and Object Detection for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis.","url":""}
+{"author":"","bib":"","title":"Collaborative Distillation for Ultra-Resolution Universal Style Transfer.","url":""}
+{"author":"","bib":"","title":"TomoFluid: Reconstructing Dynamic Fluid From Sparse View Videos.","url":""}
+{"author":"","bib":"","title":"Instance Shadow Detection.","url":""}
+{"author":"","bib":"","title":"Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image.","url":""}
+{"author":"","bib":"","title":"Discrete Model Compression With Resource Constraint for Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Structured Compression by Weight Encryption for Unstructured Pruning and Quantization.","url":""}
+{"author":"","bib":"","title":"End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds.","url":""}
+{"author":"","bib":"","title":"Minimal Solutions for Relative Pose With a Single Affine Correspondence.","url":""}
+{"author":"","bib":"","title":"Point Cloud Completion by Skip-Attention Network With Hierarchical Folding.","url":""}
+{"author":"","bib":"","title":"Fast-MVSNet: Sparse-to-Dense Multi-View Stereo With Learned Propagation and Gauss-Newton Refinement.","url":""}
+{"author":"","bib":"","title":"AANet: Adaptive Aggregation Network for Efficient Stereo Matching.","url":""}
+{"author":"","bib":"","title":"Towards Unified INT8 Training for Convolutional Neural Network.","url":""}
+{"author":"","bib":"","title":"Active 3D Motion Visualization Based on Spatiotemporal Light-Ray Integration.","url":""}
+{"author":"","bib":"","title":"Block-Wisely Supervised Neural Architecture Search With Knowledge Distillation.","url":""}
+{"author":"","bib":"","title":"GreedyNAS: Towards Fast One-Shot NAS With Greedy Supernet.","url":""}
+{"author":"","bib":"","title":"Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration.","url":""}
+{"author":"","bib":"","title":"DIST: Rendering Deep Implicit Signed Distance Function With Differentiable Sphere Tracing.","url":""}
+{"author":"","bib":"","title":"Visually Imbalanced Stereo Matching.","url":""}
+{"author":"","bib":"","title":"Mesh-Guided Multi-View Stereo With Pyramid Architecture.","url":""}
+{"author":"","bib":"","title":"BiDet: An Efficient Binarized Object Detector.","url":""}
+{"author":"","bib":"","title":"Local Non-Rigid Structure-From-Motion From Diffeomorphic Mappings.","url":""}
+{"author":"","bib":"","title":"Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar.","url":""}
+{"author":"","bib":"","title":"APQ: Joint Search for Network Architecture, Pruning and Quantization Policy.","url":""}
+{"author":"","bib":"","title":"On the Acceleration of Deep Learning Model Parallelism With Staleness.","url":""}
+{"author":"","bib":"","title":"RevealNet: Seeing Behind Objects in RGB-D Scans.","url":""}
+{"author":"","bib":"","title":"MemNAS: Memory-Efficient Neural Architecture Search With Grow-Trim Learning.","url":""}
+{"author":"","bib":"","title":"StegaStamp: Invisible Hyperlinks in Physical Photographs.","url":""}
+{"author":"","bib":"","title":"L2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"Polarized Non-Line-of-Sight Imaging.","url":""}
+{"author":"","bib":"","title":"AdaBits: Neural Network Quantization With Adaptive Bit-Widths.","url":""}
+{"author":"","bib":"","title":"Multi-Scale Boosted Dehazing Network With Dense Feature Fusion.","url":""}
+{"author":"","bib":"","title":"ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings.","url":""}
+{"author":"","bib":"","title":"Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-Based Approach.","url":""}
+{"author":"","bib":"","title":"Normal Assisted Stereo Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Fusing Wearable IMUs With Multi-View Images for Human Pose Estimation: A Geometric Approach.","url":""}
+{"author":"","bib":"","title":"gDLS*: Generalized Pose-and-Scale Estimation Given Scale and Gravity Priors.","url":""}
+{"author":"","bib":"","title":"Embodied Language Grounding With 3D Visual Feature Representations.","url":""}
+{"author":"","bib":"","title":"Learning to Autofocus.","url":""}
+{"author":"","bib":"","title":"Joint Demosaicing and Denoising With Self Guidance.","url":""}
+{"author":"","bib":"","title":"Forward and Backward Information Retention for Accurate Binary Neural Networks.","url":""}
+{"author":"","bib":"","title":"Light Field Spatial Super-Resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization.","url":""}
+{"author":"","bib":"","title":"A Multi-Hypothesis Approach to Color Constancy.","url":""}
+{"author":"","bib":"","title":"Learning to Restore Low-Light Images via Decomposition-and-Enhancement.","url":""}
+{"author":"","bib":"","title":"Background Matting: The World Is Your Green Screen.","url":""}
+{"author":"","bib":"","title":"Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes.","url":""}
+{"author":"","bib":"","title":"Photometric Stereo via Discrete Hypothesis-and-Test Search.","url":""}
+{"author":"","bib":"","title":"Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference.","url":""}
+{"author":"","bib":"","title":"Fixed-Point Back-Propagation Training.","url":""}
+{"author":"","bib":"","title":"Heterogeneous Knowledge Distillation Using Information Flow Modeling.","url":""}
+{"author":"","bib":"","title":"Rethinking Differentiable Search for Mixed-Precision Neural Networks.","url":""}
+{"author":"","bib":"","title":"Residual Feature Aggregation Network for Image Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Resolution Adaptive Networks for Efficient Inference.","url":""}
+{"author":"","bib":"","title":"Learning to Forget for Meta-Learning.","url":""}
+{"author":"","bib":"","title":"Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution.","url":""}
+{"author":"","bib":"","title":"Reflection Scene Separation From a Single Image.","url":""}
+{"author":"","bib":"","title":"Wavelet Synthesis Net for Disparity Estimation to Synthesize DSLR Calibre Bokeh Effect on Smartphones.","url":""}
+{"author":"","bib":"","title":"Bundle Adjustment on a Graph Processor.","url":""}
+{"author":"","bib":"","title":"3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset.","url":""}
+{"author":"","bib":"","title":"PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.","url":""}
+{"author":"","bib":"","title":"Scalability in Perception for Autonomous Driving: Waymo Open Dataset.","url":""}
+{"author":"","bib":"","title":"Extreme Relative Pose Network Under Hybrid Representations.","url":""}
+{"author":"","bib":"","title":"Single-Shot Monocular RGB-D Imaging Using Uneven Double Refraction.","url":""}
+{"author":"","bib":"","title":"Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF From a Single Image.","url":""}
+{"author":"","bib":"","title":"3D Packing for Self-Supervised Monocular Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching.","url":""}
+{"author":"","bib":"","title":"From Two Rolling Shutters to One Global Shutter.","url":""}
+{"author":"","bib":"","title":"Deep Global Registration.","url":""}
+{"author":"","bib":"","title":"Deep Stereo Using Adaptive Thin Volume Representation With Uncertainty Awareness.","url":""}
+{"author":"","bib":"","title":"Why Having 10, 000 Parameters in Your Camera Model Is Better Than Twelve.","url":""}
+{"author":"","bib":"","title":"Blur Aware Calibration of Multi-Focus Plenoptic Camera.","url":""}
+{"author":"","bib":"","title":"Learning Fused Pixel and Feature-Based View Reconstructions for Light Fields.","url":""}
+{"author":"","bib":"","title":"SAL: Sign Agnostic Learning of Shapes From Raw Data.","url":""}
+{"author":"","bib":"","title":"Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval.","url":""}
+{"author":"","bib":"","title":"Instance Guided Proposal Network for Person Search.","url":""}
+{"author":"","bib":"","title":"Which Is Plagiarism: Fashion Image Retrieval Based on Regional Representation for Design Protection.","url":""}
+{"author":"","bib":"","title":"Inter-Task Association Critic for Cross-Resolution Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"FineGym: A Hierarchical Video Dataset for Fine-Grained Action Understanding.","url":""}
+{"author":"","bib":"","title":"Mapillary Street-Level Sequences: A Dataset for Lifelong Place Recognition.","url":""}
+{"author":"","bib":"","title":"BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning.","url":""}
+{"author":"","bib":"","title":"Rethinking Computer-Aided Tuberculosis Diagnosis.","url":""}
+{"author":"","bib":"","title":"IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning.","url":""}
+{"author":"","bib":"","title":"Revisiting Saliency Metrics: Farthest-Neighbor Area Under Curve.","url":""}
+{"author":"","bib":"","title":"Computing the Testing Error Without a Testing Set.","url":""}
+{"author":"","bib":"","title":"Improving Confidence Estimates for Unfamiliar Examples.","url":""}
+{"author":"","bib":"","title":"CycleISP: Real Image Restoration via Improved Data Synthesis.","url":""}
+{"author":"","bib":"","title":"Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion.","url":""}
+{"author":"","bib":"","title":"Explorable Super Resolution.","url":""}
+{"author":"","bib":"","title":"Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes.","url":""}
+{"author":"","bib":"","title":"Deblurring by Realistic Blurring.","url":""}
+{"author":"","bib":"","title":"Bringing Old Photos Back to Life.","url":""}
+{"author":"","bib":"","title":"A Physics-Based Noise Formation Model for Extreme Low-Light Raw Denoising.","url":""}
+{"author":"","bib":"","title":"Learning to Super Resolve Intensity Images From Events.","url":""}
+{"author":"","bib":"","title":"Camouflaged Object Detection.","url":""}
+{"author":"","bib":"","title":"Holistically-Attracted Wireframe Parsing.","url":""}
+{"author":"","bib":"","title":"Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction.","url":""}
+{"author":"","bib":"","title":"Domain Adaptation for Image Dehazing.","url":""}
+{"author":"","bib":"","title":"Auto-Encoding Twin-Bottleneck Hashing.","url":""}
+{"author":"","bib":"","title":"Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis.","url":""}
+{"author":"","bib":"","title":"Bi-Directional Interaction Network for Person Search.","url":""}
+{"author":"","bib":"","title":"Meshlet Priors for 3D Mesh Reconstruction.","url":""}
+{"author":"","bib":"","title":"Space-Time-Aware Multi-Resolution Video Enhancement.","url":""}
+{"author":"","bib":"","title":"FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation.","url":""}
+{"author":"","bib":"","title":"MSeg: A Composite Dataset for Multi-Domain Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.","url":""}
+{"author":"","bib":"","title":"Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Taking a Deeper Look at Co-Salient Object Detection.","url":""}
+{"author":"","bib":"","title":"Single-Stage 6D Object Pose Estimation.","url":""}
+{"author":"","bib":"","title":"OccuSeg: Occupancy-Aware 3D Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Camera Trace Erasing.","url":""}
+{"author":"","bib":"","title":"Deep Metric Learning via Adaptive Learnable Assessment.","url":""}
+{"author":"","bib":"","title":"Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective.","url":""}
+{"author":"","bib":"","title":"Fantastic Answers and Where to Find Them: Immersive Question-Directed Visual Attention.","url":""}
+{"author":"","bib":"","title":"HUMBI: A Large Multiview Dataset of Human Body Expressions.","url":""}
+{"author":"","bib":"","title":"Image Search With Text Feedback by Visiolinguistic Attention Learning.","url":""}
+{"author":"","bib":"","title":"Image Processing Using Multi-Code GAN Prior.","url":""}
+{"author":"","bib":"","title":"What Does Plate Glass Reveal About Camera Calibration?","url":""}
+{"author":"","bib":"","title":"Zero-Assignment Constraint for Graph Matching With Outliers.","url":""}
+{"author":"","bib":"","title":"Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.","url":""}
+{"author":"","bib":"","title":"JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection.","url":""}
+{"author":"","bib":"","title":"From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement.","url":""}
+{"author":"","bib":"","title":"Unsupervised Adaptation Learning for Hyperspectral Imagery Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Central Similarity Quantization for Efficient Image and Video Retrieval.","url":""}
+{"author":"","bib":"","title":"ARCH: Animatable Reconstruction of Clothed Humans.","url":""}
+{"author":"","bib":"","title":"A Model-Driven Deep Neural Network for Single Image Rain Removal.","url":""}
+{"author":"","bib":"","title":"Novel Object Viewpoint Estimation Through Reconstruction Alignment.","url":""}
+{"author":"","bib":"","title":"Creating Something From Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing.","url":""}
+{"author":"","bib":"","title":"Evaluating Weakly Supervised Object Localization Methods Right.","url":""}
+{"author":"","bib":"","title":"Style Normalization and Restitution for Generalizable Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Reconstruct Locally, Localize Globally: A Model Free Method for Object Pose Estimation.","url":""}
+{"author":"","bib":"","title":"RoboTHOR: An Open Simulation-to-Real Embodied AI Platform.","url":""}
+{"author":"","bib":"","title":"All in One Bad Weather Removal Using Architectural Search.","url":""}
+{"author":"","bib":"","title":"Relation-Aware Global Attention for Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"HOnnotate: A Method for 3D Annotation of Hand and Object Poses.","url":""}
+{"author":"","bib":"","title":"Celeb-DF: A Large-Scale Challenging Dataset for DeepFake Forensics.","url":""}
+{"author":"","bib":"","title":"Deep Unfolding Network for Image Super-Resolution.","url":""}
+{"author":"","bib":"","title":"On the Uncertainty of Self-Supervised Monocular Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Proxy Anchor Loss for Deep Metric Learning.","url":""}
+{"author":"","bib":"","title":"Unsupervised Learning for Intrinsic Image Decomposition From a Single Image.","url":""}
+{"author":"","bib":"","title":"Multi-Domain Learning for Accurate and Few-Shot Color Constancy.","url":""}
+{"author":"","bib":"","title":"PANDA: A Gigapixel-Level Human-Centric Video Dataset.","url":""}
+{"author":"","bib":"","title":"Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS.","url":""}
+{"author":"","bib":"","title":"Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Salience-Guided Cascaded Suppression Network for Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Fashion Outfit Complementary Item Retrieval.","url":""}
+{"author":"","bib":"","title":"Learning Event-Based Motion Deblurring.","url":""}
+{"author":"","bib":"","title":"Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation.","url":""}
+{"author":"","bib":"","title":"Neural Blind Deconvolution Using Deep Priors.","url":""}
+{"author":"","bib":"","title":"Anisotropic Convolutional Networks for 3D Semantic Scene Completion.","url":""}
+{"author":"","bib":"","title":"TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Fast MSER.","url":""}
+{"author":"","bib":"","title":"Unsupervised Person Re-Identification via Softened Similarity Learning.","url":""}
+{"author":"","bib":"","title":"COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification.","url":""}
+{"author":"","bib":"","title":"Learning Formation of Physically-Based Face Attributes.","url":""}
+{"author":"","bib":"","title":"Generalized Product Quantization Network for Semi-Supervised Image Retrieval.","url":""}
+{"author":"","bib":"","title":"Stereoscopic Flash and No-Flash Photography for Shape and Albedo Recovery.","url":""}
+{"author":"","bib":"","title":"Context-Aware Group Captioning via Self-Attention and Contrastive Features.","url":""}
+{"author":"","bib":"","title":"MEBOW: Monocular Estimation of Body Orientation in the Wild.","url":""}
+{"author":"","bib":"","title":"Distilling Image Dehazing With Heterogeneous Task Imitation.","url":""}
+{"author":"","bib":"","title":"Select, Supplement and Focus for RGB-D Saliency Detection.","url":""}
+{"author":"","bib":"","title":"Transfer Learning From Synthetic to Real-Noise Denoising With Adaptive Instance Normalization.","url":""}
+{"author":"","bib":"","title":"On Joint Estimation of Pose, Geometry and svBRDF From a Handheld Scanner.","url":""}
+{"author":"","bib":"","title":"Differentiable Volumetric Rendering: Learning Implicit 3D Representations Without 3D Supervision.","url":""}
+{"author":"","bib":"","title":"Meta-Transfer Learning for Zero-Shot Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Solving Jigsaw Puzzles With Eroded Boundaries.","url":""}
+{"author":"","bib":"","title":"Context-Aware Attention Network for Image-Text Retrieval.","url":""}
+{"author":"","bib":"","title":"M-LVC: Multiple Frames Prediction for Learned Video Compression.","url":""}
+{"author":"","bib":"","title":"Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training.","url":""}
+{"author":"","bib":"","title":"Single Image Reflection Removal Through Cascaded Refinement.","url":""}
+{"author":"","bib":"","title":"From Patches to Pictures (PaQ-2-PiQ): Mapping the Perceptual Space of Picture Quality.","url":""}
+{"author":"","bib":"","title":"Video to Events: Recycling Video Datasets for Event Cameras.","url":""}
+{"author":"","bib":"","title":"Composed Query Image Retrieval Using Locally Bounded Features.","url":""}
+{"author":"","bib":"","title":"Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring.","url":""}
+{"author":"","bib":"","title":"End-to-End Illuminant Estimation Based on Deep Metric Learning.","url":""}
+{"author":"","bib":"","title":"Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring.","url":""}
+{"author":"","bib":"","title":"Image Demoireing with Learnable Bandpass Filters.","url":""}
+{"author":"","bib":"","title":"Assessing Image Quality Issues for Real-World Problems.","url":""}
+{"author":"","bib":"","title":"Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising.","url":""}
+{"author":"","bib":"","title":"Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network.","url":""}
+{"author":"","bib":"","title":"Perceptual Quality Assessment of Smartphone Photography.","url":""}
+{"author":"","bib":"","title":"Don't Hit Me! Glass Detection in Real-World Scenes.","url":""}
+{"author":"","bib":"","title":"Progressive Mirror Detection.","url":""}
+{"author":"","bib":"","title":"Category-Level Articulated Object Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Unbiased Scene Graph Generation From Biased Training.","url":""}
+{"author":"","bib":"","title":"Dynamic Graph Message Passing Networks.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Visual Semantic Parsing.","url":""}
+{"author":"","bib":"","title":"GPS-Net: Graph Property Sensing Network for Scene Graph Generation.","url":""}
+{"author":"","bib":"","title":"End-to-End Optimization of Scene Layout.","url":""}
+{"author":"","bib":"","title":"Unsupervised Intra-Domain Adaptation for Semantic Segmentation Through Self-Supervision.","url":""}
+{"author":"","bib":"","title":"Dual Super-Resolution Learning for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Scene De-Occlusion.","url":""}
+{"author":"","bib":"","title":"BANet: Bidirectional Aggregation Network With Occlusion Handling for Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries.","url":""}
+{"author":"","bib":"","title":"Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection.","url":""}
+{"author":"","bib":"","title":"MPM: Joint Representation of Motion and Position Map for Cell Tracking.","url":""}
+{"author":"","bib":"","title":"Deep Distance Transform for Tubular Structure Segmentation in CT Scans.","url":""}
+{"author":"","bib":"","title":"Instance Segmentation of Biological Images Using Harmonic Embeddings.","url":""}
+{"author":"","bib":"","title":"Multi-scale Domain-adversarial Multiple-instance CNN for Cancer Subtype Classification with Unannotated Histopathological Images.","url":""}
+{"author":"","bib":"","title":"SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification.","url":""}
+{"author":"","bib":"","title":"Task Agnostic Robust Learning on Corrupt Outputs by Correlation-Guided Mixture Density Networks.","url":""}
+{"author":"","bib":"","title":"METAL: Minimum Effort Temporal Activity Localization in Untrimmed Videos.","url":""}
+{"author":"","bib":"","title":"Neural Data Server: A Large-Scale Search Engine for Transfer Learning Data.","url":""}
+{"author":"","bib":"","title":"Revisiting Knowledge Distillation via Label Smoothing Regularization.","url":""}
+{"author":"","bib":"","title":"WCP: Worst-Case Perturbations for Semi-Supervised Deep Learning.","url":""}
+{"author":"","bib":"","title":"DEPARA: Deep Attribution Graph for Deep Knowledge Transferability.","url":""}
+{"author":"","bib":"","title":"Conditional Channel Gated Networks for Task-Aware Continual Learning.","url":""}
+{"author":"","bib":"","title":"Towards Discriminability and Diversity: Batch Nuclear-Norm Maximization Under Label Insufficient Situations.","url":""}
+{"author":"","bib":"","title":"FocalMix: Semi-Supervised Learning for 3D Medical Image Detection.","url":""}
+{"author":"","bib":"","title":"Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Viewpoint Learning From Image Collections.","url":""}
+{"author":"","bib":"","title":"Two-Shot Spatially-Varying BRDF and Shape Estimation.","url":""}
+{"author":"","bib":"","title":"Variational Context-Deformable ConvNets for Indoor Scene Parsing.","url":""}
+{"author":"","bib":"","title":"Strip Pooling: Rethinking Spatial Pooling for Scene Parsing.","url":""}
+{"author":"","bib":"","title":"Few-Shot Object Detection With Attention-RPN and Multi-Relation Detector.","url":""}
+{"author":"","bib":"","title":"What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation.","url":""}
+{"author":"","bib":"","title":"ADINet: Attribute Driven Incremental Network for Retinal Image Classification.","url":""}
+{"author":"","bib":"","title":"Unsupervised Domain Adaptation With Hierarchical Gradient Synchronization.","url":""}
+{"author":"","bib":"","title":"Deep Grouping Model for Unified Perceptual Parsing.","url":""}
+{"author":"","bib":"","title":"Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching.","url":""}
+{"author":"","bib":"","title":"Gum-Net: Unsupervised Geometric Matching for Fast and Accurate 3D Subtomogram Image Alignment and Averaging.","url":""}
+{"author":"","bib":"","title":"FDA: Fourier Domain Adaptation for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery.","url":""}
+{"author":"","bib":"","title":"When2com: Multi-Agent Perception via Communication Graph Grouping.","url":""}
+{"author":"","bib":"","title":"Learning Human-Object Interaction Detection Using Interaction Points.","url":""}
+{"author":"","bib":"","title":"C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation.","url":""}
+{"author":"","bib":"","title":"Adaptive Subspaces for Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Learning to Detect Important People in Unlabelled Images for Semi-Supervised Important People Detection.","url":""}
+{"author":"","bib":"","title":"Stochastic Sparse Subspace Clustering.","url":""}
+{"author":"","bib":"","title":"CRNet: Cross-Reference Networks for Few-Shot Segmentation.","url":""}
+{"author":"","bib":"","title":"Shoestring: Graph-Based Semi-Supervised Classification With Severely Limited Labeled Data.","url":""}
+{"author":"","bib":"","title":"Uninformed Students: Student-Teacher Anomaly Detection With Discriminative Latent Embeddings.","url":""}
+{"author":"","bib":"","title":"3D Sketch-Aware Semantic Scene Completion via Semi-Supervised Structure Prior.","url":""}
+{"author":"","bib":"","title":"Graph-Guided Architecture Search for Real-Time Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Composing Good Shots by Exploiting Mutual Relations.","url":""}
+{"author":"","bib":"","title":"Organ at Risk Segmentation for Head and Neck Cancer Using Stratified Learning and Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"G2L-Net: Global to Local Network for Real-Time 6D Pose Estimation With Embedding Vector Features.","url":""}
+{"author":"","bib":"","title":"Unsupervised Instance Segmentation in Microscopy Images via Panoptic Domain Adaptation and Task Re-Weighting.","url":""}
+{"author":"","bib":"","title":"Single-Stage Semantic Segmentation From Image Labels.","url":""}
+{"author":"","bib":"","title":"Cascaded Human-Object Interaction Recognition.","url":""}
+{"author":"","bib":"","title":"DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction With Deep T1 Prior.","url":""}
+{"author":"","bib":"","title":"Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"FPConv: Learning Local Flattening for Point Convolution.","url":""}
+{"author":"","bib":"","title":"Rotation Equivariant Graph Convolutional Network for Spherical Image Classification.","url":""}
+{"author":"","bib":"","title":"FOAL: Fast Online Adaptive Learning for Cardiac Motion Estimation.","url":""}
+{"author":"","bib":"","title":"ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Semantic Segmentation via Domain-Invariant Interactive Relation Transfer.","url":""}
+{"author":"","bib":"","title":"Inflated Episodic Memory With Region Self-Attention for Long-Tailed Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior.","url":""}
+{"author":"","bib":"","title":"Structure Preserving Generative Cross-Domain Learning.","url":""}
+{"author":"","bib":"","title":"Reverse Perspective Network for Perspective-Aware Object Counting.","url":""}
+{"author":"","bib":"","title":"Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds.","url":""}
+{"author":"","bib":"","title":"Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"ImVoteNet: Boosting 3D Object Detection in Point Clouds With Image Votes.","url":""}
+{"author":"","bib":"","title":"Understanding Road Layout From Videos as a Whole.","url":""}
+{"author":"","bib":"","title":"Bi-Directional Relationship Inferring Network for Referring Image Segmentation.","url":""}
+{"author":"","bib":"","title":"Perspective Plane Program Induction From a Single Image.","url":""}
+{"author":"","bib":"","title":"DeepFLASH: An Efficient Network for Learning-Based Medical Image Registration.","url":""}
+{"author":"","bib":"","title":"Semi-Supervised Learning for Few-Shot Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"Semantic Correspondence as an Optimal Transport Problem.","url":""}
+{"author":"","bib":"","title":"How Much Time Do You Have? Modeling Multi-Duration Saliency.","url":""}
+{"author":"","bib":"","title":"Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention.","url":""}
+{"author":"","bib":"","title":"Online Depth Learning Against Forgetting in Monocular Videos.","url":""}
+{"author":"","bib":"","title":"Few-Shot Learning of Part-Specific Probability Space for 3D Shape Segmentation.","url":""}
+{"author":"","bib":"","title":"Pattern-Structure Diffusion for Multi-Task Learning.","url":""}
+{"author":"","bib":"","title":"Training Noise-Robust Deep Neural Networks via Meta-Learning.","url":""}
+{"author":"","bib":"","title":"Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation.","url":""}
+{"author":"","bib":"","title":"Universal Source-Free Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Exploring Spatial-Temporal Multi-Frequency Analysis for High-Fidelity and Temporal-Consistency Video Prediction.","url":""}
+{"author":"","bib":"","title":"Varicolored Image De-Hazing.","url":""}
+{"author":"","bib":"","title":"SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds.","url":""}
+{"author":"","bib":"","title":"Separating Particulate Matter From a Single Microscopic Image.","url":""}
+{"author":"","bib":"","title":"Adaptive Dilated Network With Self-Correction Supervision for Counting.","url":""}
+{"author":"","bib":"","title":"PointPainting: Sequential Fusion for 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Rethinking Zero-Shot Video Classification: End-to-End Training for Realistic Applications.","url":""}
+{"author":"","bib":"","title":"Learning to Select Base Classes for Few-Shot Classification.","url":""}
+{"author":"","bib":"","title":"CONSAC: Robust Multi-Model Fitting by Conditional Sample Consensus.","url":""}
+{"author":"","bib":"","title":"Fast Symmetric Diffeomorphic Image Registration with Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Distilled Semantics for Comprehensive Scene Understanding from Videos.","url":""}
+{"author":"","bib":"","title":"Modeling Biological Immunity to Adversarial Examples.","url":""}
+{"author":"","bib":"","title":"DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization.","url":""}
+{"author":"","bib":"","title":"Correspondence-Free Material Reconstruction using Sparse Surface Constraints.","url":""}
+{"author":"","bib":"","title":"Augmenting Colonoscopy Using Extended and Directional CycleGAN for Lossy Image Translation.","url":""}
+{"author":"","bib":"","title":"Attention Scaling for Crowd Counting.","url":""}
+{"author":"","bib":"","title":"Shape Reconstruction by Learning Differentiable Surface Representations.","url":""}
+{"author":"","bib":"","title":"A Spatiotemporal Volumetric Interpolation Network for 4D Dynamic Medical Image.","url":""}
+{"author":"","bib":"","title":"Attention-Based Context Aware Reasoning for Situation Recognition.","url":""}
+{"author":"","bib":"","title":"PatchVAE: Learning Local Latent Codes for Recognition.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Monocular Trained Depth Estimation Using Self-Attention and Discrete Disparity Volume.","url":""}
+{"author":"","bib":"","title":"STAViS: Spatio-Temporal AudioVisual Saliency Network.","url":""}
+{"author":"","bib":"","title":"More Grounded Image Captioning by Distilling Image-Text Matching Model.","url":""}
+{"author":"","bib":"","title":"DUNIT: Detection-Based Unsupervised Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"Learning to Observe: Approximating Human Perceptual Thresholds for Detection of Suprathreshold Image Transformations.","url":""}
+{"author":"","bib":"","title":"Show, Edit and Tell: A Framework for Editing Image Captions.","url":""}
+{"author":"","bib":"","title":"Structure Boundary Preserving Segmentation for Medical Image With Ambiguous Boundary.","url":""}
+{"author":"","bib":"","title":"Predicting Cognitive Declines Using Longitudinally Enriched Representations for Imaging Biomarkers.","url":""}
+{"author":"","bib":"","title":"Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution.","url":""}
+{"author":"","bib":"","title":"Extremely Dense Point Correspondences Using a Learned Feature Descriptor.","url":""}
+{"author":"","bib":"","title":"Local Deep Implicit Functions for 3D Shape.","url":""}
+{"author":"","bib":"","title":"PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Cost Volume Pyramid Based Depth Inference for Multi-View Stereo.","url":""}
+{"author":"","bib":"","title":"RoutedFusion: Learning Real-Time Depth Map Fusion.","url":""}
+{"author":"","bib":"","title":"VOLDOR: Visual Odometry From Log-Logistic Dense Optical Flow Residuals.","url":""}
+{"author":"","bib":"","title":"Learning to Optimize Non-Rigid Tracking.","url":""}
+{"author":"","bib":"","title":"KFNet: Learning Temporal Camera Relocalization Using Kalman Filtering.","url":""}
+{"author":"","bib":"","title":"Information-Driven Direct RGB-D Odometry.","url":""}
+{"author":"","bib":"","title":"SuperGlue: Learning Feature Matching With Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task.","url":""}
+{"author":"","bib":"","title":"ReDA: Reinforced Differentiable Attribute for 3D Face Reconstruction.","url":""}
+{"author":"","bib":"","title":"EventCap: Monocular 3D Capture of High-Speed Human Motions Using an Event Camera.","url":""}
+{"author":"","bib":"","title":"Cross-Modal Deep Face Normals With Deactivable Skip Connections.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild.","url":""}
+{"author":"","bib":"","title":"Face X-Ray for More General Face Forgery Detection.","url":""}
+{"author":"","bib":"","title":"A Morphable Face Albedo Model.","url":""}
+{"author":"","bib":"","title":"Cascade EF-GAN: Progressive Facial Expression Editing With Local Focuses.","url":""}
+{"author":"","bib":"","title":"GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes.","url":""}
+{"author":"","bib":"","title":"Deep Spatial Gradient and Temporal Depth Learning for Face Anti-Spoofing.","url":""}
+{"author":"","bib":"","title":"DeepCap: Monocular Human Performance Capture Using Weak Supervision.","url":""}
+{"author":"","bib":"","title":"Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction.","url":""}
+{"author":"","bib":"","title":"Advancing High Fidelity Identity Swapping for Forgery Detection.","url":""}
+{"author":"","bib":"","title":"Controllable Person Image Synthesis With Attribute-Decomposed GAN.","url":""}
+{"author":"","bib":"","title":"Attentive Normalization for Conditional Image Generation.","url":""}
+{"author":"","bib":"","title":"SEAN: Image Synthesis With Semantic Region-Adaptive Normalization.","url":""}
+{"author":"","bib":"","title":"Blurry Video Frame Interpolation.","url":""}
+{"author":"","bib":"","title":"Learning Physics-Guided Face Relighting Under Directional Light.","url":""}
+{"author":"","bib":"","title":"Disentangled Image Generation Through Structured Noise Injection.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Correspondence Learning for Exemplar-Based Image Translation.","url":""}
+{"author":"","bib":"","title":"Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.","url":""}
+{"author":"","bib":"","title":"Single Image Reflection Removal With Physically-Based Training Images.","url":""}
+{"author":"","bib":"","title":"SketchyCOCO: Image Generation From Freehand Scene Sketches.","url":""}
+{"author":"","bib":"","title":"Image Based Virtual Try-On Network From Unpaired Data.","url":""}
+{"author":"","bib":"","title":"PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.","url":""}
+{"author":"","bib":"","title":"RetinaFace: Single-Shot Multi-Level Face Localisation in the Wild.","url":""}
+{"author":"","bib":"","title":"Semantic Image Manipulation Using Scene Graphs.","url":""}
+{"author":"","bib":"","title":"A Stochastic Conditioning Scheme for Diverse Human Motion Prediction.","url":""}
+{"author":"","bib":"","title":"Transferring Dense Pose to Proximal Animal Classes.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild.","url":""}
+{"author":"","bib":"","title":"VIBE: Video Inference for Human Body Pose and Shape Estimation.","url":""}
+{"author":"","bib":"","title":"G3AN: Disentangling Appearance and Motion for Video Generation.","url":""}
+{"author":"","bib":"","title":"Domain Adaptive Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"GAN Compression: Efficient Architectures for Interactive Conditional GANs.","url":""}
+{"author":"","bib":"","title":"Searching Central Difference Convolutional Networks for Face Anti-Spoofing.","url":""}
+{"author":"","bib":"","title":"TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.","url":""}
+{"author":"","bib":"","title":"AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation.","url":""}
+{"author":"","bib":"","title":"FReeNet: Multi-Identity Face Reenactment.","url":""}
+{"author":"","bib":"","title":"Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera.","url":""}
+{"author":"","bib":"","title":"Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data.","url":""}
+{"author":"","bib":"","title":"The GAN That Warped: Semantic Attribute Editing With Unpaired Data.","url":""}
+{"author":"","bib":"","title":"4D Visualization of Dynamic Events From Unconstrained Multi-View Videos.","url":""}
+{"author":"","bib":"","title":"Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds.","url":""}
+{"author":"","bib":"","title":"HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Detecting Attended Visual Targets in Video.","url":""}
+{"author":"","bib":"","title":"Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Neural Voxel Renderer: Learning an Accurate and Controllable Rendering Tool.","url":""}
+{"author":"","bib":"","title":"Neural Contours: Learning to Draw Lines From 3D Shapes.","url":""}
+{"author":"","bib":"","title":"Softmax Splatting for Video Frame Interpolation.","url":""}
+{"author":"","bib":"","title":"CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"Probabilistic Structural Latent Representation for Unsupervised Embedding.","url":""}
+{"author":"","bib":"","title":"Semantically Multi-Modal Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Nested Scale-Editing for Conditional Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Fast Texture Synthesis via Pseudo Optimizer.","url":""}
+{"author":"","bib":"","title":"Towards Learning Structure via Consensus for Face Segmentation and Parsing.","url":""}
+{"author":"","bib":"","title":"CookGAN: Causality Based Text-to-Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification.","url":""}
+{"author":"","bib":"","title":"Future Video Synthesis With Object Motion Prediction.","url":""}
+{"author":"","bib":"","title":"MaskGAN: Towards Diverse and Interactive Facial Image Manipulation.","url":""}
+{"author":"","bib":"","title":"A Graduated Filter Method for Large Scale Robust Estimation.","url":""}
+{"author":"","bib":"","title":"Deep Face Super-Resolution With Iterative Collaboration Between Attentive Recovery and Landmark Estimation.","url":""}
+{"author":"","bib":"","title":"Coherent Reconstruction of Multiple Humans From a Single Image.","url":""}
+{"author":"","bib":"","title":"PointASNL: Robust Point Clouds Processing Using Nonlocal Neural Networks With Adaptive Sampling.","url":""}
+{"author":"","bib":"","title":"A Neural Rendering Framework for Free-Viewpoint Relighting.","url":""}
+{"author":"","bib":"","title":"A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection.","url":""}
+{"author":"","bib":"","title":"GroupFace: Learning Latent Groups and Constructing Group-Based Representations for Face Recognition.","url":""}
+{"author":"","bib":"","title":"Channel Attention Based Iterative Residual Learning for Depth Map Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Time Flies: Animating a Still Image With Time-Lapse Video As Reference.","url":""}
+{"author":"","bib":"","title":"SER-FIQ: Unsupervised Estimation of Face Image Quality Based on Stochastic Embedding Robustness.","url":""}
+{"author":"","bib":"","title":"Grid-GCN for Fast and Scalable Point Cloud Learning.","url":""}
+{"author":"","bib":"","title":"Domain Balancing: Face Recognition on Long-Tailed Domains.","url":""}
+{"author":"","bib":"","title":"AdversarialNAS: Adversarial Neural Architecture Search for GANs.","url":""}
+{"author":"","bib":"","title":"Image Super-Resolution With Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining.","url":""}
+{"author":"","bib":"","title":"The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Data Uncertainty Learning in Face Recognition.","url":""}
+{"author":"","bib":"","title":"Regularizing Discriminative Capability of CGANs for Semi-Supervised Generative Learning.","url":""}
+{"author":"","bib":"","title":"FM2u-Net: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification.","url":""}
+{"author":"","bib":"","title":"UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation.","url":""}
+{"author":"","bib":"","title":"Decoupled Representation Learning for Skeleton-Based Gesture Recognition.","url":""}
+{"author":"","bib":"","title":"An Efficient PointLSTM for Point Clouds Based Gesture Recognition.","url":""}
+{"author":"","bib":"","title":"Editing in Style: Uncovering the Local Semantics of GANs.","url":""}
+{"author":"","bib":"","title":"On the Detection of Digital Face Manipulation.","url":""}
+{"author":"","bib":"","title":"Learning Texture Transformer Network for Image Super-Resolution.","url":""}
+{"author":"","bib":"","title":"Reference-Based Sketch Image Colorization Using Augmented-Self Reference and Dense Semantic Correspondence.","url":""}
+{"author":"","bib":"","title":"Deblurring Using Analysis-Synthesis Networks Pair.","url":""}
+{"author":"","bib":"","title":"Exploring Unlabeled Faces for Novel Attribute Discovery.","url":""}
+{"author":"","bib":"","title":"Neural Pose Transfer by Spatially Adaptive Instance Normalization.","url":""}
+{"author":"","bib":"","title":"Fine-Grained Image-to-Image Transformation Towards Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Deep Facial Non-Rigid Multi-View Stereo.","url":""}
+{"author":"","bib":"","title":"Attention-Driven Cropping for Very High Resolution Facial Landmark Detection.","url":""}
+{"author":"","bib":"","title":"Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.","url":""}
+{"author":"","bib":"","title":"End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Towards High-Fidelity 3D Face Reconstruction From In-the-Wild Images Using Graph Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition.","url":""}
+{"author":"","bib":"","title":"Rotate-and-Render: Unsupervised Photorealistic Face Rotation From Single-View Images.","url":""}
+{"author":"","bib":"","title":"One-Shot Domain Adaptation for Face Generation.","url":""}
+{"author":"","bib":"","title":"BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation.","url":""}
+{"author":"","bib":"","title":"Deep Shutter Unrolling Network.","url":""}
+{"author":"","bib":"","title":"Joint Texture and Geometry Optimization for RGB-D Reconstruction.","url":""}
+{"author":"","bib":"","title":"Deep 3D Capture: Geometry and Reflectance From Sparse Multi-View Images.","url":""}
+{"author":"","bib":"","title":"Auto-Tuning Structured Light by Optical Stochastic Gradient Descent.","url":""}
+{"author":"","bib":"","title":"MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction.","url":""}
+{"author":"","bib":"","title":"Uncertainty Based Camera Model Selection.","url":""}
+{"author":"","bib":"","title":"Local Implicit Grid Representations for 3D Scenes.","url":""}
+{"author":"","bib":"","title":"TetraTSDF: 3D Human Reconstruction From a Single Image With a Tetrahedral Outer Shell.","url":""}
+{"author":"","bib":"","title":"Averaging Essential and Fundamental Matrices in Collinear Camera Settings.","url":""}
+{"author":"","bib":"","title":"On the Distribution of Minima in Intrinsic-Metric Rotation Averaging.","url":""}
+{"author":"","bib":"","title":"Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation.","url":""}
+{"author":"","bib":"","title":"A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-View Stereo Reconstruction From an Open Aerial Dataset.","url":""}
+{"author":"","bib":"","title":"Factorized Higher-Order CNNs With an Application to Spatio-Temporal Emotion Estimation.","url":""}
+{"author":"","bib":"","title":"Effectively Unbiased FID and Inception Score and Where to Find Them.","url":""}
+{"author":"","bib":"","title":"Robust Homography Estimation via Dual Principal Component Pursuit.","url":""}
+{"author":"","bib":"","title":"Non-Adversarial Video Synthesis with Learned Priors.","url":""}
+{"author":"","bib":"","title":"Uncertainty-Aware Mesh Decoder for High Fidelity 3D Face Reconstruction.","url":""}
+{"author":"","bib":"","title":"3FabRec: Fast Few-Shot Face Alignment by Reconstruction.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects.","url":""}
+{"author":"","bib":"","title":"Vec2Face: Unveil Human Faces From Their Blackbox Features in Face Recognition.","url":""}
+{"author":"","bib":"","title":"StyleRig: Rigging StyleGAN for 3D Control Over Portrait Images.","url":""}
+{"author":"","bib":"","title":"Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Learning Meta Face Recognition in Unseen Domains.","url":""}
+{"author":"","bib":"","title":"Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data.","url":""}
+{"author":"","bib":"","title":"GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models.","url":""}
+{"author":"","bib":"","title":"Generating 3D People in Scenes Without People.","url":""}
+{"author":"","bib":"","title":"Transferring Cross-Domain Knowledge for Video Sign Language Recognition.","url":""}
+{"author":"","bib":"","title":"Bodies at Rest: 3D Human Pose and Shape Estimation From a Pressure Image Using Synthetic Data.","url":""}
+{"author":"","bib":"","title":"Bayesian Adversarial Human Motion Synthesis.","url":""}
+{"author":"","bib":"","title":"LSM: Learning Subspace Minimization for Low-Level Vision.","url":""}
+{"author":"","bib":"","title":"Learning a Neural Solver for Multiple Object Tracking.","url":""}
+{"author":"","bib":"","title":"GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences.","url":""}
+{"author":"","bib":"","title":"SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking.","url":""}
+{"author":"","bib":"","title":"MaskFlownet: Asymmetric Feature Matching With Learnable Occlusion Mask.","url":""}
+{"author":"","bib":"","title":"Tracking by Instance Detection: A Meta-Learning Approach.","url":""}
+{"author":"","bib":"","title":"High-Performance Long-Term Tracking With Meta-Updater.","url":""}
+{"author":"","bib":"","title":"TubeTK: Adopting Tubes to Track Multi-Object in a One-Step Training Model.","url":""}
+{"author":"","bib":"","title":"Collaborative Motion Prediction via Neural Motion Message Passing.","url":""}
+{"author":"","bib":"","title":"P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Deep Visual Odometry With Online Adaptation.","url":""}
+{"author":"","bib":"","title":"Globally Optimal Contrast Maximisation for Event-Based Motion Estimation.","url":""}
+{"author":"","bib":"","title":"D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features.","url":""}
+{"author":"","bib":"","title":"Towards Backward-Compatible Representation Learning.","url":""}
+{"author":"","bib":"","title":"PointAugment: An Auto-Augmentation Framework for Point Cloud Classification.","url":""}
+{"author":"","bib":"","title":"Cross-Batch Memory for Embedding Learning.","url":""}
+{"author":"","bib":"","title":"Circle Loss: A Unified Perspective of Pair Similarity Optimization.","url":""}
+{"author":"","bib":"","title":"Steering Self-Supervised Feature Learning Beyond Local Pixel Statistics.","url":""}
+{"author":"","bib":"","title":"Hyperbolic Image Embeddings.","url":""}
+{"author":"","bib":"","title":"Controllable Orthogonalization in Training DNNs.","url":""}
+{"author":"","bib":"","title":"An Investigation Into the Stochasticity of Batch Whitening.","url":""}
+{"author":"","bib":"","title":"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Same Features, Different Day: Weakly Supervised Feature Learning for Seasonal Invariance.","url":""}
+{"author":"","bib":"","title":"Learning to Dress 3D People in Generative Clothing.","url":""}
+{"author":"","bib":"","title":"MAST: A Memory-Augmented Self-Supervised Tracker.","url":""}
+{"author":"","bib":"","title":"Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation.","url":""}
+{"author":"","bib":"","title":"GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning.","url":""}
+{"author":"","bib":"","title":"ClusterFit: Improving Generalization of Visual Representations.","url":""}
+{"author":"","bib":"","title":"Learning Dynamic Relationships for 3D Human Motion Prediction.","url":""}
+{"author":"","bib":"","title":"Knowledge As Priors: Cross-Modal Knowledge Generalization for Datasets Without Superior Knowledge.","url":""}
+{"author":"","bib":"","title":"S3VAE: Self-Supervised Sequential VAE for Representation Disentanglement and Data Generation.","url":""}
+{"author":"","bib":"","title":"Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning.","url":""}
+{"author":"","bib":"","title":"Learning to Manipulate Individual Objects in an Image.","url":""}
+{"author":"","bib":"","title":"PADS: Policy-Adapted Sampling for Visual Similarity Learning.","url":""}
+{"author":"","bib":"","title":"Siam R-CNN: Visual Tracking by Re-Detection.","url":""}
+{"author":"","bib":"","title":"ASLFeat: Learning Local Features of Accurate Shape and Localization.","url":""}
+{"author":"","bib":"","title":"Filter Grafting for Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation.","url":""}
+{"author":"","bib":"","title":"DeepFaceFlow: In-the-Wild Dense 3D Facial Motion Estimation.","url":""}
+{"author":"","bib":"","title":"Learning for Video Compression With Hierarchical Quality and Recurrent Enhancement.","url":""}
+{"author":"","bib":"","title":"Learning Better Lossless Compression Using Lossy Compression.","url":""}
+{"author":"","bib":"","title":"Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching.","url":""}
+{"author":"","bib":"","title":"Multi-Scale Fusion Subspace Clustering Using Similarity Constraint.","url":""}
+{"author":"","bib":"","title":"Siamese Box Adaptive Network for Visual Tracking.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Face Presentation Attack Detection via Multi-Domain Disentangled Representation Learning.","url":""}
+{"author":"","bib":"","title":"Online Deep Clustering for Unsupervised Representation Learning.","url":""}
+{"author":"","bib":"","title":"Density-Aware Feature Embedding for Face Clustering.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Learning of Pretext-Invariant Representations.","url":""}
+{"author":"","bib":"","title":"ROAM: Recurrently Optimizing Tracking Model.","url":""}
+{"author":"","bib":"","title":"Deformable Siamese Attention Networks for Visual Object Tracking.","url":""}
+{"author":"","bib":"","title":"15 Keypoints Is All You Need.","url":""}
+{"author":"","bib":"","title":"Optical Flow in the Dark.","url":""}
+{"author":"","bib":"","title":"Sketch-BERT: Learning Sketch Bidirectional Encoder Representation From Transformers by Self-Supervised Learning of Sketch Gestalt.","url":""}
+{"author":"","bib":"","title":"A Unified Object Motion and Affinity Model for Online Multi-Object Tracking.","url":""}
+{"author":"","bib":"","title":"Sub-Frame Appearance and 6D Pose Estimation of Fast Moving Objects.","url":""}
+{"author":"","bib":"","title":"How to Train Your Deep Multi-Object Tracker.","url":""}
+{"author":"","bib":"","title":"TPNet: Trajectory Proposal Network for Motion Prediction.","url":""}
+{"author":"","bib":"","title":"Large Scale Video Representation Learning via Relational Graph Clustering.","url":""}
+{"author":"","bib":"","title":"Towards Universal Representation Learning for Deep Face Recognition.","url":""}
+{"author":"","bib":"","title":"Robust Partial Matching for Person Search in the Wild.","url":""}
+{"author":"","bib":"","title":"Correlation-Guided Attention for Corner Detection Based Visual Tracking.","url":""}
+{"author":"","bib":"","title":"Learning Multi-Object Tracking and Segmentation From Automatic Annotations.","url":""}
+{"author":"","bib":"","title":"PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Rotation Consistent Margin Loss for Efficient Low-Bit Face Recognition.","url":""}
+{"author":"","bib":"","title":"Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking.","url":""}
+{"author":"","bib":"","title":"Unity Style Transfer for Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Suppressing Uncertainties for Large-Scale Facial Expression Recognition.","url":""}
+{"author":"","bib":"","title":"Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Regularizing Neural Networks via Minimizing Hyperspherical Energy.","url":""}
+{"author":"","bib":"","title":"Learning Representations by Predicting Bags of Visual Words.","url":""}
+{"author":"","bib":"","title":"AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces.","url":""}
+{"author":"","bib":"","title":"A Transductive Approach for Video Object Segmentation.","url":""}
+{"author":"","bib":"","title":"Dynamic Face Video Segmentation via Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.","url":""}
+{"author":"","bib":"","title":"Semantic Drift Compensation for Class-Incremental Learning.","url":""}
+{"author":"","bib":"","title":"Context-Aware Human Motion Prediction.","url":""}
+{"author":"","bib":"","title":"DeepDeform: Learning Non-Rigid RGB-D Reconstruction With Semi-Supervised Data.","url":""}
+{"author":"","bib":"","title":"Optical Non-Line-of-Sight Physics-Based 3D Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Learning to Transfer Texture From Clothing Images to 3D Humans.","url":""}
+{"author":"","bib":"","title":"UniPose: Unified Human Pose Estimation in Single Images and Videos.","url":""}
+{"author":"","bib":"","title":"Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unknown Focal Length.","url":""}
+{"author":"","bib":"","title":"3D Human Mesh Regression With Dense Correspondence.","url":""}
+{"author":"","bib":"","title":"Cross-Modal Pattern-Propagation for RGB-T Tracking.","url":""}
+{"author":"","bib":"","title":"Distilling Knowledge From Graph Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment.","url":""}
+{"author":"","bib":"","title":"Distribution-Aware Coordinate Representation for Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification.","url":""}
+{"author":"","bib":"","title":"HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation From a Single Depth Map.","url":""}
+{"author":"","bib":"","title":"Determinant Regularization for Gradient-Efficient Graph Matching.","url":""}
+{"author":"","bib":"","title":"D3S - A Discriminative Single Shot Segmentation Tracker.","url":""}
+{"author":"","bib":"","title":"MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"End-to-End Model-Free Reinforcement Learning for Urban Driving Using Implicit Affordances.","url":""}
+{"author":"","bib":"","title":"GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-Wise Transformations.","url":""}
+{"author":"","bib":"","title":"Can Facial Pose and Expression Be Separated With Weak Perspective Camera?","url":""}
+{"author":"","bib":"","title":"Probabilistic Regression for Visual Tracking.","url":""}
+{"author":"","bib":"","title":"3DRegNet: A Deep Neural Network for 3D Point Registration.","url":""}
+{"author":"","bib":"","title":"Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Three-Dimensional Reconstruction of Human Interactions.","url":""}
+{"author":"","bib":"","title":"Distribution-Induced Bidirectional Generative Adversarial Network for Graph Representation Learning.","url":""}
+{"author":"","bib":"","title":"Minimal Solvers for 3D Scan Alignment With Pairs of Intersecting Lines.","url":""}
+{"author":"","bib":"","title":"Wavelet Integrated CNNs for Noise-Robust Image Classification.","url":""}
+{"author":"","bib":"","title":"Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning.","url":""}
+{"author":"","bib":"","title":"PropagationNet: Propagate Points to Curve to Learn Structure Information.","url":""}
+{"author":"","bib":"","title":"Sequential 3D Human Pose and Shape Estimation From Point Clouds.","url":""}
+{"author":"","bib":"","title":"Improving the Robustness of Capsule Networks to Image Affine Transformations.","url":""}
+{"author":"","bib":"","title":"Noise Modeling, Synthesis and Classification for Generic Object Anti-Spoofing.","url":""}
+{"author":"","bib":"","title":"Quaternion Product Units for Deep Learning on 3D Rotation Groups.","url":""}
+{"author":"","bib":"","title":"Unsupervised Representation Learning for Gaze Estimation.","url":""}
+{"author":"","bib":"","title":"P-nets: Deep Polynomial Neural Networks.","url":""}
+{"author":"","bib":"","title":"Hierarchically Robust Representation Learning.","url":""}
+{"author":"","bib":"","title":"How Useful Is Self-Supervised Pretraining for Visual Tasks?","url":""}
+{"author":"","bib":"","title":"Copy and Paste GAN: Face Hallucination From Shaded Thumbnails.","url":""}
+{"author":"","bib":"","title":"TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.","url":""}
+{"author":"","bib":"","title":"Object-Occluded Human Shape and Pose Estimation From a Single Color Image.","url":""}
+{"author":"","bib":"","title":"Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Monocular Scene Flow Estimation.","url":""}
+{"author":"","bib":"","title":"Learning Fast and Robust Target Models for Video Object Segmentation.","url":""}
+{"author":"","bib":"","title":"Reciprocal Learning Networks for Human Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"Nonparametric Object and Parts Modeling With Lie Group Dynamics.","url":""}
+{"author":"","bib":"","title":"Learning to Shadow Hand-Drawn Sketches.","url":""}
+{"author":"","bib":"","title":"Intuitive, Interactive Beard and Hair Synthesis With Generative Models.","url":""}
+{"author":"","bib":"","title":"Semantic Pyramid for Image Generation.","url":""}
+{"author":"","bib":"","title":"SynSin: End-to-End View Synthesis From a Single Image.","url":""}
+{"author":"","bib":"","title":"A Characteristic Function Approach to Deep Implicit Generative Modeling.","url":""}
+{"author":"","bib":"","title":"High-Resolution Daytime Translation Without Domain Labels.","url":""}
+{"author":"","bib":"","title":"Leveraging 2D Data to Learn Textured 3D Mesh Generation.","url":""}
+{"author":"","bib":"","title":"Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting.","url":""}
+{"author":"","bib":"","title":"Flow Contrastive Estimation of Energy-Based Models.","url":""}
+{"author":"","bib":"","title":"Hardware-in-the-Loop End-to-End Optimization of Camera Image Processing Pipelines.","url":""}
+{"author":"","bib":"","title":"Search to Distill: Pearls Are Everywhere but Not the Eyes.","url":""}
+{"author":"","bib":"","title":"Total Deep Variation for Linear Inverse Problems.","url":""}
+{"author":"","bib":"","title":"Relative Interior Rule in Block-Coordinate Descent.","url":""}
+{"author":"","bib":"","title":"Learning Combinatorial Solver for Graph Matching.","url":""}
+{"author":"","bib":"","title":"SampleNet: Differentiable Point Cloud Sampling.","url":""}
+{"author":"","bib":"","title":"Can We Learn Heuristics for Graphical Model Inference Using Reinforcement Learning?","url":""}
+{"author":"","bib":"","title":"Quasi-Newton Solver for Robust Non-Rigid Registration.","url":""}
+{"author":"","bib":"","title":"Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition From a Domain Adaptation Perspective.","url":""}
+{"author":"","bib":"","title":"Optimizing Rank-Based Metrics With Blackbox Differentiation.","url":""}
+{"author":"","bib":"","title":"DualSDF: Semantic Shape Manipulation Using a Two-Level Representation.","url":""}
+{"author":"","bib":"","title":"Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives.","url":""}
+{"author":"","bib":"","title":"Deep Homography Estimation for Dynamic Scenes.","url":""}
+{"author":"","bib":"","title":"PF-Net: Point Fractal Network for 3D Point Cloud Completion.","url":""}
+{"author":"","bib":"","title":"On the Regularization Properties of Structured Dropout.","url":""}
+{"author":"","bib":"","title":"Learning Oracle Attention for High-Fidelity Face Completion.","url":""}
+{"author":"","bib":"","title":"Deep Image Spatial Transformation for Person Image Generation.","url":""}
+{"author":"","bib":"","title":"Learning to Optimize on SPD Manifolds.","url":""}
+{"author":"","bib":"","title":"Deep 3D Portrait From a Single Image.","url":""}
+{"author":"","bib":"","title":"RDCFace: Radial Distortion Correction for Face Recognition.","url":""}
+{"author":"","bib":"","title":"Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition.","url":""}
+{"author":"","bib":"","title":"MISC: Multi-Condition Injection and Spatially-Adaptive Compositing for Conditional Person Image Synthesis.","url":""}
+{"author":"","bib":"","title":"SAINT: Spatially Aware Interpolation NeTwork for Medical Slice Synthesis.","url":""}
+{"author":"","bib":"","title":"Recurrent Feature Reasoning for Image Inpainting.","url":""}
+{"author":"","bib":"","title":"Structure-Preserving Super Resolution With Gradient Guidance.","url":""}
+{"author":"","bib":"","title":"Epipolar Transformers.","url":""}
+{"author":"","bib":"","title":"Diversified Arbitrary Style Transfer via Deep Feature Perturbation.","url":""}
+{"author":"","bib":"","title":"MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"Overcoming Multi-Model Forgetting in One-Shot NAS With Diversity Maximization.","url":""}
+{"author":"","bib":"","title":"Select to Better Learn: Fast and Accurate Deep Learning Using Data Selection From Nonlinear Manifolds.","url":""}
+{"author":"","bib":"","title":"Neural Point Cloud Rendering via Multi-Plane Projection.","url":""}
+{"author":"","bib":"","title":"Wish You Were Here: Context-Aware Human Generation.","url":""}
+{"author":"","bib":"","title":"Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content.","url":""}
+{"author":"","bib":"","title":"Breaking the Cycle - Colleagues Are All You Need.","url":""}
+{"author":"","bib":"","title":"Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.","url":""}
+{"author":"","bib":"","title":"ManiGAN: Text-Guided Image Manipulation.","url":""}
+{"author":"","bib":"","title":"Watch Your Up-Convolution: CNN Based Generative Deep Neural Networks Are Failing to Reproduce Spectral Distributions.","url":""}
+{"author":"","bib":"","title":"Belief Propagation Reloaded: Learning BP-Layers for Labeling Problems.","url":""}
+{"author":"","bib":"","title":"Barycenters of Natural Images - Constrained Wasserstein Barycenters for Image Morphing.","url":""}
+{"author":"","bib":"","title":"Guided Variational Autoencoder for Disentanglement Learning.","url":""}
+{"author":"","bib":"","title":"Cross-Spectral Face Hallucination via Disentangling Independent Factors.","url":""}
+{"author":"","bib":"","title":"Learned Image Compression With Discretized Gaussian Mixture Likelihoods and Attention Modules.","url":""}
+{"author":"","bib":"","title":"C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds.","url":""}
+{"author":"","bib":"","title":"Cogradient Descent for Bilinear Optimization.","url":""}
+{"author":"","bib":"","title":"Instance-Aware Image Colorization.","url":""}
+{"author":"","bib":"","title":"Joint Training of Variational Auto-Encoder and Latent Energy-Based Model.","url":""}
+{"author":"","bib":"","title":"Adaptive Loss-Aware Quantization for Multi-Bit Networks.","url":""}
+{"author":"","bib":"","title":"ScopeFlow: Dynamic Scene Scoping for Optical Flow.","url":""}
+{"author":"","bib":"","title":"Video Super-Resolution With Temporal Group Attention.","url":""}
+{"author":"","bib":"","title":"Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression.","url":""}
+{"author":"","bib":"","title":"3D Photography Using Context-Aware Layered Depth Inpainting.","url":""}
+{"author":"","bib":"","title":"MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation.","url":""}
+{"author":"","bib":"","title":"Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer.","url":""}
+{"author":"","bib":"","title":"Global Texture Enhancement for Fake Face Detection in the Wild.","url":""}
+{"author":"","bib":"","title":"Panoptic-Based Image Synthesis.","url":""}
+{"author":"","bib":"","title":"Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination.","url":""}
+{"author":"","bib":"","title":"Learning to Cartoonize Using White-Box Cartoon Representations.","url":""}
+{"author":"","bib":"","title":"End-to-End Learnable Geometric Vision by Backpropagating PnP Optimization.","url":""}
+{"author":"","bib":"","title":"Analyzing and Improving the Image Quality of StyleGAN.","url":""}
+{"author":"","bib":"","title":"Fashion Editing With Adversarial Parsing Learning.","url":""}
+{"author":"","bib":"","title":"Augment Your Batch: Improving Generalization Through Instance Repetition.","url":""}
+{"author":"","bib":"","title":"ARShadowGAN: Shadow Generative Adversarial Network for Augmented Reality in Single Light Scenes.","url":""}
+{"author":"","bib":"","title":"An End-to-End Edge Aggregation Network for Moving Object Segmentation.","url":""}
+{"author":"","bib":"","title":"Learning Video Stabilization Using Optical Flow.","url":""}
+{"author":"","bib":"","title":"Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"Robust Design of Deep Neural Networks Against Adversarial Attacks Based on Lyapunov Theory.","url":""}
+{"author":"","bib":"","title":"StarGAN v2: Diverse Image Synthesis for Multiple Domains.","url":""}
+{"author":"","bib":"","title":"Warping Residual Based Image Stitching for Large Parallax.","url":""}
+{"author":"","bib":"","title":"A U-Net Based Discriminator for Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"Unpaired Portrait Drawing Generation via Asymmetric Cycle Mapping.","url":""}
+{"author":"","bib":"","title":"When to Use Convolutional Neural Networks for Inverse Problems.","url":""}
+{"author":"","bib":"","title":"LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood.","url":""}
+{"author":"","bib":"","title":"Affinity Graph Supervision for Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Unsupervised Magnification of Posture Deviations Across Subjects.","url":""}
+{"author":"","bib":"","title":"Accurate Estimation of Body Height From a Single Depth Image via a Four-Stage Developing Network.","url":""}
+{"author":"","bib":"","title":"Fast Soft Color Segmentation.","url":""}
+{"author":"","bib":"","title":"Global Optimality for Point Set Registration Using Semidefinite Programming.","url":""}
+{"author":"","bib":"","title":"Image2StyleGAN++: How to Edit the Embedded Images?","url":""}
+{"author":"","bib":"","title":"SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking.","url":""}
+{"author":"","bib":"","title":"EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning.","url":""}
+{"author":"","bib":"","title":"Hierarchical Pyramid Diverse Attention Networks for Face Recognition.","url":""}
+{"author":"","bib":"","title":"RGBD-Dog: Predicting Canine Pose from RGBD Sensors.","url":""}
+{"author":"","bib":"","title":"Multi-Scale Progressive Fusion Network for Single Image Deraining.","url":""}
+{"author":"","bib":"","title":"Learning a Neural 3D Texture Space From 2D Exemplars.","url":""}
+{"author":"","bib":"","title":"BachGAN: High-Resolution Image Synthesis From Salient Object Layout.","url":""}
+{"author":"","bib":"","title":"Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.","url":""}
+{"author":"","bib":"","title":"On Positive-Unlabeled Classification in GAN.","url":""}
+{"author":"","bib":"","title":"DoveNet: Deep Image Harmonization via Domain Verification.","url":""}
+{"author":"","bib":"","title":"Noise Robust Generative Adversarial Networks.","url":""}
+{"author":"","bib":"","title":"Normalizing Flows With Multi-Scale Autoregressive Priors.","url":""}
+{"author":"","bib":"","title":"Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution.","url":""}
+{"author":"","bib":"","title":"Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings.","url":""}
+{"author":"","bib":"","title":"GeoDA: A Geometric Framework for Black-Box Adversarial Attacks.","url":""}
+{"author":"","bib":"","title":"GAMIN: Generative Adversarial Multiple Imputation Network for Highly Missing Data.","url":""}
+{"author":"","bib":"","title":"An Internal Covariate Shift Bounding Algorithm for Deep Neural Networks by Unitizing Layers' Outputs.","url":""}
+{"author":"","bib":"","title":"A Unified Optimization Framework for Low-Rank Inducing Penalties.","url":""}
+{"author":"","bib":"","title":"Single-Side Domain Generalization for Face Anti-Spoofing.","url":""}
+{"author":"","bib":"","title":"The Knowledge Within: Methods for Data-Free Model Compression.","url":""}
+{"author":"","bib":"","title":"Scale-Space Flow for End-to-End Optimized Video Compression.","url":""}
+{"author":"","bib":"","title":"Dynamic Neural Relational Inference.","url":""}
+{"author":"","bib":"","title":"Real-Time Panoptic Segmentation From Dense Detections.","url":""}
+{"author":"","bib":"","title":"Deep Snake for Real-Time Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"AdaCoSeg: Adaptive Shape Co-Segmentation With Group Consistency Loss.","url":""}
+{"author":"","bib":"","title":"Learning Dynamic Routing for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Boosting Semantic Human Matting With Coarse Annotations.","url":""}
+{"author":"","bib":"","title":"BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders.","url":""}
+{"author":"","bib":"","title":"Deep Geometric Functional Maps: Robust Feature Learning for Shape Correspondence.","url":""}
+{"author":"","bib":"","title":"Deep Polarization Cues for Transparent Object Segmentation.","url":""}
+{"author":"","bib":"","title":"DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes.","url":""}
+{"author":"","bib":"","title":"F-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation.","url":""}
+{"author":"","bib":"","title":"Approximating shapes in images with low-complexity polygons.","url":""}
+{"author":"","bib":"","title":"Towards Visually Explaining Variational Autoencoders.","url":""}
+{"author":"","bib":"","title":"Towards Global Explanations of Convolutional Neural Networks With Concept Attribution.","url":""}
+{"author":"","bib":"","title":"Interpretable and Accurate Fine-grained Recognition via Region Grouping.","url":""}
+{"author":"","bib":"","title":"SAM: The Sensitivity of Attribution Methods to Hyperparameters.","url":""}
+{"author":"","bib":"","title":"High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"CNN-Generated Images Are Surprisingly Easy to Spot... for Now.","url":""}
+{"author":"","bib":"","title":"FALCON: A Fourier Transform Based Approach for Fast and Secure Convolutional Neural Network Predictions.","url":""}
+{"author":"","bib":"","title":"Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion.","url":""}
+{"author":"","bib":"","title":"Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering.","url":""}
+{"author":"","bib":"","title":"HyperSTAR: Task-Aware Hyperparameters for Deep Networks.","url":""}
+{"author":"","bib":"","title":"ActBERT: Learning Global-Local Video-Text Representations.","url":""}
+{"author":"","bib":"","title":"State-Relabeling Adversarial Active Learning.","url":""}
+{"author":"","bib":"","title":"Erasing Integrated Learning: A Simple Yet Effective Approach for Weakly Supervised Object Localization.","url":""}
+{"author":"","bib":"","title":"A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Learning of Interpretable Keypoints From Unlabelled Videos.","url":""}
+{"author":"","bib":"","title":"Few-Shot Open-Set Recognition Using Meta-Learning.","url":""}
+{"author":"","bib":"","title":"Few-Shot Learning via Embedding Adaptation With Set-to-Set Functions.","url":""}
+{"author":"","bib":"","title":"Temporally Distributed Networks for Fast Video Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Benchmarking the Robustness of Semantic Segmentation Models.","url":""}
+{"author":"","bib":"","title":"There and Back Again: Revisiting Backpropagation Saliency Methods.","url":""}
+{"author":"","bib":"","title":"Deep Semantic Clustering by Partition Confidence Maximisation.","url":""}
+{"author":"","bib":"","title":"StructEdit: Learning Structural Shape Variations.","url":""}
+{"author":"","bib":"","title":"Harmonizing Transferability and Discriminability for Adapting Object Detectors.","url":""}
+{"author":"","bib":"","title":"Fast Video Object Segmentation With Temporal Aggregation Network and Dynamic Template Matching.","url":""}
+{"author":"","bib":"","title":"CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement.","url":""}
+{"author":"","bib":"","title":"Correlating Edge, Pose With Parsing.","url":""}
+{"author":"","bib":"","title":"VecRoad: Point-Based Iterative Graph Exploration for Road Graphs Extraction.","url":""}
+{"author":"","bib":"","title":"Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation.","url":""}
+{"author":"","bib":"","title":"Hierarchical Human Parsing With Typed Part-Relation Reasoning.","url":""}
+{"author":"","bib":"","title":"Compositional Convolutional Neural Networks: A Deep Architecture With Innate Robustness to Partial Occlusion.","url":""}
+{"author":"","bib":"","title":"Spatial Pyramid Based Graph Reasoning for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Learning Video Object Segmentation From Unlabeled Videos.","url":""}
+{"author":"","bib":"","title":"Part-Aware Context Network for Human Parsing.","url":""}
+{"author":"","bib":"","title":"SCOUT: Self-Aware Discriminant Counterfactual Explanations.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised Semantic Segmentation via Sub-Category Exploration.","url":""}
+{"author":"","bib":"","title":"Continual Learning With Extended Kronecker-Factored Approximate Curvature.","url":""}
+{"author":"","bib":"","title":"Phase Consistent Ecological Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"3D-MPA: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Deep Active Learning for Biased Datasets via Fisher Kernel Self-Supervision.","url":""}
+{"author":"","bib":"","title":"Adaptive Graph Convolutional Network With Attention Graph Clustering for Co-Saliency Detection.","url":""}
+{"author":"","bib":"","title":"A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection.","url":""}
+{"author":"","bib":"","title":"Deep Fair Clustering for Visual Learning.","url":""}
+{"author":"","bib":"","title":"Bidirectional Graph Reasoning Network for Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Exploit Clues From Views: Self-Supervised and Regularized Learning for Multiview Object Recognition.","url":""}
+{"author":"","bib":"","title":"Spherical Space Domain Adaptation With Robust Pseudo-Label Loss.","url":""}
+{"author":"","bib":"","title":"Stochastic Classifiers for Unsupervised Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Unsupervised Learning of Intrinsic Structural Representation Points.","url":""}
+{"author":"","bib":"","title":"PolyTransform: Deep Polygon Transformer for Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection.","url":""}
+{"author":"","bib":"","title":"Towards Better Generalization: Joint Depth-Pose Learning Without PoseNet.","url":""}
+{"author":"","bib":"","title":"LT-Net: Label Transfer by Learning Reversible Voxel-Wise Correspondence for One-Shot Medical Image Segmentation.","url":""}
+{"author":"","bib":"","title":"FGN: Fully Guided Network for Few-Shot Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"A Quantum Computational Approach to Correspondence Problems on Point Sets.","url":""}
+{"author":"","bib":"","title":"Data-Efficient Semi-Supervised Learning by Reliable Edge Mining.","url":""}
+{"author":"","bib":"","title":"NestedVAE: Isolating Common Factors via Weak Supervision.","url":""}
+{"author":"","bib":"","title":"Progressive Adversarial Networks for Fine-Grained Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"A Disentangling Invertible Interpretation Network for Explaining Latent Representations.","url":""}
+{"author":"","bib":"","title":"Modeling the Background for Incremental Learning in Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Interpreting the Latent Space of GANs for Semantic Face Editing.","url":""}
+{"author":"","bib":"","title":"Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation.","url":""}
+{"author":"","bib":"","title":"Self-Learning With Rectification Strategy for Human Parsing.","url":""}
+{"author":"","bib":"","title":"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition.","url":""}
+{"author":"","bib":"","title":"Sequential Mastery of Multiple Visual Tasks: Networks Naturally Learn to Learn and Forget to Forget.","url":""}
+{"author":"","bib":"","title":"Distilling Effective Supervision From Severe Label Noise.","url":""}
+{"author":"","bib":"","title":"Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks.","url":""}
+{"author":"","bib":"","title":"CenterMask: Single Shot Instance Segmentation With Point Representation.","url":""}
+{"author":"","bib":"","title":"Mitigating Bias in Face Recognition Using Skewness-Aware Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images.","url":""}
+{"author":"","bib":"","title":"DLWL: Improving Detection for Lowshot Classes With Weakly Labelled Data.","url":""}
+{"author":"","bib":"","title":"Unsupervised Deep Shape Descriptor With Point Distribution Learning.","url":""}
+{"author":"","bib":"","title":"Stylization-Based Architecture for Fast Deep Exemplar Colorization.","url":""}
+{"author":"","bib":"","title":"Cars Can't Fly Up in the Sky: Improving Urban-Scene Segmentation via Height-Driven Attention Networks.","url":""}
+{"author":"","bib":"","title":"State-Aware Tracker for Real-Time Video Object Segmentation.","url":""}
+{"author":"","bib":"","title":"Iteratively-Refined Interactive 3D Medical Image Segmentation With Multi-Agent Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Multi-Scale Interactive Network for Salient Object Detection.","url":""}
+{"author":"","bib":"","title":"Interactive Multi-Label CNN Learning With Partial Labels.","url":""}
+{"author":"","bib":"","title":"ViewAL: Active Learning With Viewpoint Entropy for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Scene-Adaptive Video Frame Interpolation via Meta-Learning.","url":""}
+{"author":"","bib":"","title":"Action Segmentation With Joint Self-Supervised Temporal Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Pixel Consensus Voting for Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Minimizing Discrete Total Curvature for Image Processing.","url":""}
+{"author":"","bib":"","title":"Towards Robust Image Classification Using Sequential Attention Models.","url":""}
+{"author":"","bib":"","title":"Discovering Synchronized Subsets of Sequences: A Large Scale Solution.","url":""}
+{"author":"","bib":"","title":"Going Deeper With Lean Point Networks.","url":""}
+{"author":"","bib":"","title":"Efficient and Robust Shape Correspondence via Sparsity-Enforced Quadratic Assignment.","url":""}
+{"author":"","bib":"","title":"Explainable Object-Induced Action Decision for Autonomous Vehicles.","url":""}
+{"author":"","bib":"","title":"Spatially Attentive Output Layer for Image Classification.","url":""}
+{"author":"","bib":"","title":"Attack to Explain Deep Representation.","url":""}
+{"author":"","bib":"","title":"Computing Valid P-Values for Image Segmentation by Selective Inference.","url":""}
+{"author":"","bib":"","title":"Unsupervised Learning From Video With Deep Neural Embeddings.","url":""}
+{"author":"","bib":"","title":"Partial Weight Adaptation for Robust DNN Inference.","url":""}
+{"author":"","bib":"","title":"Probability Weighted Compact Feature for Domain Adaptive Retrieval.","url":""}
+{"author":"","bib":"","title":"Where Does It End? - Reasoning About Hidden Surfaces by Object Intersection Constraints.","url":""}
+{"author":"","bib":"","title":"PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Pathological Retinal Region Segmentation From OCT Images Using Geometric Relation Based Augmentation.","url":""}
+{"author":"","bib":"","title":"Transferring and Regularizing Prediction for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition.","url":""}
+{"author":"","bib":"","title":"Model Adaptation: Unsupervised Domain Adaptation Without Source Data.","url":""}
+{"author":"","bib":"","title":"Evade Deep Image Retrieval by Stashing Private Images in the Hash Space.","url":""}
+{"author":"","bib":"","title":"Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules.","url":""}
+{"author":"","bib":"","title":"ProAlignNet: Unsupervised Learning for Progressively Aligning Noisy Contours.","url":""}
+{"author":"","bib":"","title":"Attribution in Scale and Space.","url":""}
+{"author":"","bib":"","title":"Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing.","url":""}
+{"author":"","bib":"","title":"Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection.","url":""}
+{"author":"","bib":"","title":"Large-Scale Object Detection in the Wild From Imbalanced Multi-Labels.","url":""}
+{"author":"","bib":"","title":"BBN: Bilateral-Branch Network With Cumulative Learning for Long-Tailed Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Momentum Contrast for Unsupervised Visual Representation Learning.","url":""}
+{"author":"","bib":"","title":"Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Fine-Grained Image Classification via Guassian Mixture Model Oriented Discriminative Learning.","url":""}
+{"author":"","bib":"","title":"Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Selection.","url":""}
+{"author":"","bib":"","title":"Learning User Representations for Open Vocabulary Image Hashtag Prediction.","url":""}
+{"author":"","bib":"","title":"Sketch Less for More: On-the-Fly Fine-Grained Sketch-Based Image Retrieval.","url":""}
+{"author":"","bib":"","title":"Few-Shot Pill Recognition.","url":""}
+{"author":"","bib":"","title":"PointRend: Image Segmentation As Rendering.","url":""}
+{"author":"","bib":"","title":"ABCNet: Real-Time Scene Text Spotting With Adaptive Bezier-Curve Network.","url":""}
+{"author":"","bib":"","title":"Learning Temporal Co-Attention Models for Unsupervised Video Action Localization.","url":""}
+{"author":"","bib":"","title":"Spatiotemporal Fusion in 3D CNNs: A Probabilistic View.","url":""}
+{"author":"","bib":"","title":"Uncertainty-Aware Score Distribution Learning for Action Quality Assessment.","url":""}
+{"author":"","bib":"","title":"Learning Interactions and Relationships Between Movie Characters.","url":""}
+{"author":"","bib":"","title":"Video Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Understanding Human Hands in Contact at Internet Scale.","url":""}
+{"author":"","bib":"","title":"End-to-End Learning of Visual Representations From Uncurated Instructional Videos.","url":""}
+{"author":"","bib":"","title":"You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions.","url":""}
+{"author":"","bib":"","title":"Learning a Weakly-Supervised Video Actor-Action Segmentation Model With a Wise Selection.","url":""}
+{"author":"","bib":"","title":"Learning to Measure the Static Friction Coefficient in Cloth Contact.","url":""}
+{"author":"","bib":"","title":"SpeedNet: Learning the Speediness in Videos.","url":""}
+{"author":"","bib":"","title":"Telling Left From Right: Learning Spatial Correspondence of Sight and Sound.","url":""}
+{"author":"","bib":"","title":"Visual-Textual Capsule Routing for Text-Based Video Segmentation.","url":""}
+{"author":"","bib":"","title":"Graph-Structured Referring Expression Reasoning in the Wild.","url":""}
+{"author":"","bib":"","title":"Say As You Wish: Fine-Grained Control of Image Caption Generation With Abstract Scene Graphs.","url":""}
+{"author":"","bib":"","title":"Hierarchical Conditional Relation Networks for Video Question Answering.","url":""}
+{"author":"","bib":"","title":"REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments.","url":""}
+{"author":"","bib":"","title":"Iterative Answer Prediction With Pointer-Augmented Multimodal Transformers for TextVQA.","url":""}
+{"author":"","bib":"","title":"SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions.","url":""}
+{"author":"","bib":"","title":"Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks.","url":""}
+{"author":"","bib":"","title":"Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation.","url":""}
+{"author":"","bib":"","title":"Multi-Task Collaborative Network for Joint Referring Expression Comprehension and Segmentation.","url":""}
+{"author":"","bib":"","title":"Counterfactual Vision and Language Learning.","url":""}
+{"author":"","bib":"","title":"Iterative Context-Aware Graph Inference for Visual Dialog.","url":""}
+{"author":"","bib":"","title":"TA-Student VQA: Multi-Agents Training by Self-Questioning.","url":""}
+{"author":"","bib":"","title":"Exploring Self-Attention for Image Recognition.","url":""}
+{"author":"","bib":"","title":"Cops-Ref: A New Dataset and Task on Compositional Referring Expression Comprehension.","url":""}
+{"author":"","bib":"","title":"Improving Convolutional Networks With Self-Calibrated Convolutions.","url":""}
+{"author":"","bib":"","title":"Modality Shifting Attention Network for Multi-Modal Video Question Answering.","url":""}
+{"author":"","bib":"","title":"Learning to Structure an Image With Few Colors.","url":""}
+{"author":"","bib":"","title":"On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering.","url":""}
+{"author":"","bib":"","title":"From Paris to Berlin: Discovering Fashion Style Influences Around the World.","url":""}
+{"author":"","bib":"","title":"A Local-to-Global Approach to Multi-Modal Movie Scene Segmentation.","url":""}
+{"author":"","bib":"","title":"G-TAD: Sub-Graph Localization for Temporal Action Detection.","url":""}
+{"author":"","bib":"","title":"Detailed 2D-3D Joint Representation for Human-Object Interaction.","url":""}
+{"author":"","bib":"","title":"One-Shot Adversarial Attacks on Visual Tracking With Dual Attention.","url":""}
+{"author":"","bib":"","title":"Rethinking Classification and Localization for Object Detection.","url":""}
+{"author":"","bib":"","title":"Correspondence Networks With Adaptive Neighbourhood Consensus.","url":""}
+{"author":"","bib":"","title":"Multiple Anchor Learning for Visual Object Detection.","url":""}
+{"author":"","bib":"","title":"PhraseCut: Language-Based Image Segmentation in the Wild.","url":""}
+{"author":"","bib":"","title":"Mask Encoding for Single Shot Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Action Genome: Actions As Compositions of Spatio-Temporal Scene Graphs.","url":""}
+{"author":"","bib":"","title":"Learning Unseen Concepts via Hierarchical Decomposition and Composition.","url":""}
+{"author":"","bib":"","title":"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"In Defense of Grid Features for Visual Question Answering.","url":""}
+{"author":"","bib":"","title":"Multi-Mutual Consistency Induced Transfer Subspace Learning for Human Motion Segmentation.","url":""}
+{"author":"","bib":"","title":"Dense Regression Network for Video Grounding.","url":""}
+{"author":"","bib":"","title":"Neural Architecture Search for Lightweight Non-Local Networks.","url":""}
+{"author":"","bib":"","title":"Learning Saliency Propagation for Semi-Supervised Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Speech2Action: Cross-Modal Supervision for Action Recognition.","url":""}
+{"author":"","bib":"","title":"Normalized and Geometry-Aware Self-Attention Network for Image Captioning.","url":""}
+{"author":"","bib":"","title":"Memory Enhanced Global-Local Aggregation for Video Object Detection.","url":""}
+{"author":"","bib":"","title":"Solving Mixed-Modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval.","url":""}
+{"author":"","bib":"","title":"LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks.","url":""}
+{"author":"","bib":"","title":"Memory Aggregation Networks for Efficient Interactive Video Object Segmentation.","url":""}
+{"author":"","bib":"","title":"VQA With No Questions-Answers Training.","url":""}
+{"author":"","bib":"","title":"Counting Out Time: Class Agnostic Video Repetition Counting in the Wild.","url":""}
+{"author":"","bib":"","title":"SaccadeNet: A Fast and Accurate Object Detector.","url":""}
+{"author":"","bib":"","title":"Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-Based Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Video Object Grounding Using Semantic Roles in Language Description.","url":""}
+{"author":"","bib":"","title":"Designing Network Design Spaces.","url":""}
+{"author":"","bib":"","title":"12-in-1: Multi-Task Vision and Language Representation Learning.","url":""}
+{"author":"","bib":"","title":"MLCVNet: Multi-Level Context VoteNet for 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Listen to Look: Action Recognition by Previewing Audio.","url":""}
+{"author":"","bib":"","title":"Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization.","url":""}
+{"author":"","bib":"","title":"Music Gesture for Visual Sound Separation.","url":""}
+{"author":"","bib":"","title":"Referring Image Segmentation via Cross-Modal Progressive Comprehension.","url":""}
+{"author":"","bib":"","title":"Cloth in the Wind: A Case Study of Physical Measurement Through Simulation.","url":""}
+{"author":"","bib":"","title":"The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"CentripetalNet: Pursuing High-Quality Keypoint Pairs for Object Detection.","url":""}
+{"author":"","bib":"","title":"PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Graph Embedded Pose Clustering for Anomaly Detection.","url":""}
+{"author":"","bib":"","title":"Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation.","url":""}
+{"author":"","bib":"","title":"Deepstrip: High-Resolution Boundary Refinement.","url":""}
+{"author":"","bib":"","title":"Smoothing Adversarial Domain Attack and P-Memory Reconsolidation for Cross-Domain Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Meshed-Memory Transformer for Image Captioning.","url":""}
+{"author":"","bib":"","title":"Learning From Noisy Anchors for One-Stage Object Detection.","url":""}
+{"author":"","bib":"","title":"Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection.","url":""}
+{"author":"","bib":"","title":"Density-Based Clustering for 3D Object Detection in Point Clouds.","url":""}
+{"author":"","bib":"","title":"Few-Shot Video Classification via Temporal Alignment.","url":""}
+{"author":"","bib":"","title":"Densely Connected Search Space for More Flexible Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Fine-Grained Video-Text Retrieval With Hierarchical Graph Reasoning.","url":""}
+{"author":"","bib":"","title":"Warp to the Future: Joint Forecasting of Features and Feature Motion.","url":""}
+{"author":"","bib":"","title":"Network Adjustment: Channel Search Guided by FLOPs Utilization Ratio.","url":""}
+{"author":"","bib":"","title":"Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences.","url":""}
+{"author":"","bib":"","title":"Cross-Modal Cross-Domain Moment Alignment Network for Person Search.","url":""}
+{"author":"","bib":"","title":"Self-Training With Noisy Student Improves ImageNet Classification.","url":""}
+{"author":"","bib":"","title":"Learning Longterm Representations for Person Re-Identification Using Radio Signals.","url":""}
+{"author":"","bib":"","title":"LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Learning Instance Occlusion for Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Vision-Dialog Navigation by Exploring Cross-Modal Memory.","url":""}
+{"author":"","bib":"","title":"ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.","url":""}
+{"author":"","bib":"","title":"NMS by Representative Region: Towards Crowded Pedestrian Detection by Proposal Pairing.","url":""}
+{"author":"","bib":"","title":"Visual Commonsense R-CNN.","url":""}
+{"author":"","bib":"","title":"What Deep CNNs Benefit From Global Covariance Pooling: An Optimization Perspective.","url":""}
+{"author":"","bib":"","title":"EfficientDet: Scalable and Efficient Object Detection.","url":""}
+{"author":"","bib":"","title":"Fast Template Matching and Update for Video Object Tracking and Segmentation.","url":""}
+{"author":"","bib":"","title":"Counterfactual Samples Synthesizing for Robust Visual Question Answering.","url":""}
+{"author":"","bib":"","title":"Local-Global Video-Text Interactions for Temporal Grounding.","url":""}
+{"author":"","bib":"","title":"Set-Constrained Viterbi for Set-Supervised Action Segmentation.","url":""}
+{"author":"","bib":"","title":"Probabilistic Video Prediction From Noisy Data With a Posterior Confidence.","url":""}
+{"author":"","bib":"","title":"Beyond Short-Term Snippet: Video Relation Detection With Spatio-Temporal Global Context.","url":""}
+{"author":"","bib":"","title":"Visual Grounding in Video for Unsupervised Word Translation.","url":""}
+{"author":"","bib":"","title":"Two Causal Principles for Improving Visual Dialog.","url":""}
+{"author":"","bib":"","title":"Spatio-Temporal Graph for Video Captioning With Knowledge Distillation.","url":""}
+{"author":"","bib":"","title":"A Real-Time Cross-Modality Correlation Filtering Method for Referring Expression Comprehension.","url":""}
+{"author":"","bib":"","title":"Better Captioning With Sequence-Level Exploration.","url":""}
+{"author":"","bib":"","title":"Violin: A Large-Scale Dataset for Video-and-Language Inference.","url":""}
+{"author":"","bib":"","title":"RiFeGAN: Rich Feature Generation for Text-to-Image Synthesis From Prior Knowledge.","url":""}
+{"author":"","bib":"","title":"Graph Structured Network for Image-Text Matching.","url":""}
+{"author":"","bib":"","title":"Straight to the Point: Fast-Forwarding Videos via Reinforcement Learning Using Textual Data.","url":""}
+{"author":"","bib":"","title":"Multi-Modality Cross Attention Network for Image and Sentence Matching.","url":""}
+{"author":"","bib":"","title":"Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data.","url":""}
+{"author":"","bib":"","title":"Learning Augmentation Network via Influence Functions.","url":""}
+{"author":"","bib":"","title":"X-Linear Attention Networks for Image Captioning.","url":""}
+{"author":"","bib":"","title":"Unsupervised Person Re-Identification via Multi-Label Classification.","url":""}
+{"author":"","bib":"","title":"Overcoming Classifier Imbalance for Long-Tail Object Detection With Balanced Group Softmax.","url":""}
+{"author":"","bib":"","title":"What You See is What You Get: Exploiting Visibility for 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Deep Structure-Revealed Network for Texture Recognition.","url":""}
+{"author":"","bib":"","title":"Online Knowledge Distillation via Collaborative Learning.","url":""}
+{"author":"","bib":"","title":"Dynamic Convolution: Attention Over Convolution Kernels.","url":""}
+{"author":"","bib":"","title":"3DSSD: Point-Based 3D Single Stage Object Detector.","url":""}
+{"author":"","bib":"","title":"Deep Degradation Prior for Low-Quality Image Classification.","url":""}
+{"author":"","bib":"","title":"ViBE: Dressing for Diverse Body Shapes.","url":""}
+{"author":"","bib":"","title":"Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias.","url":""}
+{"author":"","bib":"","title":"SESS: Self-Ensembling Semi-Supervised 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Combining Detection and Tracking for Human Pose Estimation in Videos.","url":""}
+{"author":"","bib":"","title":"SAPIEN: A SimulAted Part-Based Interactive ENvironment.","url":""}
+{"author":"","bib":"","title":"RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds.","url":""}
+{"author":"","bib":"","title":"SurfelGAN: Synthesizing Realistic Sensor Data for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"A Programmatic and Semantic Approach to Explaining and Debugging Neural Network Based Object Detectors.","url":""}
+{"author":"","bib":"","title":"Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks.","url":""}
+{"author":"","bib":"","title":"Efficient Derivative Computation for Cumulative B-Splines on Lie Groups.","url":""}
+{"author":"","bib":"","title":"RL-CycleGAN: Reinforcement Learning Aware Simulation-to-Real.","url":""}
+{"author":"","bib":"","title":"LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World.","url":""}
+{"author":"","bib":"","title":"Just Go With the Flow: Self-Supervised Scene Flow Estimation.","url":""}
+{"author":"","bib":"","title":"TITAN: Future Forecast Using Action Priors.","url":""}
+{"author":"","bib":"","title":"Robust Learning Through Cross-Task Consistency.","url":""}
+{"author":"","bib":"","title":"Dynamic Refinement Network for Oriented and Densely Packed Object Detection.","url":""}
+{"author":"","bib":"","title":"AOWS: Adaptive and Optimal Network Width Search With Latency Constraints.","url":""}
+{"author":"","bib":"","title":"High-Dimensional Convolutional Networks for Geometric Pattern Recognition.","url":""}
+{"author":"","bib":"","title":"Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks.","url":""}
+{"author":"","bib":"","title":"Deep Iterative Surface Normal Estimation.","url":""}
+{"author":"","bib":"","title":"Dataless Model Selection With the Deep Frame Potential.","url":""}
+{"author":"","bib":"","title":"UNAS: Differentiable Architecture Search Meets Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Local Context Normalization: Revisiting Local Normalization.","url":""}
+{"author":"","bib":"","title":"ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning.","url":""}
+{"author":"","bib":"","title":"Learning Situational Driving.","url":""}
+{"author":"","bib":"","title":"From Depth What Can You See? Depth Completion via Auxiliary Image Reconstruction.","url":""}
+{"author":"","bib":"","title":"Symmetry and Group in Attribute-Object Compositions.","url":""}
+{"author":"","bib":"","title":"Noise-Aware Fully Webly Supervised Object Detection.","url":""}
+{"author":"","bib":"","title":"3D Part Guided Image Editing for Fine-Grained Object Understanding.","url":""}
+{"author":"","bib":"","title":"STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"Rethinking Performance Estimation in Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Feature-Metric Registration: A Fast Semi-Supervised Approach for Robust Point Cloud Registration Without Correspondences.","url":""}
+{"author":"","bib":"","title":"Learning Multi-View Camera Relocalization With Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps.","url":""}
+{"author":"","bib":"","title":"EcoNAS: Finding Proxies for Economical Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection.","url":""}
+{"author":"","bib":"","title":"Geometrically Principled Connections in Graph Neural Networks.","url":""}
+{"author":"","bib":"","title":"On Vocabulary Reliance in Scene Text Recognition.","url":""}
+{"author":"","bib":"","title":"Generating Accurate Pseudo-Labels in Semi-Supervised Learning and Avoiding Overconfident Predictions via Hermite Polynomial Activations.","url":""}
+{"author":"","bib":"","title":"GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping.","url":""}
+{"author":"","bib":"","title":"PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Through Fog High-Resolution Imaging Using Millimeter Wave Radar.","url":""}
+{"author":"","bib":"","title":"Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction.","url":""}
+{"author":"","bib":"","title":"D2Det: Towards High Quality Object Detection and Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"LiDAR-Based Online 3D Video Object Detection With Graph-Based Message Passing and Spatiotemporal Transformer Attention.","url":""}
+{"author":"","bib":"","title":"Orthogonal Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"Self-Robust 3D Point Recognition via Gather-Vector Guidance.","url":""}
+{"author":"","bib":"","title":"VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation.","url":""}
+{"author":"","bib":"","title":"ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"MTL-NAS: Task-Agnostic Neural Architecture Search Towards General-Purpose Multi-Task Learning.","url":""}
+{"author":"","bib":"","title":"PnPNet: End-to-End Perception and Prediction With Tracking in the Loop.","url":""}
+{"author":"","bib":"","title":"Revisiting the Sibling Head in Object Detector.","url":""}
+{"author":"","bib":"","title":"Visual Reaction: Learning to Play Catch With Your Drone.","url":""}
+{"author":"","bib":"","title":"Prime Sample Attention in Object Detection.","url":""}
+{"author":"","bib":"","title":"SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization.","url":""}
+{"author":"","bib":"","title":"KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects.","url":""}
+{"author":"","bib":"","title":"SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel.","url":""}
+{"author":"","bib":"","title":"nuScenes: A Multimodal Dataset for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Probabilistic Pixel-Adaptive Refinement Networks.","url":""}
+{"author":"","bib":"","title":"Discovering Human Interactions With Novel Objects via Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Equalization Loss for Long-Tailed Object Recognition.","url":""}
+{"author":"","bib":"","title":"Learning Depth-Guided Convolutions for Monocular 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather.","url":""}
+{"author":"","bib":"","title":"Don't Even Look Once: Synthesizing Features for Zero-Shot Detection.","url":""}
+{"author":"","bib":"","title":"EPOS: Estimating 6D Pose of Objects With Symmetries.","url":""}
+{"author":"","bib":"","title":"Train in Germany, Test in the USA: Making 3D Object Detectors Generalize.","url":""}
+{"author":"","bib":"","title":"Exploring Categorical Regularization for Domain Adaptive Object Detection.","url":""}
+{"author":"","bib":"","title":"Neural Implicit Embedding for Point Cloud Analysis.","url":""}
+{"author":"","bib":"","title":"Pose-Guided Visible Part Matching for Occluded Person ReID.","url":""}
+{"author":"","bib":"","title":"ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection.","url":""}
+{"author":"","bib":"","title":"Exploring Data Aggregation in Policy Learning for Vision-Based Urban Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"Look-Into-Object: Self-Supervised Structure Modeling for Object Recognition.","url":""}
+{"author":"","bib":"","title":"Recognizing Objects From Any View With Object and Viewer-Centered Representations.","url":""}
+{"author":"","bib":"","title":"Gated Channel Transformation for Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Non-Local Neural Networks With Grouped Bilinear Attentional Transforms.","url":""}
+{"author":"","bib":"","title":"Generative-Discriminative Feature Representations for Open-Set Recognition.","url":""}
+{"author":"","bib":"","title":"RPM-Net: Robust Point Matching Using Learned Features.","url":""}
+{"author":"","bib":"","title":"Sideways: Depth-Parallel Training of Video Models.","url":""}
+{"author":"","bib":"","title":"Basis Prediction Networks for Effective Burst Denoising With Large Kernels.","url":""}
+{"author":"","bib":"","title":"Private-kNN: Practical Differential Privacy for Computer Vision.","url":""}
+{"author":"","bib":"","title":"SP-NAS: Serial-to-Parallel Backbone Search for Object Detection.","url":""}
+{"author":"","bib":"","title":"Structure Aware Single-Stage 3D Object Detection From Point Cloud.","url":""}
+{"author":"","bib":"","title":"\"Looking at the Right Stuff\" - Guided Semantic-Gaze for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"What's Hidden in a Randomly Weighted Neural Network?","url":""}
+{"author":"","bib":"","title":"Structured Multi-Hashing for Model Compression.","url":""}
+{"author":"","bib":"","title":"DOPS: Learning to Detect 3D Objects and Predict Their 3D Shapes.","url":""}
+{"author":"","bib":"","title":"AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization.","url":""}
+{"author":"","bib":"","title":"GP-NAS: Gaussian Process Based Neural Architecture Search.","url":""}
+{"author":"","bib":"","title":"NAS-FCOS: Fast Neural Architecture Search for Object Detection.","url":""}
+{"author":"","bib":"","title":"TCTS: A Task-Consistent Two-Stage Framework for Person Search.","url":""}
+{"author":"","bib":"","title":"SCATTER: Selective Context Attentional Scene Text Recognizer.","url":""}
+{"author":"","bib":"","title":"Learning Canonical Shape Space for Category-Level 6D Object Pose and Size Estimation.","url":""}
+{"author":"","bib":"","title":"Hierarchical Scene Coordinate Classification and Regression for Visual Localization.","url":""}
+{"author":"","bib":"","title":"MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation.","url":""}
+{"author":"","bib":"","title":"Scalable Uncertainty for Computer Vision With Functional Variational Inference.","url":""}
+{"author":"","bib":"","title":"Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End.","url":""}
+{"author":"","bib":"","title":"Butterfly Transform: An Efficient FFT Based Neural Architecture Design.","url":""}
+{"author":"","bib":"","title":"A Certifiably Globally Optimal Solution to Generalized Essential Matrix Estimation.","url":""}
+{"author":"","bib":"","title":"MUXConv: Information Multiplexing in Convolutional Neural Networks.","url":""}
+{"author":"","bib":"","title":"PointGMM: A Neural GMM Network for Point Clouds.","url":""}
+{"author":"","bib":"","title":"Noisier2Noise: Learning to Denoise From Unpaired Noisy Data.","url":""}
+{"author":"","bib":"","title":"TRPLP - Trifocal Relative Pose From Lines at Points.","url":""}
+{"author":"","bib":"","title":"DSNAS: Direct Neural Architecture Search Without Parameter Retraining.","url":""}
+{"author":"","bib":"","title":"MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships.","url":""}
+{"author":"","bib":"","title":"Regularization on Spatio-Temporally Smoothed Feature for Action Recognition.","url":""}
+{"author":"","bib":"","title":"Towards Accurate Scene Text Recognition With Semantic Reasoning Networks.","url":""}
+{"author":"","bib":"","title":"Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation.","url":""}
+{"author":"","bib":"","title":"Inferring Attention Shift Ranks of Objects for Image Saliency.","url":""}
+{"author":"","bib":"","title":"Camera On-Boarding for Person Re-Identification Using Hypothesis Transfer Learning.","url":""}
+{"author":"","bib":"","title":"Joint Graph-Based Depth Refinement and Normal Estimation.","url":""}
+{"author":"","bib":"","title":"DR Loss: Improving Object Detection by Distributional Ranking.","url":""}
+{"author":"","bib":"","title":"Self-Trained Deep Ordinal Regression for End-to-End Video Anomaly Detection.","url":""}
+{"author":"","bib":"","title":"Few-Shot Class-Incremental Learning.","url":""}
+{"author":"","bib":"","title":"PolarMask: Single Shot Instance Segmentation With Polar Representation.","url":""}
+{"author":"","bib":"","title":"DeepEMD: Few-Shot Image Classification With Differentiable Earth Mover's Distance and Structured Classifiers.","url":""}
+{"author":"","bib":"","title":"Detection in Crowded Scenes: One Proposal, Multiple Predictions.","url":""}
+{"author":"","bib":"","title":"Autolabeling 3D Objects With Differentiable Rendering of SDF Shape Priors.","url":""}
+{"author":"","bib":"","title":"Interactive Object Segmentation With Inside-Outside Guidance.","url":""}
+{"author":"","bib":"","title":"Mnemonics Training: Multi-Class Incremental Learning Without Forgetting.","url":""}
+{"author":"","bib":"","title":"Learning to Segment 3D Point Clouds in 2D Image Space.","url":""}
+{"author":"","bib":"","title":"Smooth Shells: Multi-Scale Shape Registration With Functional Maps.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Efficient Neural Vision Systems Based on Convolutional Image Acquisition.","url":""}
+{"author":"","bib":"","title":"Visual Chirality.","url":""}
+{"author":"","bib":"","title":"What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial Text Images.","url":""}
+{"author":"","bib":"","title":"Dynamic Traffic Modeling From Overhead Imagery.","url":""}
+{"author":"","bib":"","title":"Satellite Image Time Series Classification With Pixel-Set Encoders and Temporal Self-Attention.","url":""}
+{"author":"","bib":"","title":"DAVD-Net: Deep Audio-Aided Video Decompression of Talking Heads.","url":""}
+{"author":"","bib":"","title":"Learning When and Where to Zoom With Deep Reinforcement Learning.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Detection via Graph-Induced Prototype Alignment.","url":""}
+{"author":"","bib":"","title":"Meta-Learning of Neural Architectures for Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Towards Inheritable Models for Open-Set Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Learning From Synthetic Animals.","url":""}
+{"author":"","bib":"","title":"Distilling Cross-Task Knowledge via Relationship Matching.","url":""}
+{"author":"","bib":"","title":"Open Compound Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Context Prior for Scene Segmentation.","url":""}
+{"author":"","bib":"","title":"Tangent Images for Mitigating Spherical Distortion.","url":""}
+{"author":"","bib":"","title":"Learning a Dynamic Map of Visual Appearance.","url":""}
+{"author":"","bib":"","title":"Webly Supervised Knowledge Embedding Model for Visual Reasoning.","url":""}
+{"author":"","bib":"","title":"Gradually Vanishing Bridge for Adversarial Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Active Speakers in Context.","url":""}
+{"author":"","bib":"","title":"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Inter-Region Affinity Distillation for Road Marking Segmentation.","url":""}
+{"author":"","bib":"","title":"Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations.","url":""}
+{"author":"","bib":"","title":"Making Better Mistakes: Leveraging Class Hierarchies With Deep Networks.","url":""}
+{"author":"","bib":"","title":"Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN.","url":""}
+{"author":"","bib":"","title":"Screencast Tutorial Video Understanding.","url":""}
+{"author":"","bib":"","title":"DSGN: Deep Stereo Geometry Network for 3D Object Detection.","url":""}
+{"author":"","bib":"","title":"Weakly-Supervised Salient Object Detection via Scribble Annotations.","url":""}
+{"author":"","bib":"","title":"Learning to Learn Single Domain Generalization.","url":""}
+{"author":"","bib":"","title":"Severity-Aware Semantic Segmentation With Reinforced Wasserstein Training.","url":""}
+{"author":"","bib":"","title":"Boosting Few-Shot Learning With Adaptive Margin Loss.","url":""}
+{"author":"","bib":"","title":"JA-POLS: A Moving-Camera Background Model via Joint Alignment and Partially-Overlapping Local Subspaces.","url":""}
+{"author":"","bib":"","title":"AugFPN: Improving Multi-Scale Feature Learning for Object Detection.","url":""}
+{"author":"","bib":"","title":"xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Norm-Aware Embedding for Efficient Person Search.","url":""}
+{"author":"","bib":"","title":"Intelligent Home 3D: Automatic 3D-House Design From Linguistic Descriptions Only.","url":""}
+{"author":"","bib":"","title":"Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Robust Object Detection Under Occlusion With Context-Aware CompositionalNets.","url":""}
+{"author":"","bib":"","title":"IMRAM: Iterative Matching With Recurrent Attention Memory for Cross-Modal Image-Text Retrieval.","url":""}
+{"author":"","bib":"","title":"Domain-Aware Visual Bias Eliminating for Generalized Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Semi-Supervised Semantic Segmentation With Cross-Consistency Training.","url":""}
+{"author":"","bib":"","title":"Learning to Learn Cropping Models for Different Aspect Ratio Requirements.","url":""}
+{"author":"","bib":"","title":"What Makes Training Multi-Modal Classification Networks Hard?","url":""}
+{"author":"","bib":"","title":"Selective Transfer With Reinforced Transfer Network for Partial Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks.","url":""}
+{"author":"","bib":"","title":"Exemplar Normalization for Learning Deep Representation.","url":""}
+{"author":"","bib":"","title":"Imitative Non-Autoregressive Modeling for Trajectory Forecasting and Imputation.","url":""}
+{"author":"","bib":"","title":"Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text.","url":""}
+{"author":"","bib":"","title":"StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Domain-Aware Generative Network for Generalized Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Sparse Layered Graphs for Multi-Object Segmentation.","url":""}
+{"author":"","bib":"","title":"Visual-Semantic Matching by Exploring High-Order Attention and Distraction.","url":""}
+{"author":"","bib":"","title":"End-to-End 3D Point Cloud Instance Segmentation Without Detection.","url":""}
+{"author":"","bib":"","title":"Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images.","url":""}
+{"author":"","bib":"","title":"Differentiable Adaptive Computation Time for Visual Reasoning.","url":""}
+{"author":"","bib":"","title":"DeepLPF: Deep Local Parametric Filters for Image Enhancement.","url":""}
+{"author":"","bib":"","title":"Instance Credibility Inference for Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Learning From Web Data With Self-Organizing Memory Module.","url":""}
+{"author":"","bib":"","title":"TransMatch: A Transfer-Learning Scheme for Semi-Supervised Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Learning the Redundancy-Free Features for Generalized Zero-Shot Object Recognition.","url":""}
+{"author":"","bib":"","title":"Neural Topological SLAM for Visual Navigation.","url":""}
+{"author":"","bib":"","title":"WaveletStereo: Learning Wavelet Coefficients of Disparity Map in Stereo Matching.","url":""}
+{"author":"","bib":"","title":"Robust Superpixel-Guided Attentional Adversarial Attack.","url":""}
+{"author":"","bib":"","title":"BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image.","url":""}
+{"author":"","bib":"","title":"Cross-Domain Document Object Detection: Benchmark Suite and Method.","url":""}
+{"author":"","bib":"","title":"Explaining Knowledge Distillation by Quantifying the Knowledge.","url":""}
+{"author":"","bib":"","title":"Exploring Bottom-Up and Top-Down Cues With Attentive Learning for Webly Supervised Object Detection.","url":""}
+{"author":"","bib":"","title":"Enhancing Generic Segmentation With Learned Region Representations.","url":""}
+{"author":"","bib":"","title":"Adaptive Hierarchical Down-Sampling for Point Cloud Classification.","url":""}
+{"author":"","bib":"","title":"FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions.","url":""}
+{"author":"","bib":"","title":"Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Putting Visual Object Recognition in Context.","url":""}
+{"author":"","bib":"","title":"SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection.","url":""}
+{"author":"","bib":"","title":"Universal Weighting Metric Learning for Cross-Modal Matching.","url":""}
+{"author":"","bib":"","title":"IDA-3D: Instance-Depth-Aware 3D Object Detection From Stereo Vision for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"Label Decoupling Framework for Salient Object Detection.","url":""}
+{"author":"","bib":"","title":"Transform and Tell: Entity-Aware News Image Captioning.","url":""}
+{"author":"","bib":"","title":"HAMBox: Delving Into Mining High-Quality Anchors on Face Detection.","url":""}
+{"author":"","bib":"","title":"Hierarchical Feature Embedding for Attribute Recognition.","url":""}
+{"author":"","bib":"","title":"Squeeze-and-Attention Networks for Semantic Segmentation.","url":""}
+{"author":"","bib":"","title":"Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection.","url":""}
+{"author":"","bib":"","title":"Mixture Dense Regression for Object Detection and Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Syntax-Aware Action Targeting for Video Captioning.","url":""}
+{"author":"","bib":"","title":"Learning Visual Emotion Representations From Web Data.","url":""}
+{"author":"","bib":"","title":"The Edge of Depth: Explicit Constraints Between Segmentation and Depth.","url":""}
+{"author":"","bib":"","title":"A Context-Aware Loss Function for Action Spotting in Soccer Videos.","url":""}
+{"author":"","bib":"","title":"Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-Training.","url":""}
+{"author":"","bib":"","title":"Video Instance Segmentation Tracking With a Modified VAE Architecture.","url":""}
+{"author":"","bib":"","title":"Deformation-Aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.","url":""}
+{"author":"","bib":"","title":"ZeroQ: A Novel Zero Shot Quantization Framework.","url":""}
+{"author":"","bib":"","title":"Disparity-Aware Domain Adaptation in Stereo Image Restoration.","url":""}
+{"author":"","bib":"","title":"Offset Bin Classification Network for Accurate Object Detection.","url":""}
+{"author":"","bib":"","title":"TBT: Targeted Neural Network Attack With Bit Trojan.","url":""}
+{"author":"","bib":"","title":"Maintaining Discrimination and Fairness in Class Incremental Learning.","url":""}
+{"author":"","bib":"","title":"Background Data Resampling for Outlier-Aware Classification.","url":""}
+{"author":"","bib":"","title":"STEFANN: Scene Text Editor Using Font Adaptive Neural Network.","url":""}
+{"author":"","bib":"","title":"Geometry and Learning Co-Supported Normal Estimation for Unstructured Point Cloud.","url":""}
+{"author":"","bib":"","title":"Sequential Motif Profiles and Topological Plots for Offline Signature Verification.","url":""}
+{"author":"","bib":"","title":"Optical Flow in Dense Foggy Scenes Using Semi-Supervised Learning.","url":""}
+{"author":"","bib":"","title":"A Spatial RNN Codec for End-to-End Image Compression.","url":""}
+{"author":"","bib":"","title":"Object Relational Graph With Teacher-Recommended Learning for Video Captioning.","url":""}
+{"author":"","bib":"","title":"MMTM: Multimodal Transfer Module for CNN Fusion.","url":""}
+{"author":"","bib":"","title":"Generalized Zero-Shot Learning via Over-Complete Distribution.","url":""}
+{"author":"","bib":"","title":"Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features.","url":""}
+{"author":"","bib":"","title":"Unifying Training and Inference for Panoptic Segmentation.","url":""}
+{"author":"","bib":"","title":"Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection.","url":""}
+{"author":"","bib":"","title":"Interactive Image Segmentation With First Click Attention.","url":""}
+{"author":"","bib":"","title":"NETNet: Neighbor Erasing and Transferring Network for Better Single Shot Object Detection.","url":""}
+{"author":"","bib":"","title":"Scale-Equalizing Pyramid Convolution for Object Detection.","url":""}
+{"author":"","bib":"","title":"Learning to Cluster Faces via Confidence and Connectivity Estimation.","url":""}
+{"author":"","bib":"","title":"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer.","url":""}
+{"author":"","bib":"","title":"DPGN: Distribution Propagation Graph Network for Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Density-Aware Graph for Deep Semi-Supervised Visual Recognition.","url":""}
+{"author":"","bib":"","title":"Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.","url":""}
+{"author":"","bib":"","title":"Binarizing MobileNet via Evolution-Based Searching.","url":""}
+{"author":"","bib":"","title":"Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.","url":""}
+{"author":"","bib":"","title":"Orderless Recurrent Models for Multi-Label Classification.","url":""}
+{"author":"","bib":"","title":"Gold Seeker: Information Gain From Policy Distributions for Goal-Oriented Vision-and-Langauge Reasoning.","url":""}
+{"author":"","bib":"","title":"Rethinking the Route Towards Weakly Supervised Object Localization.","url":""}
+{"author":"","bib":"","title":"Adversarial Feature Hallucination Networks for Few-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Conditional Gaussian Distribution Learning for Open Set Recognition.","url":""}
+{"author":"","bib":"","title":"Connect-and-Slice: An Hybrid Approach for Reconstructing 3D Objects.","url":""}
+{"author":"","bib":"","title":"Attentive Weights Generation for Few Shot Learning via Information Maximization.","url":""}
+{"author":"","bib":"","title":"Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting.","url":""}
+{"author":"","bib":"","title":"PuppeteerGAN: Arbitrary Portrait Animation With Semantic-Aware Appearance Transformation.","url":""}
+{"author":"","bib":"","title":"SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition.","url":""}
+{"author":"","bib":"","title":"Texture and Shape Biased Two-Stream Networks for Clothing Classification and Attribute Recognition.","url":""}
+{"author":"","bib":"","title":"Distortion Agnostic Deep Watermarking.","url":""}
+{"author":"","bib":"","title":"RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network.","url":""}
+{"author":"","bib":"","title":"BFBox: Searching Face-Appropriate Backbone and Feature Pyramid Network for Face Detector.","url":""}
+{"author":"","bib":"","title":"PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frames.","url":""}
+{"author":"","bib":"","title":"iTAML: An Incremental Task-Agnostic Meta-learning Approach.","url":""}
+{"author":"","bib":"","title":"Optimal least-squares solution to the hand-eye calibration problem.","url":""}
+{"author":"","bib":"","title":"MnasFPN: Learning Latency-Aware Pyramid Architecture for Object Detection on Mobile Devices.","url":""}
+{"author":"","bib":"","title":"VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions.","url":""}
+{"author":"","bib":"","title":"End-to-End Camera Calibration for Broadcast Videos.","url":""}
+{"author":"","bib":"","title":"Regularizing CNN Transfer Learning With Randomised Regression.","url":""}
+{"author":"","bib":"","title":"KeypointNet: A Large-Scale 3D Keypoint Dataset Aggregated From Numerous Human Annotations.","url":""}
+{"author":"","bib":"","title":"Hierarchical Clustering With Hard-Batch Triplet Loss for Person Re-Identification.","url":""}
+{"author":"","bib":"","title":"Joint Semantic Segmentation and Boundary Detection Using Iterative Pyramid Contexts.","url":""}
+{"author":"","bib":"","title":"Attention-Guided Hierarchical Structure Aggregation for Image Matting.","url":""}
+{"author":"","bib":"","title":"MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation.","url":""}
+{"author":"","bib":"","title":"Prior Guided GAN Based Semantic Inpainting.","url":""}
+{"author":"","bib":"","title":"Weakly Supervised Semantic Point Cloud Segmentation: Towards 10× Fewer Labels.","url":""}
+{"author":"","bib":"","title":"Physically Realizable Adversarial Examples for LiDAR Object Detection.","url":""}
+{"author":"","bib":"","title":"Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization.","url":""}
+{"author":"","bib":"","title":"Light-weight Calibrator: A Separable Component for Unsupervised Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition.","url":""}
+{"author":"","bib":"","title":"Learning Selective Self-Mutual Attention for RGB-D Saliency Detection.","url":""}
+{"author":"","bib":"","title":"Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation.","url":""}
+{"author":"","bib":"","title":"Estimating Low-Rank Region Likelihood Maps.","url":""}
+{"author":"","bib":"","title":"Neural Head Reenactment with Latent Pose Descriptors.","url":""}
+{"author":"","bib":"","title":"Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis.","url":""}
+{"author":"","bib":"","title":"Self-Supervised Learning of Video-Induced Visual Invariances.","url":""}
+{"author":"","bib":"","title":"Two-Stage Peer-Regularized Feature Recombination for Arbitrary Image Style Transfer.","url":""}
+{"author":"","bib":"","title":"MINA: Convex Mixed-Integer Programming for Non-Rigid Shape Alignment.","url":""}
+{"author":"","bib":"","title":"Improving One-Shot NAS by Suppressing the Posterior Fading.","url":""}
+{"author":"","bib":"","title":"Incremental Few-Shot Object Detection.","url":""}
+{"author":"","bib":"","title":"Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data.","url":""}
+{"author":"","bib":"","title":"Exploring Category-Agnostic Clusters for Open-Set Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"Regularizing Class-Wise Predictions via Self-Knowledge Distillation.","url":""}
+{"author":"","bib":"","title":"Hierarchical Graph Attention Network for Visual Relationship Detection.","url":""}
+{"author":"","bib":"","title":"M2m: Imbalanced Classification via Major-to-Minor Translation.","url":""}
+{"author":"","bib":"","title":"CenterMask: Real-Time Anchor-Free Instance Segmentation.","url":""}
+{"author":"","bib":"","title":"Multi-Path Learning for Object Pose Estimation Across Domains.","url":""}
+{"author":"","bib":"","title":"Incremental Learning in Online Scenario.","url":""}
+{"author":"","bib":"","title":"Enhanced Transport Distance for Unsupervised Domain Adaptation.","url":""}
+{"author":"","bib":"","title":"TESA: Tensor Element Self-Attention via Matricization.","url":""}
+{"author":"","bib":"","title":"Training a Steerable CNN for Guidewire Detection.","url":""}
+{"author":"","bib":"","title":"Superpixel Segmentation With Fully Convolutional Networks.","url":""}
+{"author":"","bib":"","title":"SharinGAN: Combining Synthetic and Real Data for Unsupervised Geometry Estimation.","url":""}
+{"author":"","bib":"","title":"Label Distribution Learning on Auxiliary Label Space Graphs for Facial Expression Recognition.","url":""}
+{"author":"","bib":"","title":"Deep Residual Flow for Out of Distribution Detection.","url":""}
+{"author":"","bib":"","title":"FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation.","url":""}
+{"author":"","bib":"","title":"Learning Nanoscale Motion Patterns of Vesicles in Living Cells.","url":""}
+{"author":"","bib":"","title":"Improving Action Segmentation via Graph-Based Temporal Reasoning.","url":""}
+{"author":"","bib":"","title":"Episode-Based Prototype Generating Network for Zero-Shot Learning.","url":""}
+{"author":"","bib":"","title":"Learning to Segment the Tail.","url":""}
+{"author":"","bib":"","title":"Learning to Evaluate Perception Models Using Planner-Centric Metrics.","url":""}
+{"author":"","bib":"","title":"CoverNet: Multimodal Behavior Prediction Using Trajectory Sets.","url":""}
+{"author":"","bib":"","title":"Real-World Person Re-Identification via Degradation Invariance Learning.","url":""}
+{"author":"","bib":"","title":"Defending and Harnessing the Bit-Flip Based Adversarial Weight Attack.","url":""}
+{"author":"","bib":"","title":"Adversarial Latent Autoencoders.","url":""}
+{"author":"","bib":"","title":"Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment.","url":""}
+{"author":"","bib":"","title":"Deep Generative Model for Robust Imbalance Classification.","url":""}
+{"author":"","bib":"","title":"Learning Deep Network for Detecting 3D Object Keypoints and 6D Poses.","url":""}
+{"author":"","bib":"","title":"MetaIQA: Deep Meta-Learning for No-Reference Image Quality Assessment.","url":""}
+{"author":"","bib":"","title":"Sketchformer: Transformer-Based Representation for Sketched Structure.","url":""}
+{"author":"","bib":"","title":"Cylindrical Convolutional Networks for Joint Object Detection and Viewpoint Estimation.","url":""}
+{"author":"","bib":"","title":"Learning a Unified Sample Weighting Network for Object Detection.","url":""}
+{"author":"","bib":"","title":"Old Is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm.","url":""}
+{"author":"","bib":"","title":"An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics.","url":""}
+{"author":"","bib":"","title":"McFlow: Monte Carlo Flow Models for Data Imputation.","url":""}
+{"author":"","bib":"","title":"Learning to See Through Obstructions.","url":""}
+{"author":"","bib":"","title":"GaitPart: Temporal Part-Based Model for Gait Recognition.","url":""}
+{"author":"","bib":"","title":"EmotiCon: Context-Aware Multimodal Emotion Recognition Using Frege's Principle.","url":""}
+{"author":"","bib":"","title":"Can Deep Learning Recognize Subtle Human Activities?","url":""}
+{"author":"","bib":"","title":"PhysGAN: Generating Physical-World-Resilient Adversarial Examples for Autonomous Driving.","url":""}
+{"author":"","bib":"","title":"ILFO: Adversarial Attack on Adaptive Neural Networks.","url":""}
+{"author":"","bib":"","title":"On Translation Invariance in CNNs: Convolutional Layers Can Exploit Absolute Spatial Location.","url":""}
+{"author":"","bib":"","title":"Diverse Image Generation via Self-Conditioned GANs.","url":""}
+{"author":"","bib":"","title":"Inducing Hierarchical Compositional Model by Sparsifying Generator Network.","url":""}
+{"author":"","bib":"","title":"CARP: Compression Through Adaptive Recursive Partitioning for Multi-Dimensional Images.","url":""}
+{"author":"","bib":"","title":"GrappaNet: Combining Parallel Imaging With Deep Learning for Multi-Coil MRI Reconstruction.","url":""}
+{"author":"","bib":"","title":"Can Weight Sharing Outperform Random Architecture Search? An Investigation With TuNAS.","url":""}
+{"author":"","bib":"","title":"Context Aware Graph Convolution for Skeleton-Based Action Recognition.","url":""}
+{"author":"","bib":"","title":"Fast(er) Reconstruction of Shredded Text Documents via Self-Supervised Deep Asymmetric Metric Learning.","url":""}
+{"author":"","bib":"","title":"Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition.","url":""}
+{"author":"","bib":"","title":"RankMI: A Mutual Information Maximizing Ranking Loss.","url":""}
+{"author":"","bib":"","title":"Learning Memory-Guided Normality for Anomaly Detection.","url":""}
+{"author":"","bib":"","title":"Appearance Shock Grammar for Fast Medial Axis Extraction From Real Images.","url":""}
+{"author":"","bib":"","title":"Generalizing Hand Segmentation in Egocentric Videos With Uncertainty-Guided Model Adaptation.","url":""}
+{"author":"","bib":"","title":"DeFeat-Net: General Monocular Depth via Simultaneous Unsupervised Representation Learning.","url":""}
+{"author":"","bib":"","title":"Learning Visual Motion Segmentation Using Event Surfaces.","url":""}
+{"author":"","bib":"","title":"Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction.","url":""}
+{"author":"","bib":"","title":"Discriminative Multi-Modality Speech Recognition.","url":""}
+{"author":"","bib":"","title":"Clean-Label Backdoor Attacks on Video Recognition Models.","url":""}
+{"author":"","bib":"","title":"Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors.","url":""}
+{"author":"","bib":"","title":"Unsupervised Model Personalization While Preserving Privacy and Scalability: An Open Problem.","url":""}
+{"author":"","bib":"","title":"GIFnets: Differentiable GIF Encoding Framework.","url":""}
+{"author":"","bib":"","title":"Learning Invariant Representation for Unsupervised Image Restoration.","url":""}
+{"author":"","bib":"","title":"Improved Few-Shot Visual Classification.","url":""}
+{"author":"","bib":"","title":"Learning Weighted Submanifolds With Variational Autoencoders and Riemannian Variational Autoencoders.","url":""}
+{"author":"","bib":"","title":"Learning Geocentric Object Pose in Oblique Monocular Images.","url":""}
+{"author":"","bib":"","title":"Understanding Adversarial Examples From the Mutual Influence of Images and Perturbations.","url":""}
+{"author":"","bib":"","title":"Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models.","url":""}
+{"author":"","bib":"","title":"MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion.","url":""}
+{"author":"","bib":"","title":"HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting.","url":""}
+{"author":"","bib":"","title":"Detail-recovery Image Deraining via Context Aggregation Networks.","url":""}
+{"author":"","bib":"","title":"MCEN: Bridging Cross-Modal Gap between Cooking Recipes and Dish Images with Latent Variable Model.","url":""}
+{"author":"","bib":"","title":"Hypergraph Attention Networks for Multimodal Learning.","url":""}
+{"author":"","bib":"","title":"Moving in the Right Direction: A Regularization for Deep Metric Learning.","url":""}
+{"author":"","bib":"","title":"Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets.","url":""}
+{"author":"","bib":"","title":"Seeing without Looking: Contextual Rescoring of Object Detections for AP Maximization.","url":""}
+{"author":"","bib":"","title":"End-to-End Adversarial-Attention Network for Multi-Modal Clustering.","url":""}
+{"author":"","bib":"","title":"Fast Sparse ConvNets.","url":""}
+{"author":"","bib":"","title":"Few Sample Knowledge Distillation for Efficient Network Compression.","url":""}
+{"author":"","bib":"","title":"Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.","url":""}
+{"author":"","bib":"","title":"Shape correspondence using anisotropic Chebyshev spectral CNNs.","url":""}
+{"author":"","bib":"","title":"RetinaTrack: Online Single Stage Joint Detection and Tracking.","url":""}
+{"author":"","bib":"","title":"Multimodal Categorization of Crisis Events in Social Media.","url":""}
+{"author":"","bib":"","title":"SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings.","url":""}
+{"author":"","bib":"","title":"SwapText: Image Based Texts Transfer in Scenes.","url":""}
+{"author":"","bib":"","title":"OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold.","url":""}
+{"author":"","bib":"","title":"FroDO: From Detections to 3D Objects.","url":""}

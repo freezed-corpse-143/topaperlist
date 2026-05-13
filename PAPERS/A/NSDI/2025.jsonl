@@ -1,0 +1,84 @@
+{"author":"","bib":"","title":"22nd USENIX Symposium on Networked Systems Design and Implementation, NSDI 2025, Philadelphia, PA, USA, April 28-30, 2025","url":""}
+{"author":"","bib":"","title":"PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters","url":""}
+{"author":"","bib":"","title":"Rajomon: Decentralized and Coordinated Overload Control for Latency-Sensitive Microservices","url":""}
+{"author":"","bib":"","title":"Learnings from Deploying Network QoS Alignment to Application Priorities for Storage Services","url":""}
+{"author":"","bib":"","title":"DISC: Backpressure Mitigation In Multi-tier Applications With Distributed Shared Connection","url":""}
+{"author":"","bib":"","title":"Enabling Silent Telemetry Data Transmission with InvisiFlow","url":""}
+{"author":"","bib":"","title":"Unlocking ECMP Programmability for Precise Traffic Control","url":""}
+{"author":"","bib":"","title":"Enabling Portable and High-Performance SmartNIC Programs with Alkali","url":""}
+{"author":"","bib":"","title":"Scaling IP Lookup to Large Databases using the CRAM Lens","url":""}
+{"author":"","bib":"","title":"Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing","url":""}
+{"author":"","bib":"","title":"Beehive: A Scalable Disaggregated Memory Runtime Exploiting Asynchrony of Multithreaded Programs","url":""}
+{"author":"","bib":"","title":"Making Serverless Pay-For-Use a Reality with Leopard","url":""}
+{"author":"","bib":"","title":"GRANNY: Granular Management of Compute-Intensive Applications in the Cloud","url":""}
+{"author":"","bib":"","title":"On Temporal Verification of Stateful P4 Programs","url":""}
+{"author":"","bib":"","title":"NDD: A Decision Diagram for Network Verification","url":""}
+{"author":"","bib":"","title":"Smart Casual Verification of the Confidential Consortium Framework","url":""}
+{"author":"","bib":"","title":"VEP: A Two-stage Verification Toolchain for Full eBPF Programmability","url":""}
+{"author":"","bib":"","title":"MeshTest: End-to-End Testing for Service Mesh Traffic Management","url":""}
+{"author":"","bib":"","title":"Preventing Network Bottlenecks: Accelerating Datacenter Services with Hotspot-Aware Placement for Compute and Storage","url":""}
+{"author":"","bib":"","title":"Enhancing Network Failure Mitigation with Performance-Aware Ranking","url":""}
+{"author":"","bib":"","title":"One-Size-Fits-None: Understanding and Enhancing Slow-Fault Tolerance in Modern Distributed Systems","url":""}
+{"author":"","bib":"","title":"Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter","url":""}
+{"author":"","bib":"","title":"eTran: Extensible Kernel Transport with eBPF","url":""}
+{"author":"","bib":"","title":"White-Boxing RDMA with Packet-Granular Software Control","url":""}
+{"author":"","bib":"","title":"SIRD: A Sender-Informed, Receiver-Driven Datacenter Transport Protocol","url":""}
+{"author":"","bib":"","title":"Accelerating Design Space Exploration for LLM Training Systems with Multi-experiment Parallel Simulation","url":""}
+{"author":"","bib":"","title":"Optimizing RLHF Training for Large Language Models with Stage Fusion","url":""}
+{"author":"","bib":"","title":"Minder: Faulty Machine Detection for Large-scale Distributed Model Training","url":""}
+{"author":"","bib":"","title":"Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters","url":""}
+{"author":"","bib":"","title":"SimAI: Unifying Architecture Design and Performance Tuning for Large-Scale Large Language Model Training with Scalability and Precision","url":""}
+{"author":"","bib":"","title":"ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development","url":""}
+{"author":"","bib":"","title":"Mowgli: Passively Learned Rate Control for Real-Time Video","url":""}
+{"author":"","bib":"","title":"Dissecting and Streamlining the Interactive Loop of Mobile Cloud Gaming","url":""}
+{"author":"","bib":"","title":"Region-based Content Enhancement for Efficient Video Analytics at the Edge","url":""}
+{"author":"","bib":"","title":"Tooth: Toward Optimal Balance of Video QoE and Redundancy Cost by Fine-Grained FEC in Cloud Gaming Streaming","url":""}
+{"author":"","bib":"","title":"AsTree: An Audio Subscription Architecture Enabling Massive-Scale Multi-Party Conferencing","url":""}
+{"author":"","bib":"","title":"AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training","url":""}
+{"author":"","bib":"","title":"OptiReduce: Resilient and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud","url":""}
+{"author":"","bib":"","title":"Efficient Direct-Connect Topologies for Collective Communications","url":""}
+{"author":"","bib":"","title":"SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads","url":""}
+{"author":"","bib":"","title":"Pineapple: Unifying Multi-Paxos and Atomic Shared Registers","url":""}
+{"author":"","bib":"","title":"Ladder: A Convergence-based Structured DAG Blockchain for High Throughput and Low Latency","url":""}
+{"author":"","bib":"","title":"Vegeta: Enabling Parallel Smart Contract Execution in Leaderless Blockchains","url":""}
+{"author":"","bib":"","title":"Shoal++: High Throughput DAG BFT Can Be Fast and Robust!","url":""}
+{"author":"","bib":"","title":"Learning Production-Optimized Congestion Control Selection for Alibaba Cloud CDN","url":""}
+{"author":"","bib":"","title":"GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale","url":""}
+{"author":"","bib":"","title":"Evolution of Aegis: Fault Diagnosis for AI Model Training Service in Production","url":""}
+{"author":"","bib":"","title":"PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality","url":""}
+{"author":"","bib":"","title":"HA/TCP: A Reliable and Scalable Framework for TCP Network Functions","url":""}
+{"author":"","bib":"","title":"High-level Programming for Application Networks","url":""}
+{"author":"","bib":"","title":"State-Compute Replication: Parallelizing High-Speed Stateful Packet Processing","url":""}
+{"author":"","bib":"","title":"MTP: Transport for In-Network Computing","url":""}
+{"author":"","bib":"","title":"ONCache: A Cache-Based Low-Overhead Container Overlay Network","url":""}
+{"author":"","bib":"","title":"GREEN: Carbon-efficient Resource Scheduling for Machine Learning Clusters","url":""}
+{"author":"","bib":"","title":"The Benefits and Limitations of User Interrupts for Preemptive Userspace Scheduling","url":""}
+{"author":"","bib":"","title":"Securing Public Cloud Networks with Efficient Role-based Micro-Segmentation","url":""}
+{"author":"","bib":"","title":"Mitigating Scalability Walls of RDMA-based Container Networks","url":""}
+{"author":"","bib":"","title":"Eden: Developer-Friendly Application-Integrated Far Memory","url":""}
+{"author":"","bib":"","title":"Achieving Wire-Latency Storage Systems by Exploiting Hardware ACKs","url":""}
+{"author":"","bib":"","title":"ODRP: On-Demand Remote Paging with Programmable RDMA","url":""}
+{"author":"","bib":"","title":"Understanding and Profiling NVMe-over-TCP Using ntprof","url":""}
+{"author":"","bib":"","title":"Building an Elastic Block Storage over EBOFs Using Shadow Views","url":""}
+{"author":"","bib":"","title":"Pushing the Limits of In-Network Caching for Key-Value Stores","url":""}
+{"author":"","bib":"","title":"CellReplay: Towards accurate record-and-replay for cellular networks","url":""}
+{"author":"","bib":"","title":"Large Network UWB Localization: Algorithms and Implementation","url":""}
+{"author":"","bib":"","title":"Towards Energy Efficient 5G vRAN Servers","url":""}
+{"author":"","bib":"","title":"Building Massive MIMO Baseband Processing on a Single-Node Supercomputer","url":""}
+{"author":"","bib":"","title":"Efficient Multi-WAN Transport for 5G with OTTER","url":""}
+{"author":"","bib":"","title":"Verifying maximum link loads in a changing world","url":""}
+{"author":"","bib":"","title":"A Layered Formal Methods Approach to Answering Queue-related Queries","url":""}
+{"author":"","bib":"","title":"Runtime Protocol Refinement Checking for Distributed Protocol Implementations","url":""}
+{"author":"","bib":"","title":"CEGS: Configuration Example Generalizing Synthesizer","url":""}
+{"author":"","bib":"","title":"Suppressing BGP Zombies with Route Status Transparency","url":""}
+{"author":"","bib":"","title":"ValidaTor: Domain Validation over Tor","url":""}
+{"author":"","bib":"","title":"From Address Blocks to Authorized Prefixes: Redesigning RPKI ROV with a Hierarchical Hashing Scheme for Fast and Memory-Efficient Validation","url":""}
+{"author":"","bib":"","title":"PreAcher: Secure and Practical Password Pre-Authentication by Content Delivery Networks","url":""}
+{"author":"","bib":"","title":"ClubHeap: A High-Speed and Scalable Priority Queue for Programmable Packet Scheduling","url":""}
+{"author":"","bib":"","title":"Self-Clocked Round-Robin Packet Scheduling","url":""}
+{"author":"","bib":"","title":"Everything Matters in Programmable Packet Scheduling","url":""}
+{"author":"","bib":"","title":"When P4 Meets Run-to-completion Architecture","url":""}
+{"author":"","bib":"","title":"Mutant: Learning Congestion Control from Existing Protocols via Online Reinforcement Learning","url":""}
+{"author":"","bib":"","title":"CATO: End-to-End Optimization of ML-Based Traffic Analysis Pipelines","url":""}
+{"author":"","bib":"","title":"Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model","url":""}
+{"author":"","bib":"","title":"BFTBrain: Adaptive BFT Consensus with Reinforcement Learning","url":""}

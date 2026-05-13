@@ -1,0 +1,47 @@
+{"author":"","bib":"","title":"PPoPP '22: 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Seoul, Republic of Korea, April 2 - 6, 2022","url":""}
+{"author":"","bib":"","title":"Stream processing with dependency-guided synchronization","url":""}
+{"author":"","bib":"","title":"CASE: a compiler-assisted SchEduling framework for multi-GPU systems","url":""}
+{"author":"","bib":"","title":"Dopia: online parallelism management for integrated CPU/GPU architectures","url":""}
+{"author":"","bib":"","title":"Mashup: making serverless computing useful for HPC workflows via hybrid execution","url":""}
+{"author":"","bib":"","title":"Parallel block-delayed sequences","url":""}
+{"author":"","bib":"","title":"RTNN: accelerating neighbor search using hardware ray tracing","url":""}
+{"author":"","bib":"","title":"TileSpGEMM: a tiled algorithm for parallel sparse general matrix-matrix multiplication on GPUs","url":""}
+{"author":"","bib":"","title":"QGTC: accelerating quantized graph neural networks via GPU tensor core","url":""}
+{"author":"","bib":"","title":"FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models","url":""}
+{"author":"","bib":"","title":"Near-optimal sparse allreduce for distributed deep learning","url":""}
+{"author":"","bib":"","title":"Vapro: performance variance detection and diagnosis for production-run parallel applications","url":""}
+{"author":"","bib":"","title":"Interference relation-guided SMT solving for multi-threaded program verification","url":""}
+{"author":"","bib":"","title":"PerFlow: a domain specific framework for automatic performance analysis of parallel applications","url":""}
+{"author":"","bib":"","title":"BaGuaLu: targeting brain scale pretrained models with over 37 million cores","url":""}
+{"author":"","bib":"","title":"Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms","url":""}
+{"author":"","bib":"","title":"LOTUS: locality optimizing triangle counting","url":""}
+{"author":"","bib":"","title":"Scaling graph traversal to 281 trillion edges with 40 million cores","url":""}
+{"author":"","bib":"","title":"Deadlock-free asynchronous message reordering in rust with multiparty session types","url":""}
+{"author":"","bib":"","title":"Detectable recovery of lock-free data structures","url":""}
+{"author":"","bib":"","title":"Lock-free locks revisited","url":""}
+{"author":"","bib":"","title":"Asymmetry-aware scalable locking","url":""}
+{"author":"","bib":"","title":"FliT: a library for simple and efficient persistent algorithms","url":""}
+{"author":"","bib":"","title":"Understanding and detecting deep memory persistency bugs in NVM programs with DeepMC","url":""}
+{"author":"","bib":"","title":"The performance power of software combining in persistence","url":""}
+{"author":"","bib":"","title":"Multi-queues can be state-of-the-art priority schedulers","url":""}
+{"author":"","bib":"","title":"Bundling linked data structures for linearizable range queries","url":""}
+{"author":"","bib":"","title":"PathCAS: an efficient middle ground for concurrent search data structures","url":""}
+{"author":"","bib":"","title":"Jiffy: a lock-free skip list with batch updates and snapshots","url":""}
+{"author":"","bib":"","title":"Elimination (a, b)-trees with fast, durable updates","url":""}
+{"author":"","bib":"","title":"Automatic synthesis of parallel unix commands and pipelines with KumQuat","url":""}
+{"author":"","bib":"","title":"Towards OmpSs-2 and OpenACC interoperation","url":""}
+{"author":"","bib":"","title":"LB-HM: load balance-aware data placement on heterogeneous memory for task-parallel HPC applications","url":""}
+{"author":"","bib":"","title":"Hardening selective protection across multiple program inputs for HPC applications","url":""}
+{"author":"","bib":"","title":"A parallel branch-and-bound algorithm with history-based domination","url":""}
+{"author":"","bib":"","title":"Remote OpenMP offloading","url":""}
+{"author":"","bib":"","title":"High performance GPU concurrent B+tree","url":""}
+{"author":"","bib":"","title":"The problem-based benchmark suite (PBBS), V2","url":""}
+{"author":"","bib":"","title":"An LLVM-based open-source compiler for NVIDIA GPUs","url":""}
+{"author":"","bib":"","title":"ParGeo: a library for parallel computational geometry","url":""}
+{"author":"","bib":"","title":"Parallel algorithms for masked sparse matrix-matrix products","url":""}
+{"author":"","bib":"","title":"Rethinking graph data placement for graph neural network training on multiple GPUs","url":""}
+{"author":"","bib":"","title":"Optimizing consistency for partially replicated data stores","url":""}
+{"author":"","bib":"","title":"Optimizing sparse computations jointly","url":""}
+{"author":"","bib":"","title":"wCQ: a fast wait-free queue with bounded memory usage","url":""}
+{"author":"","bib":"","title":"Automatic differentiation of parallel loops with formal methods","url":""}
+{"author":"","bib":"","title":"A W-cycle algorithm for efficient batched SVD on GPUs","url":""}

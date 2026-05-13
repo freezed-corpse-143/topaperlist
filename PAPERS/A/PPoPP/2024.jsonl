@@ -1,0 +1,46 @@
+{"author":"","bib":"","title":"Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2024, Edinburgh, United Kingdom, March 2-6, 2024","url":""}
+{"author":"","bib":"","title":"Sparsity in Deep Neural Nets (Keynote)","url":""}
+{"author":"","bib":"","title":"Scaling Up Transactions with Slower Clocks","url":""}
+{"author":"","bib":"","title":"Locks as a Resource: Fairly Scheduling Lock Occupation with CFL","url":""}
+{"author":"","bib":"","title":"Are Your Epochs Too Epic? Batch Free Can Be Harmful","url":""}
+{"author":"","bib":"","title":"Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference","url":""}
+{"author":"","bib":"","title":"A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs","url":""}
+{"author":"","bib":"","title":"Language-Agnostic Static Deadlock Detection for Futures","url":""}
+{"author":"","bib":"","title":"Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts","url":""}
+{"author":"","bib":"","title":"OsirisBFT: Say No to Task Replication for Scalable Byzantine Fault Tolerant Analytics","url":""}
+{"author":"","bib":"","title":"Towards Scalable Unstructured Mesh Computations on Shared Memory Many-Cores","url":""}
+{"author":"","bib":"","title":"Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System","url":""}
+{"author":"","bib":"","title":"Pure: Evolving Message Passing To Better Leverage Shared Memory Within Nodes","url":""}
+{"author":"","bib":"","title":"INFINEL: An efficient GPU-based processing method for unpredictable large output graph queries","url":""}
+{"author":"","bib":"","title":"GraphCube: Interconnection Hierarchy-aware Graph Processing","url":""}
+{"author":"","bib":"","title":"Exploiting Fine-Grained Redundancy in Set-Centric Graph Pattern Mining","url":""}
+{"author":"","bib":"","title":"Memory Bounds for Concurrent Bounded Queues","url":""}
+{"author":"","bib":"","title":"VERLIB: Concurrent Versioned Pointers","url":""}
+{"author":"","bib":"","title":"Practical Hardware Transactional vEB Trees","url":""}
+{"author":"","bib":"","title":"Tetris: Accelerating Sparse Convolution by Exploiting Memory Reuse on GPU","url":""}
+{"author":"","bib":"","title":"Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips","url":""}
+{"author":"","bib":"","title":"Training one DeePMD Model in Minutes: a Step towards Online Learning","url":""}
+{"author":"","bib":"","title":"ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms","url":""}
+{"author":"","bib":"","title":"Parallel k-Core Decomposition with Batched Updates and Asynchronous Reads","url":""}
+{"author":"","bib":"","title":"Parallel Integer Sort: Theory and Practice","url":""}
+{"author":"","bib":"","title":"Fast American Option Pricing using Nonlinear Stencils","url":""}
+{"author":"","bib":"","title":"ConvStencil: Transform Stencil Computation to Matrix Multiplication on Tensor Cores","url":""}
+{"author":"","bib":"","title":"CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers","url":""}
+{"author":"","bib":"","title":"Gallatin: A General-Purpose GPU Memory Manager","url":""}
+{"author":"","bib":"","title":"A Row Decomposition-based Approach for Sparse Matrix Multiplication on GPUs","url":""}
+{"author":"","bib":"","title":"Fast Kronecker Matrix-Matrix Multiplication on GPUs","url":""}
+{"author":"","bib":"","title":"Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication","url":""}
+{"author":"","bib":"","title":"FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters","url":""}
+{"author":"","bib":"","title":"AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping","url":""}
+{"author":"","bib":"","title":"POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs","url":""}
+{"author":"","bib":"","title":"POSTER: Enabling Extreme-Scale Phase Field Simulation with In-situ Feature Extraction","url":""}
+{"author":"","bib":"","title":"POSTER: FineCo: Fine-grained Heterogeneous Resource Management for Concurrent DNN Inferences","url":""}
+{"author":"","bib":"","title":"POSTER: Optimizing Collective Communications with Error-bounded Lossy Compression for GPU Clusters","url":""}
+{"author":"","bib":"","title":"POSTER: Optimizing Sparse Tensor Contraction with Revisiting Hash Table Design","url":""}
+{"author":"","bib":"","title":"POSTER: LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization","url":""}
+{"author":"","bib":"","title":"POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions","url":""}
+{"author":"","bib":"","title":"POSTER: Pattern-Aware Sparse Communication for Scalable Recommendation Model Training","url":""}
+{"author":"","bib":"","title":"POSTER: ParGNN: Efficient Training for Large-Scale Graph Neural Network on GPU Clusters","url":""}
+{"author":"","bib":"","title":"POSTER: RadiK: Scalable Radix Top-K Selection on GPUs","url":""}
+{"author":"","bib":"","title":"POSTER: RELAX: Durable Data Structures with Swift Recovery","url":""}
+{"author":"","bib":"","title":"POSTER: StructMG: A Fast and Scalable Structured Multigrid","url":""}
