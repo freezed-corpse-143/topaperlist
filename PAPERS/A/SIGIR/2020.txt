@@ -28,7 +28,7 @@ Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in
 Ranking-Incentivized Quality Preserving Content Modification
 On Understanding Data Worker Interaction Behaviors
 Content-aware Neural Hashing for Cold-start Recommendation
-Neural Representation Learning for Clarification in Conversational Search
+Analyzing and Learning from User Interactions for Search Clarification
 Creating a Children-Friendly Reading Environment via Joint Learning of Content and Human Attention
 LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation
@@ -46,7 +46,7 @@ Finding the Best of Both Worlds: Faster and More Robust Top-k Document Retrieval
 Humor Detection in Product Question Answering Systems
 Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation
 ASiNE: Adversarial Signed Network Embedding
-Hierarchical Fashion Graph Network for Personalised Outfit Recommendation
+Hierarchical Fashion Graph Network for Personalized Outfit Recommendation
 Meta Matrix Factorization for Federated Rating Predictions
 AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction
 A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data
@@ -74,15 +74,15 @@ SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieva
 Leveraging Social Media for Medical Text Simplification
 The Cortical Activity of Graded Relevance
 Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms
-What If Bots Feel Moods? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks
+What If Bots Feel Moods?
 GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation
 Open-Retrieval Conversational Question Answering
 Sequential Recommendation with Self-attentive Multi-adversarial Network
-Can The Crowd Identify Misinformation Objectively? The Effects of Judgments Scale and Assessor's Bias
+The COVID-19 Infodemic: Can the Crowd Judge Recent Misinformation Objectively?
 Distributed Equivalent Substitution Training for Large-Scale Recommender Systems
 Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback
 Good Evaluation Measures based on Document Preferences
-GroupIM: A Mutual Information Maximizing Framework for Neural Group Recommendation
+GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation
 The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation
 Learning to Ask Screening Questions for Job Postings
 Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation
@@ -97,13 +97,13 @@ Expressions of Style in Information Seeking Conversation with an Agent
 Product Bundle Identification using Semi-Supervised Learning
 Generating Images Instead of Retrieving them: Relevance feedback on Generative Adversarial Networks
 Query Resolution for Conversational Search with Limited Supervision
-Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation
+Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation
 Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval
 Next-item Recommendation with Sequential Hypergraphs
 KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation
 Coding Electronic Health Records with Adversarial Reinforcement Path Generation
 Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation
-Disentangled Representations for Graph-based Collaborative Filtering
+Disentangled Graph Collaborative Filtering
 Evolutionary Product Description Generation: A Dynamic Fine-Tuning Approach Leveraging User Click Behavior
 CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems
 Global Context Enhanced Graph Nerual Networks for Session-based Recommendation
@@ -123,7 +123,6 @@ Sampler Design for Implicit Feedback Data by Noisy-label Robust Learning
 Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation
 Efficient Graph Query Processing over Geo-Distributed Datacenters
 Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
-Analyzing and Learning from User Interactions for Search Clarification
 Degree-Aware Alignment for Entities in Tail
 Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics
 Cascade or Recency: Constructing Better Evaluation Metrics for Session Search
@@ -159,7 +158,7 @@ A Transformer-based Embedding Model for Personalized Product Search
 DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain
 MarkedBERT: Integrating Traditional IR cues in pre-trained language models for passage retrieval
 A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension
-Adversarial Attack and Detection on Reinforcement Learning based Recommendation System
+Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems
 Relevance Models for Multi-Contextual Appropriateness in Points-Of-Interest Recommendation
 Bundle Recommendation with Graph Convolutional Networks
 Re-ranking Answer Selection with Similarity Aggregation
@@ -179,7 +178,7 @@ Sampling Bias Due to Near-Duplicates in Learning to Rank
 Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs
 MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients
 Relevance Transformer: Generating Concise Code Snippets with Relevance Feedback
-On A Unified Neural Mechanism to Search Over A Corpus of Graphs
+Deep Neural Matching Models for Graph Retrieval
 Session-based Recommendation with Hierarchical Leaping Networks
 Multi-Branch Convolutional Network for Context-Aware Recommendation
 Predicting Session Length for Product Search on E-commerce Platform
@@ -187,7 +186,7 @@ Unsupervised Semantic Hashing with Pairwise Reconstruction
 Factuality Checking in News Headlines with Eye Tracking
 Dynamic Link Prediction by Integrating Node Vector Evolution and Local Neighborhood Representation
 ArTest: The First Test Collection for Arabic Web Search with Relevance Rationales
-Improving Document-Level Text Retrieval using Local Attention in the Transformer-Kernel Pooling Model
+Local Self-Attention over Long Text for Efficient Document Retrieval
 Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation
 Residual-Duet Network with Tree Dependency Representation for Chinese Question-Answering Sentiment Analysis
 Neural Mathematical Solver with Enhanced Formula Structure
@@ -344,13 +343,13 @@ Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented T
 Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning
 Incorporating User Feedback in Conversational Question Answering over Heterogeneous Web Sources
 Towards Legal Case Retrieval
-Every Penny Counts: On Increasing the Intrinsic Value of Crowdsourcing
+When the Human is in the Loop: Cost, Effort and Behavior
 Biomedical Information Retrieval Incorporating Knowledge Graph for Explainable Precision Medicine
 Bridging East and West: An Integration of TCM and Western Medicine in Medical Text Mining
 Legal Data Analytics: Developing Assistive Tools for Legal Practitioners
 Towards Evaluating Veracity of Textual Statements on the Web
 Explaining Recommendations in Heterogeneous Networks
-Improving the Effectiveness and Efficiency of Graph NeuralRecommender Systems
+Enhancing Graph Neural Networks for Recommender Systems
 End-to-End Contextualized Document Indexing and Retrieval with Neural Networks
 Multi-document answer generation for non-factoid questions
 Language Agnostic Hate Speech Detection

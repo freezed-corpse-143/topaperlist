@@ -1,395 +1,799 @@
-Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2026 - Volume 1: Long Papers, Rabat, Morocco, March 24-29, 2026.
-LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts.
-Teams of LLM Agents can Exploit Zero-Day Vulnerabilities.
+{LM}-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts
+Teams of {LLM} Agents can Exploit Zero-Day Vulnerabilities
 Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?
-Early-Exit and Instant Confidence Translation Quality Estimation.
-GRITHopper: Decomposition-Free Multi-Hop Dense Retrieval.
-SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models.
-Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis.
-T2-RAGBench: Text-and-Table Aware Retrieval-Augmented Generation.
-The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic Competence in Large Language Models.
-Hierarchical Text Classification with LLM-Refined Taxonomies.
-Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning.
-Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models.
-Out of Style: RAG's Fragility to Linguistic Variation.
-Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs.
-H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents.
-MULSUM: A Multimodal Summarization System with Vis-Aligner and Diversity-Aware Image Selection.
-How Quantization Shapes Bias in Large Language Models.
-If Probable, Then Acceptable? Understanding Conditional Acceptability Judgments in Large Language Models.
-The Dog the Cat Chased Stumped the Model: Measuring When Language Models Abandon Structure for Shortcuts.
-Automated Screening of Antibacterial Nanoparticle Literature: Dataset Curation and Model Evaluation.
-Intention Knowledge Graph Construction for User Intention Relation Modeling.
-Analogical Structure, Minimal Contextual Cues and Contrastive Distractors: Input Design for Sample-Efficient Linguistic Rule Induction.
-JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human risky health behavior Content in Jirai Community.
-Chandomitra: Towards Generating Structured Sanskrit Poetry from Natural Language Inputs.
-Tailored Emotional LLM-Supporter: Enhancing Cultural Sensitivity.
-Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs.
-Democratic or Authoritarian? Probing a New Dimension of Political Biases in Large Language Models.
-PromptFE: Automated Feature Engineering by Prompting.
-Detecting (Un)answerability in Large Language Models with Linear Directions.
-Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.
-BERT, are you paying attention? Attention regularization with human-annotated rationales.
-Humans and transformer LMs: Abstraction drives language learning.
-BigTokDetect: A Clinically-Informed Vision-Language Modeling Framework for Detecting Pro-Bigorexia Videos on TikTok.
-Do language models accommodate their users? A study of linguistic convergence.
-Auditing Language Model Unlearning via Information Decomposition.
-OD-Stega: LLM-Based Relatively Secure Steganography via Optimized Distributions.
-Sparse Adapter Fusion for Continual Learning in NLP.
-Rethinking Prompt Optimizers: From Prompt Merits to Optimization.
-A Survey on Multilingual Mental Disorders Detection from Social Media Data.
-Identifying Fine-grained Forms of Populism in Political Discourse: A Case Study on Donald Trump's Presidential Campaigns.
-SCoNE: a Self-Correcting and Noise-Augmented Method for Complex Biological and Chemical Named Entity Recognition.
-A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models.
-Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning.
-Safety of Large Language Models Beyond English: A Systematic Literature Review of Risks, Biases, and Safeguards.
-InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection.
-Cetvel: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of LLMs for Turkish.
-CALE : Concept-Aligned Embeddings for Both Within-Lemma and Inter-Lemma Sense Differentiation.
-Do NOT Classify and Count: Hybrid Attribute Control Success Evaluation.
-Detecting Training Data of Large Language Models via Expectation Maximization.
-How effective are VLMs in assisting humans in inferring the quality of mental models from Multimodal short answers?
-Don't Trust Generative Agents to Mimic Communication on Social Networks Unless You Benchmarked their Empirical Realism.
-Persona Prompting as a Lens on LLM Social Reasoning.
-PartisanLens: A Multilingual Dataset of Hyperpartisan and Conspiratorial Immigration Narratives in European Media.
-Adaptive LLM-Symbolic Reasoning via Dynamic Logical Solver Composition.
-Lexical Popularity: Quantifying the Impact of Pre-training for LLM Performance.
-Uncovering Hidden Correctness in LLM Causal Reasoning via Symbolic Verification.
-CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures.
-Aleph-Alpha-GermanWeb: Improving German-language LLM pre-training with model-based data curation and synthetic data generation.
-Ultra-Low-Dimensional Prompt Tuning via Random Projection.
-NP-Hard Lower Bound Complexity for Semantic Self-Verification.
-STAMP: Selective Task-Aware Mechanism for Text Privacy.
-Deconstructing Instruction-Following: A New Benchmark for Granular Evaluation of Large Language Model Instruction Compliance Abilities.
-Utterance-level Detection Framework for LLM-Involved Content Detection in Conversational Setting.
-Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL.
-iBERT: Interpretable Embeddings via Sense Decomposition.
-Attacker's Noise Can Manipulate Your Audio-based LLM in the Real World.
-Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework.
-AutoBool: Reinforcement-Learned LLM for Effective Automatic Systematic Reviews Boolean Query Generation.
-Improving LLM Domain Certification with Pretrained Guide Models.
-TDFlow: Agentic Workflows for Test Driven Development.
-Contrastive Learning with Narrative Twins for Modeling Story Salience.
-ExAnte: A Benchmark for Ex-Ante Inference in Large Language Models.
-CRADLE Bench: A Clinician-Annotated Benchmark for Multi-Faceted Mental Health Crisis and Safety Risk Detection.
-Coordinates from Context: Using LLMs to Ground Complex Location References.
-Discourse Graph Guided Document Translation with Large Language Models.
-StarFlow: Generating Structured Workflow Outputs From Sketch Images.
-Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors.
-How Reliable are Confidence Estimators for Large Reasoning Models? A Systematic Benchmark on High-Stakes Domains.
-SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine.
-RoZO: Geometry-Aware Zeroth-Order Fine-Tuning on Low-Rank Adapters for Black-Box Large Language Models.
-Mitigating Degree Bias in Hypergraphs via Attribute-as-Structure Approach.
-Generative Personality Simulation via Theory-Informed Structured Interview.
-Unraveling LLM Jailbreaks Through Safety Knowledge Neurons.
-ELLA: Efficient Lifelong Learning for Adapters in Large Language Models.
-LingGen: Scalable Multi-Attribute Linguistic Control via Power-Law Masking.
-RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion.
-Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth.
-PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR.
-Too Open for Opinion? Embracing Open-Endedness in Large Language Models for Social Simulation.
-Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graph for Retrieval-Augmented Generation.
-Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the Era of LLMs?
-A Computational Approach to Visual Metonymy.
-A Tale of Two Scripts: Transliteration and Post-Correction for Judeo-Arabic.
-Multimodal Evaluation of Russian-language Architectures.
-Don't Judge a Book by its Cover: Testing LLMs' Robustness Under Logical Obfuscation.
-I know you are different! Towards Persona Driven Knowledge-infused Dialogue Assistant.
-Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
-Layer-wise Swapping for Generalizable Multilingual Safety.
-Measuring Idiomaticity in Text Embedding Models with epsilon-compositionality.
-Are My Optimized Prompts Compromised? Exploring Vulnerabilities of LLM-based Optimizers.
-MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling.
-Computational Benchmarks for Egyptian Arabic Child Directed Speech.
-K-LegalDeID: A Benchmark Dataset and KLUEBERT-CRF for De-identification in Korean Court Judgments.
-Specialization through Collaboration: Understanding Expert Interaction in Mixture-of-Expert Large Language Models.
-Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization.
-Mind the Gap: Benchmarking LLM Uncertainty and Calibration with Specialty-Aware Clinical QA and Reasoning-Based Behavioural Features.
-Controlling Reading Ease with Gaze-Guided Text Generation.
-PictureStories: Predicting the Task Adherence of Language Learner Answers to a Picture Story-Based Writing Task.
-Assessing the Impact of Typological Features on Multilingual Machine Translation in the Age of Large Language Models.
-Large Language Models as Oracles for Ontology Alignment.
-Reasoning or Knowledge: Stratified Evaluation of Biomedical LLMs.
-Effective QA-Driven Annotation of Predicate-Argument Relations Across Languages.
-Form and Meaning in Intrinsic Multilingual Evaluations.
-What Breaks Knowledge Graph based RAG? Benchmarking and Empirical Insights into Reasoning under Incomplete Knowledge.
-Assessing Web Search Credibility and Response Groundedness in Chat Assistants.
-When the Model Said 'No Comment', We Knew Helpfulness Was Dead, Honesty Was Alive, and Safety Was Terrified.
-NeuronMoE: Efficient Cross-Lingual Extension via Neuron-Guided Mixture-of-Experts.
-From Emotion to Expression: Theoretical Foundations and Resources for Fear Speech.
-AdaptBPE: From General Purpose to Specialized Tokenizers.
-Reassessing Active Learning Adoption in Contemporary NLP: A Community Survey.
-Beyond "Not Novel Enough": Enriching Scholarly Critique with LLM-Assisted Feedback.
-AfriVox: Probing Multilingual and Accent Robustness of Speech LLMs.
-PortOldBERT: Portuguese Historical Language Models.
-ReMedQA: Are We Done With Medical Multiple-Choice Benchmarks?
-Can Activation Steering Generalize Across Languages? A Study on Syllogistic Reasoning in Language Models.
-SPARTA: Evaluating Reasoning Segmentation Robustness through Black-Box Adversarial Paraphrasing in Text Autoencoder Latent Space.
-Knowledge Augmentation Enhances Token Classification for Recipe Understanding.
-Argumentation and Judgement Factors: LLM-based Discovery and Application in Insurance Disputes.
-ViGoEmotions: A Benchmark Dataset For Fine-grained Emotion Detection on Vietnamese Texts.
-PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs.
-DETECT: Determining Ease and Textual Clarity of German Text Simplifications.
-MathEDU: Feedback Generation on Problem-Solving Processes for Mathematical Learning Support.
-Test-Time Scaling of Reasoning Models for Machine Translation.
-How Good Are LLMs at Processing Tool Outputs?
-Tug-of-war between idioms' figurative and literal interpretations in LLMs.
-Do LLM hallucination detectors suffer from low-resource effect?
-Coupling Local Context and Global Semantic Prototypes via a Hierarchical Architecture for Rhetorical Roles Labeling.
-Guided by the Plan: Enhancing Faithful Autoregressive Text-to-Audio Generation with Guided Decoding.
-Safe-Unsafe Concept Separation Emerges from a Single Direction in Language Models Activation Space.
-PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark.
-Decoding the Market's Pulse: Context-Enriched Agentic Retrieval Augmented Generation for Predicting Post-Earnings Price Shocks.
-LAILA: A Large Trait-Based Dataset for Arabic Automated Essay Scoring.
-Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling.
-MALicious INTent Dataset and Inoculating LLMs for Enhanced Disinformation Detection.
-When Meanings Meet: Investigating the Emergence and Quality of Shared Concept Spaces during Multilingual Language Model Training.
-Expanding the Boundaries of Vision Prior Knowledge in Multi-modal Large Language Models.
-Classifying and Addressing the Diversity of Errors in Retrieval-Augmented Generation Systems.
-Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application.
-AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders.
-Vision-Language Models Align with Human Neural Representations in Concept Processing.
-FAID: Fine-grained AI-generated Text Detection using Multi-task Auxiliary and Multi-level Contrastive Learning.
-BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data.
-Personality Editing for Language Models through Adjusting Self-Referential Queries.
+Early-Exit and Instant Confidence Translation Quality Estimation
+{GRITH}opper: Decomposition-Free Multi-Hop Dense Retrieval
+{SC}o{PE} {VLM}: Selective Context Processing for Efficient Document Navigation in Vision-Language Models
+Beyond Sample-Level Feedback: Using Reference-Level Feedback to Guide Data Synthesis
+T$^2$-{RAGB}ench: Text-and-Table Benchmark for Evaluating Retrieval-Augmented Generation
+The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic Competence in Large Language Models
+Hierarchical Text Classification with {LLM}-Refined Taxonomies
+Divide, Reweight, and Conquer: A Logit Arithmetic Approach for In-Context Learning
+Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models
+Out of Style: {RAG}{'}s Fragility to Linguistic Variation
+Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual {LLM}s
+{H}-{MEM}: Hierarchical Memory for High-Efficiency Long-Term Reasoning in {LLM} Agents
+{MULSUM}: A Multimodal Summarization System with Vis-Aligner and Diversity-Aware Image Selection
+How Quantization Shapes Bias in Large Language Models
+If Probable, Then Acceptable? Understanding Conditional Acceptability Judgments in Large Language Models
+The Dog the Cat Chased Stumped the Model: Measuring When Language Models Abandon Structure for Shortcuts
+Automated Screening of Antibacterial Nanoparticle Literature: Dataset Curation and Model Evaluation
+Intention Knowledge Graph Construction for User Intention Relation Modeling
+Analogical Structure, Minimal Contextual Cues and Contrastive Distractors: Input Design for Sample-Efficient Linguistic Rule Induction
+{J}irai{B}ench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human risky health behavior Content in Jirai Community
+Chandomitra: Towards Generating Structured {S}anskrit Poetry from Natural Language Inputs
+Tailored Emotional {LLM}-Supporter: Enhancing Cultural Sensitivity
+Leveraging {LLM}-{GNN} Integration for Open-World Question Answering over Knowledge Graphs
+Democratic or Authoritarian? Probing a New Dimension of Political Biases in Large Language Models
+{P}rompt{FE}: Automated Feature Engineering by Prompting
+Detecting (Un)answerability in Large Language Models with Linear Directions
+Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning
+{BERT}, are you paying attention? Attention regularization with human-annotated rationales
+Humans and transformer {LM}s: Abstraction drives language learning
+{B}ig{T}ok{D}etect: A Clinically-Informed Vision{--}Language Modeling Framework for Detecting Pro-Bigorexia Videos on {T}ik{T}ok
+Do language models accommodate their users? A study of linguistic convergence
+Auditing Language Model Unlearning via Information Decomposition
+{OD}-Stega: {LLM}-Based Relatively Secure Steganography via Optimized Distributions
+Sparse Adapter Fusion for Continual Learning in {NLP}
+Rethinking Prompt Optimizers: From Prompt Merits to Optimization
+A Survey on Multilingual Mental Disorders Detection from Social Media Data
+Identifying Fine-grained Forms of Populism in Political Discourse: A Case Study on {D}onald Trump{'}s Presidential Campaigns
+{SC}o{NE}: a Self-Correcting and Noise-Augmented Method for Complex Biological and Chemical Named Entity Recognition
+A Benchmark for Audio Reasoning Capabilities of Multimodal Large Language Models
+Nemotron-{C}ross{T}hink: Scaling Self-Learning beyond Math Reasoning
+Safety of Large Language Models Beyond {E}nglish: A Systematic Literature Review of Risks, Biases, and Safeguards
+{I}nfi{GUIA}gent: A Multimodal Generalist {GUI} Agent with Native Reasoning and Reflection
+Cetvel: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of {LLM}s for {T}urkish
+{CALE} : Concept-Aligned Embeddings for Both Within-Lemma and Inter-Lemma Sense Differentiation
+Do {NOT} Classify and Count: Hybrid Attribute Control Success Evaluation
+Detecting Training Data of Large Language Models via Expectation Maximization
+How effective are {VLM}s in assisting humans in inferring the quality of mental models from Multimodal short answers?
+Don{'}t Trust Generative Agents to Mimic Communication on Social Networks Unless You Benchmarked their Empirical Realism
+Persona Prompting as a Lens on {LLM} Social Reasoning
+{P}artisan{L}ens: A Multilingual Dataset of Hyperpartisan and Conspiratorial Immigration Narratives in {E}uropean Media
+Adaptive {LLM}-Symbolic Reasoning via Dynamic Logical Solver Composition
+Lexical Popularity: Quantifying the Impact of Pre-training for {LLM} Performance
+Uncovering Hidden Correctness in {LLM} Causal Reasoning via Symbolic Verification
+{CORE}: Measuring Multi-Agent {LLM} Interaction Quality under Game-Theoretic Pressures
+Aleph-Alpha-{G}erman{W}eb: Improving {G}erman-language {LLM} pre-training with model-based data curation and synthetic data generation
+Ultra-Low-Dimensional Prompt Tuning via Random Projection
+{NP}-Hard Lower Bound Complexity for Semantic Self-Verification
+{STAMP}: Selective Task-Aware Mechanism for Text Privacy
+Deconstructing Instruction-Following: A New Benchmark for Granular Evaluation of Large Language Model Instruction Compliance Abilities
+Utterance-level Detection Framework for {LLM}-Involved Content Detection in Conversational Setting
+Patient-Similarity Cohort Reasoning in Clinical Text-to-{SQL}
+i{BERT}: Interpretable Embeddings via Sense Decomposition
+Attacker{'}s Noise Can Manipulate Your Audio-based {LLM} in the Real World
+Say It Another Way: Auditing {LLM}s with a User-Grounded Automated Paraphrasing Framework
+{A}uto{B}ool: Reinforcement-Learned {LLM} for Effective Automatic Systematic Reviews {B}oolean Query Generation
+Improving {LLM} Domain Certification with Pretrained Guide Models
+{TDF}low: Agentic Workflows for Test Driven Development
+Contrastive Learning with Narrative Twins for Modeling Story Salience
+{E}x{A}nte: A Benchmark for Ex-Ante Inference in Large Language Models
+{CRADLE} Bench: A Clinician-Annotated Benchmark for Multi-Faceted Mental Health Crisis and Safety Risk Detection
+Coordinates from Context: Using {LLM}s to Ground Complex Location References
+Discourse Graph Guided Document Translation with Large Language Models
+{S}tar{F}low: Generating Structured Workflow Outputs From Sketch Images
+Adaptive Helpfulness{--}Harmlessness Alignment with Preference Vectors
+How Reliable are Confidence Estimators for Large Reasoning Models? A Systematic Benchmark on High-Stakes Domains
+{S}earch{LLM}: Detecting {LLM} Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine
+{R}o{ZO}: Geometry-Aware Zeroth-Order Fine-Tuning on Low-Rank Adapters for Black-Box Large Language Models
+Mitigating Degree Bias in Hypergraphs via Attribute-as-Structure Approach
+Generative Personality Simulation via Theory-Informed Structured Interview
+Unraveling {LLM} Jailbreaks Through Safety Knowledge Neurons
+{ELLA}: Efficient Lifelong Learning for Adapters in Large Language Models
+{L}ing{G}en: Scalable Multi-Attribute Linguistic Control via Power-Law Masking
+{RECIPE}-{TKG}: From Sparse History to Structured Reasoning for {LLM}-based Temporal Knowledge Graph Completion
+Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth
+{P}aper{S}earch{QA}: Learning to Search and Reason over Scientific Papers with {RLVR}
+Too Open for Opinion? Embracing Open-Endedness in Large Language Models for Social Simulation
+Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graph for Retrieval-Augmented Generation
+Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the Era of {LLM}s?
+A Computational Approach to Visual Metonymy
+A Tale of Two Scripts: Transliteration and Post-Correction for {J}udeo-{A}rabic
+Multimodal Evaluation of {R}ussian-language Architectures
+Don{'}t Judge a Book by its Cover: Testing {LLM}s' Robustness Under Logical Obfuscation
+{I} know you are different! Towards Persona Driven Knowledge-infused Dialogue Assistant
+Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning
+Layer-wise Swapping for Generalizable Multilingual Safety
+Measuring Idiomaticity in Text Embedding Models with epsilon-compositionality
+Are My Optimized Prompts Compromised? Exploring Vulnerabilities of {LLM}-based Optimizers
+{MAV}i{S}: A Multi-Agent Framework for Long-Sequence Video Storytelling
+Computational Benchmarks for {E}gyptian {A}rabic Child Directed Speech
+K-{L}egal{D}e{ID}: A Benchmark Dataset and {KLUEBERT}-{CRF} for De-identification in {K}orean Court Judgments
+Specialization through Collaboration: Understanding Expert Interaction in Mixture-of-Expert Large Language Models
+Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization
+Mind the Gap: Benchmarking {LLM} Uncertainty and Calibration with Specialty-Aware Clinical {QA} and Reasoning-Based Behavioural Features
+Controlling Reading Ease with Gaze-Guided Text Generation
+{P}icture{S}tories: Predicting the Task Adherence of Language Learner Answers to a Picture Story-Based Writing Task
+Assessing the Impact of Typological Features on Multilingual Machine Translation in the Age of Large Language Models
+Large Language Models as Oracles for Ontology Alignment
+Reasoning or Knowledge: Stratified Evaluation of Biomedical {LLM}s
+Effective {QA}-Driven Annotation of Predicate{--}Argument Relations Across Languages
+Form and Meaning in Intrinsic Multilingual Evaluations
+What Breaks Knowledge Graph based {RAG}? Benchmarking and Empirical Insights into Reasoning under Incomplete Knowledge
+Assessing Web Search Credibility and Response Groundedness in Chat Assistants
+When the Model Said `No Comment', We Knew Helpfulness Was Dead, Honesty Was Alive, and Safety Was Terrified
+{N}euron{M}o{E}: Efficient Cross-Lingual Extension via Neuron-Guided Mixture-of-Experts
+From Emotion to Expression: Theoretical Foundations and Resources for Fear Speech
+{A}dapt{BPE}: From General Purpose to Specialized Tokenizers
+Reassessing Active Learning Adoption in Contemporary {NLP}: A Community Survey
+Beyond ``Not Novel Enough'': Enriching Scholarly Critique with {LLM}-Assisted Feedback
+{A}fri{V}ox: Probing Multilingual and Accent Robustness of Speech {LLM}s
+{P}ort{O}ld{BERT}: {P}ortuguese Historical Language Models
+{R}e{M}ed{QA}: Are We Done With Medical Multiple-Choice Benchmarks?
+Can Activation Steering Generalize Across Languages? A Study on Syllogistic Reasoning in Language Models
+{SPARTA}: Evaluating Reasoning Segmentation Robustness through Black-Box Adversarial Paraphrasing in Text Autoencoder Latent Space
+Knowledge Augmentation Enhances Token Classification for Recipe Understanding
+Argumentation and Judgement Factors: {LLM}-based Discovery and Application in Insurance Disputes
+{V}i{G}o{E}motions: A Benchmark Dataset For Fine-grained Emotion Detection on {V}ietnamese Texts
+{PTEB}: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with {LLM}s
+{DETECT}: Determining Ease and Textual Clarity of {G}erman Text Simplifications
+{M}ath{EDU}: Feedback Generation on Problem-Solving Processes for Mathematical Learning Support
+Test-Time Scaling of Reasoning Models for Machine Translation
+How Good Are {LLM}s at Processing Tool Outputs?
+Tug-of-war between idioms' figurative and literal interpretations in {LLM}s
+Do {LLM} hallucination detectors suffer from low-resource effect?
+Coupling Local Context and Global Semantic Prototypes via a Hierarchical Architecture for Rhetorical Roles Labeling
+Guided by the Plan: Enhancing Faithful Autoregressive Text-to-Audio Generation with Guided Decoding
+Safe-Unsafe Concept Separation Emerges from a Single Direction in Language Models Activation Space
+{PEFT}-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark
+Decoding the Market{'}s Pulse: Context-Enriched Agentic Retrieval Augmented Generation for Predicting Post-Earnings Price Shocks
+{LAILA}: A Large Trait-Based Dataset for {A}rabic Automated Essay Scoring
+Live {API}-Bench: 2500+ Live {API}s for Testing Multi-Step Tool Calling
+{MAL}icious {INT}ent Dataset and Inoculating {LLM}s for Enhanced Disinformation Detection
+When Meanings Meet: Investigating the Emergence and Quality of Shared Concept Spaces during Multilingual Language Model Training
+Expanding the Boundaries of Vision Prior Knowledge in Multi-modal Large Language Models
+Classifying and Addressing the Diversity of Errors in Retrieval-Augmented Generation Systems
+Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application
+{A}udio{SAE}: Towards Understanding of Audio-Processing Models with Sparse {A}uto{E}ncoders
+Vision-Language Models Align with Human Neural Representations in Concept Processing
+{FAID}: {F}ine-grained {AI}-generated Text Detection using Multi-task Auxiliary and Multi-level Contrastive Learning
+{B}aby{B}abel{LM}: A Multilingual Benchmark of Developmentally Plausible Training Data
+Personality Editing for Language Models through Adjusting Self-Referential Queries
 How Much Pretraining Does Structured Data Need?
-Finding Culture-Sensitive Neurons in Vision-Language Models.
-Polyglots or Multitudes? Multilingual LLM Answers to Value-laden Multiple-Choice Questions.
-ABCD-LINK: Annotation Bootstrapping for Cross-Document Fine-Grained Links.
-Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue.
-HalluZig: Hallucination Detection using Zigzag Persistence.
-Mapping the Course for Prompt-based Structured Prediction.
-Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models.
-Martingale Foresight Sampling: A Principled Approach to Inference-Time LLM Decoding.
-Is This LLM Library Learning? Evaluation Must Account For Compute and Behaviour.
-Too Many Frames, Not All Useful: Efficient Strategies for Long-Form Video QA.
-A Unified View on Emotion Representation in Large Language Models.
-TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models.
-ARC: Argument Representation and Coverage Analysis for Zero-Shot Long Document Summarization with Instruction Following LLMs.
-AudioJudge: Understanding What Works in Large Audio Model Based Speech Evaluation.
-Learning Multilingual Agentic Policy to Control Sycophancy.
-ToxiPrompt: A Two-Stage Red-Teaming Approach for Balancing Adversarial Prompt Diversity and Response Toxicity.
-AfriMTEB and AfriE5: Benchmarking and Adapting Text Embedding Models for African Languages.
-Better Generalizing to Unseen Concepts: An Evaluation Framework and An LLM-Based Auto-Labeled Pipeline for Biomedical Concept Recognition.
-A Representation Sharpening Framework for Zero Shot Dense Retrieval.
-Spotlight Your Instructions: Instruction-following with Dynamic Attention Steering.
-FormGym: Doing Paperwork with Agents.
-NarraBench: A Comprehensive Framework for Narrative Benchmarking.
-FaithLM: Towards Faithful Explanations for Large Language Models.
+Finding Culture-Sensitive Neurons in Vision-Language Models
+Polyglots or Multitudes? Multilingual {LLM} Answers to Value-laden Multiple-Choice Questions
+{ABCD}-{LINK}: Annotation Bootstrapping for Cross-Document Fine-Grained Links
+Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue
+{H}allu{Z}ig: Hallucination Detection using Zigzag Persistence
+Mapping the Course for Prompt-based Structured Prediction
+Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models
+Martingale Foresight Sampling: A Principled Approach to Inference-Time {LLM} Decoding
+Is This {LLM} Library Learning? Evaluation Must Account For Compute and Behaviour
+Too Many Frames, Not All Useful: Efficient Strategies for Long-Form Video {QA}
+A Unified View on Emotion Representation in Large Language Models
+{TRACE}: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models
+{ARC}: Argument Representation and Coverage Analysis for Zero-Shot Long Document Summarization with Instruction Following {LLM}s
+{A}udio{J}udge: Understanding What Works in Large Audio Model Based Speech Evaluation
+Learning Multilingual Agentic Policy to Control Sycophancy
+{T}oxi{P}rompt: A Two-Stage Red-Teaming Approach for Balancing Adversarial Prompt Diversity and Response Toxicity
+{A}fri{MTEB} and {A}fri{E}5: Benchmarking and Adapting Text Embedding Models for {A}frican Languages
+Better Generalizing to Unseen Concepts: An Evaluation Framework and An {LLM}-Based Auto-Labeled Pipeline for Biomedical Concept Recognition
+A Representation Sharpening Framework for Zero Shot Dense Retrieval
+Spotlight Your Instructions: Instruction-following with Dynamic Attention Steering
+{F}orm{G}ym: Doing Paperwork with Agents
+{N}arra{B}ench: A Comprehensive Framework for Narrative Benchmarking
+{F}aith{LM}: Towards Faithful Explanations for Large Language Models
 Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?
-KAD: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral.
-When Can We Trust LLMs in Mental Health? Large-Scale Benchmarks for Reliable LLM Evaluation.
-DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures.
-IDEAlign: Comparing Ideas of Large Language Models to Domain Experts.
-Amory: Building Coherent Narrative-Driven Agent Memory through Agentic Reasoning.
-It's All About the Confidence: An Unsupervised Approach for Multilingual Historical Entity Linking using Large Language Models.
-SoS: Analysis of Surface over Semantics in Multilingual Text-To-Image Generation.
-Gender and Politeness Perception: A Novel Approach for Exploring Annotations Disagreement.
-TempViz: On the Evaluation of Temporal Knowledge in Text-to-Image Models.
-ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation.
-Text Classification Under Class Distribution Shift: A Survey.
-Reasoning's Razor: Reasoning Improves Accuracy but Hurts Recall at Critical Operating Points in Safety and Hallucination Detection.
-Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design.
-Rethinking Reading Order: Toward Generalizable Document Understanding with LLM-based Relation Modeling.
-Validating Automatic Evaluation of Controllable Counterspeech Generation: Rankings Matter More Than Scores.
-Journey Before Destination: On the importance of Visual Faithfulness in Slow Thinking.
-Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools.
-MetaLead: A Comprehensive Human-Curated Leaderboard Dataset for Transparent Reporting of Machine Learning Experiments.
-Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations.
-HateXScore: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations.
+{KAD}: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral
+When Can We Trust {LLM}s in Mental Health? Large-Scale Benchmarks for Reliable {LLM} Evaluation
+{D}oc{P}olar{BERT}: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures
+{IDEA}lign: Comparing Ideas of Large Language Models to Domain Experts
+Amory: Building Coherent Narrative-Driven Agent Memory through Agentic Reasoning
+It{'}s All About the Confidence: An Unsupervised Approach for Multilingual Historical Entity Linking using Large Language Models
+{S}o{S}: Analysis of Surface over Semantics in Multilingual Text-To-Image Generation
+Gender and Politeness Perception: A Novel Approach for Exploring Annotations Disagreement
+{T}emp{V}iz: On the Evaluation of Temporal Knowledge in Text-to-Image Models
+{T}oxi{GAN}: Toxic Data Augmentation via {LLM}-Guided Directional Adversarial Generation
+Text Classification Under Class Distribution Shift: A Survey
+Reasoning{'}s Razor: Reasoning Improves Accuracy but Hurts Recall at Critical Operating Points in Safety and Hallucination Detection
+Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
+Rethinking Reading Order: Toward Generalizable Document Understanding with {LLM}-based Relation Modeling
+Validating Automatic Evaluation of Controllable Counterspeech Generation: Rankings Matter More Than Scores
+Journey Before Destination: On the importance of Visual Faithfulness in Slow Thinking
+Automating Android Build Repair: Bridging the Reasoning-Execution Gap in {LLM} Agents with Domain-Specific Tools
+{M}eta{L}ead: A Comprehensive Human-Curated Leaderboard Dataset for Transparent Reporting of Machine Learning Experiments
+Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations
+{H}ate{XS}core: A Metric Suite for Evaluating Reasoning Quality in Hate Speech Explanations
 Measuring Mechanistic Independence: Can Bias Be Removed Without Erasing Demographics?
-A Survey on LLM-based Conversational User Simulation.
-Prompt-driven Detection of Offensive Urdu Language using Large Language Models.
-Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models.
-RAGPPI: Retrieval-Augmented Generation Benchmark for Protein-Protein Interactions in Drug Discovery.
-Don't Generate, Classify! Low-Latency Prompt Optimization with Structured Complementary Prompt.
-CHROMIC: Chronological Reasoning Across Multi-Panel Comics.
-GAST: Gradient-aligned Sparse Tuning of Large Language Models with Data-layer Selection.
-BeDiscovER: The Benchmark of Discourse Understanding in the Era of Reasoning Language Models.
-Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning.
-Chat-Ghosting: Methods for Auto-Completion in Dialog Systems.
-Attribution-Guided Multi-Object Hallucination and Bias Detection in Vision-Language Models.
-Word Surprisal Correlates with Sentential Contradiction in LLMs.
-ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models.
-Re2-DocRED: Revisiting Revisited-DocRED for Joint Entity and Relation Extraction.
-Where Do LLMs Compose Meaning? A Layerwise Analysis of Compositional Robustness.
-BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models.
-Document-Level Zero-Shot Relation Extraction with Entity Side Information.
-Steering Large Language Models for Machine Translation Personalization.
-Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties.
-Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing.
-Unlocking Latent Discourse Translation in LLMs Through Quality-Aware Decoding.
-Cross-lingual and Word-Independent Methods for Quantifying Degree of Grammaticalization.
-Knowing the Facts but Choosing the Shortcut: Understanding How Large Language Models Compare Entities.
-Calibrating Beyond English: Language Diversity for Better Quantized Multilingual LLMs.
-LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding.
-Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs.
-Recursive numeral systems are highly regular and easy to process.
-Bringing Emerging Architectures to Sequence Labeling in NLP.
-SEMIROUTER: Sparse-Data Enhanced Routing for Adaptive Multi-LLM System.
-DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation.
-Boundary-Aware LLM Augmentation for Low-Resource Event Argument Extraction.
-CASE - Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement.
-Evaluation and LLM-Guided Learning of ICD Coding Rationales.
-Evaluating the Effect of Retrieval Augmentation on Social Biases.
-Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions.
-Entropy-Gated Branching for Efficient Test-Time Reasoning.
-Decomposition-Enhanced Training for Post-Hoc Attributions in Language Models.
-INSURE-Dial: A Phase-Aware Conversational Dataset Benchmark for Compliance Verification and Phase Detection.
-NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment.
-From Delegates to Trustees: How Optimizing for Long-Term Interests Shapes Bias and Alignment in LLMs.
-Investigating Language and Retrieval Bias in Multilingual Previously Fact-Checked Claim Detection.
-FFE-Hallu: Hallucinations in Fixed Figurative Expressions: A Benchmark of Idioms and Proverbs in the Persian Language.
-MEVER: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval.
-DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding.
-ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders.
-Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark.
-Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions.
-CliniBench: A Clinical Outcome Prediction Benchmark for Generative and Encoder-Based Language Models.
-DIVINE : Coordinating Multimodal Disentangled Representations for Oro-Facial Neurological Disorder Assessment.
-Biasless Language Models Learn Unnaturally: How LLMs Fail to Distinguish the Possible from the Impossible.
-Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech.
-Detecting Non-Membership in LLM Training Data via Rank Correlations.
-Taming Object Hallucinations with Verified Atomic Confidence Estimation.
-DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning.
-ToolDreamer: Instilling LLM Reasoning Into Tool Retrievers.
-An Empirical Study of Speculative Decoding for Small Language Models.
-Lost in Formatting: How Output Formats Skew LLM Performance on Information Extraction.
-Pseudo-Likelihood Training for Reasoning Diffusion Language Models.
-RoSE: Round-robin Synthetic Data Evaluation for Selecting LLM Generators without Human Test Sets.
-RotBench: Evaluating Multi-modal Large Language Models on Identifying Image Rotation.
-Multilingual Amnesia: On the Transferability of Unlearning in Multilingual LLMs.
-Beyond Math: Stories as a Testbed for Memorization-Constrained Reasoning in LLMs.
-Neural Breadcrumbs: Membership Inference Attacks on LLMs Through Hidden State and Attention Pattern Analysis.
-Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data.
-Beyond Names: How Grammatical Gender Markers Bias LLM-based Educational Recommendations.
-ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images.
-What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning.
-KidsArtBench: Multi-Dimensional Children's Art Evaluation with Attribute-Aware MLLMs.
-Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions.
-Tracing Multilingual Knowledge Acquisition Dynamics in Domain Adaptation: A Case Study of Biomedical Adaptation.
-Contextual morphologically-guided tokenization for Latin encoder models.
-Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning.
-ObjChangeVR: Object State Change Reasoning from Continuous Egocentric Views in VR Environments.
-Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge.
-Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance.
-CSPB: Conversational Speech Processing Benchmark for Self-supervised Speech Models.
-Multi-Token Completion for Text Anonymization.
-MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning.
-Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models.
-Evaluating Adversarial Robustness of Concept Representations in Sparse Autoencoders.
-Mary, the Cheeseburger-Eating Vegetarian: Do LLMs Recognize Incoherence in Narratives?
-Strong Memory, Weak Control: An Empirical Study of Executive Functioning in LLMs.
+A Survey on {LLM}-based Conversational User Simulation
+Prompt-driven Detection of Offensive {U}rdu Language using Large Language Models
+Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models
+{RAGPPI}: Retrieval-Augmented Generation Benchmark for Protein{--}Protein Interactions in Drug Discovery
+Don{'}t Generate, Classify! Low-Latency Prompt Optimization with Structured Complementary Prompt
+{CHROMIC}: Chronological Reasoning Across Multi-Panel Comics
+{GAST}: Gradient-aligned Sparse Tuning of Large Language Models with Data-layer Selection
+{B}e{D}iscov{ER}: The Benchmark of Discourse Understanding in the Era of Reasoning Language Models
+Confidence-Calibrated Small-Large Language Model Collaboration for Cost-Efficient Reasoning
+Chat-Ghosting: Methods for Auto-Completion in Dialog Systems
+Attribution-Guided Multi-Object Hallucination and Bias Detection in Vision-Language Models
+Word Surprisal Correlates with Sentential Contradiction in {LLM}s
+{ARREST}: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models
+Re2-{D}oc{RED}: Revisiting Revisited-{D}oc{RED} for Joint Entity and Relation Extraction
+Where Do {LLM}s Compose Meaning? A Layerwise Analysis of Compositional Robustness
+{BLE}n{D}-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models
+Document-Level Zero-Shot Relation Extraction with Entity Side Information
+Steering Large Language Models for Machine Translation Personalization
+Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties
+Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing
+Unlocking Latent Discourse Translation in {LLM}s Through Quality-Aware Decoding
+Cross-lingual and Word-Independent Methods for Quantifying Degree of Grammaticalization
+Knowing the Facts but Choosing the Shortcut: Understanding How Large Language Models Compare Entities
+Calibrating Beyond {E}nglish: Language Diversity for Better Quantized Multilingual {LLM}s
+{L}a{C}o{MSA}: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding
+Can you map it to {E}nglish? The Role of Cross-Lingual Alignment in the Multilingual Performance of {LLM}s
+Recursive numeral systems are highly regular and easy to process
+Bringing Emerging Architectures to Sequence Labeling in {NLP}
+{SEMIROUTER}: Sparse-Data Enhanced Routing for Adaptive Multi-{LLM} System
+{DITTO}: A Spoofing Attack Framework on Watermarked {LLM}s via Knowledge Distillation
+Boundary-Aware {LLM} Augmentation for Low-Resource Event Argument Extraction
+{CASE} {--} Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement
+Evaluation and {LLM}-Guided Learning of {ICD} Coding Rationales
+Evaluating the Effect of Retrieval Augmentation on Social Biases
+Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-{LLM} Interactions
+Entropy-Gated Branching for Efficient Test-Time Reasoning
+Decomposition-Enhanced Training for Post-Hoc Attributions in Language Models
+{INSURE}-Dial: A Phase-Aware Conversational Dataset Benchmark for Compliance Verification and Phase Detection
+{NLP} for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment
+From Delegates to Trustees: How Optimizing for Long-Term Interests Shapes Bias and Alignment in {LLM}s
+Investigating Language and Retrieval Bias in Multilingual Previously Fact-Checked Claim Detection
+{FFE}-Hallu: Hallucinations in Fixed Figurative Expressions: A Benchmark of Idioms and Proverbs in the {P}ersian Language
+{MEVER}: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval
+{D}uwat{B}ench: Bridging Language and Visual Heritage through an {A}rabic Calligraphy Benchmark for Multimodal Understanding
+{C}onv{A}pparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders
+Detecting {L}atin in Historical Books with Large Language Models: A Multimodal Benchmark
+Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions
+{C}lini{B}ench: A Clinical Outcome Prediction Benchmark for Generative and Encoder-Based Language Models
+{DIVINE} : Coordinating Multimodal Disentangled Representations for {O}ro-Facial Neurological Disorder Assessment
+Biasless Language Models Learn Unnaturally: How {LLM}s Fail to Distinguish the Possible from the Impossible
+Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech
+Detecting Non-Membership in {LLM} Training Data via Rank Correlations
+Taming Object Hallucinations with Verified Atomic Confidence Estimation
+{DART}: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning
+{T}ool{D}reamer: Instilling {LLM} Reasoning Into Tool Retrievers
+An Empirical Study of Speculative Decoding for Small Language Models
+Lost in Formatting: How Output Formats Skew {LLM} Performance on Information Extraction
+Pseudo-Likelihood Training for Reasoning Diffusion Language Models
+{R}o{SE}: Round-robin Synthetic Data Evaluation for Selecting {LLM} Generators without Human Test Sets
+{R}ot{B}ench: Evaluating Multi-modal Large Language Models on Identifying Image Rotation
+Multilingual Amnesia: On the Transferability of Unlearning in Multilingual {LLM}s
+Beyond Math: Stories as a Testbed for Memorization-Constrained Reasoning in {LLM}s
+Neural Breadcrumbs: Membership Inference Attacks on {LLM}s Through Hidden State and Attention Pattern Analysis
+Chat-{TS}: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data
+Beyond Names: How Grammatical Gender Markers Bias {LLM}-based Educational Recommendations
+{E}x{S}truc{T}iny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images
+What{'}s Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning
+{K}ids{A}rt{B}ench: Multi-Dimensional Children{'}s Art Evaluation with Attribute-Aware {MLLM}s
+Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions
+Tracing Multilingual Knowledge Acquisition Dynamics in Domain Adaptation: A Case Study of Biomedical Adaptation
+Contextual morphologically-guided tokenization for {L}atin encoder models
+Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning
+{O}bj{C}hange{VR}: Object State Change Reasoning from Continuous Egocentric Views in {VR} Environments
+Tracking the Limits of Knowledge Propagation: How {LLM}s Fail at Multi-Step Reasoning with Conflicting Knowledge
+Do Audio {LLM}s Really {LISTEN}, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance
+{CSPB}: Conversational Speech Processing Benchmark for Self-supervised Speech Models
+Multi-Token Completion for Text Anonymization
+{MERLIN}: Multi-Stage Curriculum Alignment for Multilingual Encoder-{LLM} Integration in Cross-Lingual Reasoning
+Now You Hear Me: Audio Narrative Attacks Against Large Audio{--}Language Models
+Evaluating Adversarial Robustness of Concept Representations in Sparse Autoencoders
+{M}ary, the Cheeseburger-Eating Vegetarian: Do {LLM}s Recognize Incoherence in Narratives?
+Strong Memory, Weak Control: An Empirical Study of Executive Functioning in {LLM}s
 How Do Language Models Acquire Character-Level Information?
-Analysing the role of lexical and temporal information in turn-taking through predictability.
-Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances.
-Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese.
-Extending Audio Context for Long-Form Understanding in Large Audio-Language Models.
-HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token.
-Nanda Family: Open-Weights Generative Large Language Models for Hindi.
-Wugnectives: Novel Entity Inferences of Language Models from Discourse Connectives.
-Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval over haystacks.
-Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty.
-MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills.
-Continual-learning for Modelling Low-Resource Languages from Large Language Models.
-Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance.
-LLMs as Cultural Archives: Cultural Commonsense Knowledge Graph Extraction.
-Nahw: A Comprehensive Benchmark of Arabic Grammar Understanding, Error Detection, Correction, and Explanation.
-Rethinking Creativity Evaluation: A Critical Analysis of Existing Creativity Evaluations.
-TReX: Tokenizer Regression for Optimal Data Mixture.
-CONGRAD: Conflicting Gradient Filtering for Multilingual Preference Alignment.
-Activation-Space Personality Steering: Hybrid Layer Selection for Stable Trait Control in LLMs.
-Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks.
-KG-CRAFT: Knowledge Graph-based Contrastive Reasoning with LLMs for Enhancing Automated Fact-checking.
-SciRAG: Adaptive, Citation-Aware, and Outline-Guided Retrieval and Synthesis for Scientific Literature.
-Unintended Memorization of Sensitive Information in Fine-Tuned Language Models.
-The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models.
-CoReTab: Improving Multimodal Table Understanding with Code-driven Reasoning.
-Explaining Generalization of AI-Generated Text Detectors Through Linguistic Analysis.
-Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.
-CacheNotes: Task-Aware Key-Value Cache Compression for Reasoning-Intensive Knowledge Tasks.
-Beyond Blind Following: Evaluating Robustness of LLM Agents under Imperfect Guidance.
-How Do LLMs Generate Contrastive Sentiments? A Mechanistic Perspective.
-Continual Neural Topic Model.
-MAQuA: Multi-outcome Adaptive Question-Asking for Mental Health using Item Response Theory.
-Principled Self-Correction in Discrete Diffusion: A UCB-Guided Framework for Text Generation.
-ConLID: Supervised Contrastive Learning for Low-Resource Language Identification.
-Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection.
-Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization.
-Offline Preference Optimization via Maximum Marginal Likelihood Estimation.
-The Relevance of Value Systems for Offensive Language Detection.
-Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact.
-RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models.
-Query Decomposition for RAG: Balancing Exploration-Exploitation.
-Do Images Speak Louder than Words? Investigating the Effect of Textual Misinformation in VLMs.
-Sycophancy Hides Linearly in the Attention Heads.
-AICD Bench: A Challenging Benchmark for AI-Generated Code Detection.
-Safeguarding Language Models via Self-Destruct Trapdoor.
-Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity.
-Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research.
-H3Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs.
-Revisiting Generalization Across Difficulty Levels: It's Not So Easy.
-BLUR: A Bi-Level Optimization Approach for LLM Unlearning.
-DeepInsert: Early Layer Bypass for Efficient and Performant Multimodal Understanding.
-Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory.
-Evidential Semantic Entropy for LLM Uncertainty Quantification.
-SCENEBench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases.
-Incentivizing Strong Reasoning from Weak Supervision.
-DivMerge: A divergence-based model merging method for multi-tasking.
-A Reinforcement Learning Framework for Robust and Secure LLM Watermarking.
-Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational AI Agents.
-User-Centric Evidence Ranking for Attribution and Fact Verification.
-Beyond Understanding: Evaluating the Pragmatic Gap in LLMs' Cultural Processing of Figurative Language.
-VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation.
-Do You See Me : A Multidimensional Benchmark for Evaluating Visual Perception in Multimodal LLMs.
-An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents.
-Detecting Subtle Biases: An Ethical Lens on Underexplored Areas in AI Language Models Biases.
-HarfoSokhan: A Comprehensive Parallel Dataset for Transitions between Persian Colloquial and Formal Variations.
-Compressing Language Models for Specialized Domains.
-GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences.
-Multimodal Conversation Structure Understanding.
-A Review of Incorporating Psychological Theories in LLMs.
-How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities.
-NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering.
-Verification-Aware Planning for Multi-Agent Systems.
-Zero-Shot Open-Schema Entity Structure Discovery.
-Beyond Semantics: How Temporal Biases Shapes Retrieval in Transformer and State-Space Models.
-Diagnosing Vision Language Models' Perception by Leveraging Human Methods for Color Vision Deficiencies.
-Tokenizer-Aware Cross-Lingual Adaptation of Decoder-Only LLMs through Embedding Relearning and Swapping.
-Active Generalized Category Discovery with Diverse LLM Feedback.
-RAFFLES: Reasoning-based Attribution of Faults for LLM Systems.
-Jailbreaks as Inference-Time Alignment: A Framework for Understanding Safety Failures in LLMs.
-Over-Searching in Retrieval-Augmented Large Language Models.
-LitBench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing.
-H-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents.
-"Yuki Gets Sushi, David Gets Steak?": Uncovering Gender and Racial Biases in LLM-Based Meal Recommendations.
-Happiness is Sharing a Vocabulary: A Study of Transliteration Methods.
-SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning.
-Look Before You Leap: A Lookahead Reasoning Quality Gate for Speculative Decoding.
-FanarGuard: A Culturally-Aware Moderation Filter for Arabic Language Models.
-BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation.
-Unveiling Intrinsic Dimension of Texts: from Academic Abstract to Creative Story.
-Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models.
-Language Lives in Sparse Dimensions: Toward Interpretable and Efficient Multilingual Control for Large Language Models.
-Engagement Undermines Safety: How Stereotypes and Toxicity Shape Humor in Language Models.
-Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in LLMs.
-A Regex Minimization Benchmark: A PSPACE-Complete Challenge for Language Models.
-Teaching Small Language Models to Learn Logic through Meta-Learning.
-COMPACT: Building Compliance Paralegals via Clause Graph Reasoning over Contracts.
-Surprisal and Metaphor Novelty Judgments: Moderate Correlations and Divergent Scaling Effects Revealed by Corpus-Based and Synthetic Datasets.
-Repairing Regex Vulnerabilities via Localization-Guided Instructions.
-Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality.
-ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations.
-Cosine Similarity as Logits?: A Scalable Knowledge Probe Using Embedding Vectors from Generative Language Models.
-Generating Multi-Aspect Queries for Conversational Search.
-Navigating the Infinite Dynamic Web Space: Effective In-Context Exploration via Cognitive Multi-Agent Collaboration.
-TimeMachine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks.
-Tandem Training for Language Models.
-Can MLLMs Find Their Way in a City? Exploring Emergent Navigation from Web-Scale Knowledge.
-Wikontic: Constructing Wikidata-Aligned, Ontology-Aware Knowledge Graphs with Large Language Models.
-CAIRE: Cultural Attribution of Images with Retrieval.
-What Does Infect Mean to Cardio? Investigating the Role of Clinical Specialty Data in Medical LLMs.
-Redefining Retrieval Evaluation in the Era of LLMs.
-Debate, Deliberate, Decide (D3): A Cost-Aware Adversarial Framework for Reliable and Interpretable LLM Evaluation.
-IYKYK: Using language models to decode extremist cryptolects.
-Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models.
+Analysing the role of lexical and temporal information in turn-taking through predictability
+Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances
+Translation via Annotation: A Computational Study of Translating Classical {C}hinese into {J}apanese
+Extending Audio Context for Long-Form Understanding in Large Audio-Language Models
+{HALP}: Detecting Hallucinations in Vision-Language Models without Generating a Single Token
+Nanda Family: Open-Weights Generative Large Language Models for {H}indi
+Wugnectives: Novel Entity Inferences of Language Models from Discourse Connectives
+Can {LLM}s reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval over haystacks
+Knowing When to Abstain: Medical {LLM}s Under Clinical Uncertainty
+{M}ed{QA}-{CS}: Objective Structured Clinical Examination ({OSCE})-Style Benchmark for Evaluating {LLM} Clinical Skills
+Continual-learning for Modelling Low-Resource Languages from Large Language Models
+Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance
+{LLM}s as Cultural Archives: Cultural Commonsense Knowledge Graph Extraction
+Nahw: A Comprehensive Benchmark of {A}rabic Grammar Understanding, Error Detection, Correction, and Explanation
+Rethinking Creativity Evaluation: A Critical Analysis of Existing Creativity Evaluations
+{TR}e{X}: Tokenizer Regression for Optimal Data Mixture
+{CONGRAD}: Conflicting Gradient Filtering for Multilingual Preference Alignment
+Activation-Space Personality Steering: Hybrid Layer Selection for Stable Trait Control in {LLM}s
+Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks
+{KG}-{CRAFT}: Knowledge Graph-based Contrastive Reasoning with {LLM}s for Enhancing Automated Fact-checking
+{S}ci{RAG}: Adaptive, Citation-Aware, and Outline-Guided Retrieval and Synthesis for Scientific Literature
+Unintended Memorization of Sensitive Information in Fine-Tuned Language Models
+The Pluralistic Moral Gap: Understanding Moral Judgment and Value Differences between Humans and Large Language Models
+{C}o{R}e{T}ab: Improving Multimodal Table Understanding with Code-driven Reasoning
+Explaining Generalization of {AI}-Generated Text Detectors Through Linguistic Analysis
+Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using {LLM}s
+{C}ache{N}otes: Task-Aware Key-Value Cache Compression for Reasoning-Intensive Knowledge Tasks
+Beyond Blind Following: Evaluating Robustness of {LLM} Agents under Imperfect Guidance
+How Do {LLM}s Generate Contrastive Sentiments? A Mechanistic Perspective
+Continual Neural Topic Model
+{MAQ}u{A}: Multi-outcome Adaptive Question-Asking for Mental Health using Item Response Theory
+Principled Self-Correction in Discrete Diffusion: A {UCB}-Guided Framework for Text Generation
+{C}on{LID}: Supervised Contrastive Learning for Low-Resource Language Identification
+Emotionally Charged, Logically Blurred: {AI}-driven Emotional Framing Impairs Human Fallacy Detection
+Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
+Offline Preference Optimization via Maximum Marginal Likelihood Estimation
+The Relevance of Value Systems for Offensive Language Detection
+Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact
+{R}efusal{B}ench: Generative Evaluation of Selective Refusal in Grounded Language Models
+Query Decomposition for {RAG}: Balancing Exploration-Exploitation
+Do Images Speak Louder than Words? Investigating the Effect of Textual Misinformation in {VLM}s
+Sycophancy Hides Linearly in the Attention Heads
+{AICD} Bench: A Challenging Benchmark for {AI}-Generated Code Detection
+Safeguarding Language Models via Self-Destruct Trapdoor
+Rethinking Hallucinations: Correctness, Consistency, and Prompt Multiplicity
+Hype or not? Formalizing Automatic Promotional Language Detection in Biomedical Research
+{H}3{F}usion: Helpful, Harmless, Honest Fusion of Aligned {LLM}s
+Revisiting Generalization Across Difficulty Levels: It{'}s Not So Easy
+{BLUR}: A Bi-Level Optimization Approach for {LLM} Unlearning
+{D}eep{I}nsert: Early Layer Bypass for Efficient and Performant Multimodal Understanding
+Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory
+Evidential Semantic Entropy for {LLM} Uncertainty Quantification
+{SCENEB}ench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases
+Incentivizing Strong Reasoning from Weak Supervision
+{D}iv{M}erge: A divergence-based model merging method for multi-tasking
+A Reinforcement Learning Framework for Robust and Secure {LLM} Watermarking
+Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational {AI} Agents
+User-Centric Evidence Ranking for Attribution and Fact Verification
+Beyond Understanding: Evaluating the Pragmatic Gap in {LLM}s' Cultural Processing of Figurative Language
+{V}iet{M}ix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for {V}ietnamese-{E}nglish Code-Mixed Machine Translation
+Do You See Me : A Multidimensional Benchmark for Evaluating Visual Perception in Multimodal {LLM}s
+An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents
+Detecting Subtle Biases: An Ethical Lens on Underexplored Areas in {AI} Language Models Biases
+{H}arfo{S}okhan: A Comprehensive Parallel Dataset for Transitions between {P}ersian Colloquial and Formal Variations
+Compressing Language Models for Specialized Domains
+{GRAVITY}: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences
+Multimodal Conversation Structure Understanding
+A Review of Incorporating Psychological Theories in {LLM}s
+How Robust Are Router-{LLM}s? Analysis of the Fragility of {LLM} Routing Capabilities
+{NG}-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering
+Verification-Aware Planning for Multi-Agent Systems
+Zero-Shot Open-Schema Entity Structure Discovery
+Beyond Semantics: How Temporal Biases Shapes Retrieval in Transformer and State-Space Models
+Diagnosing Vision Language Models' Perception by Leveraging Human Methods for Color Vision Deficiencies
+Tokenizer-Aware Cross-Lingual Adaptation of Decoder-Only {LLM}s through Embedding Relearning and Swapping
+Active Generalized Category Discovery with Diverse {LLM} Feedback
+{RAFFLES}: Reasoning-based Attribution of Faults for {LLM} Systems
+Jailbreaks as Inference-Time Alignment: A Framework for Understanding Safety Failures in {LLM}s
+Over-Searching in Search-Augmented Large Language Models
+{L}it{B}ench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing
+{H}-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents
+``{Y}uki Gets Sushi, {D}avid Gets Steak?'': Uncovering Gender and Racial Biases in {LLM}-Based Meal Recommendations
+Happiness is Sharing a Vocabulary: A Study of Transliteration Methods
+{SCALAR}: Scientific Citation-based Live Assessment of Long-context Academic Reasoning
+Look Before You Leap: A Lookahead Reasoning Quality Gate for Speculative Decoding
+{F}anar{G}uard: A Culturally-Aware Moderation Filter for {A}rabic Language Models
+{BILLY}: Steering Large Language Models via Merging Persona Vectors for Creative Generation
+Unveiling Intrinsic Dimension of Texts: from Academic Abstract to Creative Story
+Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models
+Language Lives in Sparse Dimensions: Toward Interpretable and Efficient Multilingual Control for Large Language Models
+Engagement Undermines Safety: How Stereotypes and Toxicity Shape Humor in Language Models
+Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in {LLM}s
+A Regex Minimization Benchmark: A {PSPACE}-Complete Challenge for Language Models
+Teaching Small Language Models to Learn Logic through Meta-Learning
+{COMPACT}: Building Compliance Paralegals via Clause Graph Reasoning over Contracts
+Surprisal and Metaphor Novelty Judgments: Moderate Correlations and Divergent Scaling Effects Revealed by Corpus-Based and Synthetic Datasets
+Repairing Regex Vulnerabilities via Localization-Guided Instructions
+Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality
+{R}e{FACT}: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations
+Cosine Similarity as Logits?: A Scalable Knowledge Probe Using Embedding Vectors from Generative Language Models
+Generating Multi-Aspect Queries for Conversational Search
+Navigating the Infinite Dynamic Web Space: Effective In-Context Exploration via Cognitive Multi-Agent Collaboration
+{T}ime{M}achine-bench: A Benchmark for Evaluating Model Capabilities in Repository-Level Migration Tasks
+Tandem Training for Language Models
+Can {MLLM}s Find Their Way in a City? Exploring Emergent Navigation from Web-Scale Knowledge
+Wikontic: Constructing {W}ikidata-Aligned, Ontology-Aware Knowledge Graphs with Large Language Models
+{CAIRE}: Cultural Attribution of Images with Retrieval
+What Does Infect Mean to Cardio? Investigating the Role of Clinical Specialty Data in Medical {LLM}s
+Redefining Retrieval Evaluation in the Era of {LLM}s
+Debate, Deliberate, Decide (D3): A Cost-Aware Adversarial Framework for Reliable and Interpretable {LLM} Evaluation
+{IYKYK}: Using language models to decode extremist cryptolects
+Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models
+Investigating the Multilingual Calibration Effects of Language Model Instruction Tuning
+Detecting Subtle Sense Shift with Polysemy-Aware Trends
+Logic Haystacks: Probing {LLM}s' Long-Context Logical Reasoning (Without Easily Identifiable Unrelated Padding)
+When Does Auxiliary Modality Matter in Solving Geometric Problems? A Comprehensive Study of Textual, Formal, and Visual Modalities
+Progressive Visual Refinement for Multi-modal Summarization
+Benchmarking Temporal Reasoning and Alignment Across {C}hinese Dynasties
+Training in Step-by-Step Formal Reasoning Improves Pronominal Reasoning in Language Models
+When Words Wear Masks: Detecting Malicious Intents and Hostile Impacts of Online Hate Speech
+Lost in Activations: A Neuron-level Analysis of Encoders for Cross-Lingual Emotion Detection
+{M}c{M}ining: Automated Discovery of Misconceptions in Student Code
+Surprisal from Larger Transformer-based Language Models Predicts f{MRI} Data More Poorly
+{W}eb{R}ollback: Enhancing Web Agents with Explicit Rollback Mechanisms
+Hacking Neural Evaluation Metrics with Single Hub Text
+To Paraphrase or Not: Efficient Comment Detoxification with Unsupervised Detoxifiability Discrimination
+Hey, wait a minute: on at-issue sensitivity in Language Models
+Exploring Cross-Lingual Voice Conversion Methods for Anonymizing Low-Resource Text-to-Speech
+{K}orean Canonical Legal Benchmark: Toward Knowledge-Independent Evaluation of {LLM}s' Legal Reasoning Capabilities
+Task-Level Instructions Induction for Audio Question Answering from Few Examples
+Optical Character Recognition for the International Phonetic Alphabet
+How {DDAIR} you? Disambiguated Data Augmentation for Intent Recognition
+Measuring Linguistic Competence of {LLM}s on Indigenous Languages of the {A}mericas
+Morpheme Matters: Morpheme-Based Subword Tokenization for {K}orean Language Models
+Communication Enables Cooperation in {LLM} Agents: A Comparison with Curriculum-Based Approaches
+Mind Your Special Tokens! On the Importance of Dedicated Sequence-End Tokens in Vision-Language Embedding Models
+The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual {AI}
+When {F}lores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation
+{SAFARI}: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-{S}aharan {A}frican Context
+{STREAM}-{ZH}: Simplified Topic Retrieval Exploration and Analysis Module for {C}hinese Language
+{M}i{SCH}i{EF}: A Benchmark in Minimal-Pairs of Safety and Culture for Holistic Evaluation of Fine-Grained Image-Caption Alignment
+Exploring Generative Process Reward Modeling for Semi-Structured Data: A Case Study of Table Question Answering
+Out of Distribution, Out of Luck: Process Rewards Misguide Reasoning Models
+Learning to Ideate for Machine Learning Engineering Agents
+Infinity-{M}o{E}: Generalizing Mixture of Experts to Infinite Experts
+Beyond Tokens: Concept-Level Training Objectives for {LLM}s
+Persuasion Tokens for Editing Factual Knowledge in {LLM}s
+Language Family Matters: Evaluating {S}peech{LLM}s Across Linguistic Boundaries
+When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation
+On the Additive Compositionality of Task Vectors in Vision{--}Language Models
+Funny or Persuasive, but Not Both: Evaluating Fine-Grained Multi-Concept Control in {LLM}s
+Common Sense or Ableism? Rethinking Commonsense Reasoning Through the Lens of Disability
+Machine translation Evaluation {E}ng-{T}hai {MQM} Ranking dataset
+Evaluation of Deontic Conditional Reasoning in Large Language Models: The Case of Wason{'}s Selection Task
+Confidence Leaps in {LLM} Reasoning: Early Stopping and Cross-Model Transfer
+Exploring Fine-Tuning for In-Context Retrieval and Efficient {KV}-Caching in Long-Context Language Models
+Post-{ASR} Correction in {H}indi: Comparing Language Models and Large Language Models in Low-Resource Scenarios
+{CH}i{RPE}: A Step Towards Real-World Clinical {NLP} with Clinician-Oriented Model Explanations
+{LLM}s Know More About Numbers than They Can Say
+On the Mathematical Relationship Between Layer Normalization and Dynamic Activation Functions
+Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models
+Becoming Experienced Judges: Selective Test-Time Learning for Evaluators
+Statistical Foundations of {DIME}: Risk Estimation for Practical Index Selection
+Unveiling the Deficiencies of Pre-trained Text-and-Layout Models in Real-world Visually-rich Document Information Extraction
+Entity-aware Cross-lingual Claim Detection for Automated Fact-checking
+{W}ork{F}orce{A}gent-R1: Incentivizing Reasoning Capability in {LLM}-based Web Agents via Reinforcement Learning
+Being Kind Isn{'}t Always Being Safe: Diagnosing Affective Hallucination in {LLM}s
+Joint Multimodal Preference Optimization for Fine-Grained Visual-Textual Alignment
+Let{'}s Put Ourselves in Sally{'}s Shoes: Shoes-of-Others Prefilling Improves Theory of Mind in Large Language Models
+Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey
+Examining the Utility of Self-disclosure Types for Modeling Annotators of Social Norms
+Position Paper: How Should We Responsibly Adopt {LLM}s in the Peer Review Process?
+Rad-Flamingo: A Multimodal Prompt driven Radiology Report Generation Framework with Patient-Centric Explanations
+{I}-{MCTS}: Enhancing Agentic {A}uto{ML} via Introspective {M}onte {C}arlo Tree Search
+{T}hink{N}ote: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling
+Mitigating Copy Bias in In-Context Learning through Neuron Pruning
+How to Make {LM}s Strong Node Classifiers?
+Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives
+The Mediomatix Corpus: Parallel Data for {R}omansh Language Varieties via Comparable Schoolbooks
+Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Models
+{JEEM}: Vision-Language Understanding in Four {A}rabic Dialects
+Detecting Primary Progressive Aphasia ({PPA}) from Text: A Benchmarking Study
+Geometric Interpretation of Layer Normalization and a Comparative Analysis with {RMSN}orm
+Continual Pretraining on Encrypted Synthetic Data for Privacy-Preserving {LLM}s
+Do Diacritics Matter? Evaluating the Impact of {A}rabic Diacritics on Tokenization and {LLM} Benchmarks
+Pelican Soup Framework: A Theoretical Framework for Language Model Capabilities
+{I} Know, but {I} Don{'}t Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models
+Persona-driven Simulation of Voting Behavior in the {E}uropean Parliament with Large Language Models
+Exploring Iterative Controllable Summarization with Large Language Models
+The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models
+{ART}: Adaptive Reasoning Trees for Explainable Claim Verification
+{V}ortex{PIA}: Indirect Prompt Injection Attack against {LLM}s for Efficient Extraction of User Privacy
+{V}is{D}o{T} : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought
+{KNN}-{SSD}: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization
+Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering
+{H}i{KE}: Hierarchical Evaluation Framework for {K}orean-{E}nglish Code-Switching Speech Recognition
+Complexity-aware fine-tuning
+Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task
+{S}patial{M}ath: Spatial Comprehension-Infused Symbolic Reasoning for Mathematical Problem-Solving
+Skill Discovery for Software Scripting Automation via Offline Simulations with {LLM}s
+How Important is `Perfect' {E}nglish for Machine Translation Prompts?
+{KETCHUP}: K-Step Return Estimation for Sequential Knowledge Distillation
+Denoising Concept Vectors with Sparse Autoencoders for Improved Language Model Steering
+Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in {LLM}s
+{MAPS}: A Multilingual Benchmark for Agent Performance and Security
+Linking Knowledge to Care: Knowledge Graph-Augmented Medical Follow-Up Question Generation
+{D}ebate{QA}: Evaluating Question Answering on Debatable Knowledge
+Personal Information Parroting in Language Models
+Harmful Factuality: {LLM}s Correcting What They Shouldn{'}t
+Toward Beginner-Friendly {LLM}s for Language Learning: Controlling Difficulty in Conversation
+{C}ode{G}uard: Improving {LLM} Guardrails in {CS} Education
+{ATOM}: {A}dap{T}ive and {O}pti{M}ized dynamic temporal knowledge graph construction using {LLM}s
+On the Interplay between Human Label Variation and Model Fairness
+Where do {LLM}s currently stand on biomedical {NER} in both clean and noisy settings ?
+Scaling Data-Constrained Language Models with Synthetic Data
+The Unintended Trade-off of {AI} Alignment: Balancing Hallucination Mitigation and Safety in {LLM}s
+The Model{'}s Language Matters: A Comparative Privacy Analysis of {LLM}s
+Towards the First {NLP} Benchmark for {L}adin - an Extremely Low-Resource Language
+{DRAGON}: Domain-specific Robust Automatic Data Generation for {RAG} Optimization
+Causal Activation Steering via Sparse Mediation
+Causal Direct Preference Optimization for Language Model Alignment
+{LLM}s Faithfully and Iteratively Compute Answers During {C}o{T}: A Systematic Analysis With Multi-step Arithmetics
+{V}ase{VQA}: Multimodal Agent and Benchmark for {A}ncient {G}reek Pottery
+{P}rompt{P}rism: A Linguistically-Inspired Taxonomy for Prompts
+{H}i{G}ra{A}gent: Dual-Agent Adaptive Reasoning over Hierarchical Knowledge Graph for Open Domain Multi-hop Question Answering
+Hire Your Anthropologist! Rethinking Culture Benchmarks Through an Anthropological Lens
+Suppressing Final Layer Hidden State Jumps in Transformer Pretraining
+Intention-Adaptive {LLM} Fine-Tuning for Text Revision Generation
+{R}e{A}ttn: Improving Attention-based Re-ranking via Attention Re-weighting
+{M}ap{A}gent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration
+Comprehensive Study of Bilingual and Multi-category Instruction Pre-training
+Reflect, Rewrite, Repeat: How Simple Arithmetic Enables Advanced Reasoning in Small Language Models
+Don{'}t Judge Code by Its Cover: Exploring Biases in {LLM} Judges for Code Evaluation
+{COMMUNITYNOTES}: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations
+Persona Jailbreaking in Large Language Models
+{P}ars{T}ranslit: Truly Versatile {T}ajik-{F}arsi Transliteration
+One Sentence, Two Embeddings: Contrastive Learning of Explicit and Implicit Semantic Representations
+{ETOM}: A Five-Level Benchmark for Evaluating Tool Orchestration within the {MCP} Ecosystem
+{S}ym{C}ode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation
+Unsupervised Detection of {LLM}-Generated Text in {K}orean Using Syntactic and Semantic Cues
+{NLP} Privacy Risk Identification in Social Media ({NLP}-{PRISM}): A Survey
+{C}rowd{S}elect: {S}ynthetic{I}nstruction Data Selection with Multi-{LLM} Wisdom
+Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations
+Pushing the Frontiers of Scientific Fact-Checking: The {SCINLP} Dataset
+{SCAN}: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation
+Unified Multimodal Interleaved Document Representation for Retrieval
+{TELLME}: Test-Enhanced Learning for Language Model Enrichment
+Beyond Accuracy: Alignment and Error Detection across Languages in the Bi-{GSM}8{K} Math-Teaching Benchmark
+{VN}-{MTEB}: {V}ietnamese Massive Text Embedding Benchmark
+See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval
+{RB}-{L}o{RA}: Rank-Balanced Aggregation for Low-Rank Adaptation with Federated Fine-Tuning
+Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It
+Confidence-Driven Multi-Scale Model Selection for Cost-Efficient Inference
+Quantifying the Impact of Structured Output Format on Large Language Models through Causal Inference
+Breaking the Illusion of Reasoning in {P}olish {LLM}s: Quality over Quantity of Thought
+{RV}-Syn: Rational and Verifiable Mathematical Reasoning Data Synthesis based on Structured Function Library
+{W}eb{N}ovel{B}ench: Placing {LLM} Novelists on the Web Novel Distribution
+From Semantics to Style: A Cross-Dataset Comparative Framework for Sentence Similarity Predictions
+Feature Drift: How Fine-Tuning Repurposes Representations in {LLM}s
+Detecting Winning Arguments with Large Language Models and Persuasion Strategies
+The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning
+Best-of-{L}: Cross-Lingual Reward Modeling for Mathematical Reasoning
+Nuanced Toxicity Detection in {S}panish: A New Corpus and Benchmark Study
+Persona Switch: Mixing Distinct Perspectives in Decoding Time
+Revealing the Truth with {C}on{LLM} for Detecting Multi-Modal Deepfakes
+Detection of Adversarial Prompts with Model Predictive Entropy
+Actors, Frames and Arguments: A Multi-Decade Computational Analysis of Climate Discourse in Financial News using Large Language Models
+{RECAP}: {RE}writing Conversations for Intent Understanding in Agentic Planning
+Modeling Turn-Taking with Semantically Informed Gestures
+Do Large Language Models Reflect Demographic Pluralism in Safety?
+Adversarial Decoding: Generating Readable Documents for Adversarial Objectives
+{MEDAL}: A Framework for Benchmarking {LLM}s as Multilingual Open-Domain Dialogue Evaluators
+Which Works Best for {V}ietnamese? {A} Practical Study of Information Retrieval Methods across Domains
+{M}eme{W}eaver: Inter-Meme Graph Reasoning for Sexism and Misogyny Detection
+{SEAM}: Bridging the Temporal-Semantic Granularity Gap for {LLM}-based Speech Recognition
+Foundations of {LLM} Knowledge Materialization: Termination, Reproducibility, Robustness
+Investigating Gender Stereotypes in Large Language Models via Social Determinants of Health
+{FOL}-Traces: Verified First-Order Logic Reasoning Traces at Scale
+Uncertainty Quantification for Evaluating Gender Bias in Machine Translation
+{PIRA}: Preference-Oriented Instruction-Tuned Reward Models with Dual Aggregation
+The Hidden Bias: A Study on Explicit and Implicit Political Stereotypes in Large Language Models
+{TIPA}: Typologically Informed Parameter Aggregation
+Can Calibration of Positional Encodings Enhance Long Context Utilization?
+{F}i{NER}web: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition
+Bias in the East, Bias in the West: A Bilingual Analysis of {LLM} Political Bias on {U}.{S}.- and {C}hina-Related Issues
+Ask Me Again Differently: {GRAS} for Measuring Bias in Vision Language Models on Gender, Race, Age, and Skin Tone
+A Simple and Efficient Learning-Style Prompting for {LLM} Jailbreaking
+Aggregating Crowd of {LLM}s for Cost-Effective Data Annotation
+Representation Collapse in Machine Translation Through the Lens of Angular Dispersion
+Can {LLM}s Reason Like Doctors? Exploring the Limits of Large Language Models in Complex Medical Reasoning
+Testing Low-Resource Language Support in {LLM}s Using Language Proficiency Exams: the Case of {L}uxembourgish
+Unveiling Decision-Making in {LLM}s for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders
+{T}ext{M}ine{X}: Data, Evaluation Framework and Ontology-guided {LLM} Pipeline for Humanitarian Mine Action
+{M}ath{M}ist: A Parallel Multilingual Benchmark Dataset for Mathematical Problem Solving and Reasoning
+Enhancing Reliability in Community Question Answering with an Expert-Oriented {RAG} System
+Unsupervised Text Style Transfer for Controllable Intensity
+{S}chema{G}raph{SQL}: Efficient Schema Linking with Pathfinding Graph Algorithms for Text-to-{SQL} on Large-Scale Databases
+Binary Token-Level Classification with {D}e{BERT}a for All-Type {MWE} Identification: A Lightweight Approach with Linguistic Enhancement
+The Correlation Between Emotion in Text and Speech Segments is Limited: A Cross-Modal Study
+Seeing All Sides: Multi-Perspective In-Context Learning for Subjective {NLP}
+Beyond Divergent Creativity: A Human-Based Evaluation of Creativity in Large Language Models
+Are Multimodal {LLM}s Movie Buffs?
+Process Evaluation for Agentic Systems
+{MIMIC}: Multi-party Dialogue Augmentation via Speaker Stylistic Transfer
+{T}ech{ING}: Towards Real World Technical Image Understanding via {VLM}s
+Multilingual-To-Multimodal ({M}2{M}): Unlocking New Languages with Monolingual Text
+Do {GUI} Grounders Truly Understand {UI} Elements?
+Ensemble Privacy Defense for Knowledge-Intensive {LLM}s against Membership Inference Attacks
+{S}afe{S}earch: Do Not Trade Safety for Utility in {LLM} Search Agents
+{SAGE} : A Top-Down Bottom-Up Knowledge-Grounded User Simulator for Multi-turn Agent Evaluation
+Better as Generators Than Classifiers: Leveraging {LLM}s and Synthetic Data for Low-Resource Multilingual Classification
+Dialogue is Better Than Monologue: Instructing Meidcal {LLM}s via Strategic Conversations
+{DF}-{RAG}: Query-Aware Diversity for Retrieval-Augmented Generation
+Hearing Between the Lines: Unlocking the Reasoning Power of {LLM}s for Speech Evaluation
+Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention
+Thinking Long, but Short: Stable Sequential Test-Time Scaling for Large Reasoning Models
+Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models
+{T}ruth{T}rap: A Bilingual Benchmark for Evaluating Factually Correct Yet Misleading Information in Question Answering
+{FLAT}-{LLM}: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression
+Negative Sampling Techniques in Dense Retrieval: A Survey
+Multi-Agent Procedural Graph Extraction with Structural and Logical Refinement
+{MADIAVE}: Multi-Agent Debate for Implicit Attribute Value Extraction
+{D}eep{S}ieve: Information Sieving via {LLM}-as-a-Knowledge-Router
+Analyzing {LLM} Instruction Optimization for Tabular Fact Verification
+{XMAD}-Bench: Cross-Domain Multilingual Audio Deepfake Benchmark
+{CLEAR}-3{K}: Assessing Causal Explanatory Capabilities in Language Models
+Imbalanced Gradients in {RL} Post-Training of Multi-Task {LLM}s
+{B}ayes{F}low: A Probability Inference Framework for Meta-Agent Assisted Workflow Generation
+{H}aptic{LL}a{MA}: A Multimodal Sensory Language Model for Haptic Captioning
+Token-Level Precise Attack on {RAG}: Searching for the Best Alternatives to Mislead Generation
+{P}aged{E}viction: Structured Block-wise {KV} Cache Pruning for Efficient Large Language Model Inference
+{SMART}-Editor: A Multi-Agent Framework for Human-Like Design Editing with Structural Integrity
+{C}on{V}erse: Benchmarking Contextual Safety in Agent-to-Agent Conversations
+{SIRAJ}: Diverse and Efficient Red-Teaming for {LLM} Agents via Distilled Structured Reasoning
+Who You Are, What You Say: Intra- and Inter- Context Personality for Emotion Recognition in Conversation
+{DRIVINGVQA}: A Dataset for Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios
+{SAGE}: Steerable Agentic Data Generation for Deep Search with Execution Feedback
+Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation
+{DS}2-Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning
+{D}ashboard{QA}: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
+Reasoning about Uncertainty: Do Reasoning Models Know When They Don{'}t Know?
+{A}fri{MMT}-{EA}: Multi-domain Machine Translation for Low-Resource {E}ast {A}frican Languages
+Diffusion Language Model Inference with {M}onte {C}arlo Tree Search
+{DWA}-{KD}: Dual-Space Weighting and Time-Warped Alignment for Cross-Tokenizer Knowledge Distillation
+Harnessing Consistency for Robust Test-Time {LLM} Ensemble
+{A}uto{A}no{E}val: Semantic-Aware Model Selection via Tree-Guided {LLM} Reasoning for Tabular Anomaly Detection
+Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust {LLM} Alignment
+{T}hink{P}ilot: Steering Reasoning Models via Automated Think-prefixes Optimization
+{L}it{E}-{SQL}: A Lightweight and Efficient Text-to-{SQL} Framework with Vector-based Schema Linking and Execution-Guided Self-Correction
+Beyond Coherence: Improving Temporal Consistency and Interpretability in Dynamic Topic Models
+Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use
+Tailoring Memory Granularity for Multi-Hop Reasoning over Long Contexts
+Unlocking Large Audio-Language Models for Interactive Language Learning
+Blind Spot Navigation in Large Language Model Reasoning with Thought Space Explorer
+{S}truc{S}um: Graph-Structured Reasoning for Long Document Extractive Summarization with {LLM}s
+Logits-Based Block Pruning with Affine Transformations for Large Language Models
+{M}ulti{CW}: A Large-Scale Balanced Benchmark Dataset for Training Robust Check-Worthiness Detection Models
+What Really Matters for Table {LLM}s? A Meta-Evaluation of Model and Data Effects
+Evaluating Morphological Plausibility of Subword Tokenization via Statistical Alignment with Morpho-Syntactic Features
+{MOSAIC}: Masked Objective with Selective Adaptation for In-domain Contrastive Learning
+{B}it{B}ypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage
+The Problem of Ambiguity in Table Question Answering
+Beyond Multiple Choice: Evaluating Steering Vectors for Summarization
+Similar Region Search using {LLM}s on Spatial Feature Space
+Learning to Ask: Multi-Decoder Fine-Tuning for Multi-Hop Visual Question Generation with External Knowledge
+{SLANG}-{G}raph{RAG}: Multi-Layered Retrieval with Domain-Specific Knowledge for Low Resource Social Media Conversations
+Science Across Languages: Assessing {LLM} Multilingual Translation of Scientific Papers
+{TABED}: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in {LVLM}s
+{KGH}alu{B}ench: A Knowledge Graph-Based Hallucination Benchmark for Evaluating the Breadth and Depth of {LLM} Knowledge
+Marking Code Without Breaking It: Code Watermarking for Detecting {LLM}-Generated Code
+{VIG}i{A}: Instructional Video Guidance via Dialogue Reasoning and Retrieval
+Attribute-Controlled Translation with Preference Optimization
+{R}eci{F}ine: Finely Annotated Recipe Dataset for Controllable Recipe Generation
+{R}e{BPE}: Iteratively Improving the Internal Structure of a Structured Tokeniser by Mining its Internal Structure
+Emotion Recognition in Multi-Speaker Conversations through Speaker Identification, Knowledge Distillation, and Hierarchical Fusion
+Demystifying Mixed Outcomes of Self-Training: Pre-training Analyses on Non-Toy {LLM}s
+Revealing Redundant Syntax in Large Language Models through Multi-Hop Dependency Paths
+A Scalable Framework for Automated {NER} Annotation Correction in Low-Resource Languages
+Can {C}hat{GPT} Really Understand {M}odern {C}hinese Poetry?
+Knowing What{'}s Missing: Assessing Information Sufficiency in Question Answering
+The Curse of Verbalization: How Presentation Order Constrains {LLM} Reasoning
+{PATS}: Personality-Aware Teaching Strategies with Large Language Model Tutors
+Mitigating Causal Bias in {LLM}s via Potential Outcomes Framework and Actual Causality Theory
+{J}uri{F}ind{IT}: an {I}talian legal retrieval dataset
+Towards Fair and Efficient De-identification: Quantifying the Efficiency and Generalizability of De-identification Approaches
+How Many Ratings per Item are Necessary for Reliable Significance Testing?
+{QF}r{BL}i{MP}: a {Q}uebec-{F}rench Benchmark of Linguistic Minimal Pairs
+{Q}ueer{G}en: How {LLM}s Reflect Societal Norms on Gender and Sexuality in Sentence Completion Task
+Efficient Table Retrieval and Understanding with Multimodal Large Language Models
+{F}ed{R}e{FT}: Federated Representation Fine-Tuning with All-But-Me Aggregation
+{R}iddle{B}ench: A New Generative Reasoning Benchmark for {LLM}s
+Language Model-Driven Data Pruning Enables Efficient Active Learning
+{HARM}: Learning Hate-Aware Reward Model for Evaluating Natural Language Explanations of Offensive Content
+{MATH}-{IDN}: A Multilingual Mathematical Problem Solving Dataset Featuring Local Languages in {I}ndonesia
+Parameter-Efficient Routed Fine-Tuning: Mixture-of-Experts Demands Mixture of Adaptation Modules
+{MAPRO}: Recasting Multi-Agent Prompt Optimization as Maximum a Posteriori Inference
+Debiasing Large Language Models via Adaptive Causal Prompting with Sketch-of-Thought
+{E}xpressivity{B}ench: Can {LLM}s Communicate Implicitly?
+Rethinking Schema Linking: A Context-Aware Bidirectional Retrieval Approach for Text-to-{SQL}
+{PEAR}: Planner-Executor Agent Robustness Benchmark
+Toward Safe and Human-Aligned Game Conversational Recommendation via Multi-Agent Decomposition
+Linguistic Cues for {LLM}-based Implicit Discourse Relation Classification
+{S}p{ARK}: An Embarrassingly Simple Sparse Watermarking in {LLM}s with Enhanced Text Quality
+Pretraining Language Models for Diachronic Linguistic Change Discovery
+Improving Language Identification for Code-Switched Speech: The Pivotal Role of Accented {E}nglish
+Reducing Hallucinations in Language Model-based {SPARQL} Query Generation Using Post-Generation Memory Retrieval
+Jailbreaking Safeguarded Text-to-Image Models via Large Language Models
+{BSC}odec: A Band-Split Neural Codec for High-Quality Universal Audio Reconstruction
+Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization
+{SALT}: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph
+{U}ni{T}ool{B}ench: A Benchmark for Tool-Augmented {LLM}s in Cross-Domain, Universal Task Automation
+Benchmarking the Energy Savings with Speculative Decoding Strategies
+Thunder-{NUB}ench: A Benchmark for {LLM}s' Sentence-Level Negation Understanding
+What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on {LLM} Performance
+Completely Modular Fine-tuning for Dynamic Language Adaptation
+A Multi-Task Learning Framework for Modeling Engagement and Topic-Sensitive Responses in {A}rabic Women{'}s Discourse
+We Are What We Repeatedly Do: Improving Long Context Instruction Following
+{C}on{RAS}: Contrastive In-context Learning Framework for Retrieval-Augmented Summarization
+Beyond Sampling: Self-Sorting for Long-Context Ranking
+Program-of-Thought Reveals {LLM} Abstraction Ceilings
+From Numbers to Narratives: Efficient Language Model-Based Detection for Safety-Critical Minority Classes
+{R}-{GDA}: Reflective Guidance Data Augmentation with Multi-Agent Feedback for Domain-Specific Named Entity Recognition
+Enabling Autoregressive Models to Fill In Masked Tokens
+Position Encoding with Random Float Sampling Enhances Length Generalization of Transformers
+Open-Domain Safety Policy Construction
+Think Just Enough: Leveraging Self-Assessed Confidence for Adaptive Reasoning in Language Models
+{CLICKER}: Cross-Lingual Knowledge Editing via In-Context Learning with Adaptive Stepwise Reasoning
+Show or Tell? Modeling the evolution of request-making in Human-{LLM} conversations
+Multilingual Self-Taught Faithfulness Evaluators
+Benchmarking Direct Preference Optimization for Medical Large Vision{--}Language Models
+Stay Focused: Problem Drift in Multi-Agent Debate
+{FLUKE}: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation
+Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for {LLM}s
+{PATCH}: Mitigating {PII} Leakage in Language Models with Privacy-Aware Targeted Circuit {P}atc{H}ing
+Argument Component Segmentation with Fine-Tuned Large Language Models
+{D}u{FF}in: A Dual-Level Fingerprinting Framework for {LLM}s {IP} Protection
+The Art of Saying ``Maybe'': A Conformal Lens for Uncertainty Benchmarking in {VLM}s
+Diagnosis of Dysarthria Severity and Explanation Generation Using {XAI}-Enhanced {CLINIC}-{GENIE} on Diadochokinetic Tasks
+A Comprehensive Evaluation of Multilingual Chain-of-Thought Reasoning: Performance, Consistency, and Faithfulness Across Languages
+{ORSO} {QG}en: Odds-Ratio Steerable Optimization for Controlling Question Generation
+Leveraging Digitized Newspapers to Collect Summarization Data in Low-Resource Languages
+Let{'}s Simplify Step by Step: Guiding {LLM} Towards Multilingual Unsupervised Proficiency-Controlled Sentence Simplification
+{L}og{T}o{P}: Logic Tree-of-Program with Table Instruction-tuned {LLM}s for Controlled Logical Table-to-Text Generation
+{IRPO}: Implicit Policy Regularized Preference Optimization
+{DFPE}: A Diverse Fingerprint Ensemble for Enhancing {LLM} Performance
+Ranking Human and {LLM} Texts Using Locality Statistics
+{M}anga{VQA} and {M}anga{LMM}: A Benchmark and Specialized Model for Multimodal Manga Understanding
+Hierarchical User Intent Inference with Knowledge Graph Grounding
+Improving the {OOD} Performance of Closed-Source {LLM}s on {NLI} Through Strategic Data Selection
+{MMRA}: A Benchmark for Evaluating Multi-Granularity and Multi-Image Relational Association Capabilities in Large Visual Language Models
+{COIG}-{P}: A High-Quality and Large-Scale {C}hinese Preference Dataset for Alignment with Human Values
+Revealing the Numeracy Gap: An Empirical Investigation of Text Embedding Models
+code-transformed: The Influence of Large Language Models on Code
+Do {LLM}s model human linguistic variation? A case study in {H}indi-{E}nglish Verb code-mixing
+{ART}: Attention-Regularized Transformers for Multi-Modal Robustness
+{GRAFF}: {GR}aph-Augmented Fine-grained Fusion for Large Language Models
+Tackling Distractor Documents in Multi-Hop {QA} with Reinforcement and Curriculum Learning
+{R}o{D}-{TAL}: A Benchmark for Answering Questions in {R}omanian Driving License Exams
+{F}act{S}elf{C}heck: Fact-Level Black-Box Hallucination Detection for {LLM}s
+Punctuations and Predicates in Language Models
+Test-time Corpus Feedback: From Retrieval to {RAG}
+{RADAR}: A Reasoning-Guided Attribution Framework for Explainable Visual Data Analysis
+{M}ask{L}o{RA}: Low-Rank Subspace{--}Induced Token Masking for Efficient and Faithful Language Models
+A Domain-Specific Curated Benchmark for Entity and Document-Level Relation Extraction
+What Matters to an {LLM}? Behavioral and Computational Evidences from Summarization
+Neural network embeddings recover value dimensions from psychometric survey items on par with human data
+Compositional Reasoning via Joint Image and Language Decomposition
+Better Call {CLAUSE}: A Discrepancy Benchmark for Auditing {LLM}s Legal Reasoning Capabilities
+Token-Wise Kernels ({TW}i{K}ers) for Vicinity-Aware Attention in Transformers
+Beyond a Single Extractor: Re-thinking {HTML}-to-Text Extraction for {LLM} Pre-training
+Can Models Help Us Create Better Models? Evaluating {LLM}s as Data Scientists
+Distill and Align Decomposition for Enhanced Claim Verification
+Argument-Based Consistency in Toxicity Explanations of {LLM}s
+Reasoning Beyond Literal: Cross-style Multimodal Reasoning for Figurative Language Understanding
+{Q}ue{S}t{ER}: Query Specification for Generative Keyword-Based Retrieval
+Evaluating Sparse Autoencoders for Monosemantic Representation
+Event Detection with a Context-Aware Encoder and {L}o{RA} for Improved Performance on Long-Tailed Classes
+Think Hard Only When Needed: A Hybrid Best-of-N and Beam Search for Efficient Test-Time Compute
+Role-Conditioned Refusals: Evaluating Access Control Reasoning in Large Language Models
+{NL}2{L}ogic: {AST}-Guided Translation of Natural Language into First-Order Logic with Large Language Models
+Coding Agents with Multimodal Browsing are Generalist Problem Solvers
+Quantifying Data Contamination in Psychometric Evaluations of {LLM}s
+Task-aware Block Pruning with Output Distribution Signals for Large Language Models
+{LARA}: {LLM}-based Agile Power Distribution Network Restoration from Disastrous Events
+Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Benchmark
+{SD}-E2: Semantic Exploration for Reasoning Under Token Budgets
+How to Contextualize Empirical Data for Risk Analysis with {LLM}s: A Case Study of Power Outages
+Thinking Beyond the Local: Multi-View Instructed Adaptive Reasoning in {KG}-Enhanced {LLM}s
+{DAMASHA}: Detecting {AI} in Mixed Adversarial Texts via Segmentation with Human-interpretable Attribution
+{FINEST}: Improving {LLM} Responses to Sensitive Topics Through Fine-Grained Evaluation
+Turn-{PPO}: Turn-Level Advantage Estimation with {PPO} for Improved Multi-Turn {RL} in Agentic {LLM}s
+Decoding Time Series with {LLM}s: A Multi-Agent Framework for Cross-Domain Annotation
+Multi-Hall-{SA}: A Cross-lingual Benchmark for Multi-Type Hallucination Detection in Low-Resource {S}outh {A}frican Languages
+{Q}uery4{R}egex: Verifiable Regex Transformation through Formal Operations from {NL} and {DSL} Queries
+{S}rc{M}ix: Mixing of Related Source Languages Benefits Extremely Low-resource Machine Translation
+{IMRNN}s: An Efficient Method for Interpretable Dense Retrieval via Embedding Modulation
+{MMUIE}: Massive Multi-Domain Universal Information Extraction for Long Documents
+Learning to Judge: {LLM}s Designing and Applying Evaluation Rubrics
+{P}sy{P}robe: Proactive and Interpretable Dialogue through User State Modeling for Exploratory Counseling
+Learning from Child-directed Speech in Two-language Scenarios: A {F}rench-{E}nglish Case-Study
+{D}e{V}is{E}: Towards the Behavioral Testing of Medical Large Language Models
+Sequence Repetition Enhances Token Embeddings and Improves Sequence Labeling with Decoder-only Language Models
+{MEENA} ({P}ersian{MMMU}): Multimodal-Multilingual Educational Exams for N-level Assessment
+Teaching Old Tokenizers New Words: Efficient Tokenizer Adaptation for Pretrained Models
+{AGIC}: Attention-Guided Image Captioning to Improve Caption Relevance
+Visual{--}Linguistic Abductive Reasoning with {LLM}s for Knowledge-based Visual Question Answering
+{F}act{A}ppeal: Identifying Epistemic Factual Appeals in News Media
+{V}ietnamese Automatic Speech Recognition: A Revisit
+{M}ap{C}oder-Lite: Distilling Multi-Agent Coding into a Single Small {LLM}
+When Do Language Models Endorse Limitations on Human Rights Principles?
+Abstractive Summarization of {B}engali Academic Videos Based on Audio Subtitles
+Active Learning with Non-Uniform Costs for {A}frican Natural Language Processing
+{C}risi{T}ext: A dataset of warning messages for {LLM} training in emergency communication
+Training-Free Text Emotion Tagging via {LLM}-Based Best-Worst Scaling
+Scaling Cultural Resources for Improving Generative Models
+Cards Against Contamination: {TCG}-Bench for Difficulty-Scalable Multilingual {LLM} Reasoning
+{ILSIC}: Corpora for Identifying {I}ndian Legal Statutes from Queries by Laymen

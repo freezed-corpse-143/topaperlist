@@ -98,7 +98,6 @@ Accelerating DETR Convergence via Semantic-Aligned Matching.
 Efficient Video Instance Segmentation via Tracklet Query and Proposal.
 Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation.
 Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection.
-C2AM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation.
 Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval.
 AutoLoss-Zero: Searching Loss Functions from Scratch for Generic Tasks.
 Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection.
@@ -205,7 +204,6 @@ Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition.
 VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution.
 Fast Algorithm for Low-rank Tensor Completion in Delay-embedded Space.
 Exploring and Evaluating Image Restoration Potential in Dynamic Scenes.
-GIQE: Generic Image Quality Enhancement via NthOrder Iterative Degradation.
 Does text attract attention on e-commerce images: A novel saliency prediction dataset and method.
 IDR: Self-Supervised Image Denoising via Iterative Data Refinement.
 ABPN: Adaptive Blend Pyramid Network for Real-Time Local Retouching of Ultra High-Resolution Photo.
@@ -271,7 +269,6 @@ JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothe
 Tracking People by Predicting 3D Appearance, Location and Pose.
 ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis.
 Interacting Attention Graph for Single Image Two-Hand Reconstruction.
-3D human tongue reconstruction from single "in-the-wild" images.
 EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation.
 Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection.
 OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion.
@@ -285,7 +282,6 @@ Self-supervised Video Transformer.
 Temporally Efficient Vision Transformer for Video Instance Segmentation.
 VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation.
 Temporal Alignment Networks for Long-term Video.
-Revisiting the "Video" in Video-Language Understanding.
 Invariant Grounding for Video Question Answering.
 P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision.
 FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment.
@@ -890,7 +886,6 @@ Revisiting the Transferability of Supervised Pretraining: an MLP Perspective.
 Task2Sim: Towards Effective Pre-training and Transfer from Synthetic Data.
 Which Model to Transfer? Finding the Needle in the Growing Haystack.
 Does Robustness on ImageNet Transfer to Downstream Tasks?
-What Makes Transfer Learning Work for Medical Images: Feature Reuse & Other Factors.
 OW-DETR: Open-world Detection Transformer.
 Unseen Classes at a Later Time? No Problem.
 Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism.
@@ -898,7 +893,6 @@ On Generalizing Beyond Domains in Cross-Domain Continual Learning.
 Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries.
 DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion.
 Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning.
-En-Compactness: Self-Distillation Embedding & Contrastive Generation for Generalized Zero-Shot Learning.
 VGSE: Visually-Grounded Semantic Embeddings for Zero-Shot Learning.
 Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning.
 KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning.
@@ -1637,7 +1631,6 @@ Learning Object Context for Novel-view Scene Layout Generation.
 Weakly But Deeply Supervised Occlusion-Reasoned Parametric Road Layouts.
 Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image.
 Raw High-Definition Radar for Multi-Task Learning.
-Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation.
 UKPGAN: A General Self-Supervised Keypoint Detector.
 Cannot See the Forest for the Trees: Aggregating Multiple Viewpoints to Better Classify Objects in Videos.
 Rethinking Efficient Lane Detection via Curve Modeling.
@@ -1806,7 +1799,6 @@ Evaluation-oriented Knowledge Distillation for Deep Face Recognition.
 AdaFace: Quality Adaptive Margin for Face Recognition.
 Moving Window Regression: A Novel Approach to Ordinal Regression.
 FaceFormer: Speech-Driven 3D Facial Animation with Transformers.
-Neural Emotion Director: Speech-preserving semantic control of facial expressions in "in-the-wild" videos.
 Deep Decomposition for Stochastic Normal-Abnormal Transport.
 DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification.
 Node-aligned Graph Convolutional Network for Whole-slide Image Representation and Classification.
@@ -1863,7 +1855,6 @@ H4D: Human 4D Modeling by Learning Neural Compositional Representation.
 Learning Memory-Augmented Unidirectional Metrics for Cross-modality Person Re-identification.
 Contrastive Regression for Domain Adaptation on Gaze Estimation.
 Forward Compatible Training for Large-Scale Embedding Retrieval Systems.
-Notice of Retraction: E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations.
 Improving Subgraph Recognition with Variational Graph Information Bottleneck.
 Learning Soft Estimator of Keypoint Scale and Orientation with Probabilistic Covariant Loss.
 Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species.
@@ -1877,7 +1868,6 @@ SGTR: End-to-end Scene Graph Generation with Transformer.
 Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs.
 RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition.
 Spatial Commonsense Graph for Object Localisation in Partial Scenes.
-'The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping.
 Category-Aware Transformer Network for Better Human-Object Interaction Detection.
 Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection.
 Distillation Using Oracle Queries for Transformer-based Human-Object Interaction Detection.
@@ -2062,7 +2052,6 @@ Talking Face Generation with Multilingual TTS.
 Real-Time, Accurate, and Consistent Video Semantic Segmentation via Unsupervised Adaptation and Cross-Unit Deployment on Mobile Device.
 BigDL 2.0: Seamless Scaling of AI Pipelines from Laptops to Distributed Cluster.
 Interactive Segmentation and Visualization for Tiny Objects in Multi-megapixel Images.
-A Low-cost & Realtime Motion Capture System.
 PyMiceTracking: An Open-Source Toolbox For Real-Time Behavioral Neuroscience Experiments.
 Effective conditioned and composed image retrieval combining CLIP-based features.
 VIsCUIT: Visual Auditor for Bias in CNN Image Classifier.

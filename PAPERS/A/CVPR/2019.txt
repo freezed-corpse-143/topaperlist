@@ -108,7 +108,6 @@ Deep Fitting Degree Scoring Network for Monocular 3D Object Detection.
 Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering.
 Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry.
 FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation From a Single Image.
-Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders.
 Does Learning Specific Features for Related Parts Help Human Pose Estimation?
 Linkage Based Face Clustering via Graph Convolution Network.
 Towards High-Fidelity Nonlinear 3D Face Morphable Model.
@@ -231,7 +230,6 @@ SFNet: Learning Object-Aware Semantic Correspondence.
 Deep Metric Learning Beyond Binary Supervision.
 Learning to Cluster Faces on an Affinity Graph.
 C2AE: Class Conditioned Auto-Encoder for Open-Set Recognition.
-Shapes and Context: In-The-Wild Image Synthesis & Manipulation.
 Semantics Disentangling for Text-To-Image Generation.
 Semantic Image Synthesis With Spatially-Adaptive Normalization.
 Progressive Pose Attention Transfer for Person Image Generation.
@@ -657,7 +655,6 @@ Locating Objects Without Bounding Boxes.
 FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery.
 Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification.
 Sampling Techniques for Large-Scale Object Detection From Sparsely Annotated Objects.
-Curls & Whey: Boosting Black-Box Adversarial Attacks.
 Barrage of Random Transforms for Adversarially Robust Defense.
 Aggregation Cross-Entropy for Sequence Recognition.
 LaSO: Label-Set Operations Networks for Multi-Label Few-Shot Learning.
@@ -722,7 +719,6 @@ Variational Bayesian Dropout With a Hierarchical Prior.
 AANet: Attribute Attention Network for Person Re-Identifications.
 Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction.
 A Main/Subsidiary Network Framework for Simplifying Binary Neural Networks.
-PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet.
 Few-Shot Adaptive Faster R-CNN.
 VRSTC: Occlusion-Free Video Person Re-Identification.
 Compact Feature Learning for Multi-Domain Image Classification.
@@ -1117,7 +1113,6 @@ Neural RGB(r)D Sensing: Depth and Uncertainty From a Video Camera.
 DAVANet: Stereo Deblurring With View Aggregation.
 DVC: An End-To-End Deep Video Compression Framework.
 SOSNet: Second Order Similarity Regularization for Local Descriptor Learning.
-"Double-DIP": Unsupervised Image Decomposition via Coupled Deep-Image-Priors.
 Unprocessing Images for Learned Raw Denoising.
 Residual Networks for Light Field Image Super-Resolution.
 Modulating Image Restoration With Continual Levels via Adaptive Feature Modification Layers.
@@ -1256,7 +1251,6 @@ Skin-Based Identification From Multispectral Image Data Using CNNs.
 Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks.
 Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments.
 PIEs: Pose Invariant Embeddings.
-Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning.
 Object Counting and Instance Segmentation With Image-Level Supervision.
 Variational Autoencoders Pursue PCA Directions (by Accident).
 A Relation-Augmented Fully Convolutional Network for Semantic Segmentation in Aerial Scenes.

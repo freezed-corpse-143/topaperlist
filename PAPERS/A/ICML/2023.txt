@@ -1,4 +1,3 @@
-International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA.
 Data Structures for Density Estimation.
 ClusterFuG: Clustering Fully connected Graphs by Multicut.
 Generalization on the Unseen, Logic Reasoning and Degree Curriculum.
@@ -1548,7 +1547,6 @@ Marginalization is not Marginal: No Bad VAE Local Minima when Learning Optimal S
 Uncertainty Estimation for Molecules: Desiderata and Methods.
 The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond.
 Learning Deep Time-index Models for Time Series Forecasting.
-Sharper Bounds for ℓpSensitivity Sampling.
 Two Losses Are Better Than One: Faster Optimization Using a Cheaper Proxy.
 SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning.
 Causal Proxy Models for Concept-based Model Explanations.
@@ -1827,3 +1825,4 @@ Are Random Decompositions all we need in High Dimensional Bayesian Optimisation?
 Revisiting Bellman Errors for Offline Model Selection.
 spred: Solving L1 Penalty with SGD.
 The Benefits of Mixup for Feature Learning.
+Sharper bounds for lp sensitivity sampling

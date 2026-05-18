@@ -5,7 +5,6 @@ Cardinality Estimation for Having-Clauses.
 Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models.
 LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency.
 Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing.
-Front Matter.
 RED: Effective Trajectory Representation Learning with Comprehensive Information.
 Accurate and Fast Approximate Graph Pattern Mining at Scale.
 QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.
@@ -39,7 +38,6 @@ MILLION: A General Multi-Objective Framework with Controllable Risk for Portfoli
 The Cost of Representation by Subset Repairs.
 cedar: Optimized and Unified Machine Learning Input Data Pipelines.
 Goku: A Schemaless Time Series Database for Large Scale Monitoring at Pinterest.
-Front Matter.
 Agent-OM: Leveraging LLM Agents for Ontology Matching.
 GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes.
 Cardinality Estimation for Similarity Search on High-Dimensional Data Objects: The Impact of Reference Objects.
@@ -71,7 +69,6 @@ Datamap-Driven Tabular Coreset Selection for Classifier Training.
 Towards Scalable and Practical Batch-Dynamic Connectivity.
 IcedTea: Efficient and Responsive Time-Travel Debugging in Dataflow Systems.
 Representative Time Series Discovery for Data Exploration.
-Front Matter.
 Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph.
 FaDE: More Than a Million What-ifs Per Second.
 Towards Ideal Temporal Graph Neural Networks: Evaluations and Conclusions after 10,000 GPU Hours.
@@ -97,7 +94,6 @@ Discovering Approximate Inclusion Dependencies.
 DumpKV: Learning based lifetime aware garbage collection for key value separation in LSM-tree.
 RGS-Sketch: An Accurate, Invertible, and Mergeable Sketch for Online Super Spreader Detection in High-speed Data Streams.
 Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated Large-Scale Data Analytics.
-Front Matter.
 Dandelion: Smaller Clusters, Bigger Speeds - Distributed Transactions Redefined.
 Esc: An Early-Stopping Checker for Budget-aware Index Tuning.
 Jodes: Efficient Oblivious Join in the Distributed Setting.
@@ -118,7 +114,6 @@ Explaining Black-Box Clustering Pipelines With Cluster-Explorer.
 BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads.
 FLEET: High-Performance Durable Replicated State Machines using Scattered and Coordinated Log Entries.
 BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases.
-Front Matter.
 A Systematic Study on Early Stopping Metrics in HPO and the Implications of Uncertainty.
 TELESAFE - Detecting Private/Work Boundary Crossings in Energy Consumption Trails in Telework.
 FB+-tree: A Memory-Optimized B+-tree with Latch-Free Update.
@@ -152,7 +147,6 @@ mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Mu
 Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility.
 A Flexible Framework for Query-oriented Interactive Community Search.
 Tabular: Efficiently Building Efficient Indexes.
-Front Matter.
 Efficient Maintenance of 2-Hop Labeling Index on Dynamic Small-World Graphs.
 Vive la Différence: Practical Diff Testing of Stateful Applications.
 GREAT: Generalized Reservoir Sampling based Triangle Counting Estimation over Streaming Graphs.
@@ -176,7 +170,6 @@ Continuous Lifelong Conflict-Aware AGV Routing with Kinematic Constraints.
 Wolverine: Highly Efficient Monotonic Search Path Repair for Graph-based ANN Index Updates.
 Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction.
 GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction.
-Front Matter.
 TMLKD: Few-shot Trajectory Metric Learning via Knowledge Distillation.
 Oze: Decentralized Graph-based Concurrency Control for Long-running Update Transactions.
 Hermes: Off-the-Shelf Real-Time Transactional Analytics.
@@ -211,7 +204,6 @@ AQETuner: Reliable Query-level Configuration Tuning for Analytical Query Engines
 PipeTGL: (Near) Zero Bubble Memory-based Temporal Graph Neural Network Training via Pipeline Optimization.
 Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL.
 Saving Private Hash Join.
-Front Matter.
 Concurrency Control as a Service.
 TAB: Unified Benchmarking of Time Series Anomaly Detection Methods.
 Heta: Distributed Training of Heterogeneous Graph Neural Networks.
@@ -247,7 +239,6 @@ ArrayMorph: Optimizing Hyperslab Queries on the Cloud for Machine Learning Pipel
 Inference-friendly Graph Compression for Graph Neural Networks.
 GpJSON: High-performance JSON Data Processing on GPUs.
 Beyond Shortest Paths: Node Fairness in Route Recommendation.
-Front Matter.
 Access Control for Information-Theoretically Secure Data.
 Dynamic Range-Filtering Approximate Nearest Neighbor Search.
 LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration.
@@ -281,7 +272,6 @@ Fused Gromov-Wasserstein Alignment for Graph Edit Distance Computation and Beyon
 EVOSCHEMA: TOWARDS TEXT-TO-SQL ROBUSTNESS AGAINST SCHEMA EVOLUTION.
 Effective and Efficient Community Search for Complex Network Semantics Capture: From Coarse-Grain to Fine-Grain.
 HAWK: A Workload-driven Hierarchical Deadlock Detection Approach in Distributed Database System.
-Front Matter.
 Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents.
 S^3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics.
 Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based Recommendation through Decoupled Propagation.
@@ -363,7 +353,6 @@ Turbocharging Vector Databases using Modern SSDs.
 SIEVE: Effective Filtered Vector Search with Collection of Indexes.
 Enhancing Graph Edit Distance Computation: Stronger and Orientation-based ILP Formulations.
 ParSEval: Plan-aware Test Database Generation for SQL Equivalence Evaluation.
-Front Matter.
 LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System.
 TuskFlow: An Efficient Graph Database for Long-Running Transactions.
 MD-MVCC: Multi-version Concurrency Control for Schema Changes in Azure SQL Database.
@@ -476,7 +465,6 @@ Still Asking: How Good Are Query Optimizers, Really?
 Alphabets, Grammars, Calculators, and the End of Hand-Crafted Systems.
 Bridging Disciplines in Data Management Research to Solve Complex Data Problems.
 Bringing the Operational and Analytical Worlds Together with Lakebase.
-Front Matter.
 E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model.
 SunStorm: Geographically distributed transactions over Aurora-style systems.
 Sampling-based Predictive Database Buffer Management.
@@ -493,4 +481,3 @@ An Evaluation of N-Gram Selection Strategies for Regular Expression Indexing in 
 Graph Transformers for Query Plan Representation: Potentials and Challenges.
 Exploring Exploratory Querying.
 Finding Time-Proximity Communities in Temporal Heterogeneous Information Networks.
-Errata for "CGgraph: An Ultra-fast Graph Processing System on Modern Commodity CPU-GPU Co-processor".

@@ -5,7 +5,6 @@ Inspector Gadget: A Data Programming-based Labeling System for Industrial Images
 Scaling Attributed Network Embedding to Massive Graphs.
 Deep Entity Matching with Pre-Trained Language Models.
 NeuroCard: One Cardinality Estimator for All Tables.
-Front Matter.
 Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads.
 Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics.
 Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling.
@@ -19,7 +18,6 @@ Taurus: Lightweight Parallel Logging for In-Memory Database Management Systems.
 Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs.
 PPQ-Trajectory: Spatio-temporal Quantization for Querying in Large Trajectory Repositories.
 Aggregated Deletion Propagation for Counting Conjunctive Query Answers.
-Front Matter.
 Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems.
 Nearest Neighbor Classifiers over Incomplete Information: From Certain Answers to Certain Predictions.
 Elle: Inferring Isolation Anomalies from Experimental Observations.
@@ -37,7 +35,6 @@ RECEIPT: REfine CoarsE-grained IndePendent Tasks for Parallel Tip decomposition 
 Comprehensive and Efficient Workload Compression.
 CoroBase: Coroutine-Oriented Main-Memory Database Engine.
 Scalable Querying of Nested Data.
-Front Matter.
 Space- and Computationally-Efficient Set Reconciliation via Parity Bitmap Sketch (PBS).
 Astrid: Accurate Selectivity Estimation for String Predicates using Deep Learning.
 Compact, Tamper-Resistant Archival of Fine-Grained Provenance.
@@ -58,7 +55,6 @@ Quality of Sentiment Analysis Tools: The Reasons of Inconsistency.
 Hindsight Logging for Model Training.
 Scalable Structural Index Construction for JSON Analytics.
 Efficient Join Algorithms For Large Database Tables in a Multi-GPU Environment.
-Front Matter.
 FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relational Data.
 Efficient Streaming Subgraph Isomorphism with Graph Neural Networks.
 Epoch-based Commit and Replication in Distributed OLTP Databases.
@@ -70,8 +66,6 @@ DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional
 Improving Information Extraction from Visually Rich Documents using Visual Span Representations.
 Zen: a High-Throughput Log-Free OLTP Engine for Non-Volatile Main Memory.
 Differentially Private Binary- and Matrix-Valued Data Query: An XOR Mechanism.
-Front Matter.
-Errata for "Cerebro: A Data System for Optimized Deep Learning Model Selection".
 ParaX: Boosting Deep Learning for Big Data Analytics on Many-Core CPUs.
 Optimization of Threshold Functions over Streams.
 Budget Constrained Interactive Search for Multiple Targets.
@@ -93,12 +87,10 @@ Heracles: An Efficient Storage Model And Data Flushing For Performance Monitorin
 Fine-Grained Lineage for Safer Notebook Interactions.
 FREDE: Anytime Graph Embeddings.
 On Analyzing Graphs with Motif-Paths.
-Front Matter.
 Collective Influence Maximization for Multiple Competing Products with an Awareness-to-Influence Model.
 Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights.
 Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation.
 The Case for NLP-Enhanced Database Tuning: Towards Tuning Tools that "Read the Manual".
-Errata for "Unifying Consensus and Atomic Commitment for Effective Cloud Data Management".
 Software-Defined Data Protection: Low Overhead Policy Compliance at the Storage Layer is Within Reach!
 TRACE: Real-time Compression of Streaming Trajectories in Road Networks.
 Shortest Paths and Centrality in Uncertain Networks.
@@ -106,7 +98,6 @@ Adaptive Data Augmentation for Supervised Learning over Missing Data.
 KLL±: Approximate Quantile Sketches over Dynamic Datasets.
 Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees.
 An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on Real-World Database Management Systems.
-Front Matter.
 RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation.
 Lachesis: Automated Partitioning for UDF-Centric Analytics.
 Updatable Learned Index with Precise Positions.
@@ -123,7 +114,6 @@ CGPTuner: a Contextual Gaussian Process Bandit Approach for the Automatic Tuning
 Language-Agnostic Integrated Queries in a Managed Polyglot Runtime.
 Achieving High Throughput and Elasticity in a Larger-than-Memory Store.
 Efficient Size-Bounded Community Search over Large Networks.
-Front Matter.
 Minimum Vertex Augmentation.
 Database Isolation By Scheduling.
 SaS: SSD as SQL Database System.
@@ -144,7 +134,6 @@ On the algebra of data sketches.
 Massively Parallel Algorithms for Personalized PageRank.
 GeCo: Quality Counterfactual Explanations in Real Time.
 Automated Feature Engineering for Algorithmic Fairness.
-Front Matter.
 How to Design Robust Algorithms using Noisy Comparison Oracle.
 SAND: Streaming Subsequence Anomaly Detection.
 Optimizing Fitness-For-Use of Differentially Private Linear Queries.
@@ -162,7 +151,6 @@ Revisiting the Design of LSM-tree Based OLTP Storage Engine with Persistent Memo
 Kamino: Constraint-Aware Differentially Private Data Synthesis.
 Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation.
 Dual-Objective Fine-Tuning of BERT for Entity Matching.
-Front Matter.
 GraphMineSuite: Enabling High-Performance and Programmable Graph Mining Algorithms with Set Algebra.
 PATSQL: Efficient Synthesis of SQL Queries from Example Tables with Quick Inference of Projected Columns.
 Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation.
@@ -189,7 +177,6 @@ Constructing and Analyzing the LSM Compaction Design Space.
 ByShard: Sharding in a Byzantine Environment.
 SetSketch: Filling the Gap between MinHash and HyperLogLog.
 CGM: An Enhanced Mechanism for Streaming Data Collectionwith Local Differential Privacy.
-Errata for "Teseo and the Analysis of Structural Dynamic Graph".
 QARTA: An ML-based System for Accurate Map Services.
 Real-World Trajectory Sharing with Local Differential Privacy.
 PolyFrame: A Retargetable Query-based Approach to Scaling Dataframes.
@@ -221,7 +208,6 @@ Beyond Equi-joins: Ranking, Enumeration and Factorization.
 Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series.
 Progressive Compressed Records: Taking a Byte out of Deep Learning Data.
 TQEL: Framework for Query-Driven Linking of Top-K Entities in Social Media Blogs.
-Front Matter.
 KDV-Explorer: A Near Real-Time Kernel Density Visualization System for Spatial Analysis.
 Refiner: A Reliable Incentive-Driven Federated Learning System Powered by Blockchain.
 MultiCategory: Multi-model Query Processing Meets Category Theory and Functional Programming.
@@ -315,7 +301,6 @@ Towards instance-optimized data systems.
 Knowledge Graphs 2021: A Data Odyssey.
 The future of data(base) education: Is the "cow book" dead?
 Using VDMS to Index and Search 100M Images.
-Front Matter.
 TSCache: An Efficient Flash-based Caching Scheme for Time-series Data Workloads.
 MP-RW-LSH: An Efficient Multi-Probe LSH Solution to ANNS-L_1.
 View Selection over Knowledge Graphs in Triple Stores.

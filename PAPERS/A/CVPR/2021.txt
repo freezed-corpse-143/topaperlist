@@ -161,7 +161,6 @@ Robust Consistent Video Depth Estimation.
 Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing.
 Global Transport for Fluid Reconstruction With Learned Self-Supervision.
 VLN BERT: A Recurrent Vision-and-Language BERT for Navigation.
-Single-View Robot Pose and Joint Angle Estimation via Render & Compare.
 Learning Deep Classifiers Consistent With Fine-Grained Novelty Detection.
 CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.
 Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection.
@@ -696,7 +695,6 @@ Cloud2Curve: Generation and Vectorization of Parametric Sketches.
 Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition.
 MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization.
 NeuTex: Neural Texture Mapping for Volumetric Neural Rendering.
-UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering.
 RangeIoUDet: Range Image Based Real-Time 3D Object Detector Optimized by Intersection Over Union.
 Architectural Adversarial Robustness: The Case for Deep Pursuit.
 SimPoE: Simulated Character Control for 3D Human Pose Estimation.
@@ -726,7 +724,6 @@ Progressive Contour Regression for Arbitrary-Shape Scene Text Detection.
 Strengthen Learning Tolerance for Weakly Supervised Object Localization.
 StruMonoNet: Structure-Aware Monocular 3D Prediction.
 Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction.
-Exploiting & Refining Depth Distributions With Triangulation Light Curtains.
 PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths.
 TearingNet: Point Cloud Autoencoder To Learn Topology-Friendly Representations.
 3D Object Detection With Pointformer.
@@ -1122,7 +1119,6 @@ Optimal Gradient Checkpoint Search for Arbitrary Computation Graphs.
 Black-Box Explanation of Object Detectors via Saliency Maps.
 GIRAFFE: Representing Scenes As Compositional Generative Neural Feature Fields.
 CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation.
-Your "Flamingo" is My "Bird": Fine-Grained, or Not.
 Inception Convolution With Efficient Dilation Search.
 Geo-FARM: Geodesic Factor Regression Model for Misaligned Pre-Shape Responses in Statistical Shape Analysis.
 UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification.
@@ -1502,7 +1498,6 @@ DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion.
 Boundary IoU: Improving Object-Centric Image Segmentation Evaluation.
 A2-FPN: Attention Aggregation Based Feature Pyramid Network for Instance Segmentation.
 SSLayout360: Semi-Supervised Indoor Layout Estimation From 360deg Panorama.
-Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds.
 Improved Image Matting via Real-Time User Clicks and Uncertainty Estimation.
 Self-Supervised Augmentation Consistency for Adapting Semantic Segmentation.
 Few-Shot Object Detection via Classification Refinement and Distractor Retreatment.

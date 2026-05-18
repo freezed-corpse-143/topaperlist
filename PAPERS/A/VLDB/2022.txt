@@ -10,7 +10,6 @@ Learned Cardinality Estimation: A Design Space Exploration and A Comparative Eva
 DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.
 Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine.
 Accelerating Recommendation System Training by Leveraging Popular Choices.
-Front Matter.
 (p, q)-biclique Counting and Enumeration for Large Sparse Bipartite Graphs.
 Evaluating Query Languages and Systems for High-Energy Physics Data.
 Distributed Hop-Constrained s-t Simple Path Enumeration at Billion Scale.
@@ -30,7 +29,6 @@ TaGSim: Type-aware Graph Similarity Learning and Computation.
 Analysis of Influence Contribution in Social Advertising.
 Scabbard: Single-Node Fault-Tolerant Stream Processing.
 Enabling Personal Consent in Databases.
-Front Matter.
 Enabling SQL-based Training Data Debugging for Federated Learning.
 Leveraging Query Logs and Machine Learning for Parametric Query Optimization.
 Pre-training Summarization Models of Structured Datasets for Cardinality Estimation.
@@ -59,7 +57,6 @@ Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins.
 Incremental Partitioning for Efficient Spatial Data Analytics.
 Lux: Always-on Visualization Recommendations for Exploratory Dataframe Workflows.
 Flexible Rule-Based Decomposition and Metadata Independence in Modin: A Parallel Dataframe System.
-Front Matter.
 Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation.
 Redy: Remote Dynamic Memory Cache.
 Robust and Budget-Constrained Encoding Configurations for In-Memory Database Systems.
@@ -80,7 +77,6 @@ DQDF: Data-Quality-Aware Dataframes.
 Retrofitting GDPR Compliance onto Legacy Databases.
 AutoCTS: Automated Correlated Time Series Forecasting.
 Replicated Layout for In-Memory Database Systems.
-Front Matter.
 Projection-Compliant Database Generation.
 Making RDBMSs Efficient on Graph Workloads Through Predefined Joins.
 Ranked Enumeration of Join Queries with Projections.
@@ -91,7 +87,6 @@ A Critical Analysis of Recursive Model Indexes.
 Hybrid Blockchain Database Systems: Design and Performance.
 Threshold Queries in Theory and in the Wild.
 User-Defined Operators: Efficiently Integrating Custom Algorithms into Modern Databases.
-Front Matter.
 PACk: An Efficient Partition-based Distributed Agglomerative Hierarchical Clustering Algorithm for Deduplication.
 A Near-Optimal Approach to Edge Connectivity-Based Hierarchical Graph Decomposition.
 Hu-Fu: Efficient and Secure Spatial Queries over Data Federation.
@@ -106,7 +101,6 @@ Multivariate correlations discovery in static and streaming data.
 Moneyball: Proactive Auto-Scaling in Microsoft Azure SQL Database Serverless.
 PGE: Robust Product Graph Embedding Learning for Error Detection.
 CHEX: Multiversion Replay with Ordered Checkpoints.
-Front Matter.
 Prefix Filter: Practically and Theoretically Better Than Bloom.
 Scalar DL: Scalable and Practical Byzantine Fault Detection for Transactional Database Systems.
 In-Network Leaderless Replication for Distributed Data Stores.
@@ -123,7 +117,6 @@ Selective Data Acquisition in the Wild for Model Charging.
 Discovering Association Rules from Big Graphs.
 DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection.
 Entity Resolution On-Demand.
-Front Matter.
 ForBackBench: A Benchmark for Chasing vs. Query-Rewriting.
 Accurate Summary-based Cardinality Estimation Through the Lens of Cardinality Estimation Graphs.
 Distributed D-core Decomposition over Large Directed Graphs.
@@ -141,7 +134,6 @@ MATE: Multi-Attribute Table Extraction.
 TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection.
 A Critical Re-evaluation of Neural Methods for Entity Alignment.
 Analyzing How BERT Performs Entity Matching.
-Front Matter.
 Scalable Byzantine Fault Tolerance via Partial Decentralization.
 Efficient and Error-bounded Spatiotemporal Quantile Monitoring in Edge Computing Environments.
 HDPView: Differentially Private Materialized View for Exploring High Dimensional Relational Data.
@@ -160,7 +152,6 @@ New Wine in an Old Bottle: Data-aware Hash Functions for Bloom Filters.
 SANCUS: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks.
 CORE: a COmplex event Recognition Engine.
 TAOBench: An End-to-End Benchmark for Social Networking Workloads.
-Front Matter.
 VIP Hashing - Adapting to Skew in Popularity of Data on the Fly.
 Near-Data Processing in Database Systems on Native Computational Storage under HTAP Workloads.
 Hercules Against Data Series Similarity Search.
@@ -185,7 +176,6 @@ Density-optimized Intersection-free Mapping and Matrix Multiplication for Join-P
 Design Trade-offs for a Robust Dynamic Hybrid Hash Join.
 YeSQL: "You extend SQL" with Rich and Highly Performant User-Defined Functions in Relational Databases.
 Magic Shapes for SHACL Validation.
-Front Matter.
 Succinct Graph Representations as Distance Oracles: An Experimental Evaluation.
 Effective Community Search over Large Star-Schema Heterogeneous Information Networks.
 A New Distributional Treatment for Time Series and An Anomaly Detection Investigation.
@@ -261,7 +251,6 @@ Spatial and Temporal Constrained Ranked Retrieval over Videos.
 SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.
 Enabling Efficient and General Subpopulation Analytics in Multidimensional Data Streams.
 Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs.
-Front Matter.
 Hardware Acceleration of Compression and Encryption in SAP HANA.
 Frost: A Platform for Benchmarking and Exploring Data Matching Results.
 ByteGraph: A High-Performance Distributed Graph Database in ByteDance.
@@ -346,7 +335,6 @@ Toward Interpretable and Actionable Data Analysis with Explanations and Causalit
 Reflections On My Data Management Research Journey (VLDB Women in Database Research Award Talk).
 Panel: Startups Founded by Database Researchers.
 Cloud Data Systems: What are the Opportunities for the Database Research Community?
-Front Matter.
 High-dimensional Data Cubes.
 Fast and Scalable Mining of Time Series Motifs with Probabilistic Guarantees.
 FEDEX: An Explainability Framework for Data Exploration Steps.

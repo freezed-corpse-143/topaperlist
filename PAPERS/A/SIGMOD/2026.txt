@@ -1,5 +1,3 @@
-PACMMOD V4, N1 (SIGMOD), February 2026 Editorial
-A Game Theory Approach for Negotiating in Data Marketplaces
 A Game Theory Approach for Negotiating in Data Marketplaces
 A Principled Solution to the Disjunction Problem of Diagrammatic Query Representations
 A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs
@@ -221,97 +219,7 @@ Workload-Aware Incremental Reclustering in Cloud Data Warehouses
 Zeno Filter: To Infinity in Tiny Steps
 Zero-Redundancy Search for Bi-Components in Bipartite Graphs
 A Game Theory Approach for Negotiation in Data Marketplaces
-A Principled Solution to the Disjunction Problem of Diagrammatic Query Representations
-A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs
-ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks
-Accelerating Triangle-Connected Truss Community Search Across Heterogeneous Hardware
-Aeris Filter: A Strongly and Monotonically Adaptive Range Filter
-AeroSketch: Near-Optimal Time Matrix Sketch Framework for Persistent, Sliding Window, and Distributed Streams
-An Extensive Experimental Study of Indexes in Continuous Subgraph Matching: [Experiments & Analysis]
-Analyzing Deviations from Monotonic Trends through Database Repair
-HONEYBEE: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning
-AutoDDG: Automated Dataset Description Generation using Large Language Models
-Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management
-Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization
-Breadcrumb Filters: Fast Fully Featured Filters
-CANDOR-Bench: Benchmarking In-Memory Continuous ANNS under Dynamic Open-World Streams [Experiments & Analysis]
-Causal Explanations for Disparate Trends: Where and Why?
-Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs
-CorrBound: Cardinality Estimation Accounting for Inter- and Intra-relation Correlations
-CoTra: Towards Efficient and Scalable Distributed Vector Search with RDMA
-Curator: Efficient Vector Search with Low-Selectivity Filters
-DART: A Lock-free Two-layer Hashed ART Index for Disaggregated Memory
-Data-Semantics-Aware Recommendation of Diverse Pivot Tables
-Defense against Poisoning Attacks under Shuffle-DP
-Distribution-Aware Exploration for Adaptive HNSW Search
-DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning
-Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload
-Efficient and Effective Biclique Counting with Local Differential Privacy
-Efficient and Robust Out-Of-Distribution Vector Similarity Search with Cross-Distribution Monotonic Graph
-Efficient Influential Community Search over Dynamic Graphs
-Efficient Vector Index Merging in Vector Databases
-Enabling Efficient Update on Rule-Based Compressed Graph
-Enhancing Local Differential Privacy Accuracy by Exploiting Inherent Uncertainty
-Enumerating Graph Pattern Matches with ML Oracles
-ESTune: Bayesian Uncertainty-Guided Early Stopping for Database Configuration Tuning
-Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search
-FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search
-FlashANNS: GPU-Driven Asynchronous I/O Pipelining for Eliminating Storage-Compute Bottlenecks in Billion-Scale Similarity Search
-FlowPilot: A Suggestion System for Designing Scientific Workflows
-From Learning to Recycling: A Log-Structured Learned-Less Index
-From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation
-High-Throughput k Nearest Neighbors Search in Road Networks
-HIRE: A Hybrid Learned Index for Robust and Efficient Performance under Mixed Workloads
-Hyra: Scalable Byzantine-Resilient State Storage Engine with Hierarchical Erasure-Coding
-IDAP++: Advancing Divergence-Aware Pruning with Joint Filter and Layer Optimization
-Improving LZ4 for Effective Compression and Efficient Query
-Improving Range Scan Performance in LSM-trees with Group Caching
-InferF: Declarative Factorization of AI/ML Inferences over Joins
-LeaseGuard: Raft Leases Done Right
-LiveBin: A Localized and Version-Aware Binned Scan Index
-LM-Tree: A Hybrid Learned Index for Similarity Search in Metric Spaces
-LMSC: Local Sketch Modularity Optimisation for Size-Constrained Community Search in Networks
-Making LSM-Tree-based Key-Value Store Practical and Efficient for Multi-Tenant Serverless Cloud Databases
-Mixtera: A Data Plane for Foundation Model Training
-MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under Local Differential Privacy
-MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization
-NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine
-On Efficient Approximate Aggregate Nearest Neighbor Queries over Learned Representations
-One DBMS, Two Modes, and a Bunch of Bugs: Catching Logic Bugs in Distributed DBMSs via Differential Testing
-Order-based Algorithms for Efficient Core Maintenance in Large Bipartite Graphs
-P-MOSS: Scheduling Main-Memory Indexes Over NUMA Servers Using Next Token Prediction
-PartitionKV: Redesigning LSM-tree KV stores on NVMs with Adaptive Partitioning for Reducing Write stalls and Amplification
-Performant Synchronization in Geo-Distributed Databases
-Predictive Translation: High-Performance Buffer Management Without the Trade-Offs
 PRISM: Navigating Costâ€“Accuracy Trade-offs for NL2SQL
-Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure
-PTO: A Workload-driven Predictive Table Optimizer for Lakehouse Systems
-Qualitative Join Discovery in Data Lakes using Examples
-Quantile Estimation with Duplicates
-GenRewrite: Query Rewriting via Large Language Models
-R2O: A Dual-Layer Framework for Joint Rewriting and Ordering in Distributed Property Graph Query Optimization
-RadixGraph: A Fast, Space-Optimized Data Structure for Dynamic Graph Storage
-RAIRS: Optimizing Redundant Assignment and List Layout for IVF-Based ANN Search
-Reducing Tail Latency in Storage-Disaggregated Database Systems
-Reqo: A Comprehensive Learning-Based Cost Model for Robust and Explainable Query Optimization
-Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views: [Experiments & Analysis]
-RIB: Robust Learning-based Index Benefit Estimation
-Robust Fair Influence Maximization under Multiple Community Partitions
-Rollbaccine: Herd Immunity against Storage Rollback Attacks in TEEs
-Scalable Clustering Over High Dimensional Vector Streams
-Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC
-SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL
-SG-Serve: Efficient Model Serving for Subgraph-based Graph Representation Learning
-SHoTClean: Bridging Soft and Hard Constraints for Multivariate Time Series Cleaning
-SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads
-Stress-Testing Causal Claims via Cardinality Repairs
-SWMT: A Sliding Window Merkle Tree with Delayed Writes for Scalable Blockchain State Management
-Task Cascades for Efficient Unstructured Data Processing
-The Case For Language Model Approximated LIKE Predicate
-This is Going to Sound Crazy, But What If We Used Large Language Models to Boost Automatic Database Tuning Algorithms By Leveraging Prior History? We Will Find Better Configurations More Quickly Than Retraining From Scratch!
-Unseen Anomaly Detection from System Logs
-VecFlow-Chamfer: A GPU-based Data Management System for High-Performance Multi-Vector Search on Superchips
-Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking
 LLM-Powered Interactive Graph Search: A Scalable and Practical Approach
 Fast Optimal Group Steiner Tree Search using GPUs
 Test Data Generation for Complex SQL Queries

@@ -56,7 +56,7 @@ A Closer Look at TabPFN v2: Understanding Its Strengths and Extending Its Capabi
 A Closer Look to Positive-Unlabeled Learning from Fine-grained Perspectives: An Empirical Study
 A Computationally Viable Numerical Gradient-based Technique for Optimal Covering Problems
 A Controllable Examination for Long-Context Language Models
-A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective
+Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning
 A Counterfactual Semantics for Hybrid Dynamical Systems
 A Cramér–von Mises Approach to Incentivizing Truthful Data Sharing
 A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors
@@ -73,7 +73,7 @@ A General-Purpose Theorem for High-Probability Bounds of Stochastic Approximatio
 A Generalist Intracortical Motor Decoder
 A Generalized Binary Tree Mechanism for Private Approximation of All-Pair Shortest Distances
 A Generalized Bisimulation Metric of State Similarity between Markov Decision Processes: From Theoretical Propositions to Applications
-A Generalized Iterative Imputation Framework for Model Adaptation and Oracle Feature Utilization
+Iterative Missing Data Imputation with Model Form Adaptation and Non-Missing Feature Supervision
 A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation
 A Geometry-Aware Metric for Mode Collapse in Multivariate Time Series Generative Models
 A Gradient Guidance Perspective on Stepwise Preference Optimization for Diffusion Models
@@ -106,7 +106,6 @@ A Principled Path to Fitted Distributional Evaluation
 A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input
 A Probabilistic Inference Approach to Inference-Time Scaling of LLMs using Particle-Based Monte Carlo Methods
 A Provable Approach for End-to-End Safe Reinforcement Learning
-A Provable Pitfall of Generalization in SSMs
 A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees
 A Reinforcement Learning-based Bidding Strategy for Data Consumers in Auction-based Federated Learning
 A Reliable Cryptographic Framework for Empirical Machine Unlearning Evaluation
@@ -119,7 +118,6 @@ A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimizatio
 A Single-Loop Gradient Algorithm for Pessimistic Bilevel Optimization via Smooth Approximation
 A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$: Robust Imitation via Learning to Search
 A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning
-A Spectral Understanding of LoRA Fine-Tuning
 A Stable Whitening Optimizer for Efficient Neural Network Training
 A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification
 A Statistical Theory of Contrastive Learning via Approximate Sufficient Statistics
@@ -144,14 +142,12 @@ A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation
 A Unified Reasoning Framework for Holistic Zero-Shot Video Anomaly Analysis
 A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking
 A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias
-A Unifying Account of In-Context Learning as a Bayesian Loss-Complexity Tradeoff
 A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning
 A compressive-expressive communication framework for compositional representations
 A data and task-constrained mechanistic model of the mouse outer retina shows robustness to contrast variations
 A faster training algorithm for regression trees with linear leaves, and an analysis of its complexity
 A geometric framework for momentum-based optimizers for low-rank training
 A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders
-A kernel conditional two-sample test
 A learnability analysis on neuro-symbolic learning
 A machine learning approach that beats large Rubik's cubes
 A multiscale analysis of mean-field transformers in the moderate interaction regime
@@ -228,7 +224,7 @@ Accident Anticipation via Temporal Occurrence Prediction
 AccuQuant: Simulating Multiple Denoising Steps for Quantizing Diffusion Models
 Accurate KV Cache Eviction via Anchor Direction Projection for Efficient LLM Inference
 Accurately Predicting Protein Mutational Effects via a Hierarchical Many-Body Attention Network
-AceRAG: Advancing Reasoning-Intensive Retrieval-Augmented Generation via LLM Self-Play
+AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play
 AceReason: Advancing Math and Code Reasoning through Reinforcement Learning
 Achieving $\tilde{\mathcal{O}}(1/N)$ Optimality Gap in Restless Bandits through Gaussian Approximation
 Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data
@@ -240,7 +236,7 @@ Activation Control for Efficiently Eliciting Long Chain-of-thought Ability of La
 Activation-Guided Consensus Merging for Large Language Models
 Activation-Informed Merging of Large Language Models
 Active Measurement: Efficient Estimation at Scale
-Active Seriation
+Active Seriation: Efficient Ordering Recovery with Statistical Guarantees
 Active Target Discovery under Uninformative Priors: The Power of Permanent and Transient Memory
 Active Test-time Vision-Language Navigation
 ActiveVOI: Value of Information Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning
@@ -262,17 +258,16 @@ Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer
 AdaptDel: Adaptable Deletion Rate Randomized Smoothing for Certified Robustness
 AdaptGrad: Adaptive Sampling to Reduce Noise
 Adaptable Safe Policy Learning from Multi-task Data with Constraint Prioritized Decision Transformer
-Adapting Frame-Based Networks for Stable and Robust Video Inference
+Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks
 Adapting to Stochastic and Adversarial Losses in Episodic MDPs with Aggregate Bandit Feedback
 Adaptive 3D Reconstruction via Diffusion Priors and \\Forward Curvature-Matching Likelihood Updates
 Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization
 Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking
 Adaptive Context Length Optimization with Low-Frequency Truncation for Multi-Agent Reinforcement Learning
-Adaptive Correction During the LLM Forward Pass
-Adaptive Cyclic Diffusion for Inference Scaling
+Adaptive Inference-Time Scaling via Cyclic Diffusion Search
 Adaptive Data Analysis for Growing Data
 Adaptive Data-Borrowing for Improving Treatment Effect Estimation using External Controls
-Adaptive Defense against Harmful Fine-Tuning via Bayesian Data Scheduler
+Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler
 Adaptive Discretization for Consistency Models
 Adaptive Distraction: Probing LLM Contextual Robustness with Automated Tree Search
 Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models
@@ -359,12 +354,11 @@ Aligning Transformers with Continuous Feedback via Energy Rank Alignment
 Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation
 Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment
 Alignment of Large Language Models with Constrained Learning
-All Proxy Rewards are Bad, Can We Hedge to Make Some Useful?
 All You Need is One: Capsule Prompt Tuning with a Single Vector
 All that structure matches does not glitter
 Alleviating Hallucinations in Large Language Models through Multi-Model Contrastive Decoding and Dynamic Hallucination Detection
 Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression
-AlphaBeta is not as good as you think: a new probabilistic model to better analyze deterministic game-solving algorithms
+AlphaBeta is not as good as you think: a simple class of synthetic games for a better analysis of deterministic game-solving algorithms
 AlphaDecay: Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs
 AlphaFold Database Debiasing for Robust Inverse Folding
 AlphaZero Neural Scaling and Zipf's Law: a Tale of Board Games and Power Laws
@@ -382,13 +376,12 @@ An Adaptive Quantum Circuit of Dempster's Rule of Combination for Uncertain Patt
 An Analysis of Causal Effect Estimation using Outcome Invariant Data Augmentation
 An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations
 An Analytical Theory of Spectral Bias in the Learning Dynamics of Diffusion Models
-An Attempt to Use Synthetic Pretraining Playgrounds for Language Model Architecture Design
+Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers
 An Effective Levelling Paradigm for Unlabeled Scenarios
 An Efficient Local Search Approach for Polarized Community Discovery in Signed Networks
 An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph
 An Ellipsoid Algorithm for Online Convex Optimization
 An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination
-An Exact Analysis of PCA
 An Improved Algorithm for Adversarial Linear Contextual Bandits via Reduction
 An Information-theoretical Framework for Understanding Out-of-distribution Detection with Pretrained Vision-Language Models
 An Investigation of Memorization Risk in Healthcare Foundation Models
@@ -398,7 +391,7 @@ Analog Foundation Models
 Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions
 Analogy-based Multi-Turn Jailbreak against Large Language Models
 Analytic Energy-Guided Policy Optimization for Offline Reinforcement Learning
-Analytical Contrastive Projection for Accurate Continual Learning
+AnaCP: Toward Upper-Bound Continual Learning via Analytic Contrastive Projection
 Analyzing Fine-Grained Alignment and Enhancing Vision Understanding in Multimodal Language Models
 Analyzing Similarity Metrics for Data Selection for Language Model Pretraining
 Analyzing the Power of Chain of Thought through Memorization Capabilities
@@ -466,8 +459,8 @@ Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Langu
 Audio Super-Resolution with Latent Bridge Models
 Audio-Sync Video Generation with Multi-Stream Temporal Control
 Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models
-Audits Under Resource and Information Constraints: Scaling Laws for Fairness Pareto Frontiers
-AugGen: Synthetic Augmentation Can Improve Discriminative Models
+Audits Under Resource, Data, and Access Constraints: Scaling Laws For Less Discriminatory Alternatives
+AugGen: Synthetic Augmentation using Diffusion Models Can Improve Recognition
 Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA
 Aura Attention: $\mathcal O(n \log n)$ Sparse Attention for Long Video Generation
 AuroRA: Breaking Low-Rank Bottleneck of LoRA with Nonlinear Mapping
@@ -492,7 +485,7 @@ Automatic Auxiliary Task Selection and Adaptive Weighting Boost Molecular Proper
 Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval
 Automatic Visual Instrumental Variable Learning for Confounding-Resistant Domain Generalization
 Automaton Constrained Q-Learning
-Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation
+Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics
 Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation
 Autoregressive Motion Generation with Gaussian Mixture-Guided Latent Sampling
 Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation
@@ -513,7 +506,7 @@ BNMusic: Blending Environmental Noises into Personalized Music
 BO4Mob: Bayesian Optimization Benchmarks for High-Dimensional Urban Mobility Problem
 BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models
 BRACE: A Benchmark for Robust Audio Caption Quality Evaluation
-BREAD: Enhancing SLM Reasoning by Bridging Supervised and Reinforcement Learning
+BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning
 BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent
 BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity
 Backdoor Cleaning without External Guidance in MLLM Fine-tuning
@@ -530,10 +523,9 @@ Balancing Gradient and Hessian Queries in Non-Convex Optimization
 Balancing Multimodal Training Through Game-Theoretic Regularization
 Balancing Performance and Costs in Best Arm Identification
 Balancing Positive and Negative Classification Error Rates in Positive-Unlabeled Learning
-Bandit Multiclass List Classification
 Bandit and Delayed Feedback in Online Structured Prediction
 Bandit-Guided Submodular Curriculum for Adaptive Subset Selection
-Batch Diversity is all you need in constrative learning
+Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes
 BayeSQP: Bayesian Optimization through Sequential Quadratic Programming
 Bayes optimal learning of attention-indexed models
 Bayesian Concept Bottleneck Models with LLM Priors
@@ -557,7 +549,7 @@ Better Estimation of the Kullback--Leibler Divergence Between Language Models
 Better Language Model Inversion by Compactly Representing Next-Token Distributions
 Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging
 Better Training Data Attribution via Better Inverse Hessian-Vector Products
-Better separation and better NTK conditioning: effects of non-linear activation on wide neural networks
+Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks
 BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization
 Beyond $\tilde{O}(\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints
 Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning
@@ -581,7 +573,7 @@ Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation
 Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs
 Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers
 Beyond Scores: Proximal Diffusion Models
-Beyond Single-Point Judgment: Distribution Alignment for LLM-as-a-Judge
+Distributional LLM-as-a-Judge
 Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs
 Beyond Token Probes: Hallucination Detection via Activation Tensors with ACT-ViT
 Beyond Value Functions: Single-Loop Bilevel Optimization under Flatness Conditions
@@ -632,7 +624,7 @@ BoltzNCE: Learning likelihoods for Boltzmann Generation with Stochastic Interpol
 Boosting Adversarial Transferability with Spatial Adversarial Alignment
 Boosting Generative Image Modeling via Joint Image-Feature Synthesis
 Boosting Knowledge Utilization in Multimodal Large Language Models  via Adaptive Logits Fusion and Attention Reallocation
-Boosting Machine Unlearning via Ensembling Infinite Number of Functions on Task Arithmetic Simplex
+Machine Unlearning via Task Simplex Arithmetic
 Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning
 Boosting Resilience of Large Language Models through Causality-Driven Robust Optimization
 Boosting Skeleton-based Zero-Shot Action Recognition with Training-Free Test-Time Adaptation
@@ -640,7 +632,6 @@ Boosting the Uniqueness of Neural Networks Fingerprints with Informative Trigger
 Bootstrap Off-policy with World Model
 Bootstrap Your Uncertainty: Adaptive Robust Classification Driven by Optimal-Transport
 Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization
-Born a Transformer -- Always a Transformer?
 Boundary-Value PDEs Meet Higher-Order Differential Topology-aware GNNs
 Boundary-to-Region Supervision for Offline Safe Reinforcement Learning
 Bounds on the computational complexity of neurons due to dendritic morphology
@@ -663,7 +654,7 @@ Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining
 Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression
 Breaking the Discretization Barrier of Continuous Physics Simulation Learning
 Breaking the Frozen Subspace: Importance Sampling for Low-Rank Optimization in LLM Pretraining
-Breaking the Gold Standard: Extracting Forgotten Data under Exact Unlearning in Large Language Models
+Unlearned but Not Forgotten: Data Extraction after Exact Unlearning in LLM
 Breaking the Gradient Barrier: Unveiling Large Language Models for Strategic Classification
 Breaking the Order Barrier: Off-Policy Evaluation for Confounded POMDPs
 Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies
@@ -677,13 +668,12 @@ Bridging Crypto with ML-based Solvers: the SAT Formulation and Benchmarks
 Bridging Equivariant GNNs and Spherical CNNs for Structured Physical Domains
 Bridging Expressivity and Scalability with Adaptive Unitary SSMs
 Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding
-Bridging Human and LLM Judgments: Calibration, Alignment, and Bias Detection
 Bridging Scales: Spectral Theory Reveals How Local Connectivity Rules Sculpt Global Neural Dynamics in Spatially Extended Networks
 Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation
 Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness
 Bridging Theory and Practice in Link Representation with Graph Neural Networks
 Bridging Time and Linguistics: LLMs as Time Series Analyzer through Symbolization and Segmentation
-Bridging the Expressivity Gap: Provably Tractable SHAP Explanations for Tensor Networks
+SHAP Meets Tensor Networks: Provably Tractable Explanations with Parallelism
 Bridging the Gap Between Cross-Domain Theory and Practical Application: A Case Study on Molecular Dissolution
 Briding the gap to real-world language-grounded visual concept learning
 Bringing SAM to new heights: leveraging elevation data for tree crown segmentation from drone imagery
@@ -694,7 +684,7 @@ BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes
 Bézier Splatting for Fast and Differentiable Vector Graphics Rendering
 C${}^2$Prompt: Class-aware Client Knowledge Interaction for Federated Continual Learning
 C-LoRA: Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models
-C-NAV: Continual Object Navigation with Dual-Path Anti-Forgetting and Adaptive Experience Selection
+C-NAV: Towards Self-Evolving Continual Object Navigation in Open World
 C-SEO Bench: Does Conversational SEO Work?
 C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails
 C3PO: Optimized Large Language Model Cascades with Probabilistic Cost Constraints for Reasoning
@@ -769,10 +759,10 @@ CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray R
 CVGL: Causal Learning and Geometric Topology
 CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays
 CaMiT: A Time-Aware Car Model Dataset for Classification and Generation
-Cached Token Similarity Is a Strong Prior for Fine-grained Visual Question Answering
+FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering
 CaliGCL: Calibrated Graph Contrastive Learning via Partitioned Similarity and Consistency Discrimination
 Calibrating Translation Decoding with Quality Estimation on LLMs
-Call on MARS: Scheduling API-Augmented LLM Requests
+Fast Inference for Augmented Large Language Models
 CamEdit: Continuous Camera Parameter Control for Photorealistic Image Editing
 CamSAM2: Segment Anything Accurately in Camouflaged Videos
 Can Agent Fix Agent Issues?
@@ -796,7 +786,7 @@ Caption This, Reason That: VLMs Caught in the Middle
 Capturing Individual Human Preferences with Reward Features
 Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Carbon Aware Transformers Through Joint Model-Hardware Optimization
-Carbon-Bench: A Forty-year Global-scale Benchmark Dataset for Carbon Forecasting in Forest Ecosystems
+CarbonGlobe: A Global-Scale, Multi-Decade Dataset and Benchmark for Carbon Forecasting in Forest Ecosystems
 Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment
 Causal Climate Emulation with Bayesian Filtering
 Causal Differentiating Concepts:  Interpreting LM Behavior via Causal Representation Learning
@@ -805,7 +795,6 @@ Causal Discovery over Clusters of Variables in Markovian Systems
 Causal Explanation-Guided Learning for Organ Allocation
 Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers
 Causal LLM Routing: End-to-End Regret Minimization from Observational Data
-Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences
 Causal Mixture Models: Characterization and Discovery
 Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach
 Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning
@@ -869,7 +858,6 @@ CoDIO: Efficient Data Selection for Visual Instruction Tuning via Coupled Import
 CoFFT: Chain of Foresight-Focus Thought for Visual Language Models
 CoLT: The conditional localization test for assessing the accuracy of neural posterior estimates
 CoP: Agentic Red-teaming for Large Language Models using Composition of Principles
-CoRT: Code-integrated Reasoning within Thinking
 CoRe: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks
 CoT Information: Improved Sample Complexity under Chain-of-Thought Supervision
 CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring
@@ -892,7 +880,7 @@ Collaborative Reasoner: Self-Improving Social Agents with Synthetic Conversation
 Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
 Collapsing Taylor Mode Automatic Differentiation
 Collective Counterfactual Explanations: Balancing Individual Goals and Collective Dynamics
-Collective Reasoning in Performative Prediction
+Look-Ahead Reasoning on Learning Platforms
 Color Conditional Generation with Sliced Wasserstein Guidance
 ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness
 Coloring Learning for Heterophilic Graph Representation
@@ -908,7 +896,7 @@ Compact Memory for Continual Logistic Regression
 Comparator-Adaptive $\Phi$-Regret: Improved Bounds, Simpler Algorithms, and Applications to Games
 Comparing Uniform Price and Discriminatory Multi-Unit Auctions through Regret Minimization
 Competitive Advantage Attacks to Decentralized Federated Learning
-Compiler Optimization via LLM Reasoning for Efficient Model Serving
+REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving
 Compiler-R1: Towards Agentic Compiler Auto-tuning with Reinforcement Learning
 Complete Structure Guided Point Cloud Completion via Cluster- and Instance-Level Contrastive Learning
 Complexity Scaling Laws for Neural Models using Combinatorial Optimization
@@ -994,7 +982,7 @@ Constructing an Optimal Behavior Basis for the Option Keyboard
 Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation
 Context-Aware Hierarchical Learning: A Two-Step Paradigm towards Safer LLMs
 Context-Aware Regularization with Markovian Integration for Attention-Based Nucleotide Analysis
-Context-Conditioned Autoregression: A Hybrid Framework for Autoregressive De Novo Sequencing
+Bidirectional Representations Augmented Autoregressive Biological Sequence Generation
 ContextAgent: Context-Aware Proactive LLM Agents with Open-world Sensory Perceptions
 Contextual Dynamic Pricing with Heterogeneous Buyers
 Contextual Integrity in LLMs via Reasoning and Reinforcement Learning
@@ -1011,7 +999,6 @@ Continual Release Moment Estimation with Differential Privacy
 Continuity and Isolation Lead to Doubts or Dilemmas in Large Language Models
 Continuous Concepts Removal in Text-to-image Diffusion Models
 Continuous Diffusion Model for Language Modeling
-Continuous Domian Generalization
 Continuous Q-Score Matching: Diffusion Guided Reinforcement Learning for Continuous-Time Control
 Continuous Simplicial Neural Networks
 Continuous Soft Actor-Critic: An Off-Policy Learning Method Robust to Time Discretization
@@ -1039,7 +1026,6 @@ Convex Approximation of Two-Layer ReLU Networks for Hidden State Differential Pr
 Convex Potential Mirror Langevin Algorithm for Efficient Sampling of Energy-Based Models
 Convolution Goes Higher-Order:  A Biologically Inspired Mechanism Empowers Image Classification
 Cooperative Bargaining Games Without Utilities: Mediated Solutions from Direction Oracles
-Cooperative Inference of Diffusion Models for Federated Synthetic Data Generation
 Cooperative Retrieval-Augmented Generation for Question Answering: Mutual Information Exchange and Ranking by Contrasting Layers
 Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework
 CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding
@@ -1055,10 +1041,10 @@ Correlation Dimension of Autoregressive Large Language Models
 CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning
 Cost-Aware Contrastive Routing for LLMs
 Cost-Efficient LLM Training with Lifetime-Aware Tensor Offloading via GPUDirect Storage
-Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching
+Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents
 Cost-Sensitive Freeze-thaw Bayesian Optimization for Efficient Hyperparameter Tuning
 Cost-aware LLM-based Online Dataset Annotation
-Counteractive Reinforcement Learning
+Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning
 Counterfactual Evolution of Multimodal Datasets via Visual Programming
 Counterfactual Identifiability via Dynamic Optimal Transport
 Counterfactual Image Editing with Disentangled Causal Latent Space
@@ -1088,7 +1074,7 @@ Curious Causality-Seeking Agents Learn Meta Causal World
 Curl Descent : Non-Gradient Learning Dynamics with Sign-Diverse Plasticity
 Curly Flow Matching for Learning Non-gradient Field Dynamics
 Curriculum Abductive Learning
-Curriculum Design for Trajectory-Constrained Agents with Applications to Compressing LLM Output Tokens
+Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs
 Curriculum Model Merging: Harmonizing Expert Chemical LLMs for Enhanced Cross-Task Generalization
 Curvature Tuning: Provable Training-free Model Steering From a Single Parameter
 CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning
@@ -1186,11 +1172,10 @@ Decomposing motor units through elimination for real-time intention driven assis
 Decomposing stimulus-specific sensory neural information via diffusion models
 Decoupled Entropy Minimization
 Decoupling Contrastive Decoding: Robust Hallucination Mitigation in Multimodal Large Language Models
-Decoupling Harmfulness from Refusal in LLMs
+LLMs Encode Harmfulness and Refusal Separately
 DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction
 Decreasing Entropic Regularization Averaged Gradient for Semi-Discrete Optimal Transport
 Deep Compositional Phase Diffusion for Long Motion Sequence Generation
-Deep Context-Dependent Choice Model
 Deep Continuous-Time State Space Models for Marked Event Sequences
 Deep Edge Filter: Return of the Human-Crafted Layer in Deep Learning
 Deep Gaussian from Motion: Exploring 3D Geometric Foundation Models for Gaussian Splatting
@@ -1207,7 +1192,7 @@ DeepBLNet: Bilevel Network Learning via Hierarchically Structured Sparsity
 DeepDiver: Adaptive Web-Search Intensity Scaling via Reinforcement Learning
 DeepKD: A Deeply Decoupled and Denoised Knowledge Distillation Trainer
 DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO
-Deeper and Better: Mitigating Oversmoothing and Oversquashing in MPNNs via Local Riemannian Geometry
+Deeper with Riemannian Geometry: Overcoming Oversmoothing and Oversquashing for Graph Foundation Models
 Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning
 Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts
 Defining and Discovering Hyper-meta-paths for Heterogeneous Hypergraphs
@@ -1265,7 +1250,7 @@ DictPFL: Efficient and Private Federated Learning on Encrypted Gradients
 Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior
 Diff4Seg: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers
 DiffBreak: Is Diffusion-Based Purification Robust?
-DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy
+DiffE2E: Rethinking End-to-End Driving with a Hybrid Diffusion-Regression-Classification Policy
 DiffEye: Diffusion-Based Continuous Eye-Tracking Data Generation Conditioned on Natural Images
 DiffLiG: Diffusion-enhanced Liquid Graph with Attention Propagation for Grid-to-Station Precipitation Correction
 Differentiable Constraint-Based Causal Discovery
@@ -1328,7 +1313,7 @@ Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognit
 Disentangled Cross-Modal Representation Learning with Enhanced Mutual Supervision
 Disentangled Representation Learning via Modular Compositional Bias
 Disentanglement Beyond Static vs. Dynamic: A Benchmark and Evaluation Framework for Multi-Factor Sequential Representations
-Disentangling Diffusion Features for Detecting Inconsistencies in Subject-Driven Generation
+Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in Subject-Driven Generation
 Disentangling Hyperedges through the lens of Category Theory
 Disentangling Latent Shifts of In-Context Learning with Weak Supervision
 Disentangling Superpositions: Interpretable Brain Encoding Model with Sparse Concept Atoms
@@ -1340,8 +1325,7 @@ Distillation Robustifies Unlearning
 Distilled Decoding 2: One-step Image Auto-regressive Generation with Conditional Score Distillation
 Distilling LLM Agent into Small Models with Retrieval and Code Tools
 Distilling LLM Prior to Flow Model for Generalizable Agent’s Imagination in Object Goal Navigation
-Distort Time to Improve Video Temporal Reasoning
-Distortion of Learning from Human Feedback: Pluralistic Alignment through Implicit Utilitarian Voting
+Improve Temporal Reasoning in Multimodal Large Language Models via Video Contrastive Decoding
 Distributed Multi-agent Bandits Over Erdős-Rényi Random Networks
 Distributed mediation analysis with  communication efficiency
 Distribution Learning Meets Graph Structure Sampling
@@ -1349,7 +1333,7 @@ Distribution-Aligned Decoding for Efficient LLM Task Adaptation
 Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks
 Distributional Adversarial Attacks and Training in Deep Hedging
 Distributional Autoencoders Know the Score
-Distributional Training Data Attribution
+Distributional Training Data Attribution: What do Influence Functions Sample?
 Distributionally Robust Feature Selection
 Distributionally Robust Performative Optimization
 Distributive Fairness in Large Language Models: Evaluating Alignment with Human Values
@@ -1365,7 +1349,7 @@ Do LLMs Comply Differently During Tests? And Can We Steer That?
 Do LLMs Really Forget? Evaluating Unlearning  with Knowledge Correlation and Confidence Awareness
 Do LVLMs Truly Understand Video Anomalies? Revealing Hallucination via Co-Occurrence Patterns
 Do Language Models Use Their Depth Efficiently?
-Do Neural Nets Need Gradient Descent to Generalize? Matrix Factorization as a Theoretical Testbed
+Do Neural Networks Need Gradient Descent to Generalize? A Theoretical Study
 Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data
 Do different prompting methods yield a common task representation in language models?
 Do-PFN: In-context Learning for Causal Effect Estimation
@@ -1395,7 +1379,7 @@ DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image
 Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights
 DreamLight: Towards Harmonious and Consistent Image Relighting
 DreamPRM: Domain-reweighted Process Reward Model for Multimodal Reasoning
-DreamVLA: Dream Comprehensive World Knowledge for Vision-Language-Action Model
+DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge
 DrivAerStar: An Industrial-Grade CFD Dataset for Vehicle Aerodynamic Optimization
 DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving
 DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving
@@ -1430,9 +1414,8 @@ DynaPipe: Dynamic Layer Redistribution for Efficient Serving of LLMs with Pipeli
 DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation
 Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation
 Dynamic Algorithm for Explainable $k$-medians Clustering under $\ell_p$ Norm
-Dynamic Algorithms for Non-monotone $p$-Matchoids
 Dynamic Configuration for Cutting Plane Separators via Reinforcement Learning on Incremental Graph
-Dynamic Context Aggregation for Long Video QA
+Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames
 Dynamic Diameter in High-Dimensions against Adaptive Adversary and Beyond
 Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions
 Dynamic Focused Masking for Autoregressive Embodied Occupancy Prediction
@@ -1445,12 +1428,12 @@ Dynamic Semantic-Aware Correlation Modeling for UAV Tracking
 Dynamic Shadow Unveils Invisible Semantics for Video Outpainting
 Dynamic Siamese Expansion Framework for Improving Robustness in Online Continual Learning
 Dynamic Test-Time Compute Scaling in Control Policy: Difficulty-Aware Stochastic Interpolant Policy
-Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs
+Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs
 Dynamic View Synthesis as an Inverse Problem
 Dynamic and Chemical Constraints to Enhance the Molecular Masked Graph Autoencoders
 DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation
 DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding
-DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds
+DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling
 Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks
 Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks
 Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding
@@ -1460,7 +1443,7 @@ Dynamics of Spontaneous Topic Changes in Next Token Prediction with Self-Attenti
 Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization
 E-BATS: Efficient Backpropagation-Free Test-Time Adaptation for Speech Foundation Models
 E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization
-E-SD$^3$: Fine-Grained Confidence-Aware Fusion of SD3 for Zero-Shot Semantic Matching
+Fuse2Match: Training-Free Fusion of Flow, Diffusion, and Contrastive Models for Zero-Shot Semantic Matching
 E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis
 E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products
 EA3D: Online Open-World 3D Object Extraction from Streaming Videos
@@ -1504,7 +1487,7 @@ Efficient Algorithms for Robust and Partial Semi-Discrete Optimal Transport
 Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and RNNs
 Efficient Band–Limited Interpolation with Improved Approximation Ratio
 Efficient Bayesian Experiment Design with Equivariant Networks
-Efficient Conditional Gradient Methods for Solving Stochastic Convex Bilevel Optimization Problems
+Conditional Gradient Methods with Standard LMO for Stochastic Simple Bilevel Optimization
 Efficient Conformation Sampling with Transferable Normalizing Flows
 Efficient Data Selection at Scale via Influence Distillation
 Efficient Fairness-Performance Pareto Front Computation
@@ -1572,7 +1555,7 @@ Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intel
 Emergence and Evolution of Interpretable Concepts in Diffusion Models
 Emergence and scaling laws in SGD learning of shallow neural networks
 Emergence of Linear Truth Encodings in Language Models
-Emergent Properties of Efficient Fine-Tuning in Text-to-Image Models
+DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models
 Emergent Risk Awareness in Rational Agents under Resource Constraints
 Emergent Temporal Correspondences from Video Diffusion Transformers
 EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge
@@ -1583,7 +1566,7 @@ Empowering Decision Trees via Shape Function Branching
 EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths
 Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping
 Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer
-Enabling Random Long-context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention
+Hardware-aligned Hierarchical Sparse Attention for Efficient Long-term Memory Access
 Encoder-Decoder Block Diffusion Language Models for Efficient Training and Inference
 Encouraging metric-aware diversity in contrastive representation space
 End-to-End Low-Light Enhancement for Object Detection with Learned Metadata from RAWs
@@ -1600,7 +1583,7 @@ EngiBench: A Framework for Data-Driven Engineering Design Research
 Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models
 Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models
 Enhanced Self-Distillation Framework for Efficient Spiking Neural Network Training
-Enhanced Time Series Forecasting by Post-Forecasting Failure Identification and Revision
+Improving Time Series Forecasting via Instance-aware Post-hoc Revision
 Enhancing 3D Reconstruction for Dynamic Scenes
 Enhancing Bioactivity Prediction via Spatial Emptiness Representation of Protein-ligand Complex and Union of Multiple Pockets
 Enhancing CLIP Robustness via Cross-Modality Alignment
@@ -1637,7 +1620,7 @@ Entropic Forces in Deep and Universal Representation Learning
 Entropic Time Schedulers for Generative Diffusion Models
 Entropy Rectifying Guidance for Diffusion and Flow Models
 Entropy-Calibrated Label Distribution Learning
-Entropy-aware Variance Optimization for Diffusion Inference
+EVODiff: Entropy-aware Variance Optimized Diffusion Inference
 Environment Inference for Learning Generalizable Dynamical System
 Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing
 EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme Backbone Generation
@@ -1660,14 +1643,13 @@ Escaping saddle points without Lipschitz smoothness: the power of nonlinear prec
 Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?
 Establishing Best Practices in Building Rigorous Agentic Benchmarks
 Establishing Linear Surrogate Regret Bounds for Convex Smooth Losses via Convolutional Fenchel–Young Losses
-Estimating Classifier Performance with Limited Labels
-Estimating Heterogeneous Treatment Effects under Inference Time Text Confounding
+LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding
 Estimating Hitting Times Locally at Scale
 Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning
 Estimating Model Performance Under Covariate Shift Without Labels
 Estimating cognitive biases with attention-aware inverse planning
-Estimating misreporting in the presence of genuine modification: a causal perspective
-Estimating protein stability using inverse folding models
+Disentangling Misreporting from Genuine Adaptation in Strategic Settings: A Causal Approach
+Zero-shot protein stability prediction by inverse folding models: a free energy interpretation
 Estimation of Stochastic Optimal Transport Maps
 Estimation of Treatment Effects in Extreme and Unobserved Data
 Eulerian Neural Network Informed by Chemical Transport for Air Quality Forecasting
@@ -1675,7 +1657,6 @@ EuroSpeech: A Multilingual Speech Corpus
 EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving
 Evaluating Depth Estimation Robustness with Procedural Scene Perturbations
 Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia
-Evaluating LLM Code Reasoning Robustness under Structural and Textual Distractions
 Evaluating LLM-corrupted Crowdsourcing Data Without Ground Truth
 Evaluating LLMs in Open-Source Games
 Evaluating Program Semantics Reasoning with Type Inference in System F
@@ -1695,7 +1676,7 @@ EvolvedGRPO: Unlocking Reasoning in LVLMs via Progressive Instruction Evolution
 Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning
 ExAct: A Video-Language Benchmark for Expert Action Analysis
 ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models
-ExPO: Bootstrapping LLM Reasoning without Expert Chain-of-Thought
+ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning
 Exact Expressive Power of Transformers with Padding
 Exact and Linear Convergence for Federated Learning under Arbitrary Client Participation is Attainable
 Execution Guided Line-by-Line Code Generation
@@ -1704,12 +1685,11 @@ Explainable Reinforcement Learning from Human Feedback to Improve Alignment
 Explainably Safe Reinforcement Learning
 Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions
 Explaining and Mitigating Crosslingual Tokenizer Inequities
-Explaining and Predicting Fine-Tuning in Large Models via Linearization
+Linearization Explains Fine-Tuning in Large Language Models
 Explaining the Law of Supply and Demand via Online Learning
 Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness
 Exploiting Dynamic Sparsity in Einsum
 Exploiting LLMs for Automatic Hypothesis Assessment via a Logit-Based Calibrated Prior
-Exploiting Latent Hyperbolicity: Fine-Tuning Large Language Models with Hyperbolic Geometry
 Exploiting Task Relationships for Continual Learning Using Transferability-Aware Task Embeddings
 Exploiting Vocabulary Frequency Imbalance in Language Model Pre-training
 Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere
@@ -1718,7 +1698,7 @@ Exploration via Feature Perturbation in Contextual Bandits
 Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game
 Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback
 Exploring Diffusion Transformer Designs via Grafting
-Exploring End-to-End Learning for Data Structures
+Discovering Data Structures: Nearest Neighbor Search and Beyond
 Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search
 Exploring Landscapes for Better Minima along Valleys
 Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data
@@ -1734,7 +1714,7 @@ Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Gener
 Exploring the Noise Robustness of Online Conformal Prediction
 Exponential Convergence Guarantees for Iterative Markovian Fitting
 Exponential Dynamic Energy Network for High Capacity Sequence Memory
-Expressivity and Explainability of Mean Aggregation in Graph Neural Networks
+Sound Logical Explanations for Mean Aggregation Graph Neural Networks
 Extracting task-relevant preserved dynamics from contrastive aligned neural recordings
 Extragradient Method for $(L_0, L_1)$-Lipschitz Variational Inequalities
 Extrapolation by Association: Length Generalization Transfer In Transformers
@@ -1783,7 +1763,7 @@ FaCT: Faithful Concept Traces for Explaining Neural Network Decisions
 Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants
 Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning
 Factor Decorrelation Enhanced Data Removal from Deep Predictive Models
-FactoredScenes: Real-World Scene Generation via Library Learning of Layout and Pose Prediction
+From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries
 Factorio Learning Environment
 Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation
 Failure Prediction at Runtime without Failure Data for Generative Robot Policies
@@ -1808,7 +1788,7 @@ Faithful Dynamic Imitation Learning from Human Intervention with Dynamic Regret 
 Faithful Group Shapley Value
 Fantastic Bugs and Where to Find Them in AI Benchmarks
 Fantastic Features and Where to Find Them: A Probing Method to combine Features from Multiple Foundation Models
-Farseer: A Refined Scaling Law in Large Language Models
+Predictable Scale (Part II) --- Farseer: A Refined Scaling Law in LLMs
 Fast Computation and Optimization for Opinion-Based Quantities of Friedkin-Johnsen Model
 Fast Data Attribution for Text-to-Image Models
 Fast Distributed MoE in a Single Kernel
@@ -1845,7 +1825,7 @@ Feature-aware Modulation for Learning from Temporal Tabular Data
 FedEL: Federated Elastic Learning for Heterogeneous Devices
 FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning
 FedFree: Breaking Knowledge-sharing Barriers through Layer-wise Alignment in Heterogeneous Federated Learning
-FedGPS: Goal-Path Synergy for Robust Federated Training Against Data Heterogeneity
+FedGPS: Statistical Rectification Against Data Heterogeneity in Federated Learning
 FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery
 FedMGP: Personalized Federated Learning with Multi-Group Text-Visual Prompts
 FedQS: Optimizing Gradient and Model Aggregation for Semi-Asynchronous Federated Learning
@@ -1861,7 +1841,7 @@ Federated Invariant Graph Learning for Non-IID Graphs
 Federated Multi-armed Bandits with Efficient Bit-Level Communications
 Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos
 Feedback Guidance of Diffusion Models
-Feedback-Aware MCTS for Efficient Information Seeking in Goal-Oriented Conversations
+Feedback-Aware MCTS for Goal-Oriented Information Seeking
 Feel-Good Thompson Sampling for Contextual Bandits: a Markov Chain Monte Carlo Showdown
 FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies
 Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations
@@ -1911,7 +1891,7 @@ FlexWorld: Progressively Expanding 3D Scenes for Flexible-View Exploration
 Flexible Language Modeling in Continuous Space with Transformer-based Autoregressive Flows
 Flexible MOF Generation with Torsion-Aware Flow Matching
 Flexible Realignment of Language Models
-Flexible inference of learning rules from de novo learning data using neural networks
+Flexible inference for animal learning rules using neural networks
 Flick: Empowering Federated Learning with Commonsense Knowledge
 Flow Density Control: Generative Optimization Beyond Entropy-Regularized Fine-Tuning
 Flow Equivariant Recurrent Neural Networks
@@ -1996,11 +1976,9 @@ From Play to Replay: Composed Video Retrieval for Sports Highlights
 From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 From Pretraining to Pathology: How Noise Leads to Catastrophic Inheritance in Medical Models
 From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review
-From Searching for Users to LLMs: Optimizing RAG End-to-end via Online Contrastive Learning
 From Self-Check to Consensus: Bayesian Strategic Decoding in Large Language Models
 From Sequence to Structure: Uncovering Substructure Reasoning in Transformers
 From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers
-From Single Images to Motion Policies via Video-Generation Environment Representations
 From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes
 From Style to Facts: Mapping the Boundaries of Knowledge Injection with Finetuning
 From Synapses to Dynamics: Obtaining Function from Structure in a Connectome Constrained Model of the Head Direction Circuit
@@ -2015,9 +1993,9 @@ Functional Complexity-adaptive Temporal Tensor Decomposition
 Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism
 Functional Virtual Adversarial Training for Semi-Supervised Time Series Classification
 Functional data analysis for multivariate distributions through Wasserstein slicing
-Fundamental Limitations in Defending LLM Finetuning APIs
+Fundamental Limitations in Pointwise Defences of LLM Finetuning APIs
 Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation
-Fusing Cross-modal and Uni-modal Representations: A Kronecker Product Approach
+When Kernels Multiply, Clusters Unify: Fusing Embeddings with the Kronecker Product
 Future Link Prediction Without Memory or Aggregation
 Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution
 FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving
@@ -2108,7 +2086,7 @@ Generalization or Hallucination? Understanding Out-of-Context Reasoning in Trans
 Generalization vs Specialization under Concept Shift
 Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective
 Generalized Contrastive Learning for Universal Multimodal Retrieval
-Generalized Fractional Neural Differential Equation Network with Learnable Attention Kernels
+Neural Fractional Attention Differential Equations
 Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness
 Generalized Linear Bandits: Almost Optimal Regret with One-Pass Update
 Generalized Linear Mode Connectivity for Transformers
@@ -2139,7 +2117,7 @@ Generator-Mediated Bandits: Thompson Sampling for GenAI-Powered Adaptive Interve
 Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency
 Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation
 GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters
-GeoCAD: Local Geometry-Controllable CAD Generation
+GeoCAD: Local Geometry-Controllable CAD Generation with Large Language Models
 GeoClip: Geometry-Aware Clipping for Differentially Private SGD
 GeoDiff: Geometry-Aware Diffusion for Reference-Driven Image Completion
 GeoDynamics: A Geometric State‑Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds
@@ -2159,7 +2137,6 @@ Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear
 Geometry of Decision Making in Language Models
 Geometry-Aware Collaborative Multi-Solutions Optimizer for Model Fine-Tuning with Parameter Efficiency
 Geometry-Aware Edge Pooling for Graph Neural Networks
-Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible Reasoning
 Glance2Gaze: Efficient Vision-Language Models from Glance Fusion to Gaze Compression
 Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm
 Global Minimizers of $\ell^p$-Regularized Objectives Yield the Sparsest Neural Networks
@@ -2175,7 +2152,7 @@ GoT: Unleashing Reasoning Capability of MLLM for Visual Generation and Editing
 GoalLadder: Incremental Goal Discovery with Vision-Language Models
 Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics
 GraLoRA: Granular Low-Rank Adaptation for Parameter-Efficient Fine-Tuning
-GraSS: Scalable Influence Function with Sparse Gradient Compression
+GraSS: Scalable Data Attribution with Gradient Sparsification and Sparse Projection
 GradMetaNet: An Equivariant Architecture for Learning on Gradients
 Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective
 Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules
@@ -2207,8 +2184,8 @@ Greed is Good: A Unifying Perspective on Guided Generation
 Greedy Algorithms for Structured Bandits: A Sharp Characterization of Asymptotic Success / Failure
 Greedy Sampling Is Provably Efficient For RLHF
 GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction
-Grids Often Outperform Implicit Neural Representations
-Ground-Compose-Reinforce: Tasking Reinforcement Learning Agents through Formal Language
+Grids Often Outperform Implicit Neural Representation at Compressing Dense Signals
+Ground-Compose-Reinforce: Grounding Language in Agentic Behaviours using Limited Data
 Grounded Reinforcement Learning for Visual Reasoning
 Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs
 Group-Level Data Selection for Efficient Pretraining
@@ -2218,10 +2195,9 @@ Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes
 GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning
 GuideFlow3D: Optimization-Guided Flow For Appearance Transfer
 Guided Diffusion Sampling on Function Spaces with Applications to PDEs
-Guided Optimal Transport for Sim-and-Real Policy Co-Training
+Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training
 Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment
 Guiding Fair LLM Decision-Making with Reward Models
-Guru: Incentivizing General Reasoning Skills with a Curated Open Reinforcement Learning Dataset
 Gymnasium: A Standard Interface for Reinforcement Learning Environments
 GyroSwin: 5D Surrogates for Gyrokinetics Plasma Turbulence Simulations
 H-SPLID: HSIC-based Saliency Preserving Latent Information Decomposition
@@ -2261,7 +2237,7 @@ Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generat
 HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks
 Head Pursuit: Probing Attention Specialization in Multimodal Transformers
 Heavy-Ball Momentum Method in Continuous Time and Discretization Error Analysis
-HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions
+HeavyWater and SimplexWater: Distortion-free LLM Watermarks for Low-Entropy Distributions
 HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages
 Hephaestus: Mixture Generative Modeling with Energy Guidance for Large-scale QoS Degradation
 HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
@@ -2331,7 +2307,6 @@ How Memory in Optimization Algorithms Implicitly Modifies the Loss
 How Particle System Theory Enhances Hypergraph Message Passing
 How Patterns Dictate Learnability in Sequential Data
 How Well Can Differential Privacy Be Audited in One Run?
-How does Transformer Learn Implicit Reasoning?
 How many measurements are enough? Bayesian recovery in inverse problems with general distributions
 How to Learn a Star: Binary Classification with Starshaped Polyhedral Sets
 How to Scale Second-Order Optimization
@@ -2427,7 +2402,6 @@ Improving Diffusion-based Inverse Algorithms under Few-Step Constraint via Linea
 Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization
 Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
 Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking
-Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation
 Improving LLM General Preference Alignment via Optimistic Online Mirror Descent
 Improving Large Language Models Through Effective Periodicity Modeling
 Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads
@@ -2518,7 +2492,7 @@ InstructSAM: A Training-free Framework for Instruction-Oriented Remote Sensing O
 Integral Imprecise Probability Metrics
 Integrating Drug Substructures and Longitudinal Electronic Health Records for Personalized Drug Recommendation
 Integration Matters for Learning PDEs with Backwards SDEs
-Intend to Move: A Dataset for Intention and Scene Aware Human Motion Prediction
+Intend to Move: A Multimodal Dataset for Intention-Aware Human Motion Understanding
 InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback
 Interaction-Centric Knowledge Infusion and Transfer for Open Vocabulary Scene Graph Generation
 Interactive Anomaly Detection for Articulated Objects via Motion Anticipation
@@ -2545,7 +2519,7 @@ Is Grokking a Computational Glass Relaxation?
 Is Limited Participant Diversity Impeding EEG-based Machine Learning?
 Is Noise Conditioning Necessary? A Unified Theory of Unconditional Graph Diffusion Models
 Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs
-Is Reward Enough for Thinking?
+SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward
 Is This Tracker On? A Benchmark Protocol for Dynamic Tracking
 Is Your Diffusion Model Actually Denoising?
 Is the acquisition worth the cost? Surrogate losses for   Consistent Two-stage Classifiers
@@ -2561,7 +2535,6 @@ JAMUN: Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conform
 Jacobian-Based Interpretation of Nonlinear Neural Encoding Model
 JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models
 Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models
-Jailbreaking the Text-to-Video Generative Models
 Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence
 JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model
 JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
@@ -2583,7 +2556,7 @@ KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment
 KGGen: Extracting Knowledge Graphs from Plain Text with Language Models
 KINDLE: Knowledge-Guided Distillation for Prior-Free Gene Regulatory Network Inference
 KL Penalty Control via Perturbation for Direct Preference Optimization
-KLASS: KL-Adaptive Stability Sampling for Fast Inference in Masked Diffusion Models
+KLASS: KL-Guided Fast Inference in Masked Diffusion Models
 KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products
 KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation
 KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models
@@ -2605,12 +2578,11 @@ Kernel-based Equalized Odds: A Quantification of Accuracy-Fairness Trade-off in 
 KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments
 Kinaema: a recurrent sequence model for memory and pose in motion
 Kinetics: Rethinking Test-Time Scaling Law
-Kirby-Judge: Think Once, Judge Anywhere
 Knee-Deep in C-RASP: A Transformer Depth Hierarchy
 Knot So Simple: A Minimalistic Environment for Spatial Reasoning
 Know Thyself by Knowing Others: Learning Neuron Identity from Population Context
 KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge
-Knowing When to Stop: Dynamic Context Cutoff for Large Language Models
+Knowing When to Stop: Efficient Context Processing via Latent Sufficiency Signals
 Knowledge Distillation Detection for Open-weights Models
 Knowledge Distillation of Uncertainty using Deep Latent Factor Models
 Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning
@@ -2663,10 +2635,10 @@ LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation
 Language Model Behavioral Phases are Consistent Across Scale and Architecture
 Language Modeling by Language Models
 Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations
-Language Models Are Inefficient Reasoners: An Analysis on Arithmetic Proof Search
+Are Language Models Efficient Reasoners? A Perspective from Logic Programming
 Language Models Can Predict Their Own Behavior
 Language Models can Self-Improve at State-Value Estimation for Better Search
-Language System: A Lightweight Ranking Framework for Language Models
+Language Ranker: A Lightweight Ranking framework for LLM Decoding
 Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing
 Large Language Bayes
 Large Language Diffusion Models
@@ -2712,7 +2684,7 @@ Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline a
 Learning CAD Modeling Sequences via Projection and Part Awareness
 Learning Chern Numbers of Multiband Topological Insulators with Gauge Equivariant Neural Networks
 Learning Cocoercive Conservative Denoisers via Helmholtz Decomposition for Poisson Imaging Inverse Problems
-Learning Conditional Marked Event Sequences with Mixed Data Types
+Transformers for Mixed-type Event Sequences
 Learning Counterfactual Outcomes Under Rank Preservation
 Learning Crossmodal Interaction Patterns via Attributed Bipartite Graphs for Single-Cell Omics
 Learning Dense Hand Contact Estimation from Imbalanced Data
@@ -2785,7 +2757,6 @@ Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural 
 Learning the Wrong Lessons: Syntactic-Domain Spurious Correlations in Language Models
 Learning to Add, Multiply, and Execute Algorithmic Instructions Exactly with Neural Networks
 Learning to Better Search with Language Models via Guided Reinforced Self-Training
-Learning to Clarify by Reinforcement Learning Through Reward-Weighted Fine-Tuning
 Learning to Clean: Reinforcement Learning for Noisy Label Correction
 Learning to Compile: Self-Evolving Translation from IR to Assembly Code
 Learning to Condition: A Neural Heuristic for Scalable MPE Inference
@@ -2802,7 +2773,7 @@ Learning to Learn with Contrastive Meta-Objective
 Learning to Plan Like the Human Brain via Visuospatial Perception and Semantic-Episodic Synergistic Decision-Making
 Learning to Rank for In-Context Example Retrieval
 Learning to Reason under Off-Policy Guidance
-Learning to Relative Expression under Batch Effects and Stochastic Noise in Spatial Transcriptomics
+Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics
 Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction
 Learning to See Everything in Ultra-High Dynamic Range Scenes
 Learning to Solve Complex Problems via Dataset Decomposition
@@ -2816,7 +2787,6 @@ Learning to price with resource constraints: from full information to machine-le
 Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting
 Learning with Equality Constraints
 Learning with Restricted Boltzmann Machines: Asymptotics of AMP and GD in High Dimensions
-Learning with improvements in challenging and natural settings
 Learning “Partner-aware” Collaborators in Multi-Party Collaboration
 Learning-Augmented Algorithms for $k$-median via Online Learning
 Learning-Augmented Facility Location Mechanisms for the Envy Ratio Objective
@@ -2829,7 +2799,7 @@ Length Generalization via Auxiliary Tasks
 Less Greedy Equivalence Search
 Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior
 Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting
-Less is More: Data Ablation for Reinforcement Fine-Tuning of Large Language Models
+Understanding Data Influence in Reinforcement Finetuning
 Less is More: Improving LLM Alignment via Preference Data Selection
 Less is More: Local Intrinsic Dimensions of Contextual Language Models
 Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning
@@ -2931,7 +2901,7 @@ MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide I
 MARS-VFL: A Unified Benchmark for Vertical Federated Learning with Realistic Evaluation
 MARS: A Malignity-Aware Backdoor Defense in Federated Learning
 MASTER: Enhancing Large Language Model via Multi-Agent Simulated Teaching
-MAT-Agent: Learning to Dynamically Optimize Multi-Label Image Classification Training via Multi-Agent Collaboration
+MAT-Agent: Adaptive Multi-Agent Training Optimization
 MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation
 MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models
 MDNS: Masked Diffusion Neural Sampler via Stochastic Optimal Control
@@ -2985,7 +2955,7 @@ MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object
 MMPB: It’s Time for Multi-Modal Personalization
 MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness
 MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark
-MMaDA: Unraveling The Design Space for Multimodal Large Diffusion Language Models
+MMaDA: Multimodal Large Diffusion Language Models
 MOBO-OSD: Batch Multi-Objective Bayesian Optimization via Orthogonal Search Directions
 MODEL SHAPLEY: Find Your Ideal Parameter Player via One Gradient Backpropagation
 MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery
@@ -3000,7 +2970,7 @@ MR. Video: MapReduce as an Effective Principle for Long Video Understanding Agen
 MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization
 MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations
 MS-BART: Unified Modeling of Mass Spectra and Molecules for Structure Elucidation
-MS-Bench: A Multimodal Benchmark for Evaluating Large Language Models in Ancient ManuScript Study
+MS-Bench: Evaluating LMMs in Ancient Manuscript Study through a Dunhuang Case Study
 MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild
 MSTAR: Box-free Multi-query Scene Text Retrieval with Attention Recycling
 MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver
@@ -3035,13 +3005,12 @@ Martian World Models: Controllable Video Synthesis with Physically Accurate 3D R
 Mask Image Watermarking
 Masked Diffusion Models as Energy Minimization
 Masked Gated Linear Unit
-Masked Transformers with Test-Time Adaptation for Speech Neuroprostheses
+Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding
 Massive Sound Embedding Benchmark (MSEB)
 Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences
 Matchings Under Biased and Correlated Evaluations
 MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference
 MathArena: Evaluating LLMs on Uncontaminated Math Competitions
-MathOOD: Exploring the Generalization Boundaries of Mathematical Reasoning in Large Language Models
 Mathematical Reasoning Planning for Language Models
 Matryoshka Pilot: Learning to Drive Black-Box LLMs with LLMs
 Max Entropy Moment Kalman Filter for Polynomial Systems with Arbitrary Noise
@@ -3103,7 +3072,7 @@ MetaKoopman: Bayesian Meta-Learning of Koopman Operators for Modeling Structured
 MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent Systems
 MetaSlot: Break Through the Fixed Number of Slots in Object-Centric Learning
 Metis: A Foundation Speech Generation Model with Masked Generative Pre-training
-Metric Automata Theory: A Theory of Recurrent Neural Networks
+Metric Automata Theory: A Unifying Theory of RNNs
 Metritocracy: Representative Metrics for Lite Benchmarks
 Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo
 Metropolis-Hastings Sampling for 3D Gaussian Reconstruction
@@ -3113,7 +3082,7 @@ MiNT: Multi-Network Transfer Benchmark for Temporal Graph Learning
 MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions
 MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models
 Mind the GAP! The challenges of scale in pixel-based deep reinforcement learning
-Mind the Gap! Sparse-Input 3D Gaussian Splatting Constrained by Natural Video Completion
+Novel View Synthesis from A Few Glimpses via Test-Time Natural Video Completion
 Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning
 Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks
 Mind the Quote: Enabling Quotation-Aware Dialogue in LLMs via Plug-and-Play Modules
@@ -3154,7 +3123,7 @@ Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning
 Mixture of Scope Experts at Test: Generalizing Deeper Graph Neural Networks with Shallow Variants
 Mixture-of-Experts Meets In-Context Reinforcement Learning
 Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training
-Mixture-of-Recursions: Learning Dynamic Recursive Depths for Efficient Language Modeling
+Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation
 Mixtures of Subspaces for Bandwidth Efficient Context Parallel Training
 MoBA: Mixture of Block Attention for Long-Context LLMs
 MoCha: Towards Movie-Grade Talking Character Generation
@@ -3174,14 +3143,13 @@ MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Oper
 ModHiFi: Identifying High Fidelity predictive components for Model Modification
 Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning
 Model Editing for Vision Transformers
-Model Informed Flows for Bayesian Inference of Probabilistic Programs
+Model-Informed Flows for Bayesian Inference
 Model Inversion with Layer-Specific Modeling and Alignment for Data-Free Continual Learning
 Model Merging in Pre-training of Large Language Models
 Model Provenance Testing for Large Language Models
 Model Reconciliation via Cost-Optimal Explanations in Probabilistic Logic Programming
 Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol
 Model-Based Policy Adaptation for Closed-Loop End-to-end Autonomous Driving
-Model-Free Graph Data Selection under Distribution Shift
 Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation
 Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge
 Modeling Dynamic Neural Activity by combining Naturalistic Video Stimuli and Stimulus-independent Latent Factors
@@ -3196,7 +3164,7 @@ MolVision: Molecular Property Prediction with Vision Language Models
 Moment- and Power-Spectrum-Based Gaussianity Regularization for Text-to-Image Models
 MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval
 Momentum Multi-Marginal Schrödinger Bridge Matching
-Momentum Sampling Dynamics for Diffusion Model
+TADA: Improved Diffusion Sampling with Training-free Augmented DynAmics
 Momentum-SAM: Sharpness Aware Minimization without Computational Overhead
 MonarchAttention: Zero-Shot Conversion to Fast, Hardware-Aware Structured Attention
 MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection
@@ -3248,7 +3216,7 @@ Multi-step Visual Reasoning with Visual Tokens Scaling and Verification
 MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans
 MultiNet: Adaptive Multi-Viewed Subgraph Convolutional Networks for Graph Classification
 MultiScale Contextual Bandits for Long Term Objectives
-Multiaccurate Estimators Can Be Simultaneously Robust and Efficient
+Ridge Boosting is Both Robust and Efficient
 Multiclass Loss Geometry Matters for Generalization of Gradient Descent in Separable Classification
 Multidimensional Bayesian Utility Maximization: Tight Approximations to Welfare
 Multilevel neural simulation-based inference
@@ -3331,8 +3299,7 @@ Neural Discrete Token Representation Learning for Extreme Token Reduction in Vid
 Neural Emulator Superiority: When Machine Learning for PDEs Surpasses its Training Data
 Neural Entropy
 Neural Evolution Strategy for Black-box Pareto Set Learning
-Neural Functional: Learning Function to Scalar Maps for Neural PDE Surrogates
-Neural Green’s Functions for Solving Poisson’s Equation
+Neural Green’s Functions
 Neural Hamiltonian Diffusions for Modeling Structured Geometric Dynamics
 Neural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction
 Neural Mutual Information Estimation with Vector Copulas
@@ -3365,7 +3332,7 @@ Noise Consistency Training: A Native Approach for One-step Generator in Learning
 Noise Hypernetworks: Moving Test-Time Compute in Diffusion Models to Training
 Noise Injection Reveals Hidden Capabilities of Sandbagging Language Models
 Noise Matters: Optimizing Matching Noise for Diffusion Classifiers
-Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert
+Noise-Robustness Through Noise: A Framework combining Asymmetric LoRA with Poisoning MoE
 Noisy Multi-Label Learning through Co-Occurrence-Aware Diffusion
 NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation
 NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation
@@ -3389,9 +3356,9 @@ Non-stationary Equivariant Graph Neural Networks for Physical Dynamics Simulatio
 Nonlinear Laplacians: Tunable principal component analysis under directional prior information
 Nonlinearly Preconditioned Gradient Methods: Momentum and Stochastic Analysis
 Nonparametric Quantile Regression with ReLU-Activated Recurrent Neural Networks
-NopeRoomGS: Pose-Free Indoor 3D Gaussian Splatting via Local-to-Global Optimization
+NopeRoomGS: Indoor 3D Gaussian Splatting Optimization without Camera Pose Input
 NormFit: A Lightweight Solution for Few-Shot Federated Learning with Non-IID Data
-Normal-Abnormal Guided Generalist Anomaly Classification and Segmentation
+Normal-Abnormal Guided Generalist  Anomaly Detection
 Normalization in Attention Dynamics
 Normalize Filters! Classical Wisdom for Deep Vision
 Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models
@@ -3439,7 +3406,7 @@ Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure
 OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels
 Off-policy Reinforcement Learning with Model-based Exploration Augmentation
 Offline Actor-Critic for Average Reward MDPs
-Offline Goal Conditioned Reinforcement Learning with Temporal Distance Representations
+Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations
 Offline Guarded Safe Reinforcement Learning for Medical Treatment Optimization Strategies
 Offline imitation learning in $Q^\pi$-realizable MDPs without expert realizability
 OligoGym: Curated Datasets and Benchmarks for Oligonucleotide Drug Discovery
@@ -3469,7 +3436,7 @@ On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders
 On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models
 On Evaluating LLM Alignment by Evaluating LLMs as Judges
 On Evaluating Policies for Robust POMDPs
-On Explaining Additive Models: A Complexity-Theoretic Perspective
+Additive Models Explained: A Computational Complexity Approach
 On Extending Direct Preference Optimization to Accommodate Ties
 On Fairness of Unified Multimodal Large Language Model for Image Generation
 On Feasible Rewards in Multi-Agent Inverse Reinforcement Learning
@@ -3477,7 +3444,7 @@ On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation
 On Group Sufficiency Under Label Bias
 On Hierarchies of Fairness Notions in Cake Cutting: From Proportionality to Super Envy-Freeness
 On Inductive Biases That Enable Generalization in Diffusion Transformers
-On Learning Verifiers for Chain-of-Thought Reasoning
+On Learning Verifiers and Implications to Chain-of-Thought Reasoning
 On Linear Mode Connectivity of Mixture-of-Experts Architectures
 On Local Limits of Sparse Random Graphs: Color Convergence and the Refined Configuration Model
 On Logic-based Self-Explainable Graph Neural Networks
@@ -3557,7 +3524,7 @@ Online Multi-Class Selection with Group Fairness Guarantee
 Online Portfolio Selection with ML Predictions
 Online Prediction with Limited Selectivity
 Online Segment Any 3D Thing as Instance Tracking
-Online Strategic Classification With Noise
+Online Strategic Classification With Noise and Partial Feedback
 Online Time Series Forecasting with Theoretical Guarantees
 Online Two-Stage Submodular Maximization
 Online locally differentially private conformal prediction via binary inquiries
@@ -3620,7 +3587,7 @@ Optimizing Distributional Geometry Alignment with Optimal Transport for Generati
 Optimizing the Unknown: Black Box Bayesian Optimization with Energy-Based Model and Reinforcement Learning
 Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning
 Oracle-Efficient Combinatorial Semi-Bandits
-OrbitZoo: Multi-Agent Reinforcement Learning Environment for Orbital Dynamics
+OrbitZoo: Real Orbital Systems Challenges for Reinforcement Learning
 OrdShap: Feature Position Importance for Sequential Black-Box Models
 Order-Level Attention Similarity Across Language Models: A Latent Commonality
 Orient Anything V2: Unifying Orientation and Rotation Understanding
@@ -3635,17 +3602,17 @@ Outcome-Based Online Reinforcement Learning: Algorithms and Fundamental Limits
 Over-squashing in Spatiotemporal Graph Neural Networks
 OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps
 Overcoming Challenges of Long-Horizon Prediction in Driving World Models
-Overcoming Long-Context Limitations of State-Space Models via Hybrid Sparse Attention
+Overcoming Long Context Limitations of State Space Models via Context Dependent Sparse Attention
 Overcoming Sparsity Artifacts in Crosscoders to Interpret Chat-Tuning
 PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?
-PAC Learning for Complex Learning Problems with Realizable-Statistic Conditional Label Distributions
+Efficient PAC Learning for Realizable-Statistic Models via Convex Surrogates
 PAC-Bayes Bounds for Multivariate Linear Regression and Linear Autoencoders
 PAID: Pairwise Angular-Invariant Decomposition for Continual Test-Time Adaptation
 PALQO: Physics-informed model for Accelerating  Large-scale Quantum Optimization
 PANDA: Towards Generalist Video Anomaly Detection via Detective-like Agent
 PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs
 PANORAMA: A Dataset and Benchmark Tasks Capturing the Evaluation Trails and Rationales in Patent Examination
-PANTHER: Hybrid Pretraining for Billion-Scale Risk Detection via Sequential User Behavior Modeling
+PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling
 PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries
 PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization
 PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models
@@ -3654,7 +3621,7 @@ PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding
 PASS: Path-selective State Space Model for Event-based Recognition
 PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors
 PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network
-PCA++: Robust Contrastive PCA under Large Background and Random Noise
+PCA++: How Uniformity Induces Robustness to Background Noise in Contrastive Learning
 PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
 PDPO: Parametric Density Path Optimization
 PF∆: A Benchmark Dataset for Power Flow under Load, Generation, and Topology Variations
@@ -3664,7 +3631,7 @@ PID-controlled Langevin Dynamics for Faster Sampling on Generative Models
 PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling
 PINNs with Learnable Quadrature
 PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series
-PIRO: Toward Stable Reward Learning for Inverse RL via Monotonic Policy Divergence Reduction
+Trust Region Reward Optimization and Proximal Inverse Reward Optimization Algorithm
 PIVNO: Particle Image Velocimetry Neural Operator
 PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-forward Planar Splatting
 PLD: A Choice-Theoretic List-Wise Knowledge Distillation
@@ -3701,22 +3668,22 @@ Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains
 PandaPose: 3D Human Pose Lifting from a Single Image via Propagating 2D Pose Prior to 3D Anchor Space
 PanoWan: Lifting Diffusion Video Generation Models to 360$^\circ$ with Latitude/Longitude-aware Mechanisms
 Panoptic Captioning: Seeking An Equivalency Bridge for Image and Text
-Paper2Poster: Benchmarking Multimodal Poster Generation from Long-context Papers
+Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers
 Parallel Scaling Law for Language Models
 Parallelizing MCMC Across the Sequence Length
 ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation
 Parameter Dynamics of Online Machine Learning and Test-time Adaptation
 Parameter Efficient Fine-tuning via Explained Variance Adaptation
-Parameter Efficient Merging for Multimodal Large Language Models with Direction Robustness
+RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness
 Parameter-Free Hypergraph Neural Network for Few-Shot Node Classification
-Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms
+Efficient Last-Iterate Convergence in Solving Extensive-Form Games
 Parameter-free Algorithms for the Stochastically Extended Adversarial Model
 Parameterized Synthetic Text Generation with SimpleStories
 Pareto Optimal Risk-Agnostic Distributional Bandits with Heavy-Tail Rewards
 ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization
 Parsimonious Predictions for Strategyproof Scheduling
 Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection
-PartCrafter: 3D Native Structured Diffusion Model
+PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers
 PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding
 Partial Correlation Network Estimation by Semismooth Newton Methods
 Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions
@@ -3780,7 +3747,7 @@ PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Sp
 Pixel Reasoner: Incentivizing Pixel Space Reasoning via Reinforcement Learning
 Pixel-Perfect Depth with Semantics-Guided Diffusion Transformers
 Place Cells as Position Embeddings of Multi-Time Random Walk Transition Kernels for Path Planning
-Plan Your Travel and Travel with Your Plan: Wide-Horizon Planning and Evaluation via LLM
+Wide-Horizon Thinking and Simulation-Based Evaluation for Real-World LLM Planning with Multifaceted Constraints
 PlanU: Large Language Model Decision Making through Planning under Uncertainty
 PlanarGS: High‐Fidelity Indoor 3D Gaussian Splatting Guided by Vision–Language Planar Priors
 Planning and Learning in Average Risk-aware MDPs
@@ -3812,7 +3779,7 @@ Policy Optimized Text-to-Image Pipeline Design
 PolyGuard: Massive Multi-Domain Safety Policy-Grounded Guardrail Dataset
 PolyJuice Makes It Real: Black-Box, Universal Red-Teaming for Synthetic Image Detectors
 PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts
-PolyPose: Localizing Deformable Anatomy in 3D from Sparse 2D X-ray Images using Polyrigid Transforms
+PolyPose: Deformable 2D/3D Registration via Polyrigid Transformations
 PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement
 Polyline Path Masked Attention for Vision Transformer
 PolypSense3D: A Multi-Source Benchmark Dataset for Depth-Aware Polyp Size Measurement in Endoscopy
@@ -3840,13 +3807,12 @@ Precise Information Control in Long-Form Text Generation
 Preconditioned Langevin Dynamics with Score-based Generative Models for Infinite-Dimensional Linear Bayesian Inverse Problems
 Predictability Enables Parallelization of Nonlinear State Space Models
 Predicting Empirical AI Research Outcomes with Language Models
-Predicting Functional Brain Connectivity with a Context-Aware Spatiomolecular Transformer
+Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks
 Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme
 Predicting the Performance of Black-box Language Models with Follow-up Queries
 Prediction with expert advice under additive noise
 Prediction-Powered Semi-Supervised Learning with Online Power Tuning
 Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability
-Predictive Modeling in Sequential Recommendation: Performance Laws with Quality Measure Insights
 Predictive Preference Learning from Human Interventions
 Preference Distillation via Value based Reinforcement Learning
 Preference Learning with Lie Detectors can Induce Honesty or Evasion
@@ -3875,7 +3841,6 @@ Prioritizing Perception-Guided Self-Supervision: A New Paradigm for Causal Model
 Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning
 Privacy Reasoning in Ambiguous Contexts
 Privacy amplification by random allocation
-Privacy-Preserving Machine Learning with Plausible Deniability
 Private Continual Counting of Unbounded Streams
 Private Evolution Converges
 Private Geometric Median in Nearly-Linear Time
@@ -3901,8 +3866,8 @@ Problem-Parameter-Free Decentralized Bilevel Optimization
 Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning
 Procurement Auctions with Predictions: Improved Frugality for Facility Location
 Product Distribution Learning with Imperfect Advice
-Profile Inference with Graph Neural Networks
-Programming in Conversation: Introducing CodeAssistBench (CAB) for Chat-Based Code Assistance
+ProfiX: Improving Profile-Guided Optimization in Compilers with Graph Neural Networks
+CodeAssistBench (CAB): Dataset & Benchmarking for Multi-turn Chat-Based Code Assistance
 Progress Reward Model for Reinforcement Learning via Large Language Models
 Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster
 Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities
@@ -3910,7 +3875,7 @@ Projecting Assumptions: The Duality Between Sparse Autoencoders and Concept Geom
 Projection-Manifold Regularized Latent Diffusion for Robust General Image Fusion
 Projection-based Lyapunov method for fully heterogeneous weakly-coupled MDPs
 Projective Equivariant Networks via Second-order Fundamental Differential Invariants
-Projective Positional Encoding for Multiview Transformers
+Cameras as Relative Positional Encoding
 Prompt Tuning Decision Transformers with Structured and Scalable Bandits
 Prompt Tuning Transformers for Data Memorization
 Prompt-Guided Alignment with Information Bottleneck Makes Image Compression Also a Restorer
@@ -3983,13 +3948,11 @@ Quantization-Free Autoregressive Action Transformer
 Quantum Doubly Stochastic Transformers
 Quantum Speedups for Minimax Optimization and Beyond
 Quantum speedup of non-linear Monte Carlo problems
-Quantum-inspired Multi-dimensional Visual Fields with Learnable Energy Representations
 Quartet: Towards Optimal End-to-End FP4 Training for Large Language Models
 Quasi-Self-Concordant Optimization with $\ell_{\infty}$ Lewis Weights
 Query-Efficient Locally Private Hypothesis Selection via the Scheffe Graph
 QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?
-Question-Free Fine-Tuning: Towards Efficient and Adaptive Reasoning in Large Language Models
-R$^2$TL: Reasoning-Enhanced RTL Generation
+QFFT, Question-Free Fine-Tuning for Adaptive Reasoning
 R&D-Agent-Quant: A Multi-Agent Framework for Data-centric Factors and Model Joint Optimization
 R-KV: Redundancy-aware KV Cache Compression for Reasoning Models
 R1-Share: Incentivizing Reasoning Capabilities of Multimodal Large Language Models via Share-GRPO
@@ -4016,7 +3979,7 @@ REDOUBT: Duo Safety Validation for Autonomous Vehicle Motion Planning
 REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset
 REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing
 REINFORCE Converges to Optimal Policies with Any Learning Rate
-REMI: REconstructing Memory during Path Planning with Internal Spatial Representations
+REMI: Reconstructing Episodic Memory During Internally Driven Path Planning
 REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders
 REOBench: Benchmarking Robustness of Earth Observation Foundation Models
 REOrdering Patches Improves Vision Models
@@ -4071,7 +4034,7 @@ RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion
 Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation
 Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape
 ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding
-ReCAP: Recursive Context-Aware Reasoning and Planning with Language Models
+ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents
 ReCon-GS: Continuum-Preserved Guassian Streaming for Fast and Compact Reconstruction of Dynamic Scenes
 ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection
 ReDi: Rectified Discrete Flow
@@ -4082,7 +4045,6 @@ ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG
 RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models
 RePO: Understanding Preference Learning Through ReLU-Based Optimization
 ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
-ReTuning: Towards Scalable In-context Retrieval
 Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets
 Reactivating Sparsity in Transformer FFN and Attention
 Reading Recognition in the Wild
@@ -4094,7 +4056,6 @@ Real-World Reinforcement Learning of Interactive Perception Behaviors
 RealMath: A Continuous Benchmark for Evaluating Language Models on Research-Level Mathematics
 Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning of Vision Language Models
 Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation
-Reasoning Can Hurt the Inductive Abilities of Large Language Models
 Reasoning Gym: Reasoning Environments for Reinforcement Learning with Verifiable Rewards
 Reasoning Is Not a Race: When Stopping Early Beats Going Deeper
 Reasoning Models Better Express Their Confidence
@@ -4144,7 +4105,6 @@ ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning
 Reinforced Active Learning for Large-Scale Virtual Screening with Learnable Policy Model
 Reinforced Context Order Recovery for Adaptive Reasoning and Planning
 Reinforcement Learning Finetunes Small Subnetworks in Large Language Models
-Reinforcement Learning From Others' Successes, Not Their Failures
 Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation
 Reinforcement Learning Teachers of Test Time Scaling
 Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding
@@ -4153,7 +4113,7 @@ Reinforcement Learning with Backtracking Feedback
 Reinforcement Learning with Imperfect Transition Predictions: A Bellman-Jensen Approach
 Reinforcement learning for one-shot DAG scheduling with comparability identification and dense reward
 Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing
-Reinforcing Visual State Reasoning for Multi-Turn VLM Agents
+VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents
 Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models
 Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies
 RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers
@@ -4183,7 +4143,7 @@ Representation Entanglement for Generation: Training Diffusion Transformers Is M
 Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition
 Representational Alignment under Flexible Evaluation: When the Best-Fitting Model Isn’t the Right One
 Representational Difference Explanations
-Representational Geometry Collapse in ANNs Limits Semantic Generalization: A Dimensionality Mismatch Between Brains and ANNs
+Dimensionality Mismatch Between Brains and Artificial Neural Networks
 Reproducing Kernel Banach Space Models for Neural Networks with Application to Rademacher Complexity Analysis
 Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design
 Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues
@@ -4331,7 +4291,7 @@ Rotary Masked Autoencoders are Versatile Learners
 Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning
 Routing Mamba: Scaling State Space Models with Mixture-of-Experts Projection
 RrED: Black-box Unsupervised Domain Adaptation via Rectifying-reasoning Errors of Diffusion
-RtRank: Stratified Response Time Ranking for Data-Efficient Reward Modeling
+ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning
 RvLLM: LLM Runtime Verification with Domain Knowledge
 S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection
 S$^2$NN: Sub-bit Spiking Neural Networks
@@ -4363,7 +4323,7 @@ SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing
 SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward Learning
 SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs
 SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought
-SCoT: Straight Consistent Trajectory for Pre-Trained Diffusion Model Distillations
+SCoT: Unifying Consistency Models and Rectified Flows via Straight-Consistent Trajectories
 SD-KDE: Score-Debiased Kernel Density Estimation
 SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models
 SDPGO: Efficient Self-Distillation Training Meets Proximal Gradient Optimization
@@ -4396,7 +4356,7 @@ SONAR: Long-Range Graph Propagation Through Information Waves
 SORTeD Rashomon Sets of Sparse Decision Trees: Scalable Anytime Enumeration
 SPACE: Noise Contrastive Estimation Stabilizes Self-Play Fine-Tuning for Large Language Models
 SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks
-SPALE: Scalable Prompt-Aware Latent Entropy-based Diversity Guidance in Diffusion Models
+SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Score
 SPARTAN: A Sparse Transformer World Model Attending to What Matters
 SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding
 SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning
@@ -4423,7 +4383,7 @@ ST$^2$360D: Spatial-to-Temporal Consistency for Training-free 360 Monocular Dept
 STACI: Spatio-Temporal Aleatoric Conformal Inference
 STAIR: Addressing Stage Misalignment through Temporal-Aligned Preference Reinforcement Learning
 STAR-Bets: Sequential TArget-Recalculating Bets for Tighter Confidence Intervals
-STAR-R1: Improving Video Perception via Spatio-Temporal Aggregated Reinforcement
+Video-R1: Reinforcing Video Reasoning in MLLMs
 STAR: A Benchmark for Astronomical Star Fields Super-Resolution
 STAR: Efficient Preference-based Reinforcement Learning via Dual Regularization
 STAR: Spatial-Temporal Tracklet Matching for Multi-Object Tracking
@@ -4460,7 +4420,6 @@ SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constraine
 SafeVid: Toward Safety Aligned Video Large Multimodal Models
 Safely Learning Controlled Stochastic Dynamics
 Safety Depth in Large Language Models: A Markov Chain Perspective
-Safety Devolution in AI Agents
 Safety Pretraining: Toward the Next Generation of Safe AI
 SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training
 Salient Concept-Aware Generative Data Augmentation
@@ -4486,8 +4445,7 @@ Scalable Evaluation and Neural Models for Compositional Generalization
 Scalable Exploration via Ensemble++
 Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning
 Scalable Fingerprinting of Large Language Models
-Scalable Generalized Bayesian Online Neural Network Training for Sequential Decision Making
-Scalable Graph Generative Modeling via Substructure Sequences
+Martingale Posterior Neural Networks for Fast Sequential Decision Making
 Scalable Neural Incentive Design with Parameterized Mean-Field Approximation
 Scalable Neural Network Verification against Geometric  Perturbations via Hölder Optimisation
 Scalable Policy-Based RL Algorithms for POMDPs
@@ -4497,10 +4455,9 @@ Scalable and Cost-Efficient de Novo Template-Based Molecular Generation
 Scalable and adaptive prediction bands with kernel sum-of-squares
 Scalable inference of functional neural connectivity at submillisecond timescales
 Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching
-Scale leads to compositional generalization
 Scale-invariant attention
 ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion
-Scaling Code-Assisted CoT for Model Reasoning
+Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning
 Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis
 Scaling Data-Driven Probabilistic Robustness Analysis for Semantic Segmentation Neural Networks
 Scaling Diffusion Transformers Efficiently via $\mu$P
@@ -4522,7 +4479,7 @@ Scaling Up Active Testing to Large Language Models
 Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modelling
 Scaling Up Parameter Generation: A Recurrent Diffusion Approach
 Scaling and context steer LLMs along the same computational path as the human brain
-Scaling up Reasoning to Long Videos in VLMs
+Scaling RL to Long Videos
 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
 ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection
 SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency
@@ -4531,17 +4488,17 @@ SceneForge: Enhancing 3D-text alignment with Structured Scene Compositions
 SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent
 Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging
 Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres
-SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks
+SciArena: An Open Evaluation Platform for Non-Verifiable Scientific Literature-Grounded Tasks
 Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
 Score-Based Diffusion Modeling for Nonparametric Empirical Bayes in Heteroscedastic Gaussian Mixtures
 Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery
 Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation
 SeCon-RAG: A Two-Stage Semantic  Filtering and Conflict-Free Framework for Trustworthy RAG
-Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs
+Search and Refine During Think: Facilitating Knowledge Refinement for Improved Retrieval-Augmented Reasoning
 Searching Efficient Semantic Segmentation Architectures via Dynamic Path Selection
 Searching Latent Program Spaces
 SeasonBench-EA: A Multi-Source Benchmark for Seasonal Prediction and Numerical Model Post-Processing in East Asia
-SeasonCast: A Masked Latent Diffusion Model for Skillful and Scalable Subseasonal-to-Seasonal Prediction
+OmniCast: A Masked Latent Diffusion Model for Weather Forecasting Across Time Scales
 Second-Order Convergence in Private Stochastic Non-Convex Optimization
 Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits
 Secure and Confidential Certificates of Online Fairness
@@ -4563,9 +4520,9 @@ Seemingly Redundant Modules Enhance Robust Odor Learning in Fruit Flies
 Seg-VAR:Image Segmentation with Visual Autoregressive Modeling
 Seg2Any: Open-set Segmentation Mask-to-Image Generation with Precise Shape and Semantic Control
 SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation
-SegMASt3R: Leveraging Geometric Foundation Models for Wide-Baseline Segment Matching
+SegMASt3R: Geometry Grounded Segment Matching
 Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective
-Segment Policy Optimization: Improved Credit Assignment in Reinforcement Learning for LLMs
+Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models
 Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting
 Sekai: A Video Dataset for World Exploration
 Selective Learning for Deep Time Series Forecasting
@@ -4607,7 +4564,7 @@ Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthe
 Semantic-KG: Using Knowledge Graphs to Construct Benchmarks for Measuring Semantic Similarity
 Semantic-guided Diverse Decoding for Large Language Model
 Semi-Supervised Regression with Heteroscedastic Pseudo-Labels
-Semi-autoregressive Your Bridge: Chemical Space Projecting with Discrete Markov Bridges
+MoleBridge: Synthetic Space Projecting with Discrete Markov Bridges
 Semi-infinite Nonconvex Constrained Min-Max Optimization
 Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning
 Semi-supervised Graph Anomaly Detection via Robust Homophily Learning
@@ -4616,7 +4573,7 @@ SeniorTalk: A Chinese Conversation Dataset with Rich Annotations for Super-Aged 
 SensorLM: Learning the Language of Wearable Sensors
 SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery
 Separating the 'what' and 'how' of compositional computation to enable reuse and continual learning
-Sequence Modeling Is Not Evolutionary Reasoning
+Evolutionary Reasoning Does Not Arise in Standard Usage of Protein Language Models
 Sequence Modeling with Spectral Mean Flows
 Sequential Attention-based Sampling for Histopathological Analysis
 Sequential Monte Carlo for Policy Optimization in Continuous POMDPs
@@ -4653,7 +4610,7 @@ Shortcut Features as Top Eigenfunctions of NTK: A Linear Neural Network Case and
 Shortcuts and Identifiability in Concept-based Models from a Neuro-Symbolic Lens
 Shortcutting Pre-trained Flow Matching Diffusion Models is Almost Free Lunch
 ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning
-ShotBench: Towards Enhancing Vision-Language Models for Cinematography Understanding
+ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models
 Siegel Neural Networks
 Sign-In to the Lottery: Reparameterizing Sparse Training
 SignFlow Bipartite Subgraph Network For Large-Scale Graph Link Sign Prediction
@@ -4705,7 +4662,7 @@ Smooth Quadratic Prediction Markets
 Smooth Regularization for Efficient Video Recognition
 Smooth Sailing: Lipschitz-Driven Uncertainty Quantification for Spatial Associations
 Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling
-Smoothed Agnostic Learning Boolean Halfspace
+Smoothed Agnostic Learning of Halfspaces over the Hypercube
 Smoothed Differentiation Efficiently Mitigates Shattered Gradients in Explanations
 SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation
 SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions
@@ -4715,13 +4672,12 @@ Social World Model-Augmented Mechanism Design Policy Learning
 Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space
 Soft-consensual Federated Learning for Data Heterogeneity via Multiple Paths
 SolidGeo: Measuring Multimodal Spatial Math Reasoning in Solid Geometry
-Solvable Dynamics of Contrastive Word Embeddings and the Formation of Linear Representations
 Solver-Free Decision-Focused Learning for Linear Optimization Problems
 Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling
 SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search
 Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics
 Solving Discrete (Semi) Unbalanced Optimal Transport with Equivalent Transformation Mechanism and KKT-Multiplier Regularization
-Solving Harder Reinforcement Learning Tasks with Direct pass@k Optimization
+Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems
 Solving Inequality Proofs with Large Language Models
 Solving Inverse Problems with FLAIR
 Solving Neural Min-Max Games: The Role of Architecture, Initialization & Dynamics
@@ -4778,7 +4734,7 @@ Spike-RetinexFormer: Rethinking Low-light Image Enhancement with Spiking Neural 
 Spike-timing-dependent Hebbian learning as noisy gradient descent
 Spike4DGS: Towards High-Speed Dynamic Scene Rendering with 4D Gaussian Splatting via a Spike Camera Array
 Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks
-Spiking Transformers Need High-Frequency Information
+Spiking Neural Networks Need High-Frequency Information
 SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding
 Spiral: Semantic-Aware Progressive LiDAR Scene Generation
 SplashNet: Split‑and‑Share Encoders for Accurate and Efficient Typing with Surface Electromyography
@@ -4797,11 +4753,10 @@ Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video G
 Stable Coresets via Posterior Sampling: Aligning Induced and Full Loss Landscapes
 Stable Gradients for Stable Learning at Scale in Deep Reinforcement Learning
 Stable Matching with Ties: Approximation Ratios and Learning
-Stable Minima of ReLU Neural Networks Are Not Immune to the Curse of Dimensionality
+Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon
 Stable Part Diffusion: Multi-View RGB and Kinematic Parts Video Generation
 Stable Port-Hamiltonian Neural Networks
 StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models
-StackTrans: From Large Language Model to Large Pushdown Automata Model
 Stackelberg Learning with Outcome-based Payment
 Stackelberg Self-Annotation: A Robust Approach to Data-Efficient LLM Alignment
 Staggered Environment Resets Improve Massively Parallel On-Policy Reinforcement Learning
@@ -4819,7 +4774,7 @@ Statistical Inference under Performativity
 Statistical Parity with Exponential Weights
 Statistical inference for Linear Stochastic Approximation with Markovian Noise
 Statistics Caching Test-Time Adaptation for Vision-Language Models
-Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property
+Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning
 Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph Classification
 SteerConf: Steering LLMs for Confidence Elicitation
 Steering Generative Models with Experimental Data for Protein Fitness Optimization
@@ -4853,9 +4808,9 @@ Streaming Attention Approximation via Discrepancy Theory
 Streaming Audio Generation from Discrete Tokens via Streaming Flow Matching
 Streaming Federated Learning with Markovian Data
 Streaming Stochastic Submodular Maximization with On-Demand User Requests
-Strong Membership Inference Attacks on Massive Datasets and (Moderately) Large Language Models
+Exploring the limits of strong membership inference attacks on large language models
 StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization
-Struct-Bench: A Benchmark for Evaluating Differentially Private Synthetic Data for Structured Datasets Containing Natural Language
+Struct-Bench: A Benchmark for Differentially Private Structured Text Generation
 Struct2D: A Perception-Guided Framework for Spatial Reasoning in Multimodal Models
 Structural Causal Bandits under Markov Equivalence
 Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs
@@ -4885,8 +4840,8 @@ Support  Vector  Generation: Kernelizing Large Language Models for Effic
 Surface-Aware Feed-Forward Quadratic Gaussian for Frame Interpolation with Large Motion
 SurfaceSplat: Learning Efficient and Generalizable Gaussian Surfel Representations for Sparse-View Surface Reconstruction
 Surprise3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes
-SustainCluster: Benchmarking Dynamic Multi-Objective Geo-Distributed Workload Management for Sustainable Data Center Cluster
-SustainLC: Benchmark for End-to-End Control of Liquid Cooling in Sustainable Data Centers
+DCcluster-Opt: Benchmarking Dynamic Multi-Objective Optimization for Geo-Distributed Data Center Workloads
+LC-Opt: Benchmarking Reinforcement Learning and Agentic AI for End-to-End Liquid Cooling Optimization in Data Centers
 SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing
 SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning
 SwitchLingua: The First Large-Scale Multilingual and Multi-Ethnic Code-Switching Dataset
@@ -4924,7 +4879,7 @@ TAPAS: Datasets for Learning the Learning with Errors Problem
 TAPIP3D: Tracking Any Point in Persistent 3D Geometry
 TAPVid-360: Tracking Any Point in 360 from Narrow Field of View Video
 TARFVAE: Efficient One-Step Generative Time Series Forecasting via TARFLOW based VAE
-TC-Light: Temporally Consistent Relighting for Dynamic Long Videos
+TC-Light: Temporally Coherent Generative Rendering for Realistic World Transfer
 TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine
 TEMPO: Temporal Multi-scale Autoregressive Generation of Protein Conformational Ensembles
 TF-MAS: Training-free Mamba2 Architecture Search
@@ -4953,8 +4908,8 @@ TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation
 TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation
 TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling
 TabArena: A Living Benchmark for Machine Learning on Tabular Data
-TabDPT: An Open Tabular Foundation Model
-TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations
+TabDPT: Scaling Tabular Foundation Models on Real Data
+TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields
 Table as a Modality for Large Language Models
 Table2LaTeX-RL: High-Fidelity LaTeX Code Generation from Table Images via Reinforced Multimodal Language Models
 Tabula: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics
@@ -4972,9 +4927,9 @@ Taming generative world models for zero-shot optical flow extraction
 Tapered Off-Policy REINFORCE - Stable and efficient reinforcement learning for large language models
 Target Speaker Extraction through Comparing Noisy Positive and Negative Audio Enrollments
 Targeted Maximum Likelihood Learning: An Optimization Perspective
-Task Similarity Matters: Greedy Orderings in Continual Linear Regression
-Task-Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation
-Task-Aware Routing of Representations for Invariant–Equivariant Self-Supervised Learning
+Are Greedy Task Orderings Better Than Random in Continual Linear Regression?
+How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation
+Soft Task-Aware Routing of Experts for Equivariant Representation Learning
 Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain
 Task-Specific Data Selection for Instruction Tuning via Monosemantic Neuronal Activations
 Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack
@@ -5002,7 +4957,7 @@ Test-Time Scaling of Diffusion Models via Noise Trajectory Search
 Test-Time Scaling with World Models for Spatial Reasoning
 Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models
 Test3R: Learning to Reconstruct 3D at Test Time
-Text Generation Beyond Discrete Token Sampling
+Mixture of Inputs: Text Generation Beyond Discrete Token Sampling
 Text to Sketch Generation with Multi-Styles
 Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders
 Text-to-Code Generation for Modular Building Layouts in Building Information Modeling
@@ -5061,7 +5016,7 @@ The Primacy of Magnitude in Low-Rank Adaptation
 The Promise of RL for Autoregressive Image Editing
 The Quest for Universal Master Key Filters in DS-CNNs
 The Quotient Bayesian Learning Rule
-The Rashomon Set is All You Need: A Framework for Analyzing Trustworthiness of Trees under Multiplicity
+The Rashomon Set Has It All: Analyzing Trustworthiness of Trees under Multiplicity
 The Rich and the Simple: On the Implicit Bias of Adam and SGD
 The Rise of Parameter Specialization for Knowledge Storage in Large Language Models
 The Shape of Generalization through the Lens of Norm-based Capacity Control
@@ -5079,8 +5034,8 @@ The emergence of sparse attention: impact of data distribution and benefits of r
 The quest for the GRAph Level autoEncoder (GRALE)
 The third pillar of causal analysis? A measurement perspective on causal representations
 TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks
-Theoretical Analysis for SAC-BL Algorithm
-Theoretical Analysis of KL-regularized RLHF with Multiple Reference Models
+On the SAC-BL Algorithm for Anomaly Detection
+KL-Regularized RLHF with Multiple Reference Models: Exact Solutions and Sample Complexity
 Theoretical Benefit and Limitation of Diffusion Language Model
 Theoretical Guarantees for the Retention of Strict Nash Equilibria by Coevolutionary Algorithms
 Theoretical Insights into In-context Learning with Unlabeled Data
@@ -5089,7 +5044,6 @@ Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive A
 Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning
 ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation
 Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains
-Think Smarter, Not Harder: Uncertainty Calibration of Process Reward Models
 Think before Recommendation: Autonomous Reasoning-enhanced Recommender
 Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens
 Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models
@@ -5174,7 +5128,7 @@ Towards A Pairwise Ranking Model with Orderliness and Monotonicity for Label Enh
 Towards A Translative Model of Sperm Whale Vocalization
 Towards Accurate Time Series Forecasting via Implicit Decoding
 Towards Automated Petrography
-Towards Backpropagation-Free and Distribution-Aware Test-Time Adaptation
+Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment
 Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy
 Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis
 Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models
@@ -5191,7 +5145,7 @@ Towards Generalizable Detector for Generated Image
 Towards Generalizable Multi-Policy Optimization with Self-Evolution for Job Scheduling
 Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors
 Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs
-Towards Human-Like Language Comprehension: Incremental and Wrap-Up Based fMRI-to-Text Decoding
+Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling
 Towards Identifiability of Hierarchical Temporal Causal Representation Learning
 Towards Implicit Aggregation: Robust Image Representation for Place Recognition in the Transformer Era
 Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders
@@ -5210,7 +5164,6 @@ Towards Principled Unsupervised Multi-Agent Reinforcement Learning
 Towards Prospective Medical Image Reconstruction via Knowledge-Informed Dynamic Optimal Transport
 Towards Provable Emergence of In-Context Reinforcement Learning
 Towards Realistic Earth-Observation Constellation Scheduling: Benchmark and Methodology
-Towards Reinforcement Learning with Optimal Reasoning Efficiency
 Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning
 Towards Reliable Identification of Diffusion-based Image Manipulations
 Towards Reliable LLM-based Robots Planning via Combined Uncertainty Estimation
@@ -5235,7 +5188,7 @@ Towards Unsupervised Domain Bridging via Image Degradation in Semantic Segmentat
 Towards Unsupervised Open-Set Graph Domain Adaptation via Dual Reprogramming
 Towards Unsupervised Training of Matching-based Graph Edit Distance Solver via Preference-aware GAN
 Towards Visualization-of-Thought Jailbreak Attack against Large Visual Language Models
-Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making
+Cascaded Language Models for Cost-Effective Human–AI Decision-Making
 Towards a General Attention Framework on Gyrovector Spaces for Matrix Manifolds
 Towards a Geometric Understanding of Tensor Learning via the t-Product
 Towards a Golden Classifier-Free Guidance Path via Foresight Fixed Point Iterations
@@ -5278,14 +5231,14 @@ TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model
 Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training
 Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning
 Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design
-Trajectory-aware PRMs for Long CoT Reasoning
+ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs
 TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias Intrinsically from Regression Models in Recommender Systems
 Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties
 TransDF: Time-Series Forecasting Needs Transformed Label Alignment
 TransMLA: Migrating GQA Models to MLA with Full DeepSeek Compatibility and Speedup
 Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness
 Transductive Conformal Inference for Full Ranking
-Transductive Program Synthesis
+Program Synthesis via Test-Time Transduction
 Transfer Faster, Price Smarter: Minimax Dynamic Pricing under Cross-Market Preference Shift
 Transfer Learning for Benign Overfitting in High-Dimensional Linear Regression
 Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model
@@ -5299,7 +5252,6 @@ Transformer Key-Value Memories Are Nearly as Interpretable as Sparse Autoencoder
 Transformer brain encoders explain human high-level visual responses
 Transformers Learn Faster with Semantic Focus
 Transformers Provably Learn Chain-of-Thought Reasoning with Length Generalization
-Transformers are Effective Diffusion Denoisers, Both in Context, and Without Context.
 Transformers are almost optimal metalearners for linear classification
 Transforming Gaps into Gains: Bridging Model and Data Heterogeneity in Federated Learning via Knowledge Weak-Aware Zones
 Transforming Generic Coder LLMs to Effective Binary Code Embedding Model for Similarity Detection
@@ -5314,7 +5266,7 @@ Tree-Based Premise Selection for Lean4
 Tree-Sliced Entropy Partial Transport
 Tree-guided Diffusion Planner
 TreeFinder: A US-Scale Benchmark Dataset for Individual Tree Mortality Monitoring Using High-Resolution Aerial Imagery
-TreeGen: A Bayesian Generative Model for Hierarchies with Application to Jet Clustering
+TreeGen: A Bayesian Generative Model for Hierarchies
 TreeSplat: Mergeable Tree for Deformable Gaussian Splatting
 TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning
 Tri-MARF: A Tri-Modal Multi-Agent Responsive Framework for Comprehensive 3D Object Annotation
@@ -5332,7 +5284,6 @@ Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning
 Turning the Tables: Enabling Backward Transfer via Causal-Aware LoRA in Continual Learning
 Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$  Pruning
 TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets
-Two Birds with One Stone: Improving Factuality and Faithfulness of LLMs via Dynamic Interactive Subspace Editing
 Two Causally Related Needles in a Video Haystack
 Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training
 Two heads are better than one: simulating large transformers with small ones
@@ -5347,7 +5298,7 @@ UFM: A Simple Path towards Unified Dense Correspondence with Flow
 UFO-RL: Uncertainty-Focused Optimization for Efficient Reinforcement Learning Data Selection
 UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface
 UFT: Unifying Supervised and Reinforcement Fine-Tuning
-UGCFormer: A Simple yet Universal Graph Cross-attention Network
+A Closer Look at Graph Transformers: Cross-Aggregation and Beyond
 UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification
 UGM2N: An Unsupervised and Generalizable Mesh Movement Network via M-Uniform Loss
 UGoDIT: Unsupervised Group Deep Image Prior Via Transferable Weights
@@ -5376,7 +5327,7 @@ Uncertainty Quantification for Deep Regression using Contextualised Normalizing 
 Uncertainty Quantification for LLMs through Minimum Bayes Risk: Bridging Confidence and Consistency
 Uncertainty Quantification for Physics-Informed Neural Networks with Extended Fiducial Inference
 Uncertainty Quantification with the Empirical Neural Tangent Kernel
-Uncertainty reduction of class conditional conformal prediction via multi-inputs aggregation
+Class conditional conformal prediction for multiple inputs by p-value aggregation
 Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design
 Uncertainty-Based Smooth Policy Regularisation for Reinforcement Learning with Few Demonstrations
 Uncertainty-Calibrated Prediction of Randomly-Timed Biomarker Trajectories with Conformal Bands
@@ -5441,7 +5392,6 @@ UniViT: Unifying Image and Video Understanding in One Vision Encoder
 UniZyme: A Unified Protein Cleavage Site Predictor Enhanced with Enzyme Active-Site Knowledge
 Unified 2D-3D Discrete Priors for Noise-Robust and Calibration-Free Multiview 3D Human Pose Estimation
 Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning
-Unified Reinforcement Learning through Implicit Value Regularization
 Unified Reinforcement and Imitation Learning for Vision-Language Models
 Unified Scaling Laws for Learning over Compressed Representations
 Unified Transferability Metrics for Time Series Foundation Models
@@ -5472,7 +5422,7 @@ Unleashing Hour-Scale Video Training for Long Video-Language Understanding
 Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding
 Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator
 Unlocker: Disentangle the Deadlock of Learning between Label-noisy and Long-tailed Data
-Unlocking Aha Moments with CoT: Advancing Multimodal LLMs for Unified Image Generation
+Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning
 Unlocking Dataset Distillation with Diffusion Models
 Unlocking Multimodal Mathematical Reasoning via Process Reward Model
 Unlocking SLM Potential for Data Analysis Code Generation via Non-Parametric Knowledge Distillation
@@ -5481,7 +5431,7 @@ Unmasking Puppeteers: Leveraging Biometric Leakage to Expose Impersonation in AI
 Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning
 Unsupervised Federated Graph Learning
 Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
-Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO
+First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training
 Unsupervised Trajectory Optimization for 3D Registration in Serial Section Electron Microscopy using Neural ODEs
 Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards
 Unveiling Concept Attribution in Diffusion Models
@@ -5492,13 +5442,11 @@ Unveiling m-Sharpness Through the Structure of Stochastic Gradient Noise
 Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model
 Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study
 Unveiling the Power of Multiple Gossip Steps: A Stability-Based Generalization Analysis in Decentralized Training
-Unveiling the Role of Learning‑Rate Schedules via Functional Scaling Laws
+Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules
 Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks
 Unveiling the Uncertainty in Embodied and Operational Carbon of Large AI Models through a Probabilistic Carbon Accounting Model
-UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning
 UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception
 User-Instructed Disparity-aware Defocus Control
-Using Imperfect Synthetic Data in Downstream Inference Tasks
 UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation
 Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs
 V-CECE: Visual Counterfactual Explanations via Conceptual Edits
@@ -5510,7 +5458,7 @@ VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Gran
 VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image
 VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning
 VERA: Variational Inference Framework for Jailbreaking Large Language Models
-VESSA: Video-based Efficient SSL Adaptation
+VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models
 VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers
 VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption
 VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
@@ -5524,7 +5472,7 @@ VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion
 VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching
 VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models
 VLForgery Face Triad: Detection, Localization and Attribution via Multimodal Large Language Models
-VLM in a flash: Neuron Chunking for Flash-offloaded Vision-Language Model Inference
+VLM in a flash: I/O-Efficient Sparsification of Vision-Language Model via Neuron Chunking
 VLM-R³: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought
 VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture
 VLMs can Aggregate Scattered Training Patches
@@ -5538,7 +5486,7 @@ VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Under
 VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
 VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences
 VTTS: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception
-VaMP: Variational Multi-Modal Prompt Learning
+VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models
 Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought
 Valid Selection among Conformal Sets
 Validating LLM-as-a-Judge Systems under Rating Task Indeterminacy
@@ -5552,7 +5500,7 @@ Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2
 VaporTok: RL-Driven Adaptive Video Tokenizer with Prior & Task Awareness
 VarFlow: Proper Scoring-Rule Diffusion Distillation via Energy Matching
 Variance-Aware Feel-Good Thompson Sampling for Contextual Bandits
-Variance-Aware Likelihood Bounds for Diffusion Models with Arbitrary Noise
+Information Theoretic Learning for Diffusion Models with Warm Start
 Variance-Reduced Long-Term Rehearsal Learning with Quadratic Programming Reformulation
 Variational Inference with  Mixtures of Isotropic Gaussians
 Variational Learning Finds Flatter Solutions at the Edge of Stability
@@ -5580,7 +5528,6 @@ VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models
 Video Diffusion Models Excel at Tracking Similar-Looking Objects Without Supervision
 Video Perception Model for 3D Scene Synthesis
 Video World Models with Long-term Spatial Memory
-Video-R1: Reinforcing Video Reasoning in MLLMs
 Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension
 Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs
 VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software
@@ -5667,7 +5614,6 @@ What Really is a Member? Discrediting Membership Inference via Poisoning
 What We Miss Matters: Learning from the Overlooked in Point Cloud Transformers
 What are you sinking? A geometric approach on attention sink
 What do you know? Bayesian knowledge inference for navigating agents
-What does gradient variance tell us about the optimality of vector fields?
 What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions
 What's Producible May Not Be Reachable: Measuring the Steerability of Generative Models
 What’s in Common? Multimodal Models Hallucinate When Reasoning Across Scenes
@@ -5690,7 +5636,7 @@ When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs
 When and how can inexact generative models still sample from the data manifold?
 When majority rules, minority loses: bias amplification of gradient descent
 Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding
-Where Graph Meets Multi-View Learning : Collarborative Graph Mixture of Experts
+Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts
 Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models
 Which Algorithms Have Tight Generalization Bounds?
 Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions
@@ -5698,7 +5644,7 @@ Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems
 Who Reasons in the Large Language Models?
 Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers
 Who You Are Matters: Bridging Interests and Social Roles via LLM-Enhanced Logic Recommendation
-Whole-Body-Conditioned Ego-Centric Video Prediction
+Whole-Body Conditioned Egocentric Video Prediction
 Whose Instructions Count? Resolving Preference Bias in Instruction Fine-Tuning
 Whose View of Safety? A Deep DIVE Dataset for Pluralistic Alignment of Text-to-Image Models
 Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering
@@ -5730,14 +5676,13 @@ Wukong's 72 Transformations: High-fidelity 3D Morphing via Flow Models
 X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction
 X-Mahalanobis: Transformer Feature Mixing for Reliable OOD Detection
 X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability
-X-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models
+EPFL-Smart-Kitchen: An Ego-Exo Multi-Modal Dataset for Challenging Action and Motion Understanding in Video-Language Models
 XIFBench: Evaluating Large Language Models on Multilingual Instruction Following
 XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation
 YEAST: Yet Another Sequential Test
 YOLOv12: Attention-Centric Real-Time Object Detectors
 Yggdrasil: Bridging Dynamic Speculation and Static Runtime  for Latency-Optimal Tree-Based LLM Decoding
 You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering
-You Have to Be Realistic: On Investigating Feature Emergence in Deep Learning-based Side-channel Analysis
 You Only Communicate Once: One-shot Federated Low-Rank Adaptation of MLLM
 You Only Spectralize Once: Taking a Spectral Detour to Accelerate Graph Neural Network
 Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator
@@ -5746,7 +5691,7 @@ ZEUS: Zero-shot Embeddings for Unsupervised Separation of Tabular Data
 ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS
 ZeCO: Zero-Communication Overhead Sequence Parallelism for Linear Attention
 Zebra-Llama: Towards Extremely Efficient Hybrid Models
-Zero-Shot Blind-Spot Denoising via Pixel Refilling
+Zero-Shot Blind-Spot Image Denoising via Cross-Scale Non-Local Pixel Refilling
 Zero-Shot Context Generalization in Reinforcement Learning from Few Training Contexts
 Zero-Shot Detection of LLM-Generated Text via Implicit Reward Model
 Zero-Shot Performance Prediction for Probabilistic Scaling Laws
@@ -5783,5 +5728,5 @@ seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Mode
 un$^2$CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP
 vHector and HeisenVec: Scalable Vector Graphics Generation Through Large Language Models
 xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories
-zip2zip: Inference-Time Adaptive Vocabularies for Language Models via Token Compression
-🎧MOSPA: Spatial Audio-Driven Human Motion Generation
+zip2zip: Inference-Time Adaptive Tokenization via Online Compression
+🎧MOSPA: Human Motion Generation Driven by Spatial Audio

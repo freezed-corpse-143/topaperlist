@@ -67,7 +67,7 @@ Scalable Deep Multimodal Learning for Cross-Modal Retrieval
 Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification
 Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors
 Supervised Hierarchical Cross-Modal Hashing
-Task Completion Detection
+Task Completion Detection: A Study in the Context of Intelligent Systems
 Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation
 The FacT: Taming Latent Factor Models for Explainability with Factorization Trees
 To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions
@@ -102,7 +102,7 @@ Analyzing and Predicting News Popularity in an Instant Messaging Service
 Answer-enhanced Path-aware Relation Detection over Knowledge Base
 Argument Search: Assessing Argument Relevance
 Automatic Task Completion Flows from Web APIs
-Axiomatic Regularization for Neural Information Retrieval
+An Axiomatic Approach to Regularizing Neural Ranking Models
 Block-distributed Gradient Boosted Trees
 CEDR: Contextualized Embeddings for Document Ranking
 Cleaned Similarity for Better Memory-Based Recommenders
@@ -116,7 +116,6 @@ Deeper Text Understanding for IR with Contextual Neural Language Modeling
 Developing Evaluation Metrics for Instant Search Using Mixed Methods
 Dynamic Sampling Meets Pooling
 Effective Medical Archives Processing Using Knowledge Graphs
-Efficient Corpus-based Set Expansion with Lexico-syntactic Features and Distributed Representations
 Embedding Edge-attributed Relational Hierarchies
 Encoding Syntactic Dependency and Topical Information for Social Emotion Classification
 Enhanced News Retrieval:  Passages Lead the Way!
@@ -129,8 +128,8 @@ From Text to Sound: a Preliminary Study on Retrieving Sound Effects to Radio Sto
 Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation
 Graph Intention Network for Click-through Rate Prediction in Sponsored Search
 Help Me Search: Leveraging User-System Collaboration for Query Construction to Improve Accuracy for Difficult Queries
-History Modeling for Conversational Question Answering
-How to deal with scarse annotations in question answering
+BERT with History Answer Embedding for Conversational Question Answering
+How to Deal with Scarce Annotations in Answer Selection
 Hyperlink Classification via Structured Graph Embedding
 Improving Collaborative Metric Learning with Efficient Negative Sampling
 Information Cascades Modeling via Deep Multi-Task Learning
@@ -145,7 +144,7 @@ LIRME: Locally Interpretable Ranking Model Explanation
 Local Matrix Approximation based on Graph Random Walk
 M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs
 Modeling Transferable Topics for Cross-Target Stance Detection
-Monte Carlo Tree Search enhanced Markov Decision Process for Sequence Tagging
+Name Entity Recognition with Policy-Value Networks
 Multi-level Matching Networks for Text Matching
 Multiple Query Processing via Logic Function Factoring
 Network Embedding and Change Modeling in Dynamic Heterogeneous Networks
@@ -154,7 +153,7 @@ Normalized Query Commitment Revisited
 NRPA: Neural Recommendation with Personalized Attention
 Numeral Attachment with Auxiliary Tasks
 On Anonymous Commenting: A Greedy Approach to Balance Utilization and Anonymity for Instagram Users
-On the Additivity of Effectiveness Improvements from Neural Ranking Models
+Critically Examining the "Neural Hype": Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models
 On the Effect of Low-Frequency Terms on Neural-IR Models
 On Topic Difficulty in IR Evaluation: The Effect of Corpora, Systems, and System Components
 On Tradeoffs Between Document Signature Methods for A Legal Due Diligence Corpus
@@ -169,7 +168,7 @@ Retrieving Multi-Entity Associations: An Evaluation of Combination Modes for Wor
 Revealing the Role of User Moods in Struggling Search Tasks
 Revisiting Approximate Metric Optimizationin in the Age of Deep Neural Networks
 SAIN: Self-Attentive Integration Network for Recommendation
-Selecting Discriminative Terms for Relevance Feedback based Information Retrieval
+Selecting Discriminative Terms for Relevance Model
 Sequence and Time Aware Neighborhood for Session-based Recommendations
 Social Attentive Deep Q-network for Recommendation
 Sparse tensor co-clustering as a tool for document categorization
@@ -201,7 +200,7 @@ Demonstrating Requirement Search on a University Degree Search Application
 Event Tracker: A Text Analytics Platform for Use During Disasters
 EXACT: Attributed Entity Extraction By Annotating Texts
 Expert-Guided Entity Extraction using Expressive Rules
-Explanatory Debugging for TableQA
+Explanatory and Actionable Debugging for Machine Learning: A TableQA Demonstration
 Information Retrieval Meets Scalable Text Analytics: Solr Integration with Spark
 KANDINSKY: Abstract Art-Inspired Visualization of Social Discussions
 MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching

@@ -5,8 +5,8 @@ A Cross-Modal Densely Guided Knowledge Distillation Based on Modality Rebalancin
 A Dual Stream Visual Tokenizer for LLM Image Generation
 A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection
 A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting
-A Fast Neural Architecture Search Method for Multi-Modal Classification via Knowledge Sharing
 A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes
+A Fast Neural Architecture Search Method for Multi-Modal Classification via Knowledge Sharing
 A Fast-Adaptive Cognitive Diagnosis Framework for Computerized Adaptive Testing Systems
 A Generalized Diffusion Framework with Learnable Propagation Dynamics for Source Localization
 A Hybrid Multi-Factor Network with Dynamic Sequence Modeling for Early Warning of Intraoperative Hypotension
@@ -25,30 +25,27 @@ A Theoretical Perspective on Why Stochastic Population Update Needs an Archive i
 A Timestep-Adaptive Frequency-Enhancement Framework for Diffusion-based Image Super-Resolution
 A Weighted-Based Fast Local Search for α-Neighbor p-Center Problem
 ABNet: Mitigating Sample Imbalance in Anomaly Detection Within Dynamic Graphs
-ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction
-ADFormer: Aggregation Differential Transformer for Passenger Demand Forecasting
-ADPFedGNN: Adaptive Decoupling Personalized Federated Graph Neural Network
-AKBR: Learning Adaptive Kernel-based Representations for Graph Classification
-APIMig: A Project-Level Cross-Multi-Version API Migration Framework Based on Evolution Knowledge Graph
-ARMR: Adaptively Responsive Network for Medication Recommendation
-ARPDL: Adaptive Relational Prior Distribution Loss as an Adapter for Document-Level Relation Extraction
 AccCtr: Accelerating Training-Free Conditional Control For Diffusion Models
 Accelerating Diffusion-based Super-Resolution with Dynamic Time-Spatial Sampling
 Active Multimodal Distillation for Few-shot Action Recognition
 ActiveHAI: Active Collection Based Human-AI Diagnosis with Limited Expert Predictions
 AdaMixT: Adaptive Weighted Mixture of Multi-Scale Expert Transformers for Time Series Forecasting
-AdaR: An Adaptive Gradient Method with Cyclical Restarting of Moment Estimations
-AdaptPFL: Unlocking Cross-Device Palmprint Recognition via Adaptive Personalized Federated Learning with Feature Decoupling
 Adaptive Deep Learning from Crowds
 Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics
 Adaptive Graph Unlearning
 Adaptive Language-Aware Image Reflection Removal Network
+AdaptPFL: Unlocking Cross-Device Palmprint Recognition via Adaptive Personalized Federated Learning with Feature Decoupling
+AdaR: An Adaptive Gradient Method with Cyclical Restarting of Moment Estimations
+ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction
+ADFormer: Aggregation Differential Transformer for Passenger Demand Forecasting
+ADPFedGNN: Adaptive Decoupling Personalized Federated Graph Neural Network
 Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation
 Advancing Stain Transfer for Multi-Biomarkers: A Human Annotation-Free Method Based on Auxiliary Task Supervision
 Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models
 Adversarial Propensity Weighting for Debiasing in Collaborative Filtering
 Adversarial Training for Graph Convolutional Networks: Stability and Generalization Analysis
 Aggregation Mechanism Based Graph Heterogeneous Networks Distillation
+AKBR: Learning Adaptive Kernel-based Representations for Graph Classification
 Aligning Contrastive Multiple Clusterings with User Interests
 All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning
 AlphaGAT: A Two-Stage Learning Approach for Adaptive Portfolio Selection
@@ -58,9 +55,12 @@ An Efficient Core-Guided Solver for Weighted Partial MaxSAT
 An End-to-End Simple Clustering Hierarchical Pooling Operation for Graph Learning Based on Top-K Node Selection
 An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks
 Antibody Design and Optimization with Multi-scale Equivariant Graph   Diffusion Models for Accurate Complex Antigen Binding
+APIMig: A Project-Level Cross-Multi-Version API Migration Framework Based on Evolution Knowledge Graph
 App2Exa: Accelerating Exact kNN Search via Dynamic Cache-Guided Approximation
 Approximately EFX and fPO Allocations for Bivalued Chores
 AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
+ARMR: Adaptively Responsive Network for Medication Recommendation
+ARPDL: Adaptive Relational Prior Distribution Loss as an Adapter for Document-Level Relation Extraction
 Asset Pricing with Contrastive Adversarial Variational Bayes
 Asynchronous Credit Assignment for Multi-Agent Reinforcement Learning
 Attention-based Conditional Random Field for Financial Fraud Detection
@@ -69,24 +69,22 @@ Attribute Association Driven Multi-Task Learning for Session-based Recommendatio
 Automated Detection of Pre-training Text in Black-box LLMs
 Automated Strategy Invention for Confluence of Term Rewrite Systems
 Avoiding Undesired Future with Sequential Decisions
-BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird’s-Eye View
-BILE: An Effective Behavior-based Latent Exploration Scheme for Deep Reinforcement Learning
-BMIP: Bi-directional Modality Interaction Prompt Learning for VLM
-BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module
-BTPG: A Platform and Benchmark for Behavior Tree Planning in Everyday Service Robots
 Backdoor Attack on Vertical Federated Graph Neural Network Learning
 Balance-Aware Sequence Sampling Makes Multi-Modal Learning Better
 Balancing Imbalance: Data-Scarce Urban Flow Prediction via Spatio-Temporal Balanced Transfer Learning
 Balancing User-Item Structure and Interaction with Large Language Models and Optimal Transport for Multimedia Recommendation
 Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification
+BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird’s-Eye View
 Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion
 Beyond Fixed Length: Bucket Pre-training is All You Need
 Beyond Individual and Point: Next POI Recommendation via Region-aware Dynamic Hypergraph with Dual-level Modeling
 Beyond Low-rankness: Guaranteed Matrix Recovery via Modified Nuclear Norm
 Beyond Statistical Analysis: Multimodal Framework for Time Series Forecasting with LLM-Driven Temporal Pattern
 Bi-DiffCD: Bidirectional Diffusion Guided Collaborative Change Detection for Arbitrary-Modal Remote Sensing Images
-BinMetric: A Comprehensive Binary Code Analysis Benchmark for Large Language Models
+BILE: An Effective Behavior-based Latent Exploration Scheme for Deep Reinforcement Learning
 Binary Event-Driven Spiking Transformer
+BinMetric: A Comprehensive Binary Code Analysis Benchmark for Large Language Models
+BMIP: Bi-directional Modality Interaction Prompt Learning for VLM
 Boost Embodied AI Models with Robust Compression Boundary
 Boosting Few-Shot Open-Set Object Detection via Prompt Learning and Robust Decision Boundary
 Boosting Zero-shot Stereo Matching Using Large-Scale Mixed Images Sources  in the Real World
@@ -94,21 +92,14 @@ Brain-Inspired Stepwise Patch Merging for Vision Transformers
 Breaking the Self-Evaluation Barrier: Reinforced Neuro-Symbolic Planning with Large Language Models
 BridgeVoC: Neural Vocoder with Schrödinger Bridge
 Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training
+BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module
+BTPG: A Platform and Benchmark for Behavior Tree Planning in Everyday Service Robots
 CADP: Towards Better Centralized Learning for Decentralized Execution in MARL
-CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning
-CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning
-CFDONEval: A Comprehensive Evaluation of Operator-Learning Neural Network Models for Computational Fluid Dynamics
-CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation
-CGI: Identifying Conditional Generative Models with Example Images
-CLLMRec: Contrastive Learning with LLMs-based View Augmentation for Sequential Recommendation
-CMFS: CLIP-Guided Modality Interaction for Mitigating Noise in Multi-Modal Image Fusion and Segmentation
-CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness
-CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks
-CSF-GAN: Cross-modal Semantic Fusion-based Generative Adversarial Network for Text-guided Image Inpainting
 Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction
 Can Retelling Have Adequate Information for Reasoning? An Enhancement Method for Imperfect Video Understanding with Large Language Model
 Can We Translate Code Better with LLMs and Call Graph Analysis?
 Can We Verify Step by Step for Incorrect Answer Detection?
+CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning
 Capturing Individuality and Commonality Between Anchor Graphs for Multi-View Clustering
 Categorical Attention: Fine-grained Language-guided Noise Filtering Network for Occluded Person Re-Identification
 Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting
@@ -116,10 +107,16 @@ Causal View of Time Series Imputation: Some Identification Results on Missing Me
 Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting
 Causality-Inspired Disentanglement for Fair Graph Neural Networks
 Cause-Effect Driven Optimization for Robust Medical Visual Question Answering with Language Biases
+CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning
+CFDONEval: A Comprehensive Evaluation of Operator-Learning Neural Network Models for Computational Fluid Dynamics
+CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation
+CGI: Identifying Conditional Generative Models with Example Images
 ChronoFact: Timeline-based Temporal Fact Verification
-CoLA-Former: Graph Transformer Using Communal Linear Attention for Lightweight Sequential Recommendation
+CLLMRec: Contrastive Learning with LLMs-based View Augmentation for Sequential Recommendation
+CMFS: CLIP-Guided Modality Interaction for Mitigating Noise in Multi-Modal Image Fusion and Segmentation
 Code-BT: A Code-Driven Approach to Behavior Tree Generation for Robot Tasks Planning with Large Language Models
 CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models
+CoLA-Former: Graph Transformer Using Communal Linear Attention for Lightweight Sequential Recommendation
 Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction
 Coming Out of the Dark: Human Pose Estimation in Low-light Conditions
 Community-Aware Graph Transformer for Brain Disorder Identification
@@ -139,30 +136,20 @@ Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks
 Counterfactual Knowledge Maintenance for Unsupervised Domain Adaptation
 Counterfactual Thinking Driven Emotion Regulation for Image Sentiment Recognition
 Coupling Category Alignment for Graph Domain Adaptation
+CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness
 Credit Assignment and Fine-Tuning Enhanced Reinforcement Learning for Collaborative Spatial Crowdsourcing
 Critical Node-aware Augmentation for Hypergraph Contrastive Learning
 Cross-modal Collaborative Representation Learning for Text-to-Image Person Retrieval
 CrossVTON: Mimicking the Logic Reasoning on Cross-Category Virtual Try-On Guided by Tri-Zone Priors
+CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks
+CSF-GAN: Cross-modal Semantic Fusion-based Generative Adversarial Network for Text-guided Image Inpainting
 Curriculum Hierarchical Knowledge Distillation for Bias-Free Survival Prediction
 D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning
 DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation
-DASS: A Dual-Branch Attention-based Framework for Trajectory Similarity Learning with Spatial and Semantic Fusion
-DDPA-3DVG: Vision-Language Dual-Decoupling and Progressive Alignment for 3D Visual Grounding
-DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction
-DFMU: Distribution-based Framework for Modeling Aleatoric Uncertainty in Multimodal Sentiment Analysis
-DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning
-DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning
-DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting
-DHTAGK: Deep Hierarchical Transitive-Aligned Graph Kernels for Graph Classification
-DIIN: Diffusion Iterative Implicit Networks for Arbitrary-scale Super-resolution
-DM-POSA: Enhancing Open-World Test-Time Adaptation with Dual-Mode Matching and Prompt-Based Open Set Adaptation
-DO-CoLM: Dynamic 3D Conformation Relationships Capture with Self-Adaptive Ordering Molecular Relational Modeling in Language Models
-DONIS: Importance Sampling for Training Physics-Informed DeepONet
-DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities
-DToMA: Training-free Dynamic Token MAnipulation for Long Video Understanding
-DUQ: Dual Uncertainty Quantification for Text-Video Retrieval
 DaringFed: A Dynamic Bayesian Persuasion Pricing for Online Federated Learning Under Two-sided Incomplete Information
+DASS: A Dual-Branch Attention-based Framework for Trajectory Similarity Learning with Spatial and Semantic Fusion
 DcDsDiff: Dual-Conditional and Dual-Stream Diffusion Model for Generative Image Tampering Localization
+DDPA-3DVG: Vision-Language Dual-Decoupling and Progressive Alignment for 3D Visual Grounding
 Decision-Aware Preference Modeling for Multi-Behavior Recommendation
 Decoupled Imbalanced Label Distribution Learning
 Decoupling and Reconstructing: A Multimodal Sentiment Analysis Framework Towards Robustness
@@ -171,49 +158,58 @@ Denoise-then-Retrieve: Text-Conditioned Video Denoising for Video Moment Retriev
 Denoising Diffusion Models are Good General Gaze Feature Learners
 DenseSAM: Semantic Enhance SAM for Efficient Dense Object Segmentation
 DepthART: Monocular Depth Estimation as Autoregressive Refinement Task
+DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction
 Detecting Hallucination in Large Language Models Through Deep Internal Representation Analysis
 Device-Cloud Collaborative Correction for On-Device Recommendation
+DFMU: Distribution-based Framework for Modeling Aleatoric Uncertainty in Multimodal Sentiment Analysis
+DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning
+DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning
+DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting
+DHTAGK: Deep Hierarchical Transitive-Aligned Graph Kernels for Graph Classification
 Diff-LMM: Diffusion Teacher-Guided Spatio-Temporal Perception  for Video Large Multimodal Models
 DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis
 DiffSQL: Leveraging Diffusion Model for Zero-Shot Self-Supervised Monocular Depth Estimation
 Diffuse&Refine: Intrinsic Knowledge Generation and Aggregation for Incremental Object Detection
 Diffusion Guided Propagation Augmentation for Popularity Prediction
 DiffusionIMU: Diffusion-Based Inertial Navigation with Iterative Motion Refinement
+DIIN: Diffusion Iterative Implicit Networks for Arbitrary-scale Super-resolution
 Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration
 Dirichlet Process-Based Robust Clustering Using the Median-of-Means Estimator
-DisPIM: Distilling PreTrained Image Models for Generalizable Visuo-Motor Control
 Disconfounding Fake News Video Explanation with Causal Inference
 Disentangled and Personalized Representation Learning for Next Point-of-Interest Recommendation
 Disentangling Multi-view Representations via Curriculum Learning with Learnable Prior
+DisPIM: Distilling PreTrained Image Models for Generalizable Visuo-Motor Control
 Distilling A Universal Expert from Clustered Federated Learning
 Distributed Cascaded Manifold Hashing Network for Compact Image Set Representation
 Distribution-Aware Online Learning for Urban Spatiotemporal Forecasting on Streaming Data
 Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis
+DM-POSA: Enhancing Open-World Test-Time Adaptation with Dual-Mode Matching and Prompt-Based Open Set Adaptation
 Do Mentioned Items Truly Matter? Enhancing Conversational Recommender Systems with Causal Intervention and Large Language Models
 Do You Steal My Model? Signature Diffusion Embedded  Dual-Verification Watermarking for Protecting Intellectual Property of Hyperspectral Image Classification Models
+DO-CoLM: Dynamic 3D Conformation Relationships Capture with Self-Adaptive Ordering Molecular Relational Modeling in Language Models
+DONIS: Importance Sampling for Training Physics-Informed DeepONet
+DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities
 Drafting and Revision: Advancing High-Fidelity Video Inpainting
 DriftRemover: Hybrid Energy Optimizations for Anomaly Images Synthesis and Segmentation
+DToMA: Training-free Dynamic Token MAnipulation for Long Video Understanding
 Dual Encoder Contrastive Learning with Augmented Views for Graph Anomaly Detection
 Dual Robust Unbiased Multi-View Clustering for Incomplete and Unpaired Information
 Dual-Agent Reinforcement Learning for Automated Feature Generation
 Dual-Balancing for Physics-Informed Neural Networks
-Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images
 Dual-level Fuzzy Learning with Patch Guidance for Image Ordinal Regression
+Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images
 DualCast: A Model to Disentangle Aperiodic Events from Traffic Series
+DUQ: Dual Uncertainty Quantification for Text-Video Retrieval
 Dyn-D^2P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee
 Dynamic Anchor-based Ensemble Clustering via Hypergraph Reconstruction
+Dynamic and Adaptive Feature Generation with LLM
 Dynamic Multiple High-order Correlations Fusion with Noise Filtering for Incomplete Multi-view Noisy-label Learning
 Dynamic Replanning for Improved Public Transport Routing
 Dynamic Seed-GrowthCM: A Dynamic Benefit-Oriented Algorithm for Core Maximization on Large Graphs
-Dynamic and Adaptive Feature Generation with LLM
 EAVIT: Efficient and Accurate Human Value Identification From Text Data via LLMs
 ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks
-EF1 and EFX Orientations
-EFX Feasible Scheduling for Time-dependent Resources
-EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems
-ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation
-EVICheck: Evidence-Driven Independent Reasoning and Combined Verification Method for Fact-Checking
 EchoGPT: An Interactive Cardiac Function Assessment Model for  Echocardiogram Videos
+EF1 and EFX Orientations
 Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags
 Efficient Differentiable Approximation of Generalized Low-rank Regularization
 Efficient Diversity-based Experience Replay for Deep Reinforcement Learning
@@ -224,6 +220,8 @@ Efficient Inter-Operator Scheduling  for Concurrent Recommendation Model Inferen
 Efficient Multi-view Clustering via Reinforcement Contrastive Learning
 Efficient Quantum Approximate kNN Algorithm via Granular-Ball Computing
 EfficientPIE: Real-Time Prediction on Pedestrian Crossing Intention with Sole Observation
+EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems
+EFX Feasible Scheduling for Time-dependent Resources
 Egocentric Object-Interaction Anticipation with Retentive and Predictive Learning
 ElaD-Net: An Elastic Semantic Decoupling Network for Lesion Segmentation in Breast Ultrasound Images
 Electron Density-enhanced Molecular Geometry Learning
@@ -243,11 +241,12 @@ Enhancing Multimodal Protein Function Prediction Through Dual-Branch Dynamic Sel
 Enhancing Nighttime Semantic Segmentation with Visual-Linguistic Priors and Wavelet Transform
 Enhancing Semantic Clarity: Discriminative and Fine-grained Information Mining for Remote Sensing Image-Text Retrieval
 Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner
+Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning
 Enhancing Transferability of Audio Adversarial Example for Both Frequency- and Time-domain
 Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance
-Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning
+ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation
+EVICheck: Evidence-Driven Independent Reasoning and Combined Verification Method for Fact-Checking
 Exact Algorithms with New Upper Bounds for the Maximum k-plex Problem
-ExpTalk: Diverse Emotional Expression via Adaptive Disentanglement and Refined Alignment for Speech-Driven 3D Facial Animation
 Expanding the Category of Classifiers with LLM Supervision
 Explainable Graph Neural Networks via Structural Externalities
 Explainable Graph Representation Learning via Graph Pattern Analysis
@@ -257,34 +256,34 @@ Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsu
 Exploiting Text Semantics for Few and Zero Shot Node Classification  on Text-attributed Graph
 Exploring Efficient and Effective Sequence Learning for Visual Object Tracking
 Exploring Semantic Masked Autoencoder for Self-supervised Point Cloud Understanding
-Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning
 Exploring the Over-smoothing Problem of Graph Neural Networks for Graph Classification: An Entropy-based Viewpoint
+Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning
+ExpTalk: Diverse Emotional Expression via Adaptive Disentanglement and Refined Alignment for Speech-Driven 3D Facial Animation
 External Memory Matters: Generalizable Object-Action Memory for Retrieval-Augmented Long-Term Video Understanding
 EyeSeg: An Uncertainty-Aware Eye Segmentation Framework for AR/VR
 FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models
-FAST: A Lightweight Mechanism Unleashing Arbitrary Client Participation in Federated Learning
-FBQuant: FeedBack Quantization for Large Language Models
-FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis
-FGeo-HyperGNet: Geometric Problem Solving Integrating FormalGeo Symbolic System and Hypergraph Neural Network
-FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing
 Fair Incomplete Multi-View Clustering via Distribution Alignment
 Fair Submodular Maximization over a Knapsack Constraint
 Fast Explanations via Policy Gradient-Optimized Explainer
 Fast Guaranteed Tensor Recovery with Adaptive Tensor Nuclear Norm
 Fast Second-Order Online Kernel Learning Through Incremental Matrix Sketching and Decomposition
+FAST: A Lightweight Mechanism Unleashing Arbitrary Client Participation in Federated Learning
 Fault Diagnosis in REDNet Model Space
+FBQuant: FeedBack Quantization for Large Language Models
+FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis
 FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data
 FedBG: Proactively Mitigating Bias in Cross-Domain Graph Federated Learning Using Background Data
 FedCCH: Automatic Personalized Graph Federated Learning for Inter-Client and Intra-Client Heterogeneity
 FedCM: Client Clustering and Migration in Federated Learning via Gradient Path Similarity and Update Direction Deviation
 FedDLAD: A Federated Learning Dual-Layer Anomaly Detection Framework for Enhancing Resilience Against Backdoor Attacks
-FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization
 Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization
 Federated Domain Generalization with Decision Insight Matrix
 Federated Multi-view Graph Clustering with Incomplete Attribute Imputation
+FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization
 Feint and Attack:  Jailbreaking and Protecting LLMs via Attention Distribution Modeling
 Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary Vision Synthesis
 Few-shot Novel Category Discovery
+FGeo-HyperGNet: Geometric Problem Solving Integrating FormalGeo Symbolic System and Hypergraph Neural Network
 Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion
 Find and Perceive: Tell Visual Change with Fine-Grained Comparison
 Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models
@@ -294,68 +293,68 @@ Flow Matching Based Sequential Recommender Model
 Flow-based Time-aware Causal Structure Learning for Sequential Recommendation
 ForgDiffuser: General Image Forgery Localization with Diffusion Models
 Formal Synthesis of Safe Kolmogorov-Arnold Network Controllers with Barrier Certificates
-FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting
 Free Lunch of Image-mask Alignment for Anomaly Image Generation and Segmentation
+FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting
 FreqLLM: Frequency-Aware Large Language Models for Time Series Forecasting
 FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers
 Frequency-Aware Deep Depth from Focus
 From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination
 From Individual to Universal: Regularized Multi-view Joint  Representation for  Multi-view Subspace-Preserving Recovery
 From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in  On-the-fly Sketch-based Image Retrieval
+FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing
 Fully Test-Time Adaptation for Feature Decrement in Tabular Data
 Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition
 G3PT: Unleash the Power of Autoregressive Modeling in 3D Generation via Cross-Scale Querying Transformer
+Gaussian Mixture Model for Graph Domain Adaptation
 GBGC: Efficient and Adaptive Graph Coarsening via Granular-ball Computing
 GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection
-GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer
-GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration
-GPL4SRec: Graph Multi-Level Aware Prompt Learning for Streaming Recommendation
-GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype
-GSDNet: Revisiting Incomplete Multimodality-Diffusion Emotion Recognition from the Perspective of Graph Spectrum
-GSDet: Gaussian Splatting for Oriented Object Detection
-Gaussian Mixture Model for Graph Domain Adaptation
 General Incomplete Time Series Analysis via Patch Dropping Without Imputation
 Generate or Re-Weight? A Mutual-Guidance Method for Class-Imbalanced Graphs
 Generic Adversarial Attack Framework Against Vertical Federated Learning
+GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer
 Global Information Compensation Network for Image Denoising
 Going Beyond Consistency: Target-oriented Multi-view Graph Neural Network
 Good Advisor for Source Localization: Using Large Language Model to Guide the Source Inference Process
+GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration
+GPL4SRec: Graph Multi-Level Aware Prompt Learning for Streaming Recommendation
 Gradient-based Causal Feature Selection
 Granular-Ball-Induced Multiple Kernel K-Means
+GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype
 Graph Embedded Contrastive Learning for Multi-View Clustering
 Graph OOD Detection via Plug-and-Play Energy-based Evaluation and Propagation
 Graph Prompts: Adapting Video Graph for Video Question Answering
 Graph Random Walk with Feature-Label Space Alignment: A Multi-Label Feature Selection Method
 GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving
 GraphProt: Certified Black-Box Shielding Against Backdoored Graph Models
-Guiding LLM-based Smart Contract Generation with Finite State Machine
+GSDet: Gaussian Splatting for Oriented Object Detection
+GSDNet: Revisiting Incomplete Multimodality-Diffusion Emotion Recognition from the Perspective of Graph Spectrum
 Guiding Large Language Models in Modeling Optimization Problems via Question Partitioning
+Guiding LLM-based Smart Contract Generation with Finite State Machine
 HA-SCN: Learning Hierarchical Aligned Subtree Convolutional Networks for Graph Classification
-HGMP: Heterogeneous Graph Multi-Task Prompt Learning
-HIPP: Protecting Image Privacy via High-Quality Reversible Protected Version
-HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models
-HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender
-HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Image Super-Resolution
 HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model
 Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts
 Heterogeneous Temporal Hypergraph Neural Network
-HiTuner: Hierarchical Semantic Fusion Model Fine-Tuning on Text-Attributed Graphs
+HGMP: Heterogeneous Graph Multi-Task Prompt Learning
 Hierarchy Knowledge Graph for Parameter-Efficient Entity Embedding
 High-Confident Local Structure Guided Consensus Graph Learning For Incomplete Multi-view Clustering
 High-Fidelity Road Network Generation with Latent Diffusion Models
 Higher-order Logical Knowledge Representation Learning
+HIPP: Protecting Image Privacy via High-Quality Reversible Protected Version
+HiTuner: Hierarchical Semantic Fusion Model Fine-Tuning on Text-Attributed Graphs
+HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models
 How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback
+HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender
+HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Image Super-Resolution
 Human-Imperceptible, Machine-Recognizable Images
 Hybrid Local Causal Discovery
 Hybrid Relational Graphs with Sentiment-laden Semantic Alignment for Multimodal Emotion Recognition in Conversation
 HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion
-HyperTrans: Efficient Hypergraph-Driven Cross-Domain Pattern Transfer in Image Anomaly Detection
 Hypernetwork Aggregation for Decentralized Personalized Federated Learning
+HyperTrans: Efficient Hypergraph-Driven Cross-Domain Pattern Transfer in Image Anomaly Detection
 ID-RemovalNet: Identity Removal Network for EEG Privacy Protection with Enhancing Decoding Tasks
-IE-PMMA:Point Cloud Completion Through Inverse Edge-aware Upsampling and Precise Multi-Modal Feature Alignment
-INFP: INdustrial Video Anomaly Detection via Frequency Prioritization
-Identifying Causal Mechanism Shifts Under Additive Models with Arbitrary Noise
 Identifying and Reusing Learnwares Across Different Label Spaces
+Identifying Causal Mechanism Shifts Under Additive Models with Arbitrary Noise
+IE-PMMA:Point Cloud Completion Through Inverse Edge-aware Upsampling and Precise Multi-Modal Feature Alignment
 Image-Enhanced Hybrid Encoding with Reinforced Contrastive Learning for Spatial Domain Identification in Spatial Transcriptomics
 Imagination-Limited Q-Learning for Offline Reinforcement Learning
 Improvements to the Generate-and-Complete Approach to Conformant Planning
@@ -369,11 +368,12 @@ Incorporating Legal Logic into Deep Learning: An Intelligent Approach to Probati
 Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models
 Indirect Alignment and Relationship Preservation for Domain Generalization
 Indirect Online Preference Optimization via Reinforcement Learning
-InfVC: An Inference-Enhanced Local Search Algorithm for the Minimum Vertex Cover Problem in Massive Graphs
 Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search
+INFP: INdustrial Video Anomaly Detection via Frequency Prioritization
+InfVC: An Inference-Enhanced Local Search Algorithm for the Minimum Vertex Cover Problem in Massive Graphs
 Injecting Imbalance Sensitivity for Multi-Task Learning
-InstGAN: Instant Actor-Critic-Driven GAN for De Novo Molecule Generation and Property Optimization
 Instance Relation Learning Network with Label Knowledge Propagation for Few-shot Multi-label Intent Detection
+InstGAN: Instant Actor-Critic-Driven GAN for De Novo Molecule Generation and Property Optimization
 Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization
 Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework
 Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction
@@ -382,18 +382,14 @@ Interactive Multimodal Learning via Flat Gradient Modification
 Inverse Game Theory: An Incenter-Based Approach
 IterMeme: Expert-Guided Multimodal LLM for Interactive Meme Creation with Layout-Aware Generation
 K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers
+kgMBQA: Quality Knowledge Graph-driven Multimodal Blind Image Assessment
 KnowMDD: Knowledge-guided Cross Contrastive Learning for Major Depressive Disorder Diagnosis
 KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities
-LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting
-LLM-enhanced Score Function Evolution for Causal Structure Learning
-LLM4VKG: Leveraging Large Language Models  for Virtual Knowledge Graph Construction
-LPDetective: Dusting the LLM Chats for Prompt Template Abusers
-LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment
 Label Distribution Learning with Biased Annotations Assisted by Multi-Label Learning
 Language-Guided Hybrid Representation Learning for Visual Grounding on Remote Sensing Images
 Latte: Transfering LLMs’ Latent-level Knowledge for Few-shot Tabular Learning
-Learn Multi-task Anchor: Joint View Imputation and Label Generation for Incomplete Multi-view Clustering
 Learn from Global Rather Than Local: Consistent Context-Aware Representation Learning for Multi-View Graph Clustering
+Learn Multi-task Anchor: Joint View Imputation and Label Generation for Incomplete Multi-view Clustering
 Learn to Think: Bootstrapping LLM Logic Through Graph Representation Learning
 Learnable Frequency Decomposition for Image Forgery Detection and Localization
 Learning Causally Disentangled Representations for Fair Personality Detection
@@ -413,45 +409,43 @@ Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly
 LiBOG: Lifelong Learning for Black-Box Optimizer Generation
 Linear Trading Position with Sparse Spectrum
 ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection
+LLM-enhanced Score Function Evolution for Causal Structure Learning
+LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting
+LLM4VKG: Leveraging Large Language Models  for Virtual Knowledge Graph Construction
 LoD: Loss-difference OOD Detection by Intentionally Label-Noisifying Unlabeled Wild Data
 Logarithmic Approximations for Fair k-Set Selection
 Logic Distillation: Learning from Code Function by Function for Decision-making Tasks
 Long-Term Individual Causal Effect Estimation via Identifiable Latent Representation Learning
 Low-Light Video Enhancement via Spatial-Temporal Consistent Decomposition
+LPDetective: Dusting the LLM Chats for Prompt Template Abusers
+LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment
 M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction
 M4Bench: A Benchmark of Multi-domain Multi-granularity Multi-image Understanding for Multi-modal Large Language Models
 MA-RAG: Automating Role Engineering for RESTful APIs with Multi-Head Attention and Retrieval-Augmented Generation
 MAGE: Multimodal Alignment and Generation Enhancement via Bridging Visual and Semantic Spaces
+Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space
+Mask Does Not Matter: A Unified Latent Diffusion-Enhanced Framework for Mask-Free Virtual Try-On
+MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking
 MASTER: A Multi-granularity Invariant Structure Clustering Scheme for Multi-view Clustering
 MATCH: Modality-Calibrated Hypergraph Fusion Network for Conversational Emotion Recognition
 MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection
 MCF-Spouse: A Multi-Label Causal Feature Selection Method with Optimal Spouses Discovery
+MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning
 MEGAD: A Memory-Efficient Framework for Large-Scale Attributed Graph Anomaly Detection
+Meta Label Correction with Generalization Regularizer
+Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive Learning for Student Performance Prediction
 METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection
 MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning
 MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection
-MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning
-MMET: A Multi-Input and Multi-Scale Transformer for Efficient PDEs Solving
-MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation
-MMNet: Missing-Aware and Memory-Enhanced Network for Multivariate Time Series Imputation
-MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching
-MSCI: Addressing CLIP’s Inherent Limitations for Compositional Zero-Shot Learning
-MSMAR-RL: Multi-Step Masked-Attention Recovery Reinforcement Learning for Safe Maneuver Decision in High-Speed Pursuit-Evasion Game
-MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion
-MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction
-MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction
-MVP-CBM: Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification
-Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space
-Mask Does Not Matter: A Unified Latent Diffusion-Enhanced Framework for Mask-Free Virtual Try-On
-MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking
-MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning
-Meta Label Correction with Generalization Regularizer
-Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive Learning for Student Performance Prediction
 MiniMal: Hard-Label Adversarial Attack Against Static Malware Detection with Minimal Perturbation
+MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning
 Misclassification-driven Fingerprinting for DNNs Using Frequency-aware GANs
 Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning
 Mitigating Over-Smoothing in Graph Neural Networks via Separation Coefficient-Guided Adaptive Graph Structure Adjustment
 Mixture-of-Queries Transformer: Camouflaged Instance Segmentation via Queries Cooperation and Frequency Enhancement
+MMET: A Multi-Input and Multi-Scale Transformer for Efficient PDEs Solving
+MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation
+MMNet: Missing-Aware and Memory-Enhanced Network for Multivariate Time Series Imputation
 Modality-Fair Preference Optimization for Trustworthy MLLM Alignment
 Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking
 Model Rake: A Defense Against Stealing Attacks in Split Learning
@@ -460,20 +454,26 @@ Modular Deep Reinforcement Learning for Multi-Workload Offloading in Edge Networ
 MonoMixer: Marrying Convolution and Vision Transformer for Efficient Self-Supervised Monocular Depth Estimation
 More Efforts Towards Fixed-Parameter Approximability of Multiwinner Rules
 Most General Explanations of Tree Ensembles
+MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching
+MSCI: Addressing CLIP’s Inherent Limitations for Compositional Zero-Shot Learning
+MSMAR-RL: Multi-Step Masked-Attention Recovery Reinforcement Learning for Safe Maneuver Decision in High-Speed Pursuit-Evasion Game
+MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion
+MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction
+MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction
 Multi-Agent Communication with Information Preserving Graph Contrastive Learning
+Multi-granularity Knowledge Transfer for Continual Reinforcement Learning
 Multi-Label Text Classification with Label Attention Aware  and Correlation Aware Contrastive Learning
+Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation
 Multi-Modal Point Cloud Completion with Interleaved Attention Enhanced Transformer
 Multi-Objective Neural Bandits with Random Scalarization
 Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors
+Multi-player Multi-armed Bandits with Delayed Feedback
 Multi-Scale Temporal Neural Network for Stock Trend Prediction Enhanced by Temporal Hyepredge Learning
 Multi-Source Collaborative Style Augmentation and Domain-Invariant Learning for Federated Domain Generalization
 Multi-Sourced Compositional Generalization in Visual Question Answering
 Multi-Task Curriculum Graph Contrastive Learning with Clustering Entropy Guidance
-Multi-View Learning with Context-Guided Receptance for Image Denoising
-Multi-granularity Knowledge Transfer for Continual Reinforcement Learning
-Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation
-Multi-player Multi-armed Bandits with Delayed Feedback
 Multi-view Clustering via Multi-granularity Ensemble
+Multi-View Learning with Context-Guided Receptance for Image Denoising
 Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance
 Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning
 Multimodal Image Matching Based on Cross-Modality Completion Pre-training
@@ -482,8 +482,8 @@ Multimodal Inverse Attention Network with Intrinsic Discriminant Feature Exploit
 Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation
 Multimodal Prior Learning with Double Constraint Alignment for Snapshot Spectral Compressive Imaging
 Multimodal Regression for Enzyme Turnover Rates Prediction
+MVP-CBM: Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification
 NAAST-GNN: Neighborhood Adaptive Aggregation and Spectral Tuning for Graph Anomaly Detection
-NS4S: Neighborhood Search for Scheduling Problems Via Large Language Models
 Negative Metric Learning for Graphs
 NeuBM: Mitigating Model Bias in Graph Neural Networks Through Neutral Input Calibration
 Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing
@@ -494,13 +494,12 @@ Noise-Resistant Label Reconstruction Feature Selection for Partial Multi-Label L
 Non-collective Calibrating Strategy for Time Series Forecasting
 Non-expansive Fuzzy ALC
 Not All Layers of LLMs Are Necessary During Inference
+NS4S: Neighborhood Search for Scheduling Problems Via Large Language Models
 NuMDS: An Efficient Local Search Algorithm for Minimum Dominating Set Problem
-OMS: One More Step Noise Searching to Enhance Membership Inference Attacks for Diffusion Models
-OS-GCL: A One-Shot Learner in Graph Contrastive Learning
-OT-DETECTOR: Delving into Optimal Transport for Zero-shot Out-of-Distribution Detection
 Object-Level Backdoor Attacks in RGB-T Semantic Segmentation with Cross-Modality Trigger Optimization
 Odyssey : Empowering Minecraft Agents with Open-World Skills
 Omni-Dimensional State Space Model-driven SAM for Pixel-level Anomaly Detection
+OMS: One More Step Noise Searching to Enhance Membership Inference Attacks for Diffusion Models
 On the Generalization of Feature Incremental Learning
 On the Learning with Augmented Class via Forests
 One-step Label Shift Adaptation via Robust Weight Estimation
@@ -511,37 +510,39 @@ Optimal Distributed Training With Co-Adaptive Data Parallelism in  Heterogeneous
 Optimal Policy Adaptation Under Covariate Shift
 Optimized View and Geometry Distillation from Multi-view Diffuser
 Optimizing Personalized Federated Learning Through Adaptive Layer-Wise Learning
+OS-GCL: A One-Shot Learner in Graph Contrastive Learning
+OT-DETECTOR: Delving into Optimal Transport for Zero-shot Out-of-Distribution Detection
 PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment
 PAMol: Pocket-Aware Drug Design Method with Hypergraph Representation of Protein Pocket Structure and Feature Fusion
-PDDFormer: Pairwise Distance Distribution Graph Transformer for Crystal Material Property Prediction
-PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning
-POMP: Pathology-omics Multimodal Pre-training Framework for Cancer Survival Prediction
 PanComplex: Leveraging Complex-Valued Neural Networks for Enhanced Pansharpening
 Parallel Belief Contraction via Order Aggregation
 Parallel Belief Revision via Order Aggregation
 Parameterized Approximation Algorithm for Doubly Constrained Fair Clustering
 Partial Label Clustering
 PatternCIR Benchmark and TisCIR: Advancing Zero-Shot Composed Image Retrieval in Remote Sensing
-PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems
+PDDFormer: Pairwise Distance Distribution Graph Transformer for Crystal Material Property Prediction
 PerfSeer: An Efficient and Accurate Deep Learning Models Performance Predictor
+PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems
 Phenotypic Profile-Informed Generation of Drug-Like Molecules via Dual-Channel Variational Autoencoders
 Physical Adversarial Camouflage Through Gradient Calibration and Regularization
 Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction
 Picturized and Recited with Dialects: A Multimodal Chinese Representation Framework for Sentiment Analysis of Classical Chinese Poetry
 Pixel-wise Divide and Conquer for Federated Vessel Segmentation
+PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning
 Point Cloud Mixture-of-Domain-Experts Model for 3D Self-supervised Learning
+POMP: Pathology-omics Multimodal Pre-training Framework for Cancer Survival Prediction
 Pre-defined Keypoints Promote Category-level Articulation Pose Estimation via Multi-Modal Alignment
 Predicting Spectral Information for Self-Supervised Signal Classification
 Preference Identification by Interaction Overlap for Bundle Recommendation
 Preference-based Deep Reinforcement Learning for Historical Route Estimation
 Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning
 Priority Guided Explanation for Knowledge Tracing with Dual Ranking and Similarity Consistency
-ProMEA: Prompt-driven Expansion and Alignment for Single Domain Generalization
 Probabilistic Multimodal Learning with von Mises-Fisher Distributions
 Problem-dependent Regret for Lexicographic Multi-Armed Bandits with Adversarial Corruptions
 Progressive Modality-Adaptive Interactive Network for Multi-Modality Image Fusion
 Progressive Prefix-Memory Tuning for Complex Logical Query Answering on Knowledge Graphs
 Projection, Interaction and Fusion: A Progressive Difference Fusion Network for Salient Object Detection
+ProMEA: Prompt-driven Expansion and Alignment for Single Domain Generalization
 Prompt-Aware Controllable Shadow Removal
 Prompt-Free Conditional Diffusion for Multi-object Image Augmentation
 Prototype-based Optimal Transport for Out-of-Distribution Detection
@@ -555,23 +556,18 @@ QuantileFormer: Probabilistic Time Series Forecasting with a Pattern-Mixture Dec
 Query-Based and Unnoticeable Graph Injection Attack from Neighborhood Perspective
 R2DQG: A Quality Meets Diversity Framework for Question Generation over Knowledge Bases
 RAMer: Reconstruction-based Adversarial Model for Multi-party Multi-modal Multi-label Emotion Recognition
-RDPA: Real-Time Distributed-Concentrated Penetration Attack for Point Cloud Learning
-RLBCD: Residual-guided Latent Brownian-bridge Co-Diffusion for Anatomical-to-Metabolic Image Synthesis
-RLMiniStyler: Light-weight RL Style Agent for  Arbitrary Sequential Neural Style Generation
-RPMIL: Rethinking Uncertainty-Aware Probabilistic Multiple Instance Learning for Whole Slide Pathology Diagnosis
-RRG-Mamba: Efficient Radiology Report Generation with State Space Model
-RTdetector: Deep Transformer Networks for Time Series Anomaly Detection Based on Reconstruction Trend
 Randomised Optimism via Competitive Co-Evolution for Matrix Games with Bandit Feedback
-RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming
+RDPA: Real-Time Distributed-Concentrated Penetration Attack for Point Cloud Learning
 Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy
 RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images
 Reinforced In-Context Black-Box Optimization
 Relation-Augmented Dueling Bayesian Optimization via Preference Propagation
-Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks
 Reliable and Calibrated Semantic Occupancy Prediction by Hybrid Uncertainty Learning
 Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification
+Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks
 ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection
 Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks
+RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming
 Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective
 Rethinking Removal Attack and Fingerprinting Defense for Model Intellectual Property Protection: A Frequency Perspective
 Revealing Concept Shift in Spatio-Temporal Graphs via State Learning
@@ -579,6 +575,8 @@ Revisiting Proportional Allocation with Subsidy: Simplification and Improvements
 Richer Semantics, Better Alignment: Aligning Visual Features with Explicit and Enriched Semantics for Visible-Infrared Person Re-Identification
 Riding the Wave: Multi-Scale Spatial-Temporal Graph Learning for Highway Traffic Flow Prediction Under Overload Scenarios
 Risk-Aware Task Migration for Multiplex Unmanned Swarm Networks in Adversarial Environments
+RLBCD: Residual-guided Latent Brownian-bridge Co-Diffusion for Anatomical-to-Metabolic Image Synthesis
+RLMiniStyler: Light-weight RL Style Agent for  Arbitrary Sequential Neural Style Generation
 Robust Graph Contrastive Learning for Incomplete Multi-view Clustering
 Robust Misinformation Detection by Visiting Potential Commonsense Conflict
 RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition
@@ -586,28 +584,24 @@ Robustness to Spurious Correlations via Dynamic Knowledge Transfer
 Rolling in Classical Planning with Conditional Effects and Constraints
 RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations
 Rotation Invariant Spatial Networks for Single-View Point Cloud Classification
+RPMIL: Rethinking Uncertainty-Aware Probabilistic Multiple Instance Learning for Whole Slide Pathology Diagnosis
+RRG-Mamba: Efficient Radiology Report Generation with State Space Model
+RTdetector: Deep Transformer Networks for Time Series Anomaly Detection Based on Reconstruction Trend
 S-EPOA: Overcoming the Indistinguishability of Segments with Skill-Driven Preference-Based Reinforcement Learning
 SAP: Privacy-Preserving Fine-Tuning on Language Models with Split-and-Privatize Framework
+Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization
 SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain
 SCOUT: Semi-supervised Camouflaged Object Detection by Utilizing Text and Adaptive Data Selection
+Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels
 SCVBench: A Benchmark with Multi-turn Dialogues for Story-Centric Video Understanding
 SDDiff: Boosting Radar Perception via Spatial-Doppler Diffusion
 SE(3)-Equivariant Diffusion Models for 3D Object Analysis
-SIFAR: A Simple Faster Accelerated Variance-Reduced Gradient Method
-SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos
-SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation
-SSTrack: Sample-interval Scheduling for Lightweight Visual Object Tracking
-ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting
-ST-USleepNet: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging
-STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation
-Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization
-Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels
-SecV: LLM-based Secure Verilog Generation with Clue-Guided Exploration on Hardware-CWE Knowledge Graph
 Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios
+SecV: LLM-based Secure Verilog Generation with Clue-Guided Exploration on Hardware-CWE Knowledge Graph
 Seeing the Unseen: Composing Outliers for Compositional Zero-Shot Learning
+Self-calibration Enhanced Whole Slide Pathology Image Analysis
 Self-Classification Enhancement and Correction for Weakly Supervised Object Detection
 Self-Consistent Model-based Adaptation for Visual Reinforcement Learning
-Self-calibration Enhanced Whole Slide Pathology Image Analysis
 Self-supervised End-to-end ToF Imaging Based on RGB-D Cross-modal Dependency
 Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution
 Semantic-Space-Intervened Diffusive Alignment for Visual Classification
@@ -617,12 +611,14 @@ SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation
 SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation
 Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing
 Sharpness-aware Zeroth-order Optimization for Graph Transformers
+SIFAR: A Simple Faster Accelerated Variance-Reduced Gradient Method
 Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems
 SketchAgent: Generating Structured Diagrams from Hand-Drawn Sketches
 Smoothed Online Convex Optimization with Delayed Feedback
 SocialMP: Learning Social Aware Motion Patterns via Additive Fusion for Pedestrian Trajectory Prediction
 Soft Reasoning Paths for Knowledge Graph Completion
 Solving QNP and FOND+  with Generating, Testing and Forbidding
+SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos
 SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs
 Spatial-Spectral Similarity-Guided Fusion Network for Pansharpening
 Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale Modulation
@@ -630,9 +626,14 @@ Spatio-temporal Prototype-based Hierarchical Learning for OD Demand Prediction
 SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps
 Spotlighting Partially Visible Cinematic Language for Video-to-Audio Generation via Self-distillation
 Squeezing Context into Patches: Towards Memory-Efficient Ultra-High Resolution Semantic Segmentation
+SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation
+SSTrack: Sample-interval Scheduling for Lightweight Visual Object Tracking
+ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting
+ST-USleepNet: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging
 Stability and Generalization for Stochastic (Compositional) Optimizations
 Stabilizing Holistic Semantics in Diffusion Bridge for Image Inpainting
 Stackelberg vs. Nash in the Lottery Colonel Blotto Game
+STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation
 State Feedback Enhanced Graph Differential Equations for Multivariate Time Series Forecasting
 State Revisit and Re-explore: Bridging Sim-to-Real Gaps in Offline-and-Online Reinforcement Learning with An Imperfect Simulator
 Stochasticity-aware No-Reference Point Cloud Quality Assessment
@@ -648,22 +649,20 @@ Synthesis of Communication Policies for Multi-Agent Systems Robust to Communicat
 T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction
 T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models
 TCDM: A Temporal Correlation-Empowered Diffusion Model for Time Series Forecasting
-TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification
-TESTN: A Triad-Enhanced Spatio-Temporal Network for Multi-Temporal POI Relationship Inference
-TOTF: Missing-Aware Encoders for Clustering on Multi-View Incomplete Attributed Graphs
-TP-Eval: Tap Multimodal LLMs’ Potential in Evaluation by Customizing Prompts
-TSTAI: A Time-varying Brain Effective Connectivity Network Construction Method Combining with Brain Active Information
 Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking
 Template3D-AD: Point Cloud Template Matching Method Based on Center Points for 3D Anomaly Detection
 Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition
 Tensorial Multi-view Clustering with Deep Anchor Graph Projection
 Test-Time Adaptation on Recommender System with Data-Centric Graph Transformation
+TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification
+TESTN: A Triad-Enhanced Spatio-Temporal Network for Multi-Temporal POI Relationship Inference
 TextMEF: Text-guided Prompt Learning for Multi-exposure Image Fusion
 Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization
 Time-Frequency Disentanglement Boosted Pre-Training: A Universal Spatio-Temporal Modeling Framework
 Token-Level Accept or Reject: A Micro Alignment Approach for Large Language Models
 Top-Down Guidance for Learning Object-Centric Representations
 Top-I2P: Explore Open-Domain Image-to-Point Cloud Registration Using Topology Relationship
+TOTF: Missing-Aware Encoders for Clustering on Multi-View Incomplete Attributed Graphs
 Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification
 Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems
 Towards Debiased Generalized Category Discovery
@@ -676,6 +675,7 @@ Towards Region-Adaptive Feature Disentanglement and Enhancement for Small Object
 Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition
 Towards Robust Incremental Learning Under Ambiguous Supervision
 Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection
+TP-Eval: Tap Multimodal LLMs’ Potential in Evaluation by Customizing Prompts
 Trace: Structural Riemannian Bridge Matching for Transferable Source Localization in Information Propagation
 Training-free Fourier Phase Diffusion for Style Transfer
 TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories
@@ -683,6 +683,7 @@ Trajectory-Dependent Generalization Bounds for Pairwise Learning with φ-mixing 
 Transferable Relativistic Predictor: Mitigating Cross-Task Cold-Start Issue in NAS
 Tree-of-AdEditor:  Heuristic Tree Reasoning for Automated Video Advertisement Editing with Large Language Model
 TreeKV: Smooth Key-Value Cache Compression with Tree Structures
+TSTAI: A Time-varying Brain Effective Connectivity Network Construction Method Combining with Brain Active Information
 Two-Stage Feature Generation with Transformer and Reinforcement Learning
 Uncertainty-guided Graph Contrastive Learning from a Unified Perspective
 Underground Diagnosis in 3D GPR Data by Learning in CuCoRes Model Space
@@ -696,26 +697,25 @@ Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Col
 Unlocking Dark Vision Potential for Medical Image Segmentation
 Unlocking the Potential of Lightweight Quantized Models for Deepfake Detection
 Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support
-VQCounter: Designing Visual Prompt Queue for Accurate Open-World Counting
 Variational Graph Auto-Encoder Driven Graph Enhancement for Sequential Recommendation
 Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction
 Variational Offline Multi-agent Skill Discovery
-VidEvo: Evolving Video Editing through Exhaustive Temporal Modeling
 VideoHumanMIB: Unlocking Appearance Decoupling for Video Human Motion In-betweening
+VidEvo: Evolving Video Editing through Exhaustive Temporal Modeling
 View-Association-Guided Dynamic Multi-View Classification
 VimGeo: Efficient Cross-View Geo-Localization with Vision Mamba Architecture
 Visual Perturbation and Adaptive Hard Negative Contrastive Learning for  Compositional Reasoning in Vision-Language Models
 Volumetric Axial Disentanglement Enabling Advancing in Medical Image Segmentation
-WDMIR: Wavelet-Driven Multimodal Intent Recognition
+VQCounter: Designing Visual Prompt Queue for Accurate Open-World Counting
 Wave-driven Graph Neural Networks with Energy Dynamics for Over-smoothing Mitigation
 Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture
 Wavelet Multi-scale Region-Enhanced Network for Medical Image Segmentation
+WDMIR: Wavelet-Driven Multimodal Intent Recognition
 Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network
 WenyanGPT: A Large Language Model for Classical Chinese Tasks
-Where Does This Data Come From? Enhanced Source Inference Attacks in Federated Learning
 Where and How to Enhance: Discovering Bit-Width Contribution for Mixed Precision Quantization
 Where and When: Predict Next POI and Its Explicit Timestamp in Sequential Recommendation
+Where Does This Data Come From? Enhanced Source Inference Attacks in Federated Learning
 Wrapped Partial Label Dimensionality Reduction via Dependence Maximization
-Zero-Shot Machine Unlearning with Proxy Adversarial Data Generation
 Zero-shot Federated Unlearning via Transforming from Data-Dependent to Personalized Model-Centric
-kgMBQA: Quality Knowledge Graph-driven Multimodal Blind Image Assessment
+Zero-Shot Machine Unlearning with Proxy Adversarial Data Generation

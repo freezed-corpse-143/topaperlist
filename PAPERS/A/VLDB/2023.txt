@@ -9,7 +9,6 @@ STARRY: Multi-master Transaction Processing on Semi-leader Architecture.
 SIFTER: Space-Efficient Value Iteration for Finite-Horizon MDPs.
 TreeLine: An Update-In-Place Key-Value Store for Modern Storage.
 DPXPlain: Privately Explaining Aggregate Query Answers.
-Front Matter.
 Efficient Maximum k-Plex Computation over Large Sparse Graphs.
 Online Schema Evolution is (almost) Free for Snapshot Databases.
 LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval.
@@ -31,7 +30,6 @@ Approximating Probabilistic Group Steiner Trees in Graphs.
 Space-Efficient Random Walks on Streaming Graphs.
 PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching.
 Cornus: Atomic Commit for a Cloud DBMS with Storage Disaggregation.
-Front Matter.
 Route Travel Time Estimation on A Road Network Revisited: Heterogeneity, Proximity, Periodicity and Dynamicity.
 Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures.
 Computing Rule-Based Explanations by Leveraging Counterfactuals.
@@ -46,7 +44,6 @@ Efficient Triangle-Connected Truss Community Search In Dynamic Graphs.
 Can Learned Models Replace Hash Functions?
 TOD: GPU-accelerated Outlier Detection via Tensor Operations.
 FILM: a Fully Learned Index for Larger-than-Memory Databases.
-Front Matter.
 Cache Me If You Can: Accuracy-Aware Inference Engine for Differentially Private Data Exploration.
 Range Search over Encrypted Multi-Attribute Data.
 HEDA: Multi-Attribute Unbounded Aggregation over Homomorphically Encrypted Database.
@@ -80,7 +77,6 @@ PIM-tree: A Skew-resistant Index for Processing-in-Memory.
 Web Record Extraction with Invariants.
 A Deep Generative Model for Trajectory Modeling and Utilization.
 L2chain: Towards High-performance, Confidential and Secure Layer-2 Blockchain Solution for Decentralized Applications.
-Front Matter.
 Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems.
 PetPS: Supporting Huge Embedding Models with Persistent Memory.
 Extraction of Validating Shapes from very large Knowledge Graphs.
@@ -97,7 +93,6 @@ Anonymous Edge Representation for Inductive Anomaly Detection in Dynamic Biparti
 Scalable Time-Range k-Core Query on Temporal Graphs.
 High-Performance Row Pattern Recognition Using Joins.
 A Hierarchical Grouping Algorithm for the Multi-Vehicle Dial-a-Ride Problem.
-Front Matter.
 Leveraging Application Data Constraints to Optimize Database-Backed Web Applications.
 Bringing Compiling Databases to RISC Architectures.
 Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases.
@@ -127,7 +122,6 @@ Elpis: Graph-Based Similarity Search for Scalable Data Science.
 Dotori: A Key-Value SSD Based KV Store.
 PreFair: Privately Generating Justifiably Fair Synthetic Data.
 Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V.
-Front Matter.
 DBSP: Automatic Incremental View Maintenance for Rich Query Languages.
 SPG: Structure-Private Graph Database via SqueezePIR.
 InfiniStore: Elastic Serverless Cloud Storage.
@@ -143,7 +137,6 @@ The Case for Learned In-Memory Joins.
 Elf: Erasing-based Lossless Floating-Point Compression.
 LOGER: A Learned Optimizer towards Generating Efficient and Robust Query Execution Plans.
 Representing Paths in Graph Database Pattern Matching.
-Front Matter.
 ZKSQL: Verifiable and Efficient Query Evaluation with Zero-Knowledge Proofs.
 Computing Graph Edit Distance via Neural Graph Matching.
 Benchmarking the Utility of w-event Differential Privacy Mechanisms - When Baselines Become Mighty Competitors.
@@ -164,7 +157,6 @@ Longshot: Indexing Growing Databases using MPC and Differential Privacy.
 Accelerating Similarity Search for Elastic Measures: A Study and New Generalization of Lower Bounding Distances.
 AdaChain: A Learned Adaptive Blockchain.
 Influential Community Search over Large Heterogeneous Information Networks.
-Front Matter.
 Neighborhood-based Hypergraph Core Decomposition.
 Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs.
 What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines.
@@ -190,7 +182,6 @@ Opportunities for Quantum Acceleration of Databases: Optimization of Queries and
 SDPipe: A Semi-Decentralized Framework for Heterogeneity-aware Pipeline-parallel Training.
 LRU-C: Parallelizing Database I/Os for Flash SSDs.
 Why Not Yet: Fixing a Top-k Ranking that Is Not Fair to Individuals.
-Front Matter.
 Information-Theoretically Secure and Highly Efficient Search and Row Retrieval.
 Olive: Oblivious Federated Learning on Trusted Execution Environment Against the Risk of Sparsification.
 TASK: An Efficient Framework for Instant Error-tolerant Spatial Keyword Queries on Road Networks.
@@ -214,7 +205,6 @@ ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph.
 Causal Data Integration.
 Mining Frequent Infix Patterns from Concurrency-Aware Process Execution Variants.
 The Composable Data Management System Manifesto.
-Front Matter.
 A Two-Level Signature Scheme for Stable Set Similarity Joins.
 Scalable Reasoning on Document Stores via Instance-Aware Query Rewriting.
 EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.
@@ -274,7 +264,6 @@ Choose Wisely: An Extensive Evaluation of Model Selection for Anomaly Detection 
 Similarity search in the blink of an eye with compressed indices.
 On Data-Aware Global Explainability of Graph Neural Networks.
 Declarative Sub-Operators for Universal Data Processing.
-Front Matter.
 Progressive Partitioning for Parallelized Query Execution in Google's Napa.
 Taurus MM: bringing multi-master to the cloud.
 StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance.
@@ -375,7 +364,6 @@ The Story of GraphLab - From Scaling Machine Learning to Shaping Graph Systems R
 Common Sense: the Dark Matter of Language and Intelligence.
 Modernization of Databases in the Cloud Era: Building Databases that Run Like Legos.
 On the Cusp: Computing Thrills and Perils and Professional Awakening.
-Front Matter.
 Doquet: Differentially Oblivious Range and Join Queries with Private Data Structures.
 AMNES: Accelerating the computation of data correlation using FPGAs.
 VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.

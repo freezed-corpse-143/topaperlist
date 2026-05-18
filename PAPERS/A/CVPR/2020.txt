@@ -34,7 +34,6 @@ Benchmarking Adversarial Robustness on Image Classification.
 What It Thinks Is Important Is Important: Robustness Transfers Through Input Gradients.
 Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking.
 Video Modeling With Correlation Networks.
-Projection & Probability-Driven Black-Box Attack.
 Auxiliary Training: Towards Accurate and Robust Models.
 PaStaNet: Toward Human Activity Knowledge Engine.
 A Hierarchical Graph Network for 3D Object Detection on Point Clouds.
@@ -74,7 +73,6 @@ Universal Physical Camouflage Attacks on Object Detectors.
 Intra- and Inter-Action Understanding via Temporal Action Parsing.
 Lightweight Photometric Stereo for Facial Details Recovery.
 Bundle Pooling for Polygonal Architecture Segmentation Problem.
-AvatarMe: Realistically Renderable 3D Facial Reconstruction "In-the-Wild".
 Defending Against Model Stealing Attacks With Adaptive Misinformation.
 Learning to Generate 3D Training Data Through Hybrid Gradient.
 Cascaded Refinement Network for Point Cloud Completion.
@@ -611,7 +609,6 @@ StyleRig: Rigging StyleGAN for 3D Control Over Portrait Images.
 Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis.
 Learning Meta Face Recognition in Unseen Domains.
 Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data.
-GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models.
 Generating 3D People in Scenes Without People.
 Transferring Cross-Domain Knowledge for Video Sign Language Recognition.
 Bodies at Rest: 3D Human Pose and Shape Estimation From a Pressure Image Using Synthetic Data.
@@ -954,7 +951,6 @@ Where Does It End? - Reasoning About Hidden Surfaces by Object Intersection Cons
 PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
 Pathological Retinal Region Segmentation From OCT Images Using Geometric Relation Based Augmentation.
 Transferring and Regularizing Prediction for Semantic Segmentation.
-PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition.
 Model Adaptation: Unsupervised Domain Adaptation Without Source Data.
 Evade Deep Image Retrieval by Stashing Private Images in the Hash Space.
 Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules.
@@ -1179,7 +1175,6 @@ Basis Prediction Networks for Effective Burst Denoising With Large Kernels.
 Private-kNN: Practical Differential Privacy for Computer Vision.
 SP-NAS: Serial-to-Parallel Backbone Search for Object Detection.
 Structure Aware Single-Stage 3D Object Detection From Point Cloud.
-"Looking at the Right Stuff" - Guided Semantic-Gaze for Autonomous Driving.
 What's Hidden in a Randomly Weighted Neural Network?
 Structured Multi-Hashing for Model Compression.
 DOPS: Learning to Detect 3D Objects and Predict Their 3D Shapes.

@@ -116,7 +116,7 @@ VrdONE: One-stage Video Visual Relation Detection
 Efficiency in Focus: LayerNorm as a Catalyst for Fine-tuning Medical Visual Language Models
 Enhancing Robustness in Learning with Noisy Labels: An Asymmetric Co-Training Approach
 Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos
-An Lightweight  Anchor-Based Incremental Framework to Multi-view Clustering
+A Lightweight Anchor-Based Incremental Framework for Multi-view Clustering
 Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation
 MPT: Multi-grained Prompt Tuning for Text-Video Retrieval
 Fooling 3D Face Recognition with One Single 2D Image
@@ -134,7 +134,7 @@ HarmonicNeRF: Geometry-Informed Synthetic View Augmentation for 3D Scene Reconst
 GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane
 LD-BFR: Vector-Quantization-Based Face Restoration Model with Latent Diffusion Enhancement
 SleepMG: Multimodal Generalizable Sleep Staging with Inter-modal Balance of Classification and Domain Discrimination
-Fine-Grained Promote Learning for Face Anti-Spoofing
+Fine-Grained Prompt Learning for Face Anti-Spoofing
 FM-CLIP: Flexible Modal CLIP for Face Anti-Spoofing
 Generalizable Face Anti-spoofing via Style-conditional Prompt Token Learning
 3D Gaussian Editing with A Single Image
@@ -392,7 +392,7 @@ Semi-supervised Visible-Infrared Person Re-identification via Modality Unificati
 Advancing Quantization Steps Estimation : A Two-Stream Network Approach for Enhancing Robustness
 Boosting Non-causal Semantic Elimination: An Unconventional Harnessing of LVM for Open-World Deepfake Interpretation
 Efficient Perceiving Local Details via Adaptive Spatial-Frequency Information Integration for Multi-focus Image Fusion
-GS$^{3}$LAM: Gaussian Semantic Splatting SLAM
+GS3LAM: Gaussian Semantic Splatting SLAM
 A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness
 Multimodal Low-light Image Enhancement with Depth Information
 ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation
@@ -500,7 +500,7 @@ Training pansharpening networks at full resolution using degenerate invariance
 AerialGait: Bridging Aerial and Ground Views for Gait Recognition
 Generating Prompts in Latent Space for Rehearsal-free Continual Learning
 Hearing the Moment with MetaEcho! From Physical to Virtual in Synchronized Sound Recording
-Metaverse Recording Dataset
+256 Metaverse Records Dataset
 Learning to Handle Large Obstructions in Video Frame Interpolation
 An In-depth Study of Bandwidth Allocation across  Media Sources in Video Conferencing
 HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression
@@ -726,7 +726,7 @@ STAR-VP: Improving Long-term Viewport Prediction in 360° Videos via Space-align
 AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics
 Eliminate Before Align: A Remote Sensing Image-Text Retrieval Framework with Keyword Explicit Reasoning
 VL-Reader: Vision and Language Reconstructor is an Effective Scene Text Recognizer
-Ada-iD: Active Domain Adaption for Intrusion Detection
+Ada-iD: Active Domain Adaptation for Intrusion Detection
 Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering
 A Simple and Provable Approach for Learning on Noisy Labeled Multi-modal Medical Images
 Multimodal Inplace Prompt Tuning for Open-set Object Detection
@@ -901,7 +901,7 @@ Monocular Human-Object Reconstruction in the Wild
 Differential-Perceptive and Retrieval-Augmented MLLM for Change Captioning
 Point Cloud Densification for 3D Gaussian Splatting from Sparse Input Views
 FC-4DFS: Frequency-controlled Flexible 4D Facial Expression Synthesizing
-TS-ILM:Class Incremental Learning for Online Action Detection
+TS-ILM: Class Incremental Learning for Online Action Detection
 FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning
 See or Guess: Counterfactually Regularized Image Captioning
 Uni-DlLoRA: Style Fine-Tuning for Fashion Image Translation
@@ -929,7 +929,7 @@ Federated Morozov Regularization for Shortcut Learning in Privacy Preserving Lea
 CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning
 LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
 Driving Scene Understanding with Traffic Scene-Assisted Topology Graph Transformer
-Reason-and-Execute Prompting: Enhancing MultiModal Large Language Models for Solving Geometry Questions
+Reason-and-Execute Prompting: Enhancing Multi-Modal Large Language Models for Solving Geometry Questions
 Adaptive Multi-Modality Prompt Learning
 Time-Frequency Domain Fusion Enhancement for Audio Super-Resolution
 Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating
@@ -1032,7 +1032,7 @@ Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Pass
 Open-Vocabulary Audio-Visual Semantic Segmentation
 Live On the Hump: Self Knowledge Distillation via Virtual Teacher-Students Mutual Learning
 Decoupling General and Personalized Knowledge in Federated Learning via Additive and Low-rank Decomposition
-Can We Debiase Multimodal Large Language Models via Model Editing?
+Can We Debias Multimodal Large Language Models via Model Editing?
 Learning to Correction: Explainable Feedback Generation for Visual Commonsense Reasoning Distractor
 Cross-modal Observation Hypothesis Inference
 Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification
@@ -1106,7 +1106,7 @@ ResVG: Enhancing Relation and Semantic Understanding in Multiple Instances for V
 Bridging Gaps in Content and Knowledge for Multimodal Entity Linking
 DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting
 Combating Visual Question Answering Hallucinations via Robust Multi-Space Co-Debias Learning
-Vi2ACT:Video-enhanced Cross-modal Co-learning with Representation Conditional Discriminator for Few-shot Human Activity Recognition
+Vi2ACT: Video-enhanced Cross-modal Co-learning with Representation Conditional Discriminator for Few-shot Human Activity Recognition
 CIEASR:Contextual Image-Enhanced Automatic Speech Recognition for Improved Homophone Discrimination
 Generalizing ISP Model by Unsupervised Raw-to-raw Mapping
 Dual-Branch Fusion with Style Modulation for Cross-Domain Few-Shot Semantic Segmentation

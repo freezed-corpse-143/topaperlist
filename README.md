@@ -34,7 +34,7 @@
 | CSS | |  | [2021](PAPERS/A/CSS/2021.txt) | [2022](PAPERS/A/CSS/2022.txt) | [2023](PAPERS/A/CSS/2023.txt) | [2024](PAPERS/A/CSS/2024.txt) | [2025](PAPERS/A/CSS/2025.txt) | - |
 | EUROCRYPT | |  | [2021](PAPERS/A/EUROCRYPT/2021.txt) | [2022](PAPERS/A/EUROCRYPT/2022.txt) | [2023](PAPERS/A/EUROCRYPT/2023.txt) | [2024](PAPERS/A/EUROCRYPT/2024.txt) | [2025](PAPERS/A/EUROCRYPT/2025.txt) | [2026](PAPERS/A/EUROCRYPT/2026.txt) |
 | S&P | |  | [2021](PAPERS/A/S&P/2021.txt) | [2022](PAPERS/A/S&P/2022.txt) | [2023](PAPERS/A/S&P/2023.txt) | [2024](PAPERS/A/S&P/2024.txt) | [2025](PAPERS/A/S&P/2025.txt) | - |
-| CRYPTO | |  | [2021](PAPERS/A/CRYPTO/2021.txt) | [2022](PAPERS/A/CRYPTO/2022.txt) | [2023](PAPERS/A/CRYPTO/2023.txt) | [2024](PAPERS/A/CRYPTO/2024.txt) | [2025](PAPERS/A/CRYPTO/2025.txt) | [2026](PAPERS/A/CRYPTO/2026.txt) |
+| CRYPTO | |  | [2021](PAPERS/A/CRYPTO/2021.txt) | [2022](PAPERS/A/CRYPTO/2022.txt) | [2023](PAPERS/A/CRYPTO/2023.txt) | [2024](PAPERS/A/CRYPTO/2024.txt) | - | - |
 | USENIX-Security | |  | [2021](PAPERS/A/USENIX-Security/2021.txt) | [2022](PAPERS/A/USENIX-Security/2022.txt) | [2023](PAPERS/A/USENIX-Security/2023.txt) | [2024](PAPERS/A/USENIX-Security/2024.txt) | [2025](PAPERS/A/USENIX-Security/2025.txt) | - |
 | NDSS | |  | [2021](PAPERS/A/NDSS/2021.txt) | [2022](PAPERS/A/NDSS/2022.txt) | [2023](PAPERS/A/NDSS/2023.txt) | [2024](PAPERS/A/NDSS/2024.txt) | [2025](PAPERS/A/NDSS/2025.txt) | - |
 | PLDI | |  | [2021](PAPERS/A/PLDI/2021.txt) | [2022](PAPERS/A/PLDI/2022.txt) | [2023](PAPERS/A/PLDI/2023.txt) | [2024](PAPERS/A/PLDI/2024.txt) | [2025](PAPERS/A/PLDI/2025.txt) | [2026](PAPERS/A/PLDI/2026.txt) |
@@ -62,21 +62,20 @@
 | RTSS | |  | [2021](PAPERS/A/RTSS/2021.txt) | [2022](PAPERS/A/RTSS/2022.txt) | [2023](PAPERS/A/RTSS/2023.txt) | [2024](PAPERS/A/RTSS/2024.txt) | [2025](PAPERS/A/RTSS/2025.txt) | - |
 
 ## B
-| Conference | 2019                         | 2020                         | 2021                         | 2022                         | 2023                         | 2024                         | 2025                     |
-| ---------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| EACL      | [2019](PAPERS/B/EACL/2019.txt) | [2020](PAPERS/B/EACL/2020.txt) | [2021](PAPERS/B/EACL/2021.txt) | [2022](PAPERS/B/EACL/2022.txt) | [2023](PAPERS/B/EACL/2023.txt) | [2024](PAPERS/B/EACL/2024.txt) | [2025](PAPERS/B/EACL/2025.txt) |
-| EMNLP      | [2019](PAPERS/B/EMNLP/2019.txt) | [2020](PAPERS/B/EMNLP/2020.txt) | [2021](PAPERS/B/EMNLP/2021.txt) | [2022](PAPERS/B/EMNLP/2022.txt) | [2023](PAPERS/B/EMNLP/2023.txt) | [2024](PAPERS/B/EMNLP/2024.txt) | [2025](PAPERS/B/EMNLP/2025.txt) |
-| NAACL | [2019](PAPERS/B/NAACL/2019.txt) | - | [2021](PAPERS/B/NAACL/2021.txt) | [2022](PAPERS/B/NAACL/2022.txt) | - | [2024](PAPERS/B/NAACL/2024.txt) | [2025](PAPERS/B/NAACL/2025.txt) |
-| COLING | - | [2020](PAPERS/B/COLING/2020.txt) | - | [2022](PAPERS/B/COLING/2022.txt) | - | - | [2025](PAPERS/B/COLING/2025.txt) |
-| IJCAI | [2019](PAPERS/A/IJCAI/2019.txt) | [2020](PAPERS/A/IJCAI/2020.txt) | [2021](PAPERS/A/IJCAI/2021.txt) | [2022](PAPERS/A/IJCAI/2022.txt) | [2023](PAPERS/A/IJCAI/2023.txt) | [2024](PAPERS/A/IJCAI/2024.txt) | [2025](PAPERS/A/IJCAI/2025.txt) |
+| Conference | 2019                         | 2020                         | 2021                         | 2022                         | 2023                         | 2024                         | 2025                         | 2026                         |
+| ---------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| EACL      | - | - | [2021](PAPERS/B/EACL/2021.txt) | - | [2023](PAPERS/B/EACL/2023.txt) | [2024](PAPERS/B/EACL/2024.txt) | - | [2026](PAPERS/B/EACL/2026.txt) |
+| EMNLP      | [2019](PAPERS/B/EMNLP/2019.txt) | [2020](PAPERS/B/EMNLP/2020.txt) | [2021](PAPERS/B/EMNLP/2021.txt) | [2022](PAPERS/B/EMNLP/2022.txt) | [2023](PAPERS/B/EMNLP/2023.txt) | [2024](PAPERS/B/EMNLP/2024.txt) | [2025](PAPERS/B/EMNLP/2025.txt) | - |
+| NAACL | [2019](PAPERS/B/NAACL/2019.txt) | - | [2021](PAPERS/B/NAACL/2021.txt) | [2022](PAPERS/B/NAACL/2022.txt) | - | [2024](PAPERS/B/NAACL/2024.txt) | [2025](PAPERS/B/NAACL/2025.txt) | - |
+| COLING | - | [2020](PAPERS/B/COLING/2020.txt) | - | [2022](PAPERS/B/COLING/2022.txt) | - | - | [2025](PAPERS/B/COLING/2025.txt) | - |
+| IJCAI | [2019](PAPERS/A/IJCAI/2019.txt) | [2020](PAPERS/A/IJCAI/2020.txt) | [2021](PAPERS/A/IJCAI/2021.txt) | [2022](PAPERS/A/IJCAI/2022.txt) | [2023](PAPERS/A/IJCAI/2023.txt) | [2024](PAPERS/A/IJCAI/2024.txt) | [2025](PAPERS/A/IJCAI/2025.txt) | - |
 
 ---
 
 **Notes**:
 
 - The `-` symbol indicates that no file exists for that year.
-- Replace the file paths with actual URLs or relative paths as needed.
-- Each line in the txt file is the title of a paper.
+- Each line in the txt file is the title of a paper, auto-generated from the corresponding jsonl file.
 
 
 ## How to Search?
@@ -86,8 +85,8 @@ The `search` CLI tool reads paper metadata from a SQLite database, built from JS
 ### Data layout
 
 ```text
-PAPERS/<level>/<conference>/<year>.txt    ← 原始标题（一行一篇）
-PAPERS/<level>/<conference>/<year>.jsonl  ← 结构化元数据
+PAPERS/<level>/<conference>/<year>.txt    ← 论文标题（从 jsonl 生成，一行一篇）
+PAPERS/<level>/<conference>/<year>.jsonl  ← 结构化元数据（author, bib, url 等，主数据源）
 ```
 
 JSONL 每行格式：
