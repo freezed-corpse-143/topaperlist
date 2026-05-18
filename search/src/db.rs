@@ -212,17 +212,16 @@ pub fn query_records(
 
     // ── Level exclude filter (see sql/filter_level_exclude.sql) ──
     if !level_exclude.is_empty() {
-        let conditions: Vec<String> = level_exclude
+        let values: Vec<String> = level_exclude
             .iter()
             .map(|v| {
                 bind_values.push(v.clone());
-                let idx = bind_values.len();
-                format!("LOWER(level) != ?{idx}")
+                format!("?{}", bind_values.len())
             })
             .collect();
         inner = format!(
-            "SELECT * FROM ({inner}) WHERE {}",
-            conditions.join(" AND ")
+            "SELECT * FROM ({inner}) WHERE LOWER(level) NOT IN ({})",
+            values.join(",")
         );
         debug!("应用 filter_level_exclude: [{}]", level_exclude.join(", "));
     }
@@ -248,17 +247,16 @@ pub fn query_records(
 
     // ── Conference exclude filter (see sql/filter_conference_exclude.sql) ──
     if !conference_exclude.is_empty() {
-        let conditions: Vec<String> = conference_exclude
+        let values: Vec<String> = conference_exclude
             .iter()
             .map(|v| {
                 bind_values.push(v.clone());
-                let idx = bind_values.len();
-                format!("LOWER(conference) != ?{idx}")
+                format!("?{}", bind_values.len())
             })
             .collect();
         inner = format!(
-            "SELECT * FROM ({inner}) WHERE {}",
-            conditions.join(" AND ")
+            "SELECT * FROM ({inner}) WHERE LOWER(conference) NOT IN ({})",
+            values.join(",")
         );
         debug!(
             "应用 filter_conference_exclude: [{}]",
@@ -284,17 +282,16 @@ pub fn query_records(
 
     // ── Year exclude filter (see sql/filter_year_exclude.sql) ──
     if !year_exclude.is_empty() {
-        let conditions: Vec<String> = year_exclude
+        let values: Vec<String> = year_exclude
             .iter()
             .map(|v| {
                 bind_values.push(v.clone());
-                let idx = bind_values.len();
-                format!("year != ?{idx}")
+                format!("?{}", bind_values.len())
             })
             .collect();
         inner = format!(
-            "SELECT * FROM ({inner}) WHERE {}",
-            conditions.join(" AND ")
+            "SELECT * FROM ({inner}) WHERE year NOT IN ({})",
+            values.join(",")
         );
         debug!("应用 filter_year_exclude: [{}]", year_exclude.join(", "));
     }
