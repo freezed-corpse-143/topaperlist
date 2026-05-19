@@ -23,6 +23,41 @@ function Test-IsSameOrInside {
         $normalizedPath.StartsWith("$normalizedBase\", [System.StringComparison]::OrdinalIgnoreCase)
 }
 
+function Invoke-NativeCapture {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$FilePath,
+        [string[]]$Arguments = @(),
+        [string]$WorkingDirectory = ""
+    )
+
+    $oldErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    if ($WorkingDirectory.Trim().Length -gt 0) {
+        Push-Location -LiteralPath $WorkingDirectory
+    }
+
+    try {
+        $output = & $FilePath @Arguments 2>&1
+        $status = $LASTEXITCODE
+    } finally {
+        if ($WorkingDirectory.Trim().Length -gt 0) {
+            Pop-Location
+        }
+        $ErrorActionPreference = $oldErrorActionPreference
+    }
+
+    $lines = @(
+        $output |
+            ForEach-Object { $_.ToString() }
+    )
+
+    [PSCustomObject]@{
+        ExitCode = $status
+        Output = $lines
+    }
+}
+
 if ($InstallRoot.Trim().Length -eq 0) {
     $InstallRoot = Join-Path $env:LOCALAPPDATA "topaperlist"
 }
@@ -38,6 +73,7 @@ $binDir = Join-Path $InstallRoot "bin"
 $papersDir = Join-Path $InstallRoot "PAPERS"
 $dbPath = Join-Path $InstallRoot "papers.db"
 $installedBinary = Join-Path $binDir "$CommandName.exe"
+$legacyDataDir = Join-Path $InstallRoot "PaperJson"
 
 if ((Test-IsSameOrInside -Path $papersDir -BasePath $sourcePapersDir) -or
     (Test-IsSameOrInside -Path $sourcePapersDir -BasePath $papersDir)) {
@@ -46,6 +82,20 @@ if ((Test-IsSameOrInside -Path $papersDir -BasePath $sourcePapersDir) -or
 
 if (-not (Test-Path -LiteralPath $sourcePapersDir)) {
     throw "PAPERS directory was not found at $sourcePapersDir"
+}
+
+$hasInstalledBinary = Test-Path -LiteralPath $installedBinary
+$hasCurrentData = Test-Path -LiteralPath $papersDir
+$hasCurrentDb = Test-Path -LiteralPath $dbPath
+$hasLegacyData = Test-Path -LiteralPath $legacyDataDir
+
+Write-Host "Install root: $InstallRoot"
+if (-not ($hasInstalledBinary -or $hasCurrentData -or $hasCurrentDb -or $hasLegacyData)) {
+    Write-Host "Install mode: new install"
+} elseif ($hasLegacyData) {
+    Write-Host "Install mode: replace legacy install (PaperJson -> PAPERS + papers.db)"
+} else {
+    Write-Host "Install mode: replace existing install"
 }
 
 $cargoCommand = (Get-Command cargo -ErrorAction SilentlyContinue).Source
@@ -62,6 +112,9 @@ if (-not $cargoCommand) {
 
 Write-Host "Building search from source..."
 & $cargoCommand build --release --manifest-path $manifestPath
+if ($LASTEXITCODE -ne 0) {
+    throw "Cargo build failed with exit code $LASTEXITCODE"
+}
 
 $builtBinary = Join-Path $projectDir "target\release\search.exe"
 if (-not (Test-Path -LiteralPath $builtBinary)) {
@@ -78,15 +131,25 @@ if (Test-Path -LiteralPath $papersDir) {
 }
 Copy-Item -LiteralPath $sourcePapersDir -Destination $papersDir -Recurse -Force
 
-# Set env vars for the wrapper
+if (Test-Path -LiteralPath $legacyDataDir) {
+    Remove-Item -LiteralPath $legacyDataDir -Recurse -Force
+    Write-Host "Removed legacy PaperJson data at $legacyDataDir"
+}
+
+# Configure runtime data paths for this process and future shells.
 $env:PAPERS_DIR = $papersDir
 $env:PAPERS_DB_PATH = $dbPath
+[Environment]::SetEnvironmentVariable("PAPERS_DIR", $papersDir, "User")
+[Environment]::SetEnvironmentVariable("PAPERS_DB_PATH", $dbPath, "User")
+Write-Host "Set user PAPERS_DIR=$papersDir"
+Write-Host "Set user PAPERS_DB_PATH=$dbPath"
 
 # Build the database
 Write-Host "Building paper database..."
-& $installedBinary build-db 2>&1 | Out-Host
-if ($LASTEXITCODE -ne 0) {
-    throw "Database build failed"
+$buildDbResult = Invoke-NativeCapture -FilePath $installedBinary -Arguments @("build-db")
+$buildDbResult.Output | ForEach-Object { Write-Host $_ }
+if ($buildDbResult.ExitCode -ne 0) {
+    throw "Database build failed with exit code $($buildDbResult.ExitCode)"
 }
 
 # Smoke test
@@ -103,16 +166,11 @@ $smokeArgs = @(
     "need"
 )
 
-Push-Location -LiteralPath $binDir
-try {
-    $smokeOutput = & $installedBinary @smokeArgs 2>&1
-    $smokeStatus = $LASTEXITCODE
-} finally {
-    Pop-Location
-}
+$smokeResult = Invoke-NativeCapture -FilePath $installedBinary -Arguments $smokeArgs -WorkingDirectory $binDir
+$smokeStatus = $smokeResult.ExitCode
 
 $smokeLines = @(
-    $smokeOutput |
+    $smokeResult.Output |
         ForEach-Object { $_.ToString().Trim() } |
         Where-Object { $_.Length -gt 0 }
 )
