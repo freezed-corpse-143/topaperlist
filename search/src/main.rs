@@ -27,6 +27,13 @@ fn main() {
             });
             query::run_query(args, &db_path)
         }
+        cli::Command::Bib(args) => {
+            let db_path = build_db::resolve_db_path().unwrap_or_else(|e| {
+                eprintln!("错误: {e}");
+                std::process::exit(1);
+            });
+            query::run_bib_query(args, &db_path)
+        }
         cli::Command::Help => {
             print!("{}", cli::USAGE);
             Ok(())

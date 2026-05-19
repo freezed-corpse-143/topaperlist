@@ -5,6 +5,46 @@ use crate::models::{canonical_fields, Field, SortSpec};
 pub type Result<T> = std::result::Result<T, String>;
 
 pub fn run_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
+    let display_fields: Vec<Field> = if let Some(ref cols) = args.columns {
+        let col_str = cols.join(",");
+        db::parse_columns(&col_str)?
+    } else {
+        canonical_fields()
+    };
+
+    let results = collect_query_results(args, db_path, &display_fields)?;
+    for line in results {
+        println!("{line}");
+    }
+
+    Ok(())
+}
+
+pub fn run_bib_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
+    let display_fields = vec![Field("bib".to_string())];
+    let results = collect_query_results(args, db_path, &display_fields)?;
+
+    let mut wrote_entry = false;
+    for entry in results {
+        let entry = entry.trim();
+        if entry.is_empty() {
+            continue;
+        }
+        if wrote_entry {
+            println!();
+        }
+        println!("{entry}");
+        wrote_entry = true;
+    }
+
+    Ok(())
+}
+
+fn collect_query_results(
+    args: QueryArgs,
+    db_path: &std::path::Path,
+    display_fields: &[Field],
+) -> Result<Vec<String>> {
     debug!("开始查询");
 
     // Override db path if specified in args
@@ -89,14 +129,6 @@ pub fn run_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
         .map(|s| db::parse_sort_spec(s))
         .collect::<db::Result<Vec<_>>>()?;
 
-    // Parse display fields
-    let display_fields: Vec<Field> = if let Some(ref cols) = args.columns {
-        let col_str = cols.join(",");
-        db::parse_columns(&col_str)?
-    } else {
-        canonical_fields()
-    };
-
     let results = db::query_records(
         &conn,
         &title_include,
@@ -111,9 +143,5 @@ pub fn run_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
         &display_fields,
     )?;
 
-    for line in results {
-        println!("{line}");
-    }
-
-    Ok(())
+    Ok(results)
 }
