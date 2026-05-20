@@ -2,6 +2,8 @@
 
 ## v2.0.0-dev (Unreleased)
 
+- **Installer robustness**: install scripts now report new install vs replacement vs legacy `PaperJson` upgrade, clean legacy data, persist Windows data-path environment variables, and avoid treating native stderr output as install failure.
+
 - **论文数据更新**: 更新所有会议和年份的论文数据（新增 2026 年数据、CRYPTO 2025-2026 移除、EACL 精简）。
 - **TXT 自动生成**: txt 文件由 jsonl 自动生成（`jq -r '.title'`），不再手动维护。
 - **SQL 占位符区分**: 所有过滤器 SQL 模板使用有区分度的占位符（`{values}`, `{like_clauses}`, `{not_like_clauses}`），排除过滤器统一使用 `NOT IN` 模式。
