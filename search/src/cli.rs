@@ -1,29 +1,29 @@
 pub const USAGE: &str = r#"Usage:
-  search build-db                    从 PAPERS 目录构建 SQLite 数据库
-  search query [OPTIONS] [<keywords>] 搜索论文
-  search bib [OPTIONS] [<keywords>]   输出 BibTeX
-  search --help                       显示此帮助
+  search build-db                    Build SQLite database from PAPERS directory
+  search query [OPTIONS] [<keywords>] Search papers
+  search bib [OPTIONS] [<keywords>]   Output BibTeX entries
+  search --help                       Show this help
 
 Query options:
-  -k, --keyword <keyword>            标题包含关键词（可重复, 支持逗号分隔）
-  -x, --exclude <keyword>            标题排除关键词（可重复, 支持逗号分隔）
-      --exclude-keyword <keyword>    --exclude 的别名
-  -l, --level <level>                会议等级筛选（可重复, 支持逗号分隔）
-      --exclude-level <level>        会议等级排除（可重复, 支持逗号分隔）
-  -n, --conference <name>            会议名称筛选（可重复, 支持逗号分隔）
-      --exclude-conference <name>    会议名称排除（可重复, 支持逗号分隔）
-  -y, --year <year>                  年份筛选（可重复, 支持逗号分隔）
-      --exclude-year <year>          年份排除（可重复, 支持逗号分隔）
-  -s, --sort <field:order>           排序规则（可重复）字段: level, conference, year, title
-                                      排序: asc, desc
-  -c, --columns <list>               显示列（逗号分隔）可选: level, conference, year, title, bib, author, url 等
-  -X, --exclude-columns <list>       排除列（逗号分隔）显示除指定列外的所有列
-      --db-path <path>               数据库文件路径（覆盖 PAPERS_DB_PATH 环境变量）
+  -k, --keyword <keyword>            Title include keywords (repeatable, comma-separated)
+  -x, --exclude <keyword>            Title exclude keywords (repeatable, comma-separated)
+      --exclude-keyword <keyword>    Alias for --exclude
+  -l, --level <level>                Level filter (repeatable, comma-separated)
+      --exclude-level <level>        Level exclude (repeatable, comma-separated)
+  -n, --conference <name>            Conference filter (repeatable, comma-separated)
+      --exclude-conference <name>    Conference exclude (repeatable, comma-separated)
+  -y, --year <year>                  Year filter (repeatable, comma-separated)
+      --exclude-year <year>          Year exclude (repeatable, comma-separated)
+  -s, --sort <field:order>           Sort spec (repeatable) fields: level, conference, year, title
+                                      order: asc, desc
+  -c, --columns <list>               Columns to show (comma-separated): level, conference, year, title, bib, author, url, etc.
+  -X, --exclude-columns <list>       Columns to hide (comma-separated) — show all columns except these
+      --db-path <path>               Database file path (overrides PAPERS_DB_PATH env var)
 
-环境变量:
-  PAPERS_DIR                          论文目录路径
-  PAPERS_DB_PATH                      SQLite 数据库文件路径
-  RUST_LOG=debug                      启用调试日志
+Environment variables:
+  PAPERS_DIR                          Paper directory path
+  PAPERS_DB_PATH                      SQLite database file path
+  RUST_LOG=debug                      Enable debug logging
 
 Examples:
   search build-db
@@ -164,7 +164,7 @@ pub fn parse(args: &[String]) -> Command {
                     "--paper-dir" => {
                         i += 1;
                         // Legacy option, ignored — use PAPERS_DIR env var instead
-                        eprintln!("提示: --paper-dir 已弃用，请设置 PAPERS_DIR 环境变量");
+                        eprintln!("Note: --paper-dir is deprecated, set the PAPERS_DIR environment variable instead");
                     }
                     "-h" | "--help" => return Command::Help,
                     _ if arg.starts_with("--keyword=") => {
@@ -226,7 +226,7 @@ pub fn parse(args: &[String]) -> Command {
                         qargs.db_path_override = Some(val.to_string());
                     }
                     _ if arg.starts_with('-') => {
-                        eprintln!("警告: 不支持的选项: {arg}");
+                        eprintln!("Warning: unsupported option: {arg}");
                         i += 1;
                         continue;
                     }
@@ -247,7 +247,7 @@ pub fn parse(args: &[String]) -> Command {
         "-h" | "--help" | "help" => Command::Help,
 
         _ => {
-            eprintln!("未知命令: {subcommand}\n");
+            eprintln!("Unknown command: {subcommand}\n");
             Command::Help
         }
     }

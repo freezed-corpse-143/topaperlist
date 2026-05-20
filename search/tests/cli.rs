@@ -22,9 +22,9 @@ fn build_db_creates_database() {
     let output = run_search(&paper_dir, &db_path, &["build-db"]);
     assert_success(&output);
 
-    assert!(db_path.exists(), "数据库文件应存在");
+    assert!(db_path.exists(), "DB file should exist");
     let meta = std::fs::metadata(&db_path).unwrap();
-    assert!(meta.len() > 100, "数据库文件应有内容");
+    assert!(meta.len() > 100, "DB file should have content");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -36,9 +36,9 @@ fn build_db_reports_missing_papers_dir() {
     let db_path = dir.join("test.db");
 
     let output = run_search(&nonexistent, &db_path, &["build-db"]);
-    assert!(!output.status.success(), "不存在目录时应失败");
+    assert!(!output.status.success(), "Should fail for nonexistent directory");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("不存在"), "应提示目录不存在: {stderr}");
+    assert!(stderr.contains("directory not found") || stderr.to_lowercase().contains("not found"), "Should mention missing directory: {stderr}");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -55,11 +55,11 @@ fn build_db_reports_no_jsonl_files() {
     std::fs::write(conf_dir.join("2024.txt"), "Some Title\n").unwrap();
 
     let output = run_search(&paper_dir, &db_path, &["build-db"]);
-    assert!(!output.status.success(), "无 JSONL 文件时应失败");
+    assert!(!output.status.success(), "Should fail without JSONL files");
     let stderr = stderr_str(&output);
     assert!(
         stderr.to_lowercase().contains("jsonl"),
-        "应提示无 JSONL: {stderr}"
+        "Should mention JSONL: {stderr}"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -76,11 +76,11 @@ fn build_db_reports_bad_jsonl_format() {
     std::fs::write(conf_dir.join("2024.jsonl"), "this is not json\n").unwrap();
 
     let output = run_search(&paper_dir, &db_path, &["build-db"]);
-    assert!(!output.status.success(), "JSONL 格式错误时应失败");
+    assert!(!output.status.success(), "Should fail on bad JSONL");
     let stderr = stderr_str(&output);
     assert!(
-        stderr.contains("格式错误") || stderr.contains("JSONL"),
-        "应提示格式错误: {stderr}"
+        stderr.to_lowercase().contains("parse error") || stderr.contains("JSONL"),
+        "Should mention format error: {stderr}"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -106,8 +106,8 @@ fn build_db_detects_schema_dynamically() {
     let output = run_search(&paper_dir, &db_path, &["build-db"]);
     assert_success(&output);
     let stdout = String::from_utf8(output.stdout).unwrap();
-    assert!(stdout.contains("title"), "应检测到 title 字段");
-    assert!(stdout.contains("author"), "应检测到 author 字段");
+    assert!(stdout.contains("title"), "Should detect title field");
+    assert!(stdout.contains("author"), "Should detect author field");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -164,12 +164,12 @@ fn query_with_keyword_filter() {
     let output = run_search(&paper_dir, &db_path, &["query", "--keyword", "diffusion"]);
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有 diffusion 结果");
+    assert!(!lines.is_empty(), "Should have diffusion results");
 
     for line in &lines {
         assert!(
             line.to_lowercase().contains("diffusion"),
-            "每条结果应包含 diffusion: {line}"
+            "Each result should contain diffusion: {line}"
         );
     }
 
@@ -214,7 +214,7 @@ fn query_with_level_filter() {
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_eq!(parts[0], "A", "level 应为 A: {line}");
+        assert_eq!(parts[0], "A", "level should be A: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -227,11 +227,11 @@ fn query_with_conference_filter() {
     let output = run_search(&paper_dir, &db_path, &["query", "--conference", "ICML"]);
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有 ICML 结果");
+    assert!(!lines.is_empty(), "Should have ICML results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_eq!(parts[1], "ICML", "conference 应为 ICML: {line}");
+        assert_eq!(parts[1], "ICML", "conference should be ICML: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -244,11 +244,11 @@ fn query_with_year_filter() {
     let output = run_search(&paper_dir, &db_path, &["query", "--year", "2023"]);
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有 2023 结果");
+    assert!(!lines.is_empty(), "Should have 2023 results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_eq!(parts[2], "2023", "year 应为 2023: {line}");
+        assert_eq!(parts[2], "2023", "year should be 2023: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -272,16 +272,16 @@ fn query_with_exclude_filters() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有结果");
+    assert!(!lines.is_empty(), "Should have results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_ne!(parts[0], "B", "不应包含 B level");
+        assert_ne!(parts[0], "B", "Should not contain B level");
         let title_lower = parts[3].to_lowercase();
-        assert!(!title_lower.contains("survey"), "不应包含 survey: {line}");
+        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
         assert!(
             title_lower.contains("diffusion"),
-            "应包含 diffusion: {line}"
+            "Should contain diffusion: {line}"
         );
     }
 
@@ -346,7 +346,7 @@ fn query_with_sort() {
         .map(|l| l.split('\t').nth(2).unwrap())
         .collect();
     for w in years.windows(2) {
-        assert!(w[0] >= w[1], "year 应降序: {w:?}");
+        assert!(w[0] >= w[1], "year should be descending: {w:?}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -372,7 +372,7 @@ fn query_with_custom_columns() {
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_eq!(parts.len(), 3, "列数应为 3: {line}");
+        assert_eq!(parts.len(), 3, "Should have 3 columns: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -383,9 +383,9 @@ fn query_requires_at_least_one_filter() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     let output = run_search(&paper_dir, &db_path, &["query"]);
-    assert!(!output.status.success(), "无筛选条件时应失败");
+    assert!(!output.status.success(), "Should fail without filters");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("筛选条件"), "应提示需要筛选条件: {stderr}");
+    assert!(stderr.contains("filter is required"), "Should mention filter required: {stderr}");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -406,7 +406,7 @@ fn query_positional_keywords_work_like_explicit() {
     assert_eq!(
         stdout_lines(&positional),
         stdout_lines(&explicit),
-        "positional 和 --keyword 结果应相同"
+        "positional and --keyword results should match"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -457,7 +457,7 @@ fn query_with_exclude_year() {
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_ne!(parts[2], "2023", "不应包含 2023: {line}");
+        assert_ne!(parts[2], "2023", "Should not contain 2023: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -477,7 +477,7 @@ fn query_exclude_conference() {
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_ne!(parts[1], "AAAI", "不应包含 AAAI: {line}");
+        assert_ne!(parts[1], "AAAI", "Should not contain AAAI: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -494,12 +494,12 @@ fn help_prints_usage() {
     let output = run_search(&paper_dir, &db_path, &["--help"]);
     assert_success(&output);
     let stdout = String::from_utf8(output.stdout).unwrap();
-    assert!(stdout.contains("Usage"), "应显示使用说明");
+    assert!(stdout.contains("Usage"), "Should show usage");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 独立排除过滤测试 ──
+// ── standalone exclude filter tests ──
 
 #[test]
 fn query_title_exclude_standalone() {
@@ -513,12 +513,12 @@ fn query_title_exclude_standalone() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有结果");
+    assert!(!lines.is_empty(), "Should have results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
         let title_lower = parts[3].to_lowercase();
-        assert!(!title_lower.contains("survey"), "不应包含 survey: {line}");
+        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -531,11 +531,11 @@ fn query_level_exclude_standalone() {
     let output = run_search(&paper_dir, &db_path, &["query", "--exclude-level", "B"]);
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有结果");
+    assert!(!lines.is_empty(), "Should have results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_ne!(parts[0], "B", "不应包含 B level: {line}");
+        assert_ne!(parts[0], "B", "Should not contain B level: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -548,17 +548,17 @@ fn query_year_exclude_standalone() {
     let output = run_search(&paper_dir, &db_path, &["query", "--exclude-year", "2023"]);
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有结果");
+    assert!(!lines.is_empty(), "Should have results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_ne!(parts[2], "2023", "不应包含 2023: {line}");
+        assert_ne!(parts[2], "2023", "Should not contain 2023: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 标题关键词 AND / 排除 AND 逻辑 ──
+// ── title AND / exclude AND logic ──
 
 #[test]
 fn query_title_multiple_keywords_and_logic() {
@@ -572,14 +572,14 @@ fn query_title_multiple_keywords_and_logic() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有同时包含 graph 和 diffusion 的结果");
+    assert!(!lines.is_empty(), "Should have results with both graph and diffusion");
 
     for line in &lines {
         let title_lower = line.to_lowercase();
-        assert!(title_lower.contains("graph"), "标题应包含 graph: {line}");
+        assert!(title_lower.contains("graph"), "Title should contain graph: {line}");
         assert!(
             title_lower.contains("diffusion"),
-            "标题应包含 diffusion: {line}"
+            "Title should contain diffusion: {line}"
         );
     }
 
@@ -608,17 +608,17 @@ fn query_title_multiple_exclude_keywords() {
 
     for line in &lines {
         let title_lower = line.to_lowercase();
-        assert!(!title_lower.contains("survey"), "不应包含 survey: {line}");
+        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
         assert!(
             !title_lower.contains("attention"),
-            "不应包含 attention: {line}"
+            "Should not contain attention: {line}"
         );
     }
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 大小写不敏感 ──
+// ── case insensitivity ──
 
 #[test]
 fn query_title_keyword_case_insensitive() {
@@ -632,8 +632,8 @@ fn query_title_keyword_case_insensitive() {
     assert_success(&upper);
     assert_success(&mixed);
 
-    assert_eq!(stdout_lines(&lower), stdout_lines(&upper), "大小写应不敏感");
-    assert_eq!(stdout_lines(&lower), stdout_lines(&mixed), "大小写应不敏感");
+    assert_eq!(stdout_lines(&lower), stdout_lines(&upper), "Should be case-insensitive");
+    assert_eq!(stdout_lines(&lower), stdout_lines(&mixed), "Should be case-insensitive");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -650,7 +650,7 @@ fn query_level_filter_case_insensitive() {
     assert_eq!(
         stdout_lines(&lower),
         stdout_lines(&upper),
-        "level 大小写应不敏感"
+        "level should be case-insensitive"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -668,13 +668,13 @@ fn query_conference_filter_case_insensitive() {
     assert_eq!(
         stdout_lines(&lower),
         stdout_lines(&upper),
-        "conference 大小写应不敏感"
+        "conference should be case-insensitive"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 子串匹配 ──
+// ── substring matching ──
 
 #[test]
 fn query_title_substring_matching() {
@@ -692,7 +692,7 @@ fn query_title_substring_matching() {
     let substr_lines = stdout_lines(&substr);
     assert!(
         substr_lines.len() >= full_lines.len(),
-        "子串 diffus 应匹配不少于 diffusion 的结果: diffus={} vs diffusion={}",
+        "Substring diffus should match >= diffusion results: diffus={} vs diffusion={}",
         substr_lines.len(),
         full_lines.len()
     );
@@ -700,7 +700,7 @@ fn query_title_substring_matching() {
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 同维度 include + exclude 组合 ──
+// ── same-dimension include+exclude ──
 
 #[test]
 fn query_include_exclude_same_dimension() {
@@ -720,18 +720,18 @@ fn query_include_exclude_same_dimension() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "应有 ICML 结果");
+    assert!(!lines.is_empty(), "Should have ICML results");
 
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
-        assert_eq!(parts[1], "ICML", "只应有 ICML: {line}");
-        assert_ne!(parts[1], "AAAI", "不应有 AAAI: {line}");
+        assert_eq!(parts[1], "ICML", "Should only have ICML: {line}");
+        assert_ne!(parts[1], "AAAI", "Should not have AAAI: {line}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 空结果 ──
+// ── empty results ──
 
 #[test]
 fn query_empty_result_when_nothing_matches() {
@@ -744,12 +744,12 @@ fn query_empty_result_when_nothing_matches() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(lines.is_empty(), "不存在的关键词应返回空结果");
+    assert!(lines.is_empty(), "Nonexistent keyword should return empty results");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 逗号分隔值 ──
+// ── comma-separated values ──
 
 #[test]
 fn query_comma_separated_keywords() {
@@ -771,7 +771,7 @@ fn query_comma_separated_keywords() {
     assert_eq!(
         stdout_lines(&comma),
         stdout_lines(&separate),
-        "逗号分隔和多次 --keyword 应等价"
+        "Comma-separated and repeated --keyword should be equivalent"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -793,13 +793,13 @@ fn query_comma_separated_levels() {
     assert_eq!(
         stdout_lines(&comma),
         stdout_lines(&separate),
-        "逗号分隔和多次 --level 应等价"
+        "Comma-separated and repeated --level should be equivalent"
     );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 排序方向验证 ──
+// ── sort direction ──
 
 #[test]
 fn query_sort_ascending() {
@@ -818,13 +818,13 @@ fn query_sort_ascending() {
         .map(|l| l.split('\t').nth(2).unwrap())
         .collect();
     for w in years.windows(2) {
-        assert!(w[0] <= w[1], "year 应升序: {w:?}");
+        assert!(w[0] <= w[1], "year should be ascending: {w:?}");
     }
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 多 filter 管道顺序独立验证 ──
+// ── filter pipeline independence ──
 
 #[test]
 fn query_pipeline_order_independent() {
@@ -863,14 +863,14 @@ fn query_pipeline_order_independent() {
     assert_success(&result1);
 
     let lines = stdout_lines(&result1);
-    assert_eq!(lines.len(), 1, "应精确返回 1 条结果");
+    assert_eq!(lines.len(), 1, "Should return exactly 1 result");
     assert!(lines[0].contains("Graph Diffusion Methods"));
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
 
-// ── 列选择: 非规范字段 (bib) ──
+// ── column selection: non-canonical field (bib) ──
 
 #[test]
 fn query_columns_with_bib_field() {
@@ -899,14 +899,14 @@ fn query_columns_with_bib_field() {
     let lines = stdout_lines(&output);
     assert_eq!(lines.len(), 1);
     let parts: Vec<&str> = lines[0].split('\t').collect();
-    assert_eq!(parts.len(), 4, "应有 4 列: conf, year, title, bib");
+    assert_eq!(parts.len(), 4, "Should have 4 columns: conf, year, title, bib");
     assert_eq!(parts[0], "AAAI");
-    assert!(parts[3].contains("@inproceedings{test2026}"), "bib 应包含 BibTeX: {}", parts[3]);
+    assert!(parts[3].contains("@inproceedings{test2026}"), "bib should contain BibTeX: {}", parts[3]);
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 列选择: 排除模式 ──
+// ── column selection: exclude mode ──
 
 #[test]
 fn query_exclude_columns() {
@@ -936,10 +936,10 @@ fn query_exclude_columns() {
     assert_eq!(lines.len(), 1);
     // Should have: level, conference, year, title, author, bib (6 columns)
     let parts: Vec<&str> = lines[0].split('\t').collect();
-    assert!(parts.len() >= 5, "排除 url 后应至少显示 5 列, 实际 {} 列", parts.len());
+    assert!(parts.len() >= 5, "Should show at least 5 columns after excluding url, got {}", parts.len());
     // Verify url is NOT in output
     let line_lower = lines[0].to_lowercase();
-    assert!(!line_lower.contains("http://ex.com"), "不应包含 url: {}", lines[0]);
+    assert!(!line_lower.contains("http://ex.com"), "Should not contain url: {}", lines[0]);
 
     // --exclude-columns bib,url (show all columns except bib and url)
     let output = run_search(
@@ -950,13 +950,13 @@ fn query_exclude_columns() {
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert_eq!(lines.len(), 1);
-    assert!(!lines[0].contains("@inproceedings"), "不应包含 bib: {}", lines[0]);
-    assert!(!lines[0].to_lowercase().contains("http://ex.com"), "不应包含 url");
+    assert!(!lines[0].contains("@inproceedings"), "Should not contain bib: {}", lines[0]);
+    assert!(!lines[0].to_lowercase().contains("http://ex.com"), "Should not contain url");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 列选择: --columns 和 --exclude-columns 冲突 ──
+// ── column selection: --columns and --exclude-columns conflict ──
 
 #[test]
 fn query_columns_and_exclude_columns_conflict() {
@@ -967,14 +967,14 @@ fn query_columns_and_exclude_columns_conflict() {
         &db_path,
         &["query", "--conference", "AAAI", "--columns", "title", "--exclude-columns", "url"],
     );
-    assert!(!output.status.success(), "同时使用 --columns 和 --exclude-columns 应失败");
+    assert!(!output.status.success(), "Using --columns and --exclude-columns together should fail");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("不能同时使用"), "应提示不能同时使用: {stderr}");
+    assert!(stderr.contains("cannot be used together"), "Should mention conflict: {stderr}");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── 列选择: 未知列报错 ──
+// ── column selection: unknown column error ──
 
 #[test]
 fn query_unknown_column_error() {
@@ -985,14 +985,14 @@ fn query_unknown_column_error() {
         &db_path,
         &["query", "--conference", "AAAI", "--columns", "nonexistent_field"],
     );
-    assert!(!output.status.success(), "未知列应失败");
+    assert!(!output.status.success(), "Unknown column should fail");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("未知列"), "应提示未知列: {stderr}");
+    assert!(stderr.contains("Unknown column"), "Should mention unknown column: {stderr}");
 
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-// ── bib 命令: 支持自定义列 ──
+// ── bib command: custom columns ──
 
 #[test]
 fn bib_command_with_custom_columns() {
@@ -1018,8 +1018,8 @@ fn bib_command_with_custom_columns() {
     );
     assert_success(&output);
     let stdout = String::from_utf8(output.stdout).unwrap();
-    assert!(stdout.contains("@inproceedings{fastdrivevla2026"), "应包含 bib");
-    assert!(stdout.contains("FastDriveVLA"), "应包含 title");
+    assert!(stdout.contains("@inproceedings{fastdrivevla2026"), "Should contain bib");
+    assert!(stdout.contains("FastDriveVLA"), "Should contain title");
 
     let _ = std::fs::remove_dir_all(&dir);
 }

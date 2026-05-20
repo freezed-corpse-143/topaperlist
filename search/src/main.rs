@@ -11,25 +11,25 @@ fn main() {
     let result = match cmd {
         cli::Command::BuildDb => {
             let papers_dir = build_db::resolve_papers_dir().unwrap_or_else(|e| {
-                eprintln!("错误: {e}");
+                eprintln!("Error: {e}");
                 std::process::exit(1);
             });
             let db_path = build_db::resolve_db_path().unwrap_or_else(|e| {
-                eprintln!("错误: {e}");
+                eprintln!("Error: {e}");
                 std::process::exit(1);
             });
             build_db::build_db(&papers_dir, &db_path)
         }
         cli::Command::Query(args) => {
             let db_path = build_db::resolve_db_path().unwrap_or_else(|e| {
-                eprintln!("错误: {e}");
+                eprintln!("Error: {e}");
                 std::process::exit(1);
             });
             query::run_query(args, &db_path)
         }
         cli::Command::Bib(args) => {
             let db_path = build_db::resolve_db_path().unwrap_or_else(|e| {
-                eprintln!("错误: {e}");
+                eprintln!("Error: {e}");
                 std::process::exit(1);
             });
             query::run_bib_query(args, &db_path)
@@ -41,7 +41,7 @@ fn main() {
     };
 
     if let Err(e) = result {
-        eprintln!("错误: {e}");
+        eprintln!("Error: {e}");
         std::process::exit(1);
     }
 }

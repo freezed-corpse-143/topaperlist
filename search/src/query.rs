@@ -41,7 +41,7 @@ fn reorder_canonical_first(fields: &mut Vec<Field>) {
 fn compute_display_fields(args: &QueryArgs, all_columns: &[Field]) -> Result<Vec<Field>> {
     if let Some(ref exclude_cols) = args.exclude_columns {
         if args.columns.is_some() {
-            return Err("--columns 和 --exclude-columns 不能同时使用".to_string());
+            return Err("--columns and --exclude-columns cannot be used together".to_string());
         }
         let excluded: Vec<Field> = exclude_cols.iter().map(|c| Field::parse(c)).collect();
         let mut result: Vec<Field> = all_columns
@@ -50,7 +50,7 @@ fn compute_display_fields(args: &QueryArgs, all_columns: &[Field]) -> Result<Vec
             .cloned()
             .collect();
         if result.is_empty() {
-            return Err("排除后无剩余列可显示".to_string());
+            return Err("No columns left to display after exclusion".to_string());
         }
         reorder_canonical_first(&mut result);
         Ok(result)
@@ -101,7 +101,7 @@ fn collect_query_results(
     conn: &Connection,
     display_fields: &[Field],
 ) -> Result<Vec<String>> {
-    debug!("开始查询");
+    debug!("Starting query");
 
     // Merge positional keywords with --keyword
     let mut title_include: Vec<String> = args
@@ -164,7 +164,7 @@ fn collect_query_results(
 
     if !has_filter {
         return Err(
-            "至少需要一个筛选条件: keyword/level/conference/year\n使用 --help 查看详细用法"
+            "At least one filter is required: keyword/level/conference/year\nUse --help for details"
                 .to_string(),
         );
     }

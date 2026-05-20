@@ -19,19 +19,19 @@ pub(crate) use debug;
 
 /// Open (or create) the SQLite database.
 pub fn open_db(db_path: &Path) -> Result<rusqlite::Connection> {
-    debug!("打开数据库: {}", db_path.display());
-    let conn = rusqlite::Connection::open(db_path).map_err(|e| format!("无法打开数据库文件: {e}"))?;
+    debug!("Opening database: {}", db_path.display());
+    let conn = rusqlite::Connection::open(db_path).map_err(|e| format!("Failed to open database: {e}"))?;
     conn.execute_batch("PRAGMA journal_mode=WAL;")
-        .map_err(|e| format!("无法设置 WAL 模式: {e}"))?;
+        .map_err(|e| format!("Failed to set WAL mode: {e}"))?;
     Ok(conn)
 }
 
 /// Create (or recreate) the papers table with given data columns.
 pub fn create_table(conn: &rusqlite::Connection, data_columns: &[String]) -> Result<()> {
-    debug!("建表，字段: {:?}", data_columns);
+    debug!("Creating table, fields: {:?}", data_columns);
 
     conn.execute_batch("DROP TABLE IF EXISTS papers;")
-        .map_err(|e| format!("无法删除旧表: {e}"))?;
+        .map_err(|e| format!("Failed to drop old table: {e}"))?;
 
     let mut col_defs: Vec<String> = vec!["id INTEGER PRIMARY KEY AUTOINCREMENT".to_string()];
     for fixed in FIXED_COLUMNS {
@@ -43,10 +43,10 @@ pub fn create_table(conn: &rusqlite::Connection, data_columns: &[String]) -> Res
     }
 
     let create_sql = format!("CREATE TABLE papers ({});", col_defs.join(", "));
-    debug!("建表 SQL: {create_sql}");
+    debug!("Create table SQL: {create_sql}");
 
     conn.execute(&create_sql, [])
-        .map_err(|e| format!("无法创建 papers 表: {e}"))?;
+        .map_err(|e| format!("Failed to create papers table: {e}"))?;
 
     // Indexes on provenance columns + title
     for fixed in FIXED_COLUMNS {
@@ -61,7 +61,7 @@ pub fn create_table(conn: &rusqlite::Connection, data_columns: &[String]) -> Res
             .ok();
     }
 
-    debug!("表创建完成");
+    debug!("Table created");
     Ok(())
 }
 
@@ -77,7 +77,7 @@ pub fn insert_records(
 
     let tx = conn
         .unchecked_transaction()
-        .map_err(|e| format!("无法开启事务: {e}"))?;
+        .map_err(|e| format!("Failed to begin transaction: {e}"))?;
 
     let all_columns: Vec<String> = FIXED_COLUMNS
         .iter()
@@ -99,7 +99,7 @@ pub fn insert_records(
     {
         let mut stmt = tx
             .prepare(&insert_sql)
-            .map_err(|e| format!("无法准备 INSERT 语句: {e}"))?;
+            .map_err(|e| format!("Failed to prepare INSERT statement: {e}"))?;
 
         for record in records {
             let mut values: Vec<Box<dyn rusqlite::types::ToSql>> = Vec::new();
@@ -115,23 +115,23 @@ pub fn insert_records(
                 values.iter().map(|v| v.as_ref()).collect();
 
             stmt.execute(rusqlite::params_from_iter(params_refs))
-                .map_err(|e| format!("插入记录失败: {e}"))?;
+                .map_err(|e| format!("Failed to insert record: {e}"))?;
             count += 1;
         }
     }
 
     tx.commit()
-        .map_err(|e| format!("无法提交事务: {e}"))?;
+        .map_err(|e| format!("Failed to commit transaction: {e}"))?;
 
-    debug!("成功插入 {count} 条记录");
+    debug!("Inserted {count} records");
     Ok(count)
 }
 
 /// Drop the papers table.
 pub fn clear_db(conn: &rusqlite::Connection) -> Result<()> {
     conn.execute_batch("DROP TABLE IF EXISTS papers;")
-        .map_err(|e| format!("清空数据库失败: {e}"))?;
-    debug!("已清空数据库旧表");
+        .map_err(|e| format!("Failed to clear database: {e}"))?;
+    debug!("Old table dropped");
     Ok(())
 }
 
@@ -166,7 +166,7 @@ fn apply_set_filter(
         "SELECT * FROM ({inner}) WHERE {col_expr} {op} ({})",
         placeholders.join(",")
     );
-    debug!("应用 filter_set ({tag}): [{}]", values.join(", "));
+    debug!("Applying filter_set ({tag}): [{}]", values.join(", "));
 }
 
 /// Apply a substring match filter (LIKE / NOT LIKE).
@@ -195,7 +195,7 @@ fn apply_like_filter(
         "SELECT * FROM ({inner}) WHERE {}",
         conditions.join(" AND ")
     );
-    debug!("应用 filter_substring ({tag}): [{}]", values.join(", "));
+    debug!("Applying filter_substring ({tag}): [{}]", values.join(", "));
 }
 
 /// Build a query by nesting active filters as subquery layers
@@ -258,11 +258,11 @@ pub fn query_records(
         "SELECT {} FROM ({inner}) {order_clause}",
         select_cols.join(", ")
     );
-    debug!("最终查询: {sql}");
+    debug!("Final query: {sql}");
 
     let mut stmt = conn
         .prepare(&sql)
-        .map_err(|e| format!("查询准备失败: {e}"))?;
+        .map_err(|e| format!("Failed to prepare query: {e}"))?;
 
     let params_refs: Vec<&dyn rusqlite::types::ToSql> = bind_values
         .iter()
@@ -282,14 +282,14 @@ pub fn query_records(
                 Ok(parts.join("\t"))
             },
         )
-        .map_err(|e| format!("查询执行失败: {e}"))?;
+        .map_err(|e| format!("Failed to execute query: {e}"))?;
 
     let mut results = Vec::new();
     for row in rows {
-        results.push(row.map_err(|e| format!("读取查询结果失败: {e}"))?);
+        results.push(row.map_err(|e| format!("Failed to read query result: {e}"))?);
     }
 
-    debug!("查询返回 {} 条结果", results.len());
+    debug!("Query returned {} results", results.len());
     Ok(results)
 }
 
@@ -297,7 +297,7 @@ pub fn query_records(
 pub fn parse_sort_spec(value: &str) -> Result<SortSpec> {
     let (field_raw, order_raw) = value
         .split_once(':')
-        .ok_or_else(|| format!("无效的排序格式: {value}（应为 field:asc 或 field:desc）"))?;
+        .ok_or_else(|| format!("Invalid sort format: {value} (expected field:asc or field:desc)"))?;
 
     let field = Field::parse(field_raw);
     let direction = Direction::parse(order_raw)?;
@@ -309,17 +309,17 @@ pub fn parse_sort_spec(value: &str) -> Result<SortSpec> {
 pub fn get_all_columns(conn: &rusqlite::Connection) -> Result<Vec<Field>> {
     let mut stmt = conn
         .prepare("SELECT name FROM pragma_table_info('papers') WHERE name != 'id' ORDER BY cid")
-        .map_err(|e| format!("无法查询表结构: {e}"))?;
+        .map_err(|e| format!("Failed to query table schema: {e}"))?;
 
     let columns: Vec<Field> = stmt
         .query_map([], |row| row.get(0))
-        .map_err(|e| format!("无法获取列信息: {e}"))?
+        .map_err(|e| format!("Failed to get column info: {e}"))?
         .filter_map(|r| r.ok())
         .map(|name: String| Field(name))
         .collect();
 
     if columns.is_empty() {
-        return Err("数据库表中无可用列，请先运行 build-db".to_string());
+        return Err("No columns found in database, run build-db first".to_string());
     }
     Ok(columns)
 }
@@ -336,14 +336,14 @@ pub fn parse_columns(value: &str, all_columns: &[Field]) -> Result<Vec<Field>> {
         let field = Field::parse(trimmed);
         if !selected.contains(&field) {
             if !all_columns.contains(&field) {
-                return Err(format!("未知列: {}", field.as_str()));
+                return Err(format!("Unknown column: {}", field.as_str()));
             }
             selected.push(field);
         }
     }
 
     if selected.is_empty() {
-        return Err("至少需要选择一个列".to_string());
+        return Err("At least one column must be selected".to_string());
     }
 
     // Canonical fields first in fixed order, then non-canonical in user-specified order

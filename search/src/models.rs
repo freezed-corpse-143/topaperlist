@@ -1,17 +1,4 @@
-use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
-
-/// A paper record for JSONL serialization (flexible fields).
-#[derive(Clone, Debug, Serialize, Deserialize)]
-pub struct PaperRecord {
-    pub title: String,
-    #[serde(default)]
-    pub author: String,
-    #[serde(default)]
-    pub bib: String,
-    #[serde(default)]
-    pub url: String,
-}
 
 /// A paper record with provenance + dynamic data fields for DB insertion.
 #[derive(Clone, Debug)]
