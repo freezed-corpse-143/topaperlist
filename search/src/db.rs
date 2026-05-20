@@ -135,8 +135,71 @@ pub fn clear_db(conn: &rusqlite::Connection) -> Result<()> {
     Ok(())
 }
 
+/// Apply a set membership filter (IN / NOT IN).
+/// See sql/filter_set.sql for the corresponding SQL template.
+fn apply_set_filter(
+    inner: &mut String,
+    bind_values: &mut Vec<String>,
+    column: &str,
+    values: &[String],
+    negate: bool,
+    lower: bool,
+    tag: &str,
+) {
+    if values.is_empty() {
+        return;
+    }
+    let op = if negate { "NOT IN" } else { "IN" };
+    let col_expr = if lower {
+        format!("LOWER({})", column)
+    } else {
+        column.to_string()
+    };
+    let placeholders: Vec<String> = values
+        .iter()
+        .map(|v| {
+            bind_values.push(v.clone());
+            format!("?{}", bind_values.len())
+        })
+        .collect();
+    *inner = format!(
+        "SELECT * FROM ({inner}) WHERE {col_expr} {op} ({})",
+        placeholders.join(",")
+    );
+    debug!("应用 filter_set ({tag}): [{}]", values.join(", "));
+}
+
+/// Apply a substring match filter (LIKE / NOT LIKE).
+/// See sql/filter_substring.sql for the corresponding SQL template.
+fn apply_like_filter(
+    inner: &mut String,
+    bind_values: &mut Vec<String>,
+    column: &str,
+    values: &[String],
+    negate: bool,
+    tag: &str,
+) {
+    if values.is_empty() {
+        return;
+    }
+    let op = if negate { "NOT LIKE" } else { "LIKE" };
+    let conditions: Vec<String> = values
+        .iter()
+        .map(|kw| {
+            bind_values.push(format!("%{}%", kw));
+            let idx = bind_values.len();
+            format!("LOWER({}) {op} ?{idx}", column)
+        })
+        .collect();
+    *inner = format!(
+        "SELECT * FROM ({inner}) WHERE {}",
+        conditions.join(" AND ")
+    );
+    debug!("应用 filter_substring ({tag}): [{}]", values.join(", "));
+}
+
 /// Build a query by nesting active filters as subquery layers
-/// (see sql/filter_*.sql for the SQL templates corresponding to each filter).
+/// (see sql/filter_set.sql and sql/filter_substring.sql).
 ///
 /// The pipeline starts from `papers` and wraps each active filter as:
 ///     SELECT * FROM ({inner}) WHERE {filter_clause}
@@ -157,144 +220,23 @@ pub fn query_records(
     display_fields: &[Field],
 ) -> Result<Vec<String>> {
     let mut bind_values: Vec<String> = Vec::new();
-    // Start from the base table
     let mut inner = "papers".to_string();
 
-    // ── Title include filter (see sql/filter_title_include.sql) ──
-    if !title_include.is_empty() {
-        let conditions: Vec<String> = title_include
-            .iter()
-            .map(|kw| {
-                bind_values.push(format!("%{}%", kw));
-                let idx = bind_values.len();
-                format!("LOWER(title) LIKE ?{idx}")
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE {}",
-            conditions.join(" AND ")
-        );
-        debug!("应用 filter_title_include: [{}]", title_include.join(", "));
-    }
+    // ── Title filters (see sql/filter_substring.sql) ──
+    apply_like_filter(&mut inner, &mut bind_values, "title", title_include, false, "title_include");
+    apply_like_filter(&mut inner, &mut bind_values, "title", title_exclude, true, "title_exclude");
 
-    // ── Title exclude filter (see sql/filter_title_exclude.sql) ──
-    if !title_exclude.is_empty() {
-        let conditions: Vec<String> = title_exclude
-            .iter()
-            .map(|kw| {
-                bind_values.push(format!("%{}%", kw));
-                let idx = bind_values.len();
-                format!("LOWER(title) NOT LIKE ?{idx}")
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE {}",
-            conditions.join(" AND ")
-        );
-        debug!("应用 filter_title_exclude: [{}]", title_exclude.join(", "));
-    }
+    // ── Level filters (see sql/filter_set.sql) ──
+    apply_set_filter(&mut inner, &mut bind_values, "level", level_include, false, true, "level_include");
+    apply_set_filter(&mut inner, &mut bind_values, "level", level_exclude, true, true, "level_exclude");
 
-    // ── Level include filter (see sql/filter_level_include.sql) ──
-    if !level_include.is_empty() {
-        let values: Vec<String> = level_include
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE LOWER(level) IN ({})",
-            values.join(",")
-        );
-        debug!("应用 filter_level_include: [{}]", level_include.join(", "));
-    }
+    // ── Conference filters (see sql/filter_set.sql) ──
+    apply_set_filter(&mut inner, &mut bind_values, "conference", conference_include, false, true, "conference_include");
+    apply_set_filter(&mut inner, &mut bind_values, "conference", conference_exclude, true, true, "conference_exclude");
 
-    // ── Level exclude filter (see sql/filter_level_exclude.sql) ──
-    if !level_exclude.is_empty() {
-        let values: Vec<String> = level_exclude
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE LOWER(level) NOT IN ({})",
-            values.join(",")
-        );
-        debug!("应用 filter_level_exclude: [{}]", level_exclude.join(", "));
-    }
-
-    // ── Conference include filter (see sql/filter_conference_include.sql) ──
-    if !conference_include.is_empty() {
-        let values: Vec<String> = conference_include
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE LOWER(conference) IN ({})",
-            values.join(",")
-        );
-        debug!(
-            "应用 filter_conference_include: [{}]",
-            conference_include.join(", ")
-        );
-    }
-
-    // ── Conference exclude filter (see sql/filter_conference_exclude.sql) ──
-    if !conference_exclude.is_empty() {
-        let values: Vec<String> = conference_exclude
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE LOWER(conference) NOT IN ({})",
-            values.join(",")
-        );
-        debug!(
-            "应用 filter_conference_exclude: [{}]",
-            conference_exclude.join(", ")
-        );
-    }
-
-    // ── Year include filter (see sql/filter_year_include.sql) ──
-    if !year_include.is_empty() {
-        let values: Vec<String> = year_include
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE year IN ({})",
-            values.join(",")
-        );
-        debug!("应用 filter_year_include: [{}]", year_include.join(", "));
-    }
-
-    // ── Year exclude filter (see sql/filter_year_exclude.sql) ──
-    if !year_exclude.is_empty() {
-        let values: Vec<String> = year_exclude
-            .iter()
-            .map(|v| {
-                bind_values.push(v.clone());
-                format!("?{}", bind_values.len())
-            })
-            .collect();
-        inner = format!(
-            "SELECT * FROM ({inner}) WHERE year NOT IN ({})",
-            values.join(",")
-        );
-        debug!("应用 filter_year_exclude: [{}]", year_exclude.join(", "));
-    }
+    // ── Year filters (see sql/filter_set.sql) ──
+    apply_set_filter(&mut inner, &mut bind_values, "year", year_include, false, false, "year_include");
+    apply_set_filter(&mut inner, &mut bind_values, "year", year_exclude, true, false, "year_exclude");
 
     // ── Final projection: columns + ordering (see sql/query.sql) ──
     let select_cols: Vec<String> = display_fields
@@ -363,8 +305,28 @@ pub fn parse_sort_spec(value: &str) -> Result<SortSpec> {
     Ok(SortSpec { field, direction })
 }
 
-/// Parse columns "title,year,conference"
-pub fn parse_columns(value: &str) -> Result<Vec<Field>> {
+/// Get all column names from the database (excludes internal `id` column).
+pub fn get_all_columns(conn: &rusqlite::Connection) -> Result<Vec<Field>> {
+    let mut stmt = conn
+        .prepare("SELECT name FROM pragma_table_info('papers') WHERE name != 'id' ORDER BY cid")
+        .map_err(|e| format!("无法查询表结构: {e}"))?;
+
+    let columns: Vec<Field> = stmt
+        .query_map([], |row| row.get(0))
+        .map_err(|e| format!("无法获取列信息: {e}"))?
+        .filter_map(|r| r.ok())
+        .map(|name: String| Field(name))
+        .collect();
+
+    if columns.is_empty() {
+        return Err("数据库表中无可用列，请先运行 build-db".to_string());
+    }
+    Ok(columns)
+}
+
+/// Parse column selection (include mode).
+/// Returns selected fields: canonical fields in fixed order, then non-canonical in user-specified order.
+pub fn parse_columns(value: &str, all_columns: &[Field]) -> Result<Vec<Field>> {
     let mut selected = Vec::new();
     for item in value.split(',') {
         let trimmed = item.trim();
@@ -373,6 +335,9 @@ pub fn parse_columns(value: &str) -> Result<Vec<Field>> {
         }
         let field = Field::parse(trimmed);
         if !selected.contains(&field) {
+            if !all_columns.contains(&field) {
+                return Err(format!("未知列: {}", field.as_str()));
+            }
             selected.push(field);
         }
     }
@@ -381,8 +346,15 @@ pub fn parse_columns(value: &str) -> Result<Vec<Field>> {
         return Err("至少需要选择一个列".to_string());
     }
 
-    Ok(crate::models::canonical_fields()
-        .into_iter()
-        .filter(|field| selected.contains(field))
-        .collect())
+    // Canonical fields first in fixed order, then non-canonical in user-specified order
+    let mut result: Vec<Field> = Vec::new();
+    for cf in crate::models::canonical_fields() {
+        if selected.contains(&cf) {
+            result.push(cf);
+        }
+    }
+    selected.retain(|f| !result.contains(f));
+    result.extend(selected);
+
+    Ok(result)
 }

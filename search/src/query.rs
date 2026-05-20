@@ -1,18 +1,23 @@
 use crate::cli::QueryArgs;
 use crate::db::{self, debug};
 use crate::models::{canonical_fields, Field, SortSpec};
+use rusqlite::Connection;
 
 pub type Result<T> = std::result::Result<T, String>;
 
 pub fn run_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
-    let display_fields: Vec<Field> = if let Some(ref cols) = args.columns {
-        let col_str = cols.join(",");
-        db::parse_columns(&col_str)?
+    let db_path = if let Some(ref override_path) = args.db_path_override {
+        std::path::PathBuf::from(override_path)
     } else {
-        canonical_fields()
+        db_path.to_path_buf()
     };
 
-    let results = collect_query_results(args, db_path, &display_fields)?;
+    let conn = db::open_db(&db_path)?;
+    let all_columns = db::get_all_columns(&conn)?;
+
+    let display_fields = compute_display_fields(&args, &all_columns)?;
+
+    let results = collect_query_results(&args, &conn, &display_fields)?;
     for line in results {
         println!("{line}");
     }
@@ -20,9 +25,60 @@ pub fn run_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
     Ok(())
 }
 
+/// Reorder fields so canonical fields come first (in fixed order), then non-canonical fields.
+fn reorder_canonical_first(fields: &mut Vec<Field>) {
+    let canonicals = canonical_fields();
+    let mut result: Vec<Field> = Vec::new();
+    for cf in &canonicals {
+        if let Some(pos) = fields.iter().position(|f| f == cf) {
+            result.push(fields.remove(pos));
+        }
+    }
+    result.extend(fields.drain(..));
+    *fields = result;
+}
+
+fn compute_display_fields(args: &QueryArgs, all_columns: &[Field]) -> Result<Vec<Field>> {
+    if let Some(ref exclude_cols) = args.exclude_columns {
+        if args.columns.is_some() {
+            return Err("--columns 和 --exclude-columns 不能同时使用".to_string());
+        }
+        let excluded: Vec<Field> = exclude_cols.iter().map(|c| Field::parse(c)).collect();
+        let mut result: Vec<Field> = all_columns
+            .iter()
+            .filter(|f| !excluded.contains(f))
+            .cloned()
+            .collect();
+        if result.is_empty() {
+            return Err("排除后无剩余列可显示".to_string());
+        }
+        reorder_canonical_first(&mut result);
+        Ok(result)
+    } else if let Some(ref include_cols) = args.columns {
+        let col_str = include_cols.join(",");
+        db::parse_columns(&col_str, all_columns)
+    } else {
+        Ok(canonical_fields())
+    }
+}
+
 pub fn run_bib_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
-    let display_fields = vec![Field("bib".to_string())];
-    let results = collect_query_results(args, db_path, &display_fields)?;
+    let db_path = if let Some(ref override_path) = args.db_path_override {
+        std::path::PathBuf::from(override_path)
+    } else {
+        db_path.to_path_buf()
+    };
+
+    let conn = db::open_db(&db_path)?;
+
+    let display_fields = if args.columns.is_some() || args.exclude_columns.is_some() {
+        let all_columns = db::get_all_columns(&conn)?;
+        compute_display_fields(&args, &all_columns)?
+    } else {
+        vec![Field("bib".to_string())]
+    };
+
+    let results = collect_query_results(&args, &conn, &display_fields)?;
 
     let mut wrote_entry = false;
     for entry in results {
@@ -41,20 +97,11 @@ pub fn run_bib_query(args: QueryArgs, db_path: &std::path::Path) -> Result<()> {
 }
 
 fn collect_query_results(
-    args: QueryArgs,
-    db_path: &std::path::Path,
+    args: &QueryArgs,
+    conn: &Connection,
     display_fields: &[Field],
 ) -> Result<Vec<String>> {
     debug!("开始查询");
-
-    // Override db path if specified in args
-    let db_path = if let Some(ref override_path) = args.db_path_override {
-        std::path::PathBuf::from(override_path)
-    } else {
-        db_path.to_path_buf()
-    };
-
-    let conn = db::open_db(&db_path)?;
 
     // Merge positional keywords with --keyword
     let mut title_include: Vec<String> = args
@@ -130,7 +177,7 @@ fn collect_query_results(
         .collect::<db::Result<Vec<_>>>()?;
 
     let results = db::query_records(
-        &conn,
+        conn,
         &title_include,
         &title_exclude,
         &level_include,
@@ -140,7 +187,7 @@ fn collect_query_results(
         &year_include,
         &year_exclude,
         &sort_specs,
-        &display_fields,
+        display_fields,
     )?;
 
     Ok(results)

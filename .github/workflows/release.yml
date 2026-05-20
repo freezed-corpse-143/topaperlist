@@ -43,7 +43,7 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path package | Out-Null
           Copy-Item target\release\${{ matrix.binary }} package\
-          Copy-Item Paper package\Paper -Recurse
+          Copy-Item PAPERS package\PAPERS -Recurse
           Copy-Item README.md,LICENSE,CHANGELOG.md package\
           Compress-Archive -Path package\* -DestinationPath ${{ matrix.archive }}
 
@@ -53,7 +53,7 @@ jobs:
         run: |
           mkdir -p package
           cp target/release/${{ matrix.binary }} package/
-          cp -R Paper package/Paper
+          cp -R PAPERS package/PAPERS
           cp README.md LICENSE CHANGELOG.md package/
           tar -czf ${{ matrix.archive }} -C package .
 

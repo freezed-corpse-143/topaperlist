@@ -868,3 +868,158 @@ fn query_pipeline_order_independent() {
 
     let _ = std::fs::remove_dir_all(&dir);
 }
+
+
+// ── 列选择: 非规范字段 (bib) ──
+
+#[test]
+fn query_columns_with_bib_field() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"Test Paper","author":"Alice","bib":"@inproceedings{test2026}","url":"http://ex.com"}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    // --columns with bib (non-canonical field)
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "AAAI", "--columns", "conference,year,title,bib"],
+    );
+    assert_success(&output);
+    let lines = stdout_lines(&output);
+    assert_eq!(lines.len(), 1);
+    let parts: Vec<&str> = lines[0].split('\t').collect();
+    assert_eq!(parts.len(), 4, "应有 4 列: conf, year, title, bib");
+    assert_eq!(parts[0], "AAAI");
+    assert!(parts[3].contains("@inproceedings{test2026}"), "bib 应包含 BibTeX: {}", parts[3]);
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+// ── 列选择: 排除模式 ──
+
+#[test]
+fn query_exclude_columns() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"Test Paper","author":"Alice","bib":"@inproceedings{test2026}","url":"http://ex.com"}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    // --exclude-columns url (show all columns except url)
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "AAAI", "--exclude-columns", "url"],
+    );
+    assert_success(&output);
+    let lines = stdout_lines(&output);
+    assert_eq!(lines.len(), 1);
+    // Should have: level, conference, year, title, author, bib (6 columns)
+    let parts: Vec<&str> = lines[0].split('\t').collect();
+    assert!(parts.len() >= 5, "排除 url 后应至少显示 5 列, 实际 {} 列", parts.len());
+    // Verify url is NOT in output
+    let line_lower = lines[0].to_lowercase();
+    assert!(!line_lower.contains("http://ex.com"), "不应包含 url: {}", lines[0]);
+
+    // --exclude-columns bib,url (show all columns except bib and url)
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "AAAI", "--exclude-columns", "bib,url"],
+    );
+    assert_success(&output);
+    let lines = stdout_lines(&output);
+    assert_eq!(lines.len(), 1);
+    assert!(!lines[0].contains("@inproceedings"), "不应包含 bib: {}", lines[0]);
+    assert!(!lines[0].to_lowercase().contains("http://ex.com"), "不应包含 url");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+// ── 列选择: --columns 和 --exclude-columns 冲突 ──
+
+#[test]
+fn query_columns_and_exclude_columns_conflict() {
+    let (dir, paper_dir, db_path) = setup_query_test();
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "AAAI", "--columns", "title", "--exclude-columns", "url"],
+    );
+    assert!(!output.status.success(), "同时使用 --columns 和 --exclude-columns 应失败");
+    let stderr = stderr_str(&output);
+    assert!(stderr.contains("不能同时使用"), "应提示不能同时使用: {stderr}");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+// ── 列选择: 未知列报错 ──
+
+#[test]
+fn query_unknown_column_error() {
+    let (dir, paper_dir, db_path) = setup_query_test();
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "AAAI", "--columns", "nonexistent_field"],
+    );
+    assert!(!output.status.success(), "未知列应失败");
+    let stderr = stderr_str(&output);
+    assert!(stderr.contains("未知列"), "应提示未知列: {stderr}");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+// ── bib 命令: 支持自定义列 ──
+
+#[test]
+fn bib_command_with_custom_columns() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"FastDriveVLA","author":"Alice","bib":"@inproceedings{fastdrivevla2026, title = {FastDriveVLA}}","url":""}"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    // bib command with --columns title,bib
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["bib", "FastDriveVLA", "--columns", "title,bib"],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("@inproceedings{fastdrivevla2026"), "应包含 bib");
+    assert!(stdout.contains("FastDriveVLA"), "应包含 title");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}

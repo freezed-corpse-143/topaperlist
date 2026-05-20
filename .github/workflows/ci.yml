@@ -1,0 +1,103 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Test ${{ matrix.name }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: linux-x86_64
+            os: ubuntu-latest
+          - name: windows-x86_64
+            os: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        run: rustup default stable
+
+      - name: Run tests
+        run: cargo test
+
+  install-sh:
+    name: Verify install.sh
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        run: rustup default stable
+
+      - name: Run install.sh
+        run: |
+          INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
+          BIN_DIR="${{ runner.temp }}/bin" \
+          ./install.sh
+
+      - name: Smoke test installed binary
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+
+      - name: Test installed binary with bib output
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search bib --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+
+      - name: Test installed binary with column selection
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search query --conference EMNLP --year 2020 --columns conference,year,title "attention"
+
+      - name: Test idempotent re-install
+        run: |
+          INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
+          BIN_DIR="${{ runner.temp }}/bin" \
+          ./install.sh
+
+  install-ps1:
+    name: Verify install.ps1
+    runs-on: windows-latest
+    needs: test
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        run: rustup default stable
+
+      - name: Run install.ps1
+        shell: pwsh
+        run: |
+          $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
+
+      - name: Smoke test installed binary
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          & $bin query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+
+      - name: Test installed binary with bib output
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          & $bin bib --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+
+      - name: Test idempotent re-install
+        shell: pwsh
+        run: |
+          $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath

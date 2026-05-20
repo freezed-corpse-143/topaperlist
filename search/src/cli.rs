@@ -16,7 +16,8 @@ Query options:
       --exclude-year <year>          年份排除（可重复, 支持逗号分隔）
   -s, --sort <field:order>           排序规则（可重复）字段: level, conference, year, title
                                       排序: asc, desc
-  -c, --columns <list>               显示列（逗号分隔）可选: level, conference, year, title
+  -c, --columns <list>               显示列（逗号分隔）可选: level, conference, year, title, bib, author, url 等
+  -X, --exclude-columns <list>       排除列（逗号分隔）显示除指定列外的所有列
       --db-path <path>               数据库文件路径（覆盖 PAPERS_DB_PATH 环境变量）
 
 环境变量:
@@ -55,6 +56,7 @@ pub struct QueryArgs {
     pub exclude_year: Vec<String>,
     pub sort: Vec<String>,
     pub columns: Option<Vec<String>>,
+    pub exclude_columns: Option<Vec<String>>,
     pub db_path_override: Option<String>,
 }
 
@@ -142,6 +144,17 @@ pub fn parse(args: &[String]) -> Command {
                             );
                         }
                     }
+                    "-X" | "--exclude-columns" => {
+                        i += 1;
+                        if let Some(val) = args.get(i) {
+                            qargs.exclude_columns = Some(
+                                val.split(',')
+                                    .map(|s| s.trim().to_string())
+                                    .filter(|s| !s.is_empty())
+                                    .collect(),
+                            );
+                        }
+                    }
                     "--db-path" => {
                         i += 1;
                         if let Some(val) = args.get(i) {
@@ -193,6 +206,15 @@ pub fn parse(args: &[String]) -> Command {
                     _ if arg.starts_with("--columns=") => {
                         let val = arg.trim_start_matches("--columns=");
                         qargs.columns = Some(
+                            val.split(',')
+                                .map(|s| s.trim().to_string())
+                                .filter(|s| !s.is_empty())
+                                .collect(),
+                        );
+                    }
+                    _ if arg.starts_with("--exclude-columns=") => {
+                        let val = arg.trim_start_matches("--exclude-columns=");
+                        qargs.exclude_columns = Some(
                             val.split(',')
                                 .map(|s| s.trim().to_string())
                                 .filter(|s| !s.is_empty())
