@@ -77,40 +77,41 @@
 - The `-` symbol indicates that no file exists for that year.
 - Each line in the txt file is the title of a paper, auto-generated from the corresponding jsonl file.
 
----
 
-## Search Tool
+## How to Search?
 
-The `search` CLI tool queries paper metadata from a SQLite database, built from JSONL files under the `PAPERS/` directory.
+The `search` CLI tool reads paper metadata from a SQLite database, built from JSONL files under the `PAPERS/` directory.
 
-### Data Layout
+### Data layout
 
+```text
+PAPERS/<level>/<conference>/<year>.txt    ← 论文标题（从 jsonl 生成，一行一篇）
+PAPERS/<level>/<conference>/<year>.jsonl  ← 结构化元数据（author, bib, url 等，主数据源）
 ```
-PAPERS/<level>/<conference>/<year>.txt    ← paper titles (generated from jsonl, one per line)
-PAPERS/<level>/<conference>/<year>.jsonl  ← structured metadata (author, bib, url — primary source)
-```
 
-JSONL record format:
+JSONL 每行格式：
 
 ```json
-{"title": "Paper Title", "author": "", "bib": "", "url": ""}
+{"title": "论文标题", "author": "", "bib": "", "url": ""}
 ```
 
-### Pipeline
+### 工作流程
 
-```
+```text
 PAPERS/<level>/<conf>/<year>.jsonl
         │  search build-db
         ▼
   papers.db (SQLite)
         │  search query ...
         ▼
-  stdout (tab-separated)
+  终端输出 (tab 分隔)
 ```
 
 ### Install
 
-Install Rust/Cargo from https://rustup.rs/, then run the install script. The script compiles a release binary, installs the binary and `PAPERS/` data, builds the database, and runs a smoke test.
+安装 Rust/Cargo: https://rustwiki.org/en/cargo/getting-started/installation.html
+
+然后运行安装脚本。脚本会编译 release 二进制、安装二进制和 `PAPERS/` 数据、构建数据库、运行冒烟测试。
 
 **Windows / PowerShell:**
 
@@ -118,13 +119,13 @@ Install Rust/Cargo from https://rustup.rs/, then run the install script. The scr
 .\install.ps1
 ```
 
-Installs to `%LOCALAPPDATA%\topaperlist` by default. Skip PATH modification:
+默认安装到 `%LOCALAPPDATA%\topaperlist`。跳过 PATH 修改：
 
 ```powershell
 .\install.ps1 -NoPath
 ```
 
-Custom command name:
+自定义命令名：
 
 ```powershell
 .\install.ps1 -CommandName topaper-search
@@ -136,32 +137,23 @@ Custom command name:
 sh ./install.sh
 ```
 
-Installs to `$HOME/.local/share/topaperlist` by default. Creates a wrapper script at `$HOME/.local/bin/search`. The install script automatically runs `build-db` and injects `PAPERS_DIR` / `PAPERS_DB_PATH` into your shell RC files (`.bashrc`, `.zshrc`, `.profile`) with idempotent sentinel markers. Re-running the script upgrades the install in place.
+默认安装到 `$HOME/.local/share/topaperlist`，在 `$HOME/.local/bin` 创建 `search` 封装脚本。安装脚本会自动执行 `build-db` 构建数据库。
 
-Custom locations:
+自定义命令名：
 
 ```bash
-INSTALL_ROOT=/opt/topaperlist BIN_DIR=/usr/local/bin sh ./install.sh
 COMMAND_NAME=topaper-search sh ./install.sh
 ```
 
-After install:
+安装完成后可在任意目录使用：
 
 ```bash
 search query --conference AAAI --year 2024 diffusion
 ```
 
-### Environment Variables
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `PAPERS_DIR` | `./PAPERS` | Path to PAPERS data directory |
-| `PAPERS_DB_PATH` | `./papers.db` | Path to SQLite database file |
-| `RUST_LOG` | (off) | Set to `debug` for debug logging |
-
 ### Development
 
-The Rust project is in the `search/` subdirectory:
+Rust 项目位于 `search/` 子目录：
 
 ```bash
 cd search
@@ -169,7 +161,7 @@ cargo build --release
 cargo test
 ```
 
-Set environment variables for local testing:
+设置环境变量方便测试：
 
 ```bash
 export PAPERS_DIR=/path/to/PAPERS
@@ -177,97 +169,74 @@ export PAPERS_DB_PATH=/path/to/papers.db
 RUST_LOG=debug cargo run -- query --conference ICML diffusion
 ```
 
-### Output Format
+### 环境变量
 
-Each matching record is printed as a tab-separated line:
+| 变量 | 默认值 | 说明 |
+|------|--------|------|
+| `PAPERS_DIR` | `<exe>/../../PAPERS` | PAPERS 目录路径 |
+| `PAPERS_DB_PATH` | `<exe>/../../papers.db` | SQLite 数据库文件路径 |
+| `RUST_LOG` | (关闭) | 设为 `debug` 启用调试日志 |
 
-```
+### Output format
+
+每条匹配记录以 tab 分隔输出：
+
+```text
 level	conference	year	title
 ```
 
-Default column order: `level → conference → year → title`.
+默认列顺序：`level -> conference -> year -> title`
 
-### Query Rules
+### 查询规则
 
-- At least one filter is required.
-- All filters are case-insensitive.
-- `--keyword` and positional arguments are equivalent.
-- Duplicate values are automatically deduplicated.
-- Comma-separated values work for all repeatable flags.
-- `level`, `conference`, `year` use exact matching (case-insensitive).
-- Title keywords use substring matching (the title string must contain the keyword).
-- Exclude filters are applied after include filters.
-- Multiple title keywords use AND logic (the title must contain ALL keywords).
+- 至少需要一个筛选条件。
+- 所有筛选条件大小写不敏感。
+- `--keyword` 和位置参数等价。
+- 重复值自动去重。
+- 逗号分隔值可用于所有可重复筛选。
+- `level`、`conference`、`year` 为精确匹配（大小写不敏感）。
+- 标题关键词为子串匹配：标题字符串包含关键词即命中（非按空格分词匹配）。
+- 排除筛选在包含筛选之后应用。
+- 多个标题关键词为 AND 关系（标题必须同时包含所有关键词）。
 
-### Supported Filters
+### 支持的筛选
 
-All options are repeatable and accept comma-separated values:
+所有选项均可重复使用，也支持逗号分隔：
 
-| Filter | Include flag | Exclude flag |
-|--------|-------------|--------------|
-| Title keyword | `-k`, `--keyword`, positional | `-x`, `--exclude`, `--exclude-keyword` |
-| Level | `-l`, `--level` | `--exclude-level` |
-| Conference | `-n`, `--conference` | `--exclude-conference` |
-| Year | `-y`, `--year` | `--exclude-year` |
+- 标题包含关键词: `-k`, `--keyword` 或位置参数
+- 标题排除关键词: `-x`, `--exclude`, `--exclude-keyword`
+- 等级包含: `-l`, `--level`
+- 等级排除: `--exclude-level`
+- 会议包含: `-n`, `--conference`
+- 会议排除: `--exclude-conference`
+- 年份包含: `-y`, `--year`
+- 年份排除: `--exclude-year`
 
-### Sorting
+### 排序
 
-Use `-s` or `--sort <field>:<direction>` (repeatable):
+使用 `-s` 或 `--sort <field>:<order>`：
 
 ```bash
 search query diffusion --sort conference:asc --sort year:desc
 ```
 
-Supported fields: `level`, `conference` (aliases: `conf`, `name`), `year`, `title` (alias: `paper`).
+支持的字段: `level`, `conference` (别名 `conf`, `name`), `year`, `title` (别名 `paper`)
 
-Supported directions: `asc`, `desc`.
+支持的排序: `asc`, `desc`
 
-### Column Selection
+### 列选择
 
-Two mutually exclusive modes:
-
-**Include mode** (`-c`, `--columns`) — select specific columns:
+使用 `-c` 或 `--columns`：
 
 ```bash
-search query --columns conference,year,title,bib diffusion
+search query --columns conference,year,title diffusion
 ```
 
-Canonical columns appear first in fixed order (`level → conference → year → title`), followed by non-canonical columns (`bib`, `author`, `url`, etc.) in the order specified.
+列顺序始终为规范顺序: `level -> conference -> year -> title`
 
-**Exclude mode** (`-X`, `--exclude-columns`) — show all columns except the listed ones:
+### SQL 扩展
 
-```bash
-search query --conference AAAI --exclude-columns url
-```
-
-Default (no `--columns` or `--exclude-columns`): the four canonical fields.
-
-### BibTeX Export
-
-Use `search bib` to print BibTeX entries using the same filters:
-
-```bash
-search bib --keyword vla
-search bib --conference ICML --year 2024
-```
-
-The `bib` subcommand defaults to showing only the `bib` column. You can customize columns with `--columns` / `--exclude-columns`:
-
-```bash
-search bib --keyword vla --columns title,bib
-```
-
-### SQL Templates
-
-Reusable SQL templates live in `search/sql/`:
-
-| Template | Pattern |
-|----------|---------|
-| `filter_set.sql` | Set membership (IN / NOT IN) — level, conference, year |
-| `filter_substring.sql` | Substring match (LIKE / NOT LIKE) — title |
-| `projection.sql` | Final column projection + ORDER BY |
-
-Filters are composed via nested subqueries. See `search/sql/query.sql` for a worked pipeline example.
+`sql/` 目录（在 `search/sql/` 下）包含模块化过滤器 SQL 文件，通过嵌套子查询管道组合。新增过滤功能：添加 `.sql` 文件 + CLI 子命令。
 
 ### Examples
 
@@ -278,8 +247,6 @@ search query --keyword diffusion --keyword graph
 search query --level A --conference AAAI --year 2024
 search query --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
 search query --exclude-level B --exclude-year 2024
-search query --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc
+search query --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
 search query --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
-search query --conference AAAI --exclude-columns url --sort year:desc
-search bib --keyword vla
 ```

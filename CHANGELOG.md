@@ -1,22 +1,30 @@
 # Changelog
 
-## v2.0.0-dev (Unreleased)
+## v2.1.0-dev (Unreleased)
+
+- **Column include/exclude modes**: add `--exclude-columns` / `-X` flag for showing all columns except specified ones. Fix `--columns` to support non-canonical fields (`bib`, `author`, `url`, etc.) — previously these were silently dropped. `search bib` now accepts `--columns` / `--exclude-columns` for custom field output.
+- **Generic SQL filter templates**: consolidate 8 field-specific filter templates into 2 generic templates — `filter_set.sql` (IN / NOT IN for level, conference, year) and `filter_substring.sql` (LIKE / NOT LIKE for title). Extract `apply_set_filter` / `apply_like_filter` helpers in `db.rs`, halving `query_records` line count.
+- **Install script overhaul**: idempotent upgrade flow — safe to run repeatedly. Shell RC env-var injection (`PAPERS_DIR`, `PAPERS_DB_PATH`, `PATH`) with sentinel markers for clean removal. UTF-8 output guard. Cargo detection without auto-install (warns and exits). All messages in English. (install.sh, install.ps1)
+- **CI workflow**: new `.github/workflows/ci.yml` — runs `cargo test` matrix (ubuntu + windows) and verifies `install.sh` / `install.ps1` smoke tests, bib export, column selection, and idempotent re-install on every push and PR to main.
+- **Tests**: 5 new integration tests for column selection features (bib field, exclude mode, conflict detection, unknown column error, bib command with custom columns). 40 tests total.
+
+## v2.0.0-dev
 
 - **CLI BibTeX query**: add `search bib ...` / `search b ...` for printing BibTeX entries using the same filters as `search query`.
 - **Installer robustness**: install scripts now report new install vs replacement vs legacy `PaperJson` upgrade, clean legacy data, persist Windows data-path environment variables, and avoid treating native stderr output as install failure.
 
-- **论文数据更新**: 更新所有会议和年份的论文数据（新增 2026 年数据、CRYPTO 2025-2026 移除、EACL 精简）。
-- **TXT 自动生成**: txt 文件由 jsonl 自动生成（`jq -r '.title'`），不再手动维护。
-- **SQL 占位符区分**: 所有过滤器 SQL 模板使用有区分度的占位符（`{values}`, `{like_clauses}`, `{not_like_clauses}`），排除过滤器统一使用 `NOT IN` 模式。
-- **架构重构**: Rust 项目封装到 `search/` 子目录，代码对用户透明。
-- **数据目录重命名**: `Paper/` → `PAPERS/`。
-- **JSONL 支持**: 每个 `<year>.txt` 对应 `<year>.jsonl`，元数据结构为 `{"title","author","bib","url"}`。
-- **读查分离**: `search build-db` 读取 JSONL 构建 SQLite 数据库；`search query` 从数据库查询。
-- **SQL 扩展层**: `sql/` 目录包含模块化过滤器（标题/等级/会议/年份的包含/排除），通过嵌套子查询管道组合。
-- **动态字段检测**: 从 JSONL 首行自动检测字段结构，无需硬编码。
-- **环境变量配置**: `PAPERS_DIR` 和 `PAPERS_DB_PATH` 取代硬编码路径；`RUST_LOG=debug` 启用调试日志。
-- **用户友好错误提示**: 目录缺失、结构不符、格式错误等提供明确中文错误信息。
-- **测试覆盖**: 34 个集成测试，覆盖所有过滤器、大小写、子串匹配、管道组合等场景。
+- **Paper data update**: refresh paper data across all venues and years (add 2026 data, remove CRYPTO 2025-2026, trim EACL).
+- **Auto-generated TXT files**: txt files are now generated from jsonl (`jq -r '.title'`) — no longer maintained manually.
+- **SQL placeholder distinction**: all filter SQL templates use field-distinctive placeholders; exclude filters uniformly use `NOT IN`.
+- **Architecture restructure**: Rust project moved into `search/` subdirectory; code is transparent to end users.
+- **Data directory rename**: `Paper/` → `PAPERS/`.
+- **JSONL support**: each `<year>.txt` is paired with `<year>.jsonl` containing structured metadata (`{"title","author","bib","url"}`).
+- **Read-query separation**: `search build-db` reads JSONL and builds a SQLite database; `search query` reads from the database.
+- **SQL extension layer**: modular filter templates under `sql/` (title/level/conference/year include/exclude), composed via nested subqueries.
+- **Dynamic field detection**: detect JSONL schema from the first line — no hardcoded column list needed.
+- **Environment variable configuration**: `PAPERS_DIR` and `PAPERS_DB_PATH` replace hardcoded paths; `RUST_LOG=debug` enables debug logging.
+- **User-friendly error messages**: clear error messages for missing directories, malformed files, schema mismatches, etc.
+- **Test coverage**: 34 integration tests covering all filter types, case insensitivity, substring matching, and pipeline combinations.
 
 ## v1.0.0-dev
 
