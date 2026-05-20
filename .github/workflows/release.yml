@@ -32,9 +32,11 @@ jobs:
         run: rustup default stable
 
       - name: Test
+        working-directory: search
         run: cargo test
 
       - name: Build
+        working-directory: search
         run: cargo build --release
 
       - name: Package Windows
@@ -42,7 +44,7 @@ jobs:
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force -Path package | Out-Null
-          Copy-Item target\release\${{ matrix.binary }} package\
+          Copy-Item search\target\release\${{ matrix.binary }} package\
           Copy-Item PAPERS package\PAPERS -Recurse
           Copy-Item README.md,LICENSE,CHANGELOG.md package\
           Compress-Archive -Path package\* -DestinationPath ${{ matrix.archive }}
@@ -52,7 +54,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p package
-          cp target/release/${{ matrix.binary }} package/
+          cp search/target/release/${{ matrix.binary }} package/
           cp -R PAPERS package/PAPERS
           cp README.md LICENSE CHANGELOG.md package/
           tar -czf ${{ matrix.archive }} -C package .
