@@ -33,6 +33,17 @@ BIN_DIR=$(CDPATH= cd -- "$BIN_DIR" && pwd)
 SOURCE_PAPERS=$(CDPATH= cd -- "$ROOT/PAPERS" && pwd)
 DEST_PAPERS="$INSTALL_ROOT/PAPERS"
 DEST_DB="$INSTALL_ROOT/papers.db"
+LEGACY_DATA="$INSTALL_ROOT/PaperJson"
+WRAPPER="$BIN_DIR/$COMMAND_NAME"
+
+echo "Install root: $INSTALL_ROOT"
+if [ ! -f "$INSTALL_ROOT/bin/search" ] && [ ! -e "$WRAPPER" ] && [ ! -d "$DEST_PAPERS" ] && [ ! -f "$DEST_DB" ] && [ ! -d "$LEGACY_DATA" ]; then
+    echo "Install mode: new install"
+elif [ -d "$LEGACY_DATA" ]; then
+    echo "Install mode: replace legacy install (PaperJson -> PAPERS + papers.db)"
+else
+    echo "Install mode: replace existing install"
+fi
 
 is_same_or_inside() {
     case "$1" in
@@ -74,8 +85,12 @@ cp "$BUILT_BINARY" "$INSTALL_ROOT/bin/search"
 rm -rf "$DEST_PAPERS"
 cp -R "$SOURCE_PAPERS" "$DEST_PAPERS"
 
+if [ -d "$LEGACY_DATA" ]; then
+    rm -rf "$LEGACY_DATA"
+    echo "Removed legacy PaperJson data at $LEGACY_DATA"
+fi
+
 # Create wrapper script with env vars
-WRAPPER="$BIN_DIR/$COMMAND_NAME"
 cat > "$WRAPPER" <<WRAPPEREOF
 #!/usr/bin/env sh
 export PAPERS_DIR="$DEST_PAPERS"

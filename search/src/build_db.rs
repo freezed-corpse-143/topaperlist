@@ -7,7 +7,20 @@ use crate::models::IndexedRecord;
 
 pub type Result<T> = std::result::Result<T, String>;
 
-/// Resolve PAPERS directory. Priority: PAPERS_DIR env → search/target/../../PAPERS
+fn first_existing_or_default(candidates: &[PathBuf]) -> PathBuf {
+    for candidate in candidates {
+        if candidate.exists() {
+            return std::fs::canonicalize(candidate).unwrap_or_else(|_| candidate.clone());
+        }
+    }
+
+    candidates
+        .first()
+        .cloned()
+        .unwrap_or_else(|| PathBuf::from("."))
+}
+
+/// Resolve PAPERS directory. Priority: PAPERS_DIR env, installed layout, then repo layout.
 pub fn resolve_papers_dir() -> Result<PathBuf> {
     if let Ok(dir) = std::env::var("PAPERS_DIR") {
         let path = PathBuf::from(&dir);
@@ -18,14 +31,21 @@ pub fn resolve_papers_dir() -> Result<PathBuf> {
     let exe = std::env::current_exe().map_err(|e| format!("无法获取可执行文件路径: {e}"))?;
     let exe_dir = exe.parent().ok_or("无法获取可执行文件目录")?;
 
-    // From search/target/<profile>/search → up 3 levels → PAPERS
-    let default = exe_dir.join("..").join("..").join("..").join("PAPERS");
-    let canonical = std::fs::canonicalize(&default).unwrap_or(default);
+    // Prefer the installed layout: <install-root>/bin/search next to <install-root>/PAPERS.
+    let candidates = [
+        exe_dir.join("..").join("PAPERS"),
+        exe_dir.join("..").join("..").join("..").join("PAPERS"),
+        std::env::current_dir()
+            .unwrap_or_else(|_| PathBuf::from("."))
+            .join("PAPERS"),
+        exe_dir.join("..").join("..").join("PAPERS"),
+    ];
+    let canonical = first_existing_or_default(&candidates);
     debug!("使用默认 PAPERS 目录: {}", canonical.display());
     Ok(canonical)
 }
 
-/// Resolve DB path. Priority: PAPERS_DB_PATH env → search/target/../../papers.db
+/// Resolve DB path. Priority: PAPERS_DB_PATH env, installed layout, then repo layout.
 pub fn resolve_db_path() -> Result<PathBuf> {
     if let Ok(path) = std::env::var("PAPERS_DB_PATH") {
         let p = PathBuf::from(&path);
@@ -36,8 +56,15 @@ pub fn resolve_db_path() -> Result<PathBuf> {
     let exe = std::env::current_exe().map_err(|e| format!("无法获取可执行文件路径: {e}"))?;
     let exe_dir = exe.parent().ok_or("无法获取可执行文件目录")?;
 
-    let default = exe_dir.join("..").join("..").join("papers.db");
-    let canonical = std::fs::canonicalize(&default).unwrap_or(default);
+    let candidates = [
+        exe_dir.join("..").join("papers.db"),
+        exe_dir.join("..").join("..").join("..").join("papers.db"),
+        std::env::current_dir()
+            .unwrap_or_else(|_| PathBuf::from("."))
+            .join("papers.db"),
+        exe_dir.join("..").join("..").join("papers.db"),
+    ];
+    let canonical = first_existing_or_default(&candidates);
     debug!("使用默认数据库路径: {}", canonical.display());
     Ok(canonical)
 }
@@ -74,8 +101,8 @@ fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
                     continue;
                 }
 
-                let file = std::fs::File::open(&file_path)
-                    .map_err(|e| format!("无法打开 JSONL: {e}"))?;
+                let file =
+                    std::fs::File::open(&file_path).map_err(|e| format!("无法打开 JSONL: {e}"))?;
                 let reader = std::io::BufReader::new(file);
 
                 for line in reader.lines() {
@@ -96,11 +123,7 @@ fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
                         return Err("JSONL 对象为空，无字段可检测".to_string());
                     }
 
-                    eprintln!(
-                        "检测到字段结构 (来自 {}): {:?}",
-                        file_path.display(),
-                        keys
-                    );
+                    eprintln!("检测到字段结构 (来自 {}): {:?}", file_path.display(), keys);
                     return Ok((keys, file_path.clone()));
                 }
             }
@@ -161,8 +184,8 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
             .to_string();
         debug!("扫描 level: {level}");
 
-        let conf_entries = std::fs::read_dir(&level_path)
-            .map_err(|e| format!("无法读取 level 目录: {e}"))?;
+        let conf_entries =
+            std::fs::read_dir(&level_path).map_err(|e| format!("无法读取 level 目录: {e}"))?;
 
         for conf_entry in conf_entries {
             let conf_entry = conf_entry.map_err(|e| format!("读取 conference 条目失败: {e}"))?;
@@ -173,9 +196,7 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
             let conference = conf_path
                 .file_name()
                 .and_then(|n| n.to_str())
-                .ok_or_else(|| {
-                    format!("无效的 conference 目录名: {}", conf_path.display())
-                })?
+                .ok_or_else(|| format!("无效的 conference 目录名: {}", conf_path.display()))?
                 .to_string();
             debug!("  扫描 conference: {conference}");
 
@@ -193,7 +214,9 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
                 let year = file_path
                     .file_stem()
                     .and_then(|s| s.to_str())
-                    .ok_or_else(|| format!("无效的文件名（应为 <year>.jsonl）: {}", file_path.display()))?
+                    .ok_or_else(|| {
+                        format!("无效的文件名（应为 <year>.jsonl）: {}", file_path.display())
+                    })?
                     .to_string();
 
                 jsonl_file_count += 1;
@@ -294,11 +317,7 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
     db::create_table(&conn, &data_columns)?;
     let count = db::insert_records(&conn, &records, &data_columns)?;
 
-    eprintln!(
-        "数据库构建完成: {} 条记录写入 {}",
-        count,
-        db_path.display()
-    );
+    eprintln!("数据库构建完成: {} 条记录写入 {}", count, db_path.display());
     println!(
         "数据库构建完成: {} 条论文记录\n  固定字段: {:?}\n  数据字段: {:?}",
         count,
