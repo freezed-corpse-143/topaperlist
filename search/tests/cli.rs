@@ -11,13 +11,13 @@ fn build_db_creates_database() {
     let db_path = dir.join("test.db");
 
     create_test_papers(
-        &paper_dir, "A", "ICML", "2024",
+        &paper_dir,
+        "A",
+        "ICML",
+        "2024",
         &["First Paper", "Second Paper"],
     );
-    create_test_papers(
-        &paper_dir, "B", "EMNLP", "2025",
-        &["Third Paper"],
-    );
+    create_test_papers(&paper_dir, "B", "EMNLP", "2025", &["Third Paper"]);
 
     let output = run_search(&paper_dir, &db_path, &["build-db"]);
     assert_success(&output);
@@ -120,22 +120,34 @@ fn setup_query_test() -> (std::path::PathBuf, std::path::PathBuf, std::path::Pat
     let db_path = dir.join("test.db");
 
     create_test_papers(
-        &paper_dir, "A", "AAAI", "2024",
+        &paper_dir,
+        "A",
+        "AAAI",
+        "2024",
         &[
             "Diffusion Models for Image Generation",
             "Graph Neural Networks for Drug Discovery",
         ],
     );
     create_test_papers(
-        &paper_dir, "A", "ICML", "2024",
+        &paper_dir,
+        "A",
+        "ICML",
+        "2024",
         &["A Survey of Graph Diffusion Models"],
     );
     create_test_papers(
-        &paper_dir, "A", "ICML", "2023",
+        &paper_dir,
+        "A",
+        "ICML",
+        "2023",
         &["Attention Mechanisms in Deep Learning"],
     );
     create_test_papers(
-        &paper_dir, "B", "EMNLP", "2024",
+        &paper_dir,
+        "B",
+        "EMNLP",
+        "2024",
         &["Survey of Text Generation Methods"],
     );
 
@@ -160,6 +172,34 @@ fn query_with_keyword_filter() {
             "每条结果应包含 diffusion: {line}"
         );
     }
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn bib_command_outputs_single_paper_bibtex() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"FastDriveVLA: Efficient End-to-End Driving","author":"Alice","bib":"@inproceedings{fastdrivevla2026,\n  title = {FastDriveVLA: Efficient End-to-End Driving}\n}","url":""}
+{"title":"Other VLA Paper","author":"Bob","bib":"@inproceedings{other2026,\n  title = {Other VLA Paper}\n}","url":""}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(&paper_dir, &db_path, &["bib", "FastDriveVLA"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("@inproceedings{fastdrivevla2026"));
+    assert!(stdout.contains("FastDriveVLA: Efficient End-to-End Driving"));
+    assert!(!stdout.contains("@inproceedings{other2026"));
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -218,12 +258,18 @@ fn query_with_year_filter() {
 fn query_with_exclude_filters() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--exclude-level", "B",
-        "--exclude-keyword", "survey",
-        "diffusion",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--exclude-level",
+            "B",
+            "--exclude-keyword",
+            "survey",
+            "diffusion",
+        ],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert!(!lines.is_empty(), "应有结果");
@@ -233,7 +279,10 @@ fn query_with_exclude_filters() {
         assert_ne!(parts[0], "B", "不应包含 B level");
         let title_lower = parts[3].to_lowercase();
         assert!(!title_lower.contains("survey"), "不应包含 survey: {line}");
-        assert!(title_lower.contains("diffusion"), "应包含 diffusion: {line}");
+        assert!(
+            title_lower.contains("diffusion"),
+            "应包含 diffusion: {line}"
+        );
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -243,13 +292,21 @@ fn query_with_exclude_filters() {
 fn query_with_combined_filters() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--level", "A",
-        "--conference", "ICML,AAAI",
-        "--year", "2024",
-        "--keyword", "graph",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--level",
+            "A",
+            "--conference",
+            "ICML,AAAI",
+            "--year",
+            "2024",
+            "--keyword",
+            "graph",
+        ],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -268,12 +325,19 @@ fn query_with_combined_filters() {
 fn query_with_sort() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--conference", "ICML",
-        "--sort", "year:desc",
-        "--sort", "title:asc",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--conference",
+            "ICML",
+            "--sort",
+            "year:desc",
+            "--sort",
+            "title:asc",
+        ],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -292,11 +356,17 @@ fn query_with_sort() {
 fn query_with_custom_columns() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--conference", "AAAI",
-        "--columns", "conference,year,title",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--conference",
+            "AAAI",
+            "--columns",
+            "conference,year,title",
+        ],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -325,7 +395,11 @@ fn query_positional_keywords_work_like_explicit() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     let positional = run_search(&paper_dir, &db_path, &["query", "graph", "diffusion"]);
-    let explicit = run_search(&paper_dir, &db_path, &["query", "--keyword", "graph,diffusion"]);
+    let explicit = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--keyword", "graph,diffusion"],
+    );
 
     assert_success(&positional);
     assert_success(&explicit);
@@ -373,11 +447,11 @@ fn rebuild_db_replaces_old_data() {
 fn query_with_exclude_year() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--conference", "ICML",
-        "--exclude-year", "2023",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "ICML", "--exclude-year", "2023"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -393,11 +467,11 @@ fn query_with_exclude_year() {
 fn query_exclude_conference() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--level", "A",
-        "--exclude-conference", "AAAI",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--level", "A", "--exclude-conference", "AAAI"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -432,7 +506,11 @@ fn query_title_exclude_standalone() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     // Only exclude keywords, no include filter
-    let output = run_search(&paper_dir, &db_path, &["query", "--exclude-keyword", "survey"]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--exclude-keyword", "survey"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert!(!lines.is_empty(), "应有结果");
@@ -487,7 +565,11 @@ fn query_title_multiple_keywords_and_logic() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     // Both "graph" AND "diffusion" must appear in the title
-    let output = run_search(&paper_dir, &db_path, &["query", "--keyword", "graph", "--keyword", "diffusion"]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--keyword", "graph", "--keyword", "diffusion"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert!(!lines.is_empty(), "应有同时包含 graph 和 diffusion 的结果");
@@ -495,7 +577,10 @@ fn query_title_multiple_keywords_and_logic() {
     for line in &lines {
         let title_lower = line.to_lowercase();
         assert!(title_lower.contains("graph"), "标题应包含 graph: {line}");
-        assert!(title_lower.contains("diffusion"), "标题应包含 diffusion: {line}");
+        assert!(
+            title_lower.contains("diffusion"),
+            "标题应包含 diffusion: {line}"
+        );
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -506,8 +591,17 @@ fn query_title_multiple_exclude_keywords() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     let output = run_search(
-        &paper_dir, &db_path,
-        &["query", "--conference", "ICML", "--exclude-keyword", "survey", "--exclude-keyword", "attention"],
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--conference",
+            "ICML",
+            "--exclude-keyword",
+            "survey",
+            "--exclude-keyword",
+            "attention",
+        ],
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
@@ -515,7 +609,10 @@ fn query_title_multiple_exclude_keywords() {
     for line in &lines {
         let title_lower = line.to_lowercase();
         assert!(!title_lower.contains("survey"), "不应包含 survey: {line}");
-        assert!(!title_lower.contains("attention"), "不应包含 attention: {line}");
+        assert!(
+            !title_lower.contains("attention"),
+            "不应包含 attention: {line}"
+        );
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -550,7 +647,11 @@ fn query_level_filter_case_insensitive() {
 
     assert_success(&lower);
     assert_success(&upper);
-    assert_eq!(stdout_lines(&lower), stdout_lines(&upper), "level 大小写应不敏感");
+    assert_eq!(
+        stdout_lines(&lower),
+        stdout_lines(&upper),
+        "level 大小写应不敏感"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -564,7 +665,11 @@ fn query_conference_filter_case_insensitive() {
 
     assert_success(&lower);
     assert_success(&upper);
-    assert_eq!(stdout_lines(&lower), stdout_lines(&upper), "conference 大小写应不敏感");
+    assert_eq!(
+        stdout_lines(&lower),
+        stdout_lines(&upper),
+        "conference 大小写应不敏感"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -585,9 +690,12 @@ fn query_title_substring_matching() {
     // "diffus" should match at least as many as "diffusion" (superset)
     let full_lines = stdout_lines(&full);
     let substr_lines = stdout_lines(&substr);
-    assert!(substr_lines.len() >= full_lines.len(),
+    assert!(
+        substr_lines.len() >= full_lines.len(),
         "子串 diffus 应匹配不少于 diffusion 的结果: diffus={} vs diffusion={}",
-        substr_lines.len(), full_lines.len());
+        substr_lines.len(),
+        full_lines.len()
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -599,11 +707,17 @@ fn query_include_exclude_same_dimension() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     // Include ICML and AAAI, but exclude AAAI → only ICML remains
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--conference", "ICML,AAAI",
-        "--exclude-conference", "AAAI",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--conference",
+            "ICML,AAAI",
+            "--exclude-conference",
+            "AAAI",
+        ],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert!(!lines.is_empty(), "应有 ICML 结果");
@@ -623,7 +737,11 @@ fn query_include_exclude_same_dimension() {
 fn query_empty_result_when_nothing_matches() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &["query", "--keyword", "NONEXISTENTKEYWORDXYZ"]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--keyword", "NONEXISTENTKEYWORDXYZ"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert!(lines.is_empty(), "不存在的关键词应返回空结果");
@@ -637,12 +755,24 @@ fn query_empty_result_when_nothing_matches() {
 fn query_comma_separated_keywords() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let comma = run_search(&paper_dir, &db_path, &["query", "--keyword", "graph,diffusion"]);
-    let separate = run_search(&paper_dir, &db_path, &["query", "--keyword", "graph", "--keyword", "diffusion"]);
+    let comma = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--keyword", "graph,diffusion"],
+    );
+    let separate = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--keyword", "graph", "--keyword", "diffusion"],
+    );
 
     assert_success(&comma);
     assert_success(&separate);
-    assert_eq!(stdout_lines(&comma), stdout_lines(&separate), "逗号分隔和多次 --keyword 应等价");
+    assert_eq!(
+        stdout_lines(&comma),
+        stdout_lines(&separate),
+        "逗号分隔和多次 --keyword 应等价"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -652,11 +782,19 @@ fn query_comma_separated_levels() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
     let comma = run_search(&paper_dir, &db_path, &["query", "--level", "A,B"]);
-    let separate = run_search(&paper_dir, &db_path, &["query", "--level", "A", "--level", "B"]);
+    let separate = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--level", "A", "--level", "B"],
+    );
 
     assert_success(&comma);
     assert_success(&separate);
-    assert_eq!(stdout_lines(&comma), stdout_lines(&separate), "逗号分隔和多次 --level 应等价");
+    assert_eq!(
+        stdout_lines(&comma),
+        stdout_lines(&separate),
+        "逗号分隔和多次 --level 应等价"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -667,11 +805,11 @@ fn query_comma_separated_levels() {
 fn query_sort_ascending() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
-    let output = run_search(&paper_dir, &db_path, &[
-        "query",
-        "--conference", "ICML",
-        "--sort", "year:asc",
-    ]);
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--conference", "ICML", "--sort", "year:asc"],
+    );
     assert_success(&output);
     let lines = stdout_lines(&output);
 
@@ -696,7 +834,10 @@ fn query_pipeline_order_independent() {
 
     // Create test data where order of filtering could matter
     create_test_papers(
-        &paper_dir, "A", "ICML", "2024",
+        &paper_dir,
+        "A",
+        "ICML",
+        "2024",
         &["Graph Diffusion Methods"],
     );
 
@@ -704,9 +845,21 @@ fn query_pipeline_order_independent() {
     assert_success(&output);
 
     // Apply filters in different effective orders — result should be the same
-    let result1 = run_search(&paper_dir, &db_path, &[
-        "query", "--keyword", "graph", "--keyword", "diffusion", "--level", "A", "--year", "2024",
-    ]);
+    let result1 = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--keyword",
+            "graph",
+            "--keyword",
+            "diffusion",
+            "--level",
+            "A",
+            "--year",
+            "2024",
+        ],
+    );
     assert_success(&result1);
 
     let lines = stdout_lines(&result1);

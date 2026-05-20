@@ -2,6 +2,7 @@
 
 ## v2.0.0-dev (Unreleased)
 
+- **CLI BibTeX query**: add `search bib ...` / `search b ...` for printing BibTeX entries using the same filters as `search query`.
 - **Installer robustness**: install scripts now report new install vs replacement vs legacy `PaperJson` upgrade, clean legacy data, persist Windows data-path environment variables, and avoid treating native stderr output as install failure.
 
 - **论文数据更新**: 更新所有会议和年份的论文数据（新增 2026 年数据、CRYPTO 2025-2026 移除、EACL 精简）。

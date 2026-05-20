@@ -1,6 +1,7 @@
 pub const USAGE: &str = r#"Usage:
   search build-db                    从 PAPERS 目录构建 SQLite 数据库
   search query [OPTIONS] [<keywords>] 搜索论文
+  search bib [OPTIONS] [<keywords>]   输出 BibTeX
   search --help                       显示此帮助
 
 Query options:
@@ -30,12 +31,14 @@ Examples:
   search query --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
   search query --exclude-level B --exclude-year 2024
   search query --sort year:desc --columns conference,year,title diffusion
+  search bib --keyword vla
 "#;
 
 #[derive(Debug)]
 pub enum Command {
     BuildDb,
     Query(QueryArgs),
+    Bib(QueryArgs),
     Help,
 }
 
@@ -65,7 +68,8 @@ pub fn parse(args: &[String]) -> Command {
     match subcommand.as_str() {
         "build-db" => Command::BuildDb,
 
-        "query" | "q" => {
+        "query" | "q" | "bib" | "b" => {
+            let output_bib = matches!(subcommand.as_str(), "bib" | "b");
             let mut qargs = QueryArgs::default();
             let mut i = 2;
 
@@ -211,7 +215,11 @@ pub fn parse(args: &[String]) -> Command {
                 i += 1;
             }
 
-            Command::Query(qargs)
+            if output_bib {
+                Command::Bib(qargs)
+            } else {
+                Command::Query(qargs)
+            }
         }
 
         "-h" | "--help" | "help" => Command::Help,
