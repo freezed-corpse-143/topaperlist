@@ -8,7 +8,7 @@
 | CVPR       | [2019](PAPERS/A/CVPR/2019.txt)    | [2020](PAPERS/A/CVPR/2020.txt)    | [2021](PAPERS/A/CVPR/2021.txt)    | [2022](PAPERS/A/CVPR/2022.txt)    | [2023](PAPERS/A/CVPR/2023.txt)    | [2024](PAPERS/A/CVPR/2024.txt)    | [2025](PAPERS/A/CVPR/2025.txt) | [2026](PAPERS/A/CVPR/2026.txt) |
 | ICCV       | [2019](PAPERS/A/ICCV/2019.txt)    | -                              | [2021](PAPERS/A/ICCV/2021.txt)    | -                              | [2023](PAPERS/A/ICCV/2023.txt)    | -                              | [2025](PAPERS/A/ICCV/2025.txt) | - |
 | ICDE       | [2019](PAPERS/A/ICDE/2019.txt)    | [2020](PAPERS/A/ICDE/2020.txt)    | [2021](PAPERS/A/ICDE/2021.txt)    | [2022](PAPERS/A/ICDE/2022.txt)    | [2023](PAPERS/A/ICDE/2023.txt)    | [2024](PAPERS/A/ICDE/2024.txt)    | [2025](PAPERS/A/ICDE/2025.txt) | - |
-| ICML       | [2019](PAPERS/A/ICML/2019.txt)    | [2020](PAPERS/A/ICML/2020.txt)    | [2021](PAPERS/A/ICML/2021.txt)    | [2022](PAPERS/A/ICML/2022.txt)    | [2023](PAPERS/A/ICML/2023.txt)    | [2024](PAPERS/A/ICML/2024.txt)    | [2025](PAPERS/A/ICML/2025.txt) | - |
+| ICML       | [2019](PAPERS/A/ICML/2019.txt)    | [2020](PAPERS/A/ICML/2020.txt)    | [2021](PAPERS/A/ICML/2021.txt)    | [2022](PAPERS/A/ICML/2022.txt)    | [2023](PAPERS/A/ICML/2023.txt)    | [2024](PAPERS/A/ICML/2024.txt)    | [2025](PAPERS/A/ICML/2025.txt) | [2026](PAPERS/A/ICML/2026.txt) |
 | NeurIPS    | [2019](PAPERS/A/NeurIPS/2019.txt) | [2020](PAPERS/A/NeurIPS/2020.txt) | [2021](PAPERS/A/NeurIPS/2021.txt) | [2022](PAPERS/A/NeurIPS/2022.txt) | [2023](PAPERS/A/NeurIPS/2023.txt) | [2024](PAPERS/A/NeurIPS/2024.txt) | [2025](PAPERS/A/NeurIPS/2025.txt) | - |
 | SIGKDD     | [2019](PAPERS/A/SIGKDD/2019.txt)  | [2020](PAPERS/A/SIGKDD/2020.txt)  | [2021](PAPERS/A/SIGKDD/2021.txt)  | [2022](PAPERS/A/SIGKDD/2022.txt)  | [2023](PAPERS/A/SIGKDD/2023.txt)  | [2024](PAPERS/A/SIGKDD/2024.txt)  | [2025](PAPERS/A/SIGKDD/2025.txt) | - |
 | SIGMOD     | [2019](PAPERS/A/SIGMOD/2019.txt)  | [2020](PAPERS/A/SIGMOD/2020.txt)  | [2021](PAPERS/A/SIGMOD/2021.txt)  | [2022](PAPERS/A/SIGMOD/2022.txt)  | [2023](PAPERS/A/SIGMOD/2023.txt)  | [2024](PAPERS/A/SIGMOD/2024.txt)  | [2025](PAPERS/A/SIGMOD/2025.txt) | [2026](PAPERS/A/SIGMOD/2026.txt) |
@@ -226,17 +226,48 @@ search query diffusion --sort conference:asc --sort year:desc
 
 ### 列选择
 
-使用 `-c` 或 `--columns`：
+**Include 模式** (`-c`, `--columns`) — 选择显示的列：
 
 ```bash
-search query --columns conference,year,title diffusion
+search query --columns conference,year,title,bib diffusion
 ```
 
-列顺序始终为规范顺序: `level -> conference -> year -> title`
+规范列优先按固定顺序显示（`level → conference → year → title`），非规范列（`bib`、`author`、`url` 等）按指定顺序紧随其后。
 
-### SQL 扩展
+**Exclude 模式** (`-X`, `--exclude-columns`) — 显示除指定列以外的所有列：
 
-`sql/` 目录（在 `search/sql/` 下）包含模块化过滤器 SQL 文件，通过嵌套子查询管道组合。新增过滤功能：添加 `.sql` 文件 + CLI 子命令。
+```bash
+search query --conference AAAI --exclude-columns url
+```
+
+默认（未指定 `--columns` 或 `--exclude-columns`）：显示四个规范列。
+
+### BibTeX 导出
+
+使用 `search bib` 输出 BibTeX 条目，支持的筛选条件与查询相同：
+
+```bash
+search bib --keyword vla
+search bib --conference ICML --year 2024
+```
+
+`bib` 子命令默认仅显示 `bib` 列，可通过 `--columns` / `--exclude-columns` 自定义：
+
+```bash
+search bib --keyword vla --columns title,bib
+```
+
+### SQL 模板
+
+可复用的 SQL 模板位于 `search/sql/` 目录：
+
+| 模板 | 用途 |
+|------|------|
+| `filter_set.sql` | 集合成员筛选 (IN / NOT IN) — level, conference, year |
+| `filter_substring.sql` | 子串匹配筛选 (LIKE / NOT LIKE) — title |
+| `projection.sql` | 最终列投影 + ORDER BY |
+
+筛选条件通过嵌套子查询组合，示例见 `search/sql/query.sql`。
 
 ### Examples
 
@@ -247,6 +278,8 @@ search query --keyword diffusion --keyword graph
 search query --level A --conference AAAI --year 2024
 search query --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
 search query --exclude-level B --exclude-year 2024
-search query --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
+search query --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc
 search query --conference ICML,NeurIPS --exclude-year 2025 --columns conference,year,title diffusion
+search query --conference AAAI --exclude-columns url --sort year:desc
+search bib --keyword vla
 ```

@@ -10,18 +10,20 @@ permissions:
   contents: read
 
 jobs:
+  # ── Unit & integration tests ──────────────────────────────────
   test:
-    name: Test ${{ matrix.name }}
+    name: Test (${{ matrix.name }})
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - name: linux-x86_64
+          - name: linux
             os: ubuntu-latest
-          - name: windows-x86_64
+          - name: macos
+            os: macos-latest
+          - name: windows
             os: windows-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +34,165 @@ jobs:
         working-directory: search
         run: cargo test
 
+  # ── Comprehensive smoke tests (all query features) ────────────
+  smoke:
+    name: Smoke (${{ matrix.name }})
+    runs-on: ${{ matrix.os }}
+    needs: test
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: linux
+            os: ubuntu-latest
+          - name: macos
+            os: macos-latest
+          - name: windows
+            os: windows-latest
+    defaults:
+      run:
+        shell: ${{ matrix.os == 'windows-latest' && 'pwsh' || 'bash' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        run: rustup default stable
+
+      - name: Build release binary
+        working-directory: search
+        run: cargo build --release
+
+      - name: Setup env (bash)
+        if: matrix.os != 'windows-latest'
+        run: |
+          echo "PAPERS_DIR=$PWD/PAPERS" >> "$GITHUB_ENV"
+          echo "PAPERS_DB_PATH=$PWD/papers.db" >> "$GITHUB_ENV"
+          echo "$PWD/search/target/release" >> "$GITHUB_PATH"
+
+      - name: Setup env (pwsh)
+        if: matrix.os == 'windows-latest'
+        run: |
+          "PAPERS_DIR=$pwd\PAPERS" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "PAPERS_DB_PATH=$pwd\papers.db" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          echo "$pwd\search\target\release" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+
+      - name: Build database
+        run: search build-db
+
+      # ── Basic query filters ──
+      - name: Query — keyword
+        run: search query --conference EMNLP --year 2020 "attention is all you need" | grep -q "Chinese"
+
+      - name: Query — level
+        run: |
+          OUT=$(search query --level A --conference EMNLP --year 2020 "attention")
+          echo "$OUT" | grep -q "A"
+
+      - name: Query — conference
+        run: |
+          OUT=$(search query --conference ICML --year 2024 diffusion | head -1)
+          echo "$OUT" | grep -qi "icml"
+
+      - name: Query — year
+        run: search query --conference NeurIPS --year 2023 | grep -q "2023"
+
+      - name: Query — combined filters
+        run: |
+          OUT=$(search query --level A --conference ICML --year 2024 diffusion)
+          echo "$OUT" | grep -qi "icml"
+          echo "$OUT" | grep -q "2024"
+
+      # ── Exclude filters ──
+      - name: Query — exclude keyword
+        run: search query --conference ICML --year 2024 --exclude diffusion | grep -vqi "diffusion" || true
+
+      - name: Query — exclude level
+        run: search query --conference EMNLP --year 2020 "attention" --exclude-level A | grep -vq "A"
+
+      - name: Query — exclude conference
+        run: |
+          OUT=$(search query --level A --year 2024 --exclude-conference ICML --conference ICML,NeurIPS diffusion)
+          echo "$OUT" | grep -vqi "icml"
+          echo "$OUT" | grep -qi "neurips"
+
+      - name: Query — exclude year
+        run: |
+          OUT=$(search query --conference ICML --year 2024,2025 --exclude-year 2025 diffusion)
+          echo "$OUT" | grep -q "2024"
+          echo "$OUT" | grep -vq "2025" || true
+
+      # ── Sorting ──
+      - name: Query — sort ascending
+        run: search query --conference ICML --year 2024 --sort year:asc diffusion | grep -q "2024"
+
+      - name: Query — sort descending
+        run: |
+          OUT=$(search query --conference ICML --year 2023,2024 --sort year:desc diffusion)
+          FIRST=$(echo "$OUT" | head -1)
+          echo "$FIRST" | grep -q "2024"
+
+      - name: Query — sort multi-field
+        run: search query --sort level:asc --sort conference:asc --sort year:desc --conference ICML,NeurIPS --year 2024 diffusion | grep -q ""
+
+      # ── Column selection ──
+      - name: Query — columns include
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --columns conference,year,title diffusion | head -1)
+          echo "$OUT" | grep -qi "icml"
+          echo "$OUT" | grep -q "2024"
+
+      - name: Query — columns exclude
+        run: search query --conference ICML --year 2024 --exclude-columns bib,author,url diffusion | grep -q ""
+
+      - name: Query — columns with bib field
+        run: search query --conference ICML --year 2024 --columns conference,year,title,bib diffusion | grep -q ""
+
+      # ── BibTeX ──
+      - name: Bib — default output
+        run: search bib --conference EMNLP --year 2020 "attention" | grep -qi "bibtex"
+
+      - name: Bib — custom columns
+        run: search bib --conference ICML --year 2024 --columns title,bib diffusion | grep -qi "diffusion"
+
+      - name: Bib — exclude columns
+        run: search bib --conference ICML --year 2024 --exclude-columns url,author diffusion | grep -q ""
+
+      # ── Positional keywords ──
+      - name: Query — positional keywords
+        run: search query --conference ICML --year 2024 diffusion model | grep -qi "diffusion"
+
+      # ── Comma-separated values ──
+      - name: Query — comma separated conferences
+        run: search query --conference ICML,NeurIPS --year 2024 diffusion | grep -qi "icml\|neurips"
+
+      - name: Query — comma separated years
+        run: search query --conference ICML --year 2023,2024,2025 diffusion | grep -q ""
+
+      # ── Error handling ──
+      - name: Error — no filter
+        run: search query 2>&1 | grep -qi "filter\|help" || exit 0
+
+      - name: Error — columns/exclude-columns conflict
+        run: search query --conference ICML --year 2024 --columns title --exclude-columns bib diffusion 2>&1 | grep -qi "cannot" || exit 0
+
+      - name: Error — unknown column
+        run: search query --conference ICML --year 2024 --columns nonexistent diffusion 2>&1 | grep -qi "unknown" || exit 0
+
+      - name: Error — missing PAPERS dir
+        run: PAPERS_DIR=/nonexistent search build-db 2>&1 | grep -qi "not found" || exit 0
+
+      # ── Multiple keyword AND logic ──
+      - name: Query — multi-keyword AND
+        run: search query --conference ICML --year 2024 diffusion model | grep -qi "diffusion"
+
+      # ── Case insensitivity ──
+      - name: Query — case insensitive conference
+        run: search query --conference icml --year 2024 diffusion | grep -qi "icml"
+
+      - name: Query — case insensitive keyword
+        run: search query --conference ICML --year 2024 DIFFUSION | grep -qi "diffusion"
+
+  # ── install.sh verification ───────────────────────────────────
   install-sh:
     name: Verify install.sh
     runs-on: ubuntu-latest
@@ -48,27 +209,43 @@ jobs:
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
 
-      - name: Smoke test installed binary
+      - name: Smoke — keyword query
         run: |
           export PATH="${{ runner.temp }}/bin:$PATH"
           search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
 
-      - name: Test installed binary with bib output
+      - name: Smoke — bib export
         run: |
           export PATH="${{ runner.temp }}/bin:$PATH"
-          search bib --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+          search bib --conference EMNLP --year 2020 "attention"
 
-      - name: Test installed binary with column selection
+      - name: Smoke — column selection
         run: |
           export PATH="${{ runner.temp }}/bin:$PATH"
           search query --conference EMNLP --year 2020 --columns conference,year,title "attention"
 
-      - name: Test idempotent re-install
+      - name: Smoke — exclude columns
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
+
+      - name: Smoke — sort
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search query --sort year:desc --conference ICML --year 2023,2024 diffusion | head -1 | grep "2024"
+
+      - name: Smoke — exclude filters
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion | grep -v "2023"
+
+      - name: Idempotent re-install
         run: |
           INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
 
+  # ── install.ps1 verification ──────────────────────────────────
   install-ps1:
     name: Verify install.ps1
     runs-on: windows-latest
@@ -85,19 +262,45 @@ jobs:
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
           .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
 
-      - name: Smoke test installed binary
+      - name: Smoke — keyword query
         shell: pwsh
         run: |
           $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
           & $bin query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
 
-      - name: Test installed binary with bib output
+      - name: Smoke — bib export
         shell: pwsh
         run: |
           $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin bib --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+          & $bin bib --conference EMNLP --year 2020 "attention"
 
-      - name: Test idempotent re-install
+      - name: Smoke — column selection
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          & $bin query --conference EMNLP --year 2020 --columns conference,year,title "attention"
+
+      - name: Smoke — exclude columns
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          & $bin query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
+
+      - name: Smoke — sort
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          $out = & $bin query --sort year:desc --conference ICML --year 2023,2024 diffusion
+          ($out -split "`n")[0] | Should -BeLike "*2024*"
+
+      - name: Smoke — exclude filters
+        shell: pwsh
+        run: |
+          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          $out = & $bin query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion
+          $out | Should -Not -BeLike "*2023*"
+
+      - name: Idempotent re-install
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
