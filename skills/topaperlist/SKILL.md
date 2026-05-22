@@ -1,11 +1,20 @@
 ---
 name: topaperlist
-description: Work with the Top Conferences Paper List project — a curated paper-list data repo with a Rust search CLI backed by SQLite. Use when adding/modifying papers, editing the search tool, updating README tables, or working with the install/test/CI infrastructure.
+description: Use when adding papers, editing the search CLI, updating README tables, running install/test/CI, or querying the paper database in the topaperlist project.
 ---
 
 # Top Conferences Paper List
 
 A curated collection of paper titles and metadata from top CS conferences, paired with a Rust CLI search tool (`search`) backed by SQLite.
+
+## Cloning
+
+If you haven't cloned the project yet:
+
+```bash
+git clone https://github.com/freezed-corpse-143/topaperlist.git
+cd topaperlist
+```
 
 ## Project Layout
 
