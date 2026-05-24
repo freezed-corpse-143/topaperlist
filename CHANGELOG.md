@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.2.0-dev (Unreleased)
+
+- **Flat install layout**: remove `bin/` subdirectory — binary, `papers.db`, and `PAPERS/` now sit side-by-side in the install root. Default DB/PAPERS resolution prioritizes `<exe>/papers.db` and `<exe>/PAPERS` (same-directory layout), with cwd and parent-directory fallbacks for legacy compat. (build_db.rs, install.ps1, install.sh)
+- **Post-build auto-copy via `cargo-post`**: add `post_build.rs` — after `cargo post build --release` the binary is automatically copied to the repo root. Removes the need for manual copy or separate build scripts. (Cargo.toml, post_build.rs)
+
 ## v2.1.0-dev (Unreleased)
 
 - **Column include/exclude modes**: add `--exclude-columns` / `-X` flag for showing all columns except specified ones. Fix `--columns` to support non-canonical fields (`bib`, `author`, `url`, etc.) — previously these were silently dropped. `search bib` now accepts `--columns` / `--exclude-columns` for custom field output.

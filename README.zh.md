@@ -153,15 +153,15 @@ search query --conference AAAI --year 2024 diffusion
 
 ### Development
 
-Rust 项目位于 `search/` 子目录：
+Rust 项目位于 `search/` 子目录。构建需先安装 [`cargo-post`](https://crates.io/crates/cargo-post) 辅助工具（`cargo install cargo-post`），它会在编译成功后自动将二进制复制到仓库根目录。
 
 ```bash
 cd search
-cargo build --release
+cargo post build --release
 cargo test
 ```
 
-设置环境变量方便测试：
+设置环境变量方便测试（可选；工具会自动从二进制所在目录解析路径）：
 
 ```bash
 export PAPERS_DIR=/path/to/PAPERS
@@ -173,8 +173,8 @@ RUST_LOG=debug cargo run -- query --conference ICML diffusion
 
 | 变量 | 默认值 | 说明 |
 |------|--------|------|
-| `PAPERS_DIR` | `<exe>/../../PAPERS` | PAPERS 目录路径 |
-| `PAPERS_DB_PATH` | `<exe>/../../papers.db` | SQLite 数据库文件路径 |
+| `PAPERS_DIR` | `<exe>/PAPERS` | PAPERS 目录路径 |
+| `PAPERS_DB_PATH` | `<exe>/papers.db` | SQLite 数据库文件路径 |
 | `RUST_LOG` | (关闭) | 设为 `debug` 启用调试日志 |
 
 ### Output format

@@ -155,21 +155,21 @@ search query --conference AAAI --year 2024 diffusion
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `PAPERS_DIR` | `./PAPERS` | Path to PAPERS data directory |
-| `PAPERS_DB_PATH` | `./papers.db` | Path to SQLite database file |
+| `PAPERS_DIR` | `<exe>/PAPERS` | Path to PAPERS data directory |
+| `PAPERS_DB_PATH` | `<exe>/papers.db` | Path to SQLite database file |
 | `RUST_LOG` | (off) | Set to `debug` for debug logging |
 
 ### Development
 
-The Rust project is in the `search/` subdirectory:
+The Rust project is in the `search/` subdirectory. Building requires the [`cargo-post`](https://crates.io/crates/cargo-post) helper (`cargo install cargo-post`), which auto-copies the binary to the repo root after a successful build.
 
 ```bash
 cd search
-cargo build --release
+cargo post build --release
 cargo test
 ```
 
-Set environment variables for local testing:
+Set environment variables for local testing (optional; the tool auto-resolves paths relative to the binary):
 
 ```bash
 export PAPERS_DIR=/path/to/PAPERS

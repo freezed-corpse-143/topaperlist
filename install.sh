@@ -37,7 +37,7 @@ DEST_PAPERS="$INSTALL_ROOT/PAPERS"
 DEST_DB="$INSTALL_ROOT/papers.db"
 LEGACY_DATA="$INSTALL_ROOT/PaperJson"
 WRAPPER="$BIN_DIR/$COMMAND_NAME"
-BINARY="$INSTALL_ROOT/bin/$COMMAND_NAME"
+BINARY="$INSTALL_ROOT/$COMMAND_NAME"
 
 # ── Detect install mode ────────────────────────────────────────
 HAS_BINARY=false;  [ -f "$BINARY" ] && HAS_BINARY=true
@@ -89,7 +89,6 @@ if [ ! -f "$BUILT_BINARY" ]; then
 fi
 
 # ── Install binary ─────────────────────────────────────────────
-mkdir -p "$INSTALL_ROOT/bin"
 cp "$BUILT_BINARY" "$BINARY"
 echo "Installed binary to $BINARY"
 

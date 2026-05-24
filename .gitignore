@@ -2,7 +2,8 @@
 target/
 dist/
 search.exe
-search-linux
+/search
+!/search/
 
 # Database files
 papers.db

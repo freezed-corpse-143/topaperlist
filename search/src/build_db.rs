@@ -31,14 +31,13 @@ pub fn resolve_papers_dir() -> Result<PathBuf> {
     let exe = std::env::current_exe().map_err(|e| format!("Failed to get executable path: {e}"))?;
     let exe_dir = exe.parent().ok_or("Failed to get executable directory")?;
 
-    // Prefer the installed layout: <install-root>/bin/search next to <install-root>/PAPERS.
+    // Prefer same-directory layout: exe next to PAPERS/ (dev) or installed root.
     let candidates = [
-        exe_dir.join("..").join("PAPERS"),
-        exe_dir.join("..").join("..").join("..").join("PAPERS"),
+        exe_dir.join("PAPERS"),
         std::env::current_dir()
             .unwrap_or_else(|_| PathBuf::from("."))
             .join("PAPERS"),
-        exe_dir.join("..").join("..").join("PAPERS"),
+        exe_dir.join("..").join("PAPERS"),
     ];
     let canonical = first_existing_or_default(&candidates);
     debug!("Using default PAPERS dir: {}", canonical.display());
@@ -57,12 +56,11 @@ pub fn resolve_db_path() -> Result<PathBuf> {
     let exe_dir = exe.parent().ok_or("Failed to get executable directory")?;
 
     let candidates = [
-        exe_dir.join("..").join("papers.db"),
-        exe_dir.join("..").join("..").join("..").join("papers.db"),
+        exe_dir.join("papers.db"),
         std::env::current_dir()
             .unwrap_or_else(|_| PathBuf::from("."))
             .join("papers.db"),
-        exe_dir.join("..").join("..").join("papers.db"),
+        exe_dir.join("..").join("papers.db"),
     ];
     let canonical = first_existing_or_default(&candidates);
     debug!("Using default DB path: {}", canonical.display());

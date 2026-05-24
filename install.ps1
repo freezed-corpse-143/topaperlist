@@ -62,10 +62,9 @@ if ($installRootTrimmed -ieq $driveRoot) {
     throw "InstallRoot must not be a drive root: $InstallRoot"
 }
 
-$binDir         = Join-Path $InstallRoot "bin"
 $papersDir      = Join-Path $InstallRoot "PAPERS"
 $dbPath         = Join-Path $InstallRoot "papers.db"
-$installedBinary = Join-Path $binDir "$CommandName.exe"
+$installedBinary = Join-Path $InstallRoot "$CommandName.exe"
 $legacyDataDir  = Join-Path $InstallRoot "PaperJson"
 
 if ((Test-IsSameOrInside -Path $papersDir -BasePath $sourcePapersDir) -or
@@ -121,7 +120,6 @@ if (-not (Test-Path -LiteralPath $builtBinary)) {
 
 # ── Install binary ─────────────────────────────────────────────
 
-New-Item -ItemType Directory -Force -Path $binDir | Out-Null
 Copy-Item -LiteralPath $builtBinary -Destination $installedBinary -Force
 Write-Host "Installed binary to $installedBinary"
 
@@ -161,7 +159,7 @@ if ($buildDbResult.ExitCode -ne 0) {
 $smokeArgs = @("query", "--conference", "EMNLP", "--year", "2020",
                 "attention", "is", "all", "you", "need")
 
-$smokeResult = Invoke-NativeCapture -FilePath $installedBinary -Arguments $smokeArgs -WorkingDirectory $binDir
+$smokeResult = Invoke-NativeCapture -FilePath $installedBinary -Arguments $smokeArgs -WorkingDirectory $InstallRoot
 $smokeStatus = $smokeResult.ExitCode
 $smokeLines = @($smokeResult.Output |
     ForEach-Object { $_.ToString().Trim() } |
@@ -183,20 +181,20 @@ if (-not $NoPath) {
     $pathItems = @(if ($userPath) { $userPath -split ";" } else { @() })
     $alreadyInPath = $false
     foreach ($item in $pathItems) {
-        if ($item.TrimEnd("\") -ieq $binDir.TrimEnd("\")) {
+        if ($item.TrimEnd("\") -ieq $InstallRoot.TrimEnd("\")) {
             $alreadyInPath = $true
             break
         }
     }
     if (-not $alreadyInPath) {
         $newPath = if ($userPath -and $userPath.Trim().Length -gt 0) {
-            "$userPath;$binDir"
+            "$userPath;$InstallRoot"
         } else {
-            $binDir
+            $InstallRoot
         }
         [Environment]::SetEnvironmentVariable("Path", $newPath, "User")
-        $env:Path = "$env:Path;$binDir"
-        Write-Host "Added $binDir to the user PATH."
+        $env:Path = "$env:Path;$InstallRoot"
+        Write-Host "Added $InstallRoot to the user PATH."
     }
 }
 
