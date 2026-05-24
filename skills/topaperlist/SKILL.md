@@ -41,7 +41,7 @@ When adding new papers for a conference/year:
    jq -r '.title' PAPERS/<level>/<conference>/<year>.jsonl > PAPERS/<level>/<conference>/<year>.txt
    ```
 3. If adding a new conference or year, update both README.md and README.zh.md tables.
-4. Rebuild the database: `search build-db`
+4. Rebuild and copy the binary (`cargo post build --release` from `search/`), then rebuild the database: `./search build-db`
 
 ## Search Tool (`search/`)
 
@@ -52,13 +52,15 @@ Rust binary with subcommands:
 
 ### Build & Test
 
+Requires [`cargo-post`](https://crates.io/crates/cargo-post) (`cargo install cargo-post`), which auto-copies the binary to the repo root after a successful build.
+
 ```bash
 cd search
-cargo build --release
+cargo post build --release    # compiles + copies binary to repo root
 cargo test                    # 40 integration tests
 ```
 
-Set env vars for development:
+Set env vars for development (optional; the tool auto-resolves paths from the binary location):
 ```bash
 export PAPERS_DIR="$PWD/../PAPERS"
 export PAPERS_DB_PATH="$PWD/../papers.db"
