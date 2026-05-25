@@ -397,7 +397,7 @@ jobs:
           $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
           & $cmd version | Should -Contain "topaperlist 1.0.0-dev"
           $updateOut = & $cmd update
-          $updateOut | Should -Match "already up to date"
+          ($updateOut -join "`n") | Should -Match "already up to date"
 
       - name: Smoke - explicit update output
         shell: pwsh
@@ -406,8 +406,9 @@ jobs:
           $cmd = "$root\search.cmd"
           Set-Content -LiteralPath "$root\db.version" -Value "old-version" -NoNewline
           $updateOut = & $cmd update
-          $updateOut | Should -Match "update available"
-          $updateOut | Should -Match "updated to"
+          $joinedUpdateOut = $updateOut -join "`n"
+          $joinedUpdateOut | Should -Match "update available"
+          $joinedUpdateOut | Should -Match "updated to"
 
       - name: Smoke - skip this data version
         shell: pwsh
