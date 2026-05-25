@@ -81,7 +81,7 @@ jobs:
 
       # ── Basic query filters ──
       - name: Query — keyword
-        run: search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese" | grep -q "Chinese"
+        run: search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese" | grep -q "Word Segmentation"
 
       - name: Query — level
         run: |
