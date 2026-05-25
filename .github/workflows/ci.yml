@@ -205,6 +205,9 @@ jobs:
 
       - name: Run install.sh
         run: |
+          git branch topaperlist-ci-update HEAD
+          TOPAPERLIST_REPO_URL="$PWD" \
+          TOPAPERLIST_UPDATE_BRANCH=topaperlist-ci-update \
           INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
@@ -239,8 +242,28 @@ jobs:
           export PATH="${{ runner.temp }}/bin:$PATH"
           search query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion | grep -v "2023"
 
+      - name: Smoke - version and update wrapper
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          search version | grep -q "topaperlist"
+          search update
+
+      - name: Smoke - skip this data version
+        run: |
+          printf 'old-version' > "${{ runner.temp }}/topaperlist/db.version"
+          sh "${{ runner.temp }}/topaperlist/check-update.sh" \
+            --install-root "${{ runner.temp }}/topaperlist" \
+            --repo-url "$PWD" \
+            --branch topaperlist-ci-update \
+            --binary "${{ runner.temp }}/topaperlist/search" \
+            --skip-this-version \
+            --quiet
+          test "$(cat "${{ runner.temp }}/topaperlist/skipped.version")" = "$(git rev-parse topaperlist-ci-update)"
+
       - name: Idempotent re-install
         run: |
+          TOPAPERLIST_REPO_URL="$PWD" \
+          TOPAPERLIST_UPDATE_BRANCH=topaperlist-ci-update \
           INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
@@ -260,48 +283,65 @@ jobs:
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
-          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
+          git branch topaperlist-ci-update HEAD
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath -RepoUrl $pwd -UpdateBranch topaperlist-ci-update
 
       - name: Smoke — keyword query
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
 
       - name: Smoke — bib export
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin bib --conference EMNLP --year 2020 "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd bib --conference EMNLP --year 2020 "attention"
 
       - name: Smoke — column selection
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 --columns conference,year,title "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 --columns conference,year,title "attention"
 
       - name: Smoke — exclude columns
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
 
       - name: Smoke — sort
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          $out = & $bin query --sort year:desc --conference ICML --year 2023,2024 diffusion
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          $out = & $cmd query --sort year:desc --conference ICML --year 2023,2024 diffusion
           ($out -split "`n")[0] | Should -BeLike "*2024*"
 
       - name: Smoke — exclude filters
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          $out = & $bin query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          $out = & $cmd query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion
           $out | Should -Not -BeLike "*2023*"
+
+      - name: Smoke - version and update wrapper
+        shell: pwsh
+        run: |
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd version | Should -Contain "topaperlist 1.0.0-dev"
+          & $cmd update
+
+      - name: Smoke - skip this data version
+        shell: pwsh
+        run: |
+          $root = "$env:RUNNER_TEMP\topaperlist"
+          Set-Content -LiteralPath "$root\db.version" -Value "old-version" -NoNewline
+          & "$root\check-update.ps1" -InstallRoot $root -RepoUrl $pwd -Branch topaperlist-ci-update -Binary "$root\search-bin.exe" -SkipThisVersion -Quiet
+          $expected = git rev-parse topaperlist-ci-update
+          Get-Content -LiteralPath "$root\skipped.version" -Raw | Should -Be $expected
 
       - name: Idempotent re-install
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
-          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath -RepoUrl $pwd -UpdateBranch topaperlist-ci-update

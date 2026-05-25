@@ -20,7 +20,8 @@ pub(crate) use debug;
 /// Open (or create) the SQLite database.
 pub fn open_db(db_path: &Path) -> Result<rusqlite::Connection> {
     debug!("Opening database: {}", db_path.display());
-    let conn = rusqlite::Connection::open(db_path).map_err(|e| format!("Failed to open database: {e}"))?;
+    let conn =
+        rusqlite::Connection::open(db_path).map_err(|e| format!("Failed to open database: {e}"))?;
     conn.execute_batch("PRAGMA journal_mode=WAL;")
         .map_err(|e| format!("Failed to set WAL mode: {e}"))?;
     Ok(conn)
@@ -65,6 +66,43 @@ pub fn create_table(conn: &rusqlite::Connection, data_columns: &[String]) -> Res
     Ok(())
 }
 
+/// Replace database metadata for version checks and diagnostics.
+pub fn replace_metadata(conn: &rusqlite::Connection, entries: &[(&str, String)]) -> Result<()> {
+    conn.execute_batch(
+        "CREATE TABLE IF NOT EXISTS metadata (
+            key TEXT PRIMARY KEY,
+            value TEXT NOT NULL
+        );
+        DELETE FROM metadata;",
+    )
+    .map_err(|e| format!("Failed to reset metadata table: {e}"))?;
+
+    let mut stmt = conn
+        .prepare("INSERT INTO metadata (key, value) VALUES (?1, ?2)")
+        .map_err(|e| format!("Failed to prepare metadata insert: {e}"))?;
+
+    for (key, value) in entries {
+        stmt.execute([key, value.as_str()])
+            .map_err(|e| format!("Failed to write metadata key {key}: {e}"))?;
+    }
+
+    Ok(())
+}
+
+/// Read one metadata value. Missing metadata is not an error for old databases.
+pub fn get_metadata(conn: &rusqlite::Connection, key: &str) -> Result<Option<String>> {
+    let mut stmt = match conn.prepare("SELECT value FROM metadata WHERE key = ?1") {
+        Ok(stmt) => stmt,
+        Err(_) => return Ok(None),
+    };
+
+    match stmt.query_row([key], |row| row.get::<_, String>(0)) {
+        Ok(value) => Ok(Some(value)),
+        Err(rusqlite::Error::QueryReturnedNoRows) => Ok(None),
+        Err(e) => Err(format!("Failed to read metadata key {key}: {e}")),
+    }
+}
+
 /// Insert a batch of records into the database.
 pub fn insert_records(
     conn: &rusqlite::Connection,
@@ -82,12 +120,14 @@ pub fn insert_records(
     let all_columns: Vec<String> = FIXED_COLUMNS
         .iter()
         .map(|c| format!("`{c}`"))
-        .chain(data_columns.iter().map(|c| format!("`{}`", c.replace('`', "``"))))
+        .chain(
+            data_columns
+                .iter()
+                .map(|c| format!("`{}`", c.replace('`', "``"))),
+        )
         .collect();
 
-    let placeholders: Vec<String> = (1..=all_columns.len())
-        .map(|i| format!("?{i}"))
-        .collect();
+    let placeholders: Vec<String> = (1..=all_columns.len()).map(|i| format!("?{i}")).collect();
 
     let insert_sql = format!(
         "INSERT INTO papers ({}) VALUES ({});",
@@ -191,10 +231,7 @@ fn apply_like_filter(
             format!("LOWER({}) {op} ?{idx}", column)
         })
         .collect();
-    *inner = format!(
-        "SELECT * FROM ({inner}) WHERE {}",
-        conditions.join(" AND ")
-    );
+    *inner = format!("SELECT * FROM ({inner}) WHERE {}", conditions.join(" AND "));
     debug!("Applying filter_substring ({tag}): [{}]", values.join(", "));
 }
 
@@ -223,20 +260,82 @@ pub fn query_records(
     let mut inner = "papers".to_string();
 
     // ── Title filters (see sql/filter_substring.sql) ──
-    apply_like_filter(&mut inner, &mut bind_values, "title", title_include, false, "title_include");
-    apply_like_filter(&mut inner, &mut bind_values, "title", title_exclude, true, "title_exclude");
+    apply_like_filter(
+        &mut inner,
+        &mut bind_values,
+        "title",
+        title_include,
+        false,
+        "title_include",
+    );
+    apply_like_filter(
+        &mut inner,
+        &mut bind_values,
+        "title",
+        title_exclude,
+        true,
+        "title_exclude",
+    );
 
     // ── Level filters (see sql/filter_set.sql) ──
-    apply_set_filter(&mut inner, &mut bind_values, "level", level_include, false, true, "level_include");
-    apply_set_filter(&mut inner, &mut bind_values, "level", level_exclude, true, true, "level_exclude");
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "level",
+        level_include,
+        false,
+        true,
+        "level_include",
+    );
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "level",
+        level_exclude,
+        true,
+        true,
+        "level_exclude",
+    );
 
     // ── Conference filters (see sql/filter_set.sql) ──
-    apply_set_filter(&mut inner, &mut bind_values, "conference", conference_include, false, true, "conference_include");
-    apply_set_filter(&mut inner, &mut bind_values, "conference", conference_exclude, true, true, "conference_exclude");
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "conference",
+        conference_include,
+        false,
+        true,
+        "conference_include",
+    );
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "conference",
+        conference_exclude,
+        true,
+        true,
+        "conference_exclude",
+    );
 
     // ── Year filters (see sql/filter_set.sql) ──
-    apply_set_filter(&mut inner, &mut bind_values, "year", year_include, false, false, "year_include");
-    apply_set_filter(&mut inner, &mut bind_values, "year", year_exclude, true, false, "year_exclude");
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "year",
+        year_include,
+        false,
+        false,
+        "year_include",
+    );
+    apply_set_filter(
+        &mut inner,
+        &mut bind_values,
+        "year",
+        year_exclude,
+        true,
+        false,
+        "year_exclude",
+    );
 
     // ── Final projection: columns + ordering (see sql/query.sql) ──
     let select_cols: Vec<String> = display_fields
@@ -271,17 +370,14 @@ pub fn query_records(
 
     let num_cols = display_fields.len();
     let rows = stmt
-        .query_map(
-            rusqlite::params_from_iter(params_refs.iter()),
-            move |row| {
-                let mut parts: Vec<String> = Vec::with_capacity(num_cols);
-                for i in 0..num_cols {
-                    let val: String = row.get(i).unwrap_or_default();
-                    parts.push(val);
-                }
-                Ok(parts.join("\t"))
-            },
-        )
+        .query_map(rusqlite::params_from_iter(params_refs.iter()), move |row| {
+            let mut parts: Vec<String> = Vec::with_capacity(num_cols);
+            for i in 0..num_cols {
+                let val: String = row.get(i).unwrap_or_default();
+                parts.push(val);
+            }
+            Ok(parts.join("\t"))
+        })
         .map_err(|e| format!("Failed to execute query: {e}"))?;
 
     let mut results = Vec::new();
@@ -295,9 +391,9 @@ pub fn query_records(
 
 /// Parse sort spec "field:direction"
 pub fn parse_sort_spec(value: &str) -> Result<SortSpec> {
-    let (field_raw, order_raw) = value
-        .split_once(':')
-        .ok_or_else(|| format!("Invalid sort format: {value} (expected field:asc or field:desc)"))?;
+    let (field_raw, order_raw) = value.split_once(':').ok_or_else(|| {
+        format!("Invalid sort format: {value} (expected field:asc or field:desc)")
+    })?;
 
     let field = Field::parse(field_raw);
     let direction = Direction::parse(order_raw)?;

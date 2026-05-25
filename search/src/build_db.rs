@@ -1,6 +1,7 @@
 use std::collections::HashMap;
 use std::io::BufRead;
 use std::path::{Path, PathBuf};
+use std::time::{SystemTime, UNIX_EPOCH};
 
 use crate::db::{self, debug};
 use crate::models::IndexedRecord;
@@ -69,8 +70,8 @@ pub fn resolve_db_path() -> Result<PathBuf> {
 
 /// Scan the first JSONL file found and detect field names from the first non-empty line.
 fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
-    let read_dir =
-        std::fs::read_dir(papers_dir).map_err(|e| format!("Failed to read PAPERS directory: {e}"))?;
+    let read_dir = std::fs::read_dir(papers_dir)
+        .map_err(|e| format!("Failed to read PAPERS directory: {e}"))?;
 
     for level_entry in read_dir {
         let level_entry = level_entry.map_err(|e| format!("Failed to read level entry: {e}"))?;
@@ -79,11 +80,16 @@ fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
             continue;
         }
 
-        let conf_entries = std::fs::read_dir(&level_path)
-            .map_err(|e| format!("Failed to read level directory {}: {e}", level_path.display()))?;
+        let conf_entries = std::fs::read_dir(&level_path).map_err(|e| {
+            format!(
+                "Failed to read level directory {}: {e}",
+                level_path.display()
+            )
+        })?;
 
         for conf_entry in conf_entries {
-            let conf_entry = conf_entry.map_err(|e| format!("Failed to read conference entry: {e}"))?;
+            let conf_entry =
+                conf_entry.map_err(|e| format!("Failed to read conference entry: {e}"))?;
             let conf_path = conf_entry.path();
             if !conf_path.is_dir() {
                 continue;
@@ -93,14 +99,15 @@ fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
                 .map_err(|e| format!("Failed to read conference directory: {e}"))?;
 
             for file_entry in file_entries {
-                let file_entry = file_entry.map_err(|e| format!("Failed to read file entry: {e}"))?;
+                let file_entry =
+                    file_entry.map_err(|e| format!("Failed to read file entry: {e}"))?;
                 let file_path = file_entry.path();
                 if file_path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
                     continue;
                 }
 
-                let file =
-                    std::fs::File::open(&file_path).map_err(|e| format!("Failed to open JSONL: {e}"))?;
+                let file = std::fs::File::open(&file_path)
+                    .map_err(|e| format!("Failed to open JSONL: {e}"))?;
                 let reader = std::io::BufReader::new(file);
 
                 for line in reader.lines() {
@@ -121,7 +128,11 @@ fn detect_schema(papers_dir: &Path) -> Result<(Vec<String>, PathBuf)> {
                         return Err("JSONL object is empty, no fields detected".to_string());
                     }
 
-                    eprintln!("Detected field schema (from {}): {:?}", file_path.display(), keys);
+                    eprintln!(
+                        "Detected field schema (from {}): {:?}",
+                        file_path.display(),
+                        keys
+                    );
                     return Ok((keys, file_path.clone()));
                 }
             }
@@ -166,8 +177,8 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
     let mut jsonl_file_count: u64 = 0;
     let mut schema_warned = false;
 
-    let read_dir =
-        std::fs::read_dir(papers_dir).map_err(|e| format!("Failed to read PAPERS directory: {e}"))?;
+    let read_dir = std::fs::read_dir(papers_dir)
+        .map_err(|e| format!("Failed to read PAPERS directory: {e}"))?;
 
     for level_entry in read_dir {
         let level_entry = level_entry.map_err(|e| format!("Failed to read level entry: {e}"))?;
@@ -182,11 +193,12 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
             .to_string();
         debug!("Scanning level: {level}");
 
-        let conf_entries =
-            std::fs::read_dir(&level_path).map_err(|e| format!("Failed to read level directory: {e}"))?;
+        let conf_entries = std::fs::read_dir(&level_path)
+            .map_err(|e| format!("Failed to read level directory: {e}"))?;
 
         for conf_entry in conf_entries {
-            let conf_entry = conf_entry.map_err(|e| format!("Failed to read conference entry: {e}"))?;
+            let conf_entry =
+                conf_entry.map_err(|e| format!("Failed to read conference entry: {e}"))?;
             let conf_path = conf_entry.path();
             if !conf_path.is_dir() {
                 continue;
@@ -194,7 +206,9 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
             let conference = conf_path
                 .file_name()
                 .and_then(|n| n.to_str())
-                .ok_or_else(|| format!("Invalid conference directory name: {}", conf_path.display()))?
+                .ok_or_else(|| {
+                    format!("Invalid conference directory name: {}", conf_path.display())
+                })?
                 .to_string();
             debug!("  Scanning conference: {conference}");
 
@@ -202,7 +216,8 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
                 .map_err(|e| format!("Failed to read conference directory: {e}"))?;
 
             for file_entry in file_entries {
-                let file_entry = file_entry.map_err(|e| format!("Failed to read file entry: {e}"))?;
+                let file_entry =
+                    file_entry.map_err(|e| format!("Failed to read file entry: {e}"))?;
                 let file_path = file_entry.path();
 
                 if file_path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
@@ -213,7 +228,10 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
                     .file_stem()
                     .and_then(|s| s.to_str())
                     .ok_or_else(|| {
-                        format!("Invalid filename (expected <year>.jsonl): {}", file_path.display())
+                        format!(
+                            "Invalid filename (expected <year>.jsonl): {}",
+                            file_path.display()
+                        )
                     })?
                     .to_string();
 
@@ -226,7 +244,11 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
 
                 for (line_num, line) in reader.lines().enumerate() {
                     let line = line.map_err(|e| {
-                        format!("Failed to read file {}:{}: {e}", file_path.display(), line_num + 1)
+                        format!(
+                            "Failed to read file {}:{}: {e}",
+                            file_path.display(),
+                            line_num + 1
+                        )
                     })?;
                     if line.trim().is_empty() {
                         continue;
@@ -315,10 +337,39 @@ pub fn build_db(papers_dir: &Path, db_path: &Path) -> Result<()> {
     db::create_table(&conn, &data_columns)?;
     let count = db::insert_records(&conn, &records, &data_columns)?;
 
-    eprintln!("Database build complete: {} records written to {}", count, db_path.display());
-    println!(
-        "Database build complete: {} paper records\n  Fixed fields: {:?}\n  Data fields: {:?}",
+    let database_version = std::env::var("PAPERS_DB_VERSION")
+        .ok()
+        .filter(|value| !value.trim().is_empty())
+        .unwrap_or_else(|| "unknown".to_string());
+    let database_source = std::env::var("PAPERS_DB_SOURCE")
+        .ok()
+        .filter(|value| !value.trim().is_empty())
+        .unwrap_or_else(|| papers_dir.display().to_string());
+    let built_at_unix = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .map(|duration| duration.as_secs().to_string())
+        .unwrap_or_else(|_| "unknown".to_string());
+
+    db::replace_metadata(
+        &conn,
+        &[
+            ("database_version", database_version.clone()),
+            ("database_source", database_source),
+            ("built_at_unix", built_at_unix),
+            ("record_count", count.to_string()),
+            ("jsonl_file_count", jsonl_file_count.to_string()),
+        ],
+    )?;
+
+    eprintln!(
+        "Database build complete: {} records written to {}",
         count,
+        db_path.display()
+    );
+    println!(
+        "Database build complete: {} paper records\n  Database version: {}\n  Fixed fields: {:?}\n  Data fields: {:?}",
+        count,
+        database_version,
         db::FIXED_COLUMNS,
         data_columns
     );

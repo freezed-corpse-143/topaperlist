@@ -36,9 +36,15 @@ fn build_db_reports_missing_papers_dir() {
     let db_path = dir.join("test.db");
 
     let output = run_search(&nonexistent, &db_path, &["build-db"]);
-    assert!(!output.status.success(), "Should fail for nonexistent directory");
+    assert!(
+        !output.status.success(),
+        "Should fail for nonexistent directory"
+    );
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("directory not found") || stderr.to_lowercase().contains("not found"), "Should mention missing directory: {stderr}");
+    assert!(
+        stderr.contains("directory not found") || stderr.to_lowercase().contains("not found"),
+        "Should mention missing directory: {stderr}"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -113,6 +119,91 @@ fn build_db_detects_schema_dynamically() {
 }
 
 // ── query tests ──
+
+#[test]
+fn build_db_records_database_version() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+
+    create_test_papers(&paper_dir, "A", "ICML", "2024", &["Versioned Paper"]);
+
+    let output = run_search_with_env(
+        &paper_dir,
+        &db_path,
+        &["build-db"],
+        &[("PAPERS_DB_VERSION", "test-version-123")],
+    );
+    assert_success(&output);
+
+    let output = run_search(&paper_dir, &db_path, &["version"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("Database version: test-version-123"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn version_reports_missing_database() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("missing.db");
+    std::fs::create_dir_all(&paper_dir).unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["version"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("topaperlist"));
+    assert!(stdout.contains("Database version: unavailable"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn version_reports_source_and_record_count() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+
+    create_test_papers(&paper_dir, "A", "ICML", "2024", &["Versioned Paper"]);
+
+    let output = run_search_with_env(
+        &paper_dir,
+        &db_path,
+        &["build-db"],
+        &[
+            ("PAPERS_DB_VERSION", "version-for-source-test"),
+            ("PAPERS_DB_SOURCE", "local-test-source"),
+        ],
+    );
+    assert_success(&output);
+
+    let output = run_search(&paper_dir, &db_path, &["version"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("Database version: version-for-source-test"));
+    assert!(stdout.contains("Database source: local-test-source"));
+    assert!(stdout.contains("Record count: 1"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn update_command_explains_installed_wrapper() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    std::fs::create_dir_all(&paper_dir).unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["update"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("installed search wrapper"));
+    assert!(stdout.contains("search update"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
 
 fn setup_query_test() -> (std::path::PathBuf, std::path::PathBuf, std::path::PathBuf) {
     let dir = temp_test_dir();
@@ -278,7 +369,10 @@ fn query_with_exclude_filters() {
         let parts: Vec<&str> = line.split('\t').collect();
         assert_ne!(parts[0], "B", "Should not contain B level");
         let title_lower = parts[3].to_lowercase();
-        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
+        assert!(
+            !title_lower.contains("survey"),
+            "Should not contain survey: {line}"
+        );
         assert!(
             title_lower.contains("diffusion"),
             "Should contain diffusion: {line}"
@@ -385,7 +479,10 @@ fn query_requires_at_least_one_filter() {
     let output = run_search(&paper_dir, &db_path, &["query"]);
     assert!(!output.status.success(), "Should fail without filters");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("filter is required"), "Should mention filter required: {stderr}");
+    assert!(
+        stderr.contains("filter is required"),
+        "Should mention filter required: {stderr}"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -518,7 +615,10 @@ fn query_title_exclude_standalone() {
     for line in &lines {
         let parts: Vec<&str> = line.split('\t').collect();
         let title_lower = parts[3].to_lowercase();
-        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
+        assert!(
+            !title_lower.contains("survey"),
+            "Should not contain survey: {line}"
+        );
     }
 
     let _ = std::fs::remove_dir_all(&dir);
@@ -572,11 +672,17 @@ fn query_title_multiple_keywords_and_logic() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(!lines.is_empty(), "Should have results with both graph and diffusion");
+    assert!(
+        !lines.is_empty(),
+        "Should have results with both graph and diffusion"
+    );
 
     for line in &lines {
         let title_lower = line.to_lowercase();
-        assert!(title_lower.contains("graph"), "Title should contain graph: {line}");
+        assert!(
+            title_lower.contains("graph"),
+            "Title should contain graph: {line}"
+        );
         assert!(
             title_lower.contains("diffusion"),
             "Title should contain diffusion: {line}"
@@ -608,7 +714,10 @@ fn query_title_multiple_exclude_keywords() {
 
     for line in &lines {
         let title_lower = line.to_lowercase();
-        assert!(!title_lower.contains("survey"), "Should not contain survey: {line}");
+        assert!(
+            !title_lower.contains("survey"),
+            "Should not contain survey: {line}"
+        );
         assert!(
             !title_lower.contains("attention"),
             "Should not contain attention: {line}"
@@ -632,8 +741,16 @@ fn query_title_keyword_case_insensitive() {
     assert_success(&upper);
     assert_success(&mixed);
 
-    assert_eq!(stdout_lines(&lower), stdout_lines(&upper), "Should be case-insensitive");
-    assert_eq!(stdout_lines(&lower), stdout_lines(&mixed), "Should be case-insensitive");
+    assert_eq!(
+        stdout_lines(&lower),
+        stdout_lines(&upper),
+        "Should be case-insensitive"
+    );
+    assert_eq!(
+        stdout_lines(&lower),
+        stdout_lines(&mixed),
+        "Should be case-insensitive"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -744,7 +861,10 @@ fn query_empty_result_when_nothing_matches() {
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
-    assert!(lines.is_empty(), "Nonexistent keyword should return empty results");
+    assert!(
+        lines.is_empty(),
+        "Nonexistent keyword should return empty results"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -869,7 +989,6 @@ fn query_pipeline_order_independent() {
     let _ = std::fs::remove_dir_all(&dir);
 }
 
-
 // ── column selection: non-canonical field (bib) ──
 
 #[test]
@@ -893,15 +1012,29 @@ fn query_columns_with_bib_field() {
     let output = run_search(
         &paper_dir,
         &db_path,
-        &["query", "--conference", "AAAI", "--columns", "conference,year,title,bib"],
+        &[
+            "query",
+            "--conference",
+            "AAAI",
+            "--columns",
+            "conference,year,title,bib",
+        ],
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert_eq!(lines.len(), 1);
     let parts: Vec<&str> = lines[0].split('\t').collect();
-    assert_eq!(parts.len(), 4, "Should have 4 columns: conf, year, title, bib");
+    assert_eq!(
+        parts.len(),
+        4,
+        "Should have 4 columns: conf, year, title, bib"
+    );
     assert_eq!(parts[0], "AAAI");
-    assert!(parts[3].contains("@inproceedings{test2026}"), "bib should contain BibTeX: {}", parts[3]);
+    assert!(
+        parts[3].contains("@inproceedings{test2026}"),
+        "bib should contain BibTeX: {}",
+        parts[3]
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -936,22 +1069,43 @@ fn query_exclude_columns() {
     assert_eq!(lines.len(), 1);
     // Should have: level, conference, year, title, author, bib (6 columns)
     let parts: Vec<&str> = lines[0].split('\t').collect();
-    assert!(parts.len() >= 5, "Should show at least 5 columns after excluding url, got {}", parts.len());
+    assert!(
+        parts.len() >= 5,
+        "Should show at least 5 columns after excluding url, got {}",
+        parts.len()
+    );
     // Verify url is NOT in output
     let line_lower = lines[0].to_lowercase();
-    assert!(!line_lower.contains("http://ex.com"), "Should not contain url: {}", lines[0]);
+    assert!(
+        !line_lower.contains("http://ex.com"),
+        "Should not contain url: {}",
+        lines[0]
+    );
 
     // --exclude-columns bib,url (show all columns except bib and url)
     let output = run_search(
         &paper_dir,
         &db_path,
-        &["query", "--conference", "AAAI", "--exclude-columns", "bib,url"],
+        &[
+            "query",
+            "--conference",
+            "AAAI",
+            "--exclude-columns",
+            "bib,url",
+        ],
     );
     assert_success(&output);
     let lines = stdout_lines(&output);
     assert_eq!(lines.len(), 1);
-    assert!(!lines[0].contains("@inproceedings"), "Should not contain bib: {}", lines[0]);
-    assert!(!lines[0].to_lowercase().contains("http://ex.com"), "Should not contain url");
+    assert!(
+        !lines[0].contains("@inproceedings"),
+        "Should not contain bib: {}",
+        lines[0]
+    );
+    assert!(
+        !lines[0].to_lowercase().contains("http://ex.com"),
+        "Should not contain url"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -965,11 +1119,25 @@ fn query_columns_and_exclude_columns_conflict() {
     let output = run_search(
         &paper_dir,
         &db_path,
-        &["query", "--conference", "AAAI", "--columns", "title", "--exclude-columns", "url"],
+        &[
+            "query",
+            "--conference",
+            "AAAI",
+            "--columns",
+            "title",
+            "--exclude-columns",
+            "url",
+        ],
     );
-    assert!(!output.status.success(), "Using --columns and --exclude-columns together should fail");
+    assert!(
+        !output.status.success(),
+        "Using --columns and --exclude-columns together should fail"
+    );
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("cannot be used together"), "Should mention conflict: {stderr}");
+    assert!(
+        stderr.contains("cannot be used together"),
+        "Should mention conflict: {stderr}"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -983,11 +1151,20 @@ fn query_unknown_column_error() {
     let output = run_search(
         &paper_dir,
         &db_path,
-        &["query", "--conference", "AAAI", "--columns", "nonexistent_field"],
+        &[
+            "query",
+            "--conference",
+            "AAAI",
+            "--columns",
+            "nonexistent_field",
+        ],
     );
     assert!(!output.status.success(), "Unknown column should fail");
     let stderr = stderr_str(&output);
-    assert!(stderr.contains("Unknown column"), "Should mention unknown column: {stderr}");
+    assert!(
+        stderr.contains("Unknown column"),
+        "Should mention unknown column: {stderr}"
+    );
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -1018,7 +1195,10 @@ fn bib_command_with_custom_columns() {
     );
     assert_success(&output);
     let stdout = String::from_utf8(output.stdout).unwrap();
-    assert!(stdout.contains("@inproceedings{fastdrivevla2026"), "Should contain bib");
+    assert!(
+        stdout.contains("@inproceedings{fastdrivevla2026"),
+        "Should contain bib"
+    );
     assert!(stdout.contains("FastDriveVLA"), "Should contain title");
 
     let _ = std::fs::remove_dir_all(&dir);

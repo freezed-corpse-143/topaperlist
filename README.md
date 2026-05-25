@@ -110,7 +110,7 @@ PAPERS/<level>/<conf>/<year>.jsonl
 
 ### Install
 
-Install Rust/Cargo from https://rustup.rs/, then run the install script. The script compiles a release binary, installs the binary and `PAPERS/` data, builds the database, and runs a smoke test.
+Install Rust/Cargo from https://rustup.rs/, then run the install script. The script compiles a release binary, installs the binary and `PAPERS/` data, builds the database, writes a database version, and runs a smoke test.
 
 **Windows / PowerShell:**
 
@@ -136,7 +136,7 @@ Custom command name:
 sh ./install.sh
 ```
 
-Installs to `$HOME/.local/share/topaperlist` by default. Creates a wrapper script at `$HOME/.local/bin/search`. The install script automatically runs `build-db` and injects `PAPERS_DIR` / `PAPERS_DB_PATH` into your shell RC files (`.bashrc`, `.zshrc`, `.profile`) with idempotent sentinel markers. Re-running the script upgrades the install in place.
+Installs to `$HOME/.local/share/topaperlist` by default. Creates a wrapper script at `$HOME/.local/bin/search`. The install script automatically runs `build-db`, writes the database version, and injects `PAPERS_DIR` / `PAPERS_DB_PATH` into your shell RC files (`.bashrc`, `.zshrc`, `.profile`) with idempotent sentinel markers. Re-running the script upgrades the install in place.
 
 Custom locations:
 
@@ -151,12 +151,59 @@ After install:
 search query --conference AAAI --year 2024 diffusion
 ```
 
+### Data Version and Updates
+
+The database version is the Git commit SHA of the data branch used to build `papers.db`. By default, update checks compare the installed version with `main` from:
+
+```text
+https://github.com/dududuguo/topaperlist.git
+```
+
+Every installed command except `search update` goes through a lightweight update check first. The wrapper checks the remote data version with `git ls-remote`; when a newer version is available, it prompts with three choices:
+
+- `update`: fetch the managed local repo, replace installed `PAPERS/`, rebuild `papers.db`, and write the new version to both SQLite metadata and `db.version`.
+- `skip this version`: write the remote version to `skipped.version` and do not prompt again until a newer remote version appears.
+- `cancel`: do not update now, then continue the original command. The same version may be offered again next time.
+
+Check the installed database version:
+
+```bash
+search version
+```
+
+Run the update check manually:
+
+```bash
+search update
+```
+
+From the source tree:
+
+```bash
+sh scripts/check-update.sh --yes
+```
+
+Windows:
+
+```powershell
+.\scripts\check-update.ps1 -Yes
+```
+
+Override the update source:
+
+```bash
+TOPAPERLIST_REPO_URL=https://github.com/yourname/topaperlist.git TOPAPERLIST_UPDATE_BRANCH=main sh ./install.sh
+```
+
 ### Environment Variables
 
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `PAPERS_DIR` | `<exe>/PAPERS` | Path to PAPERS data directory |
 | `PAPERS_DB_PATH` | `<exe>/papers.db` | Path to SQLite database file |
+| `TOPAPERLIST_REPO_URL` | `https://github.com/dududuguo/topaperlist.git` | Git repository used for data update checks |
+| `TOPAPERLIST_UPDATE_BRANCH` | `main` | Git branch used for data update checks |
+| `TOPAPERLIST_SKIP_UPDATE_CHECK` | (off) | Set to `1` to skip the wrapper update check |
 | `RUST_LOG` | (off) | Set to `debug` for debug logging |
 
 ### Development
