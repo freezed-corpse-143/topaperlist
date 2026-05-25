@@ -51,7 +51,7 @@ jobs:
             os: windows-latest
     defaults:
       run:
-        shell: ${{ matrix.os == 'windows-latest' && 'pwsh' || 'bash' }}
+        shell: bash
     steps:
       - uses: actions/checkout@v4
 
@@ -85,8 +85,8 @@ jobs:
 
       - name: Query — level
         run: |
-          OUT=$(search query --level A --conference EMNLP --year 2020 "attention")
-          echo "$OUT" | grep -q "A"
+          OUT=$(search query --level B --conference EMNLP --year 2020 "attention")
+          echo "$OUT" | grep -q "^B"
 
       - name: Query — conference
         run: |
@@ -107,7 +107,10 @@ jobs:
         run: search query --conference ICML --year 2024 --exclude diffusion | grep -vqi "diffusion" || true
 
       - name: Query — exclude level
-        run: search query --conference EMNLP --year 2020 "attention" --exclude-level A | grep -vq "A"
+        run: |
+          OUT=$(search query --conference EMNLP --year 2020 "attention" --exclude-level A --columns level)
+          echo "$OUT" | grep -q "^B$"
+          ! echo "$OUT" | grep -q "^A$"
 
       - name: Query — exclude conference
         run: |
@@ -149,7 +152,7 @@ jobs:
 
       # ── BibTeX ──
       - name: Bib — default output
-        run: search bib --conference EMNLP --year 2020 "attention" | grep -qi "bibtex"
+        run: search bib --conference EMNLP --year 2020 "attention" | grep -qi "@inproceedings"
 
       - name: Bib — custom columns
         run: search bib --conference ICML --year 2024 --columns title,bib diffusion | grep -qi "diffusion"
