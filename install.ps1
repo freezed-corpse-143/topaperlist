@@ -143,6 +143,7 @@ if (-not (Test-Path -LiteralPath $builtBinary)) {
 
 # ── Install binary ─────────────────────────────────────────────
 
+New-Item -ItemType Directory -Force -Path $InstallRoot | Out-Null
 Copy-Item -LiteralPath $builtBinary -Destination $installedBinary -Force
 Write-Host "Installed binary to $installedBinary"
 
