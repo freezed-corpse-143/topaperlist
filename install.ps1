@@ -177,9 +177,6 @@ if /I "%~1"=="update" (
   powershell.exe -NoProfile -ExecutionPolicy Bypass -File "$installedUpdateScript" -InstallRoot "$InstallRoot" -RepoUrl "$RepoUrl" -Branch "$UpdateBranch" -Binary "$installedBinary" -Yes
   exit /b %ERRORLEVEL%
 )
-if not "%TOPAPERLIST_SKIP_UPDATE_CHECK%"=="1" (
-  powershell.exe -NoProfile -ExecutionPolicy Bypass -File "$installedUpdateScript" -InstallRoot "$InstallRoot" -RepoUrl "$RepoUrl" -Branch "$UpdateBranch" -Binary "$installedBinary" -Quiet
-)
 "$installedBinary" %*
 exit /b %ERRORLEVEL%
 "@

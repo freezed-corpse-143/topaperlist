@@ -154,17 +154,13 @@ search query --conference AAAI --year 2024 diffusion
 
 ### Data Version and Updates
 
-The database version is the Git commit SHA of the data branch used to build `papers.db`. By default, update checks compare the installed version with `main` from:
+The database version is the Git commit SHA of the data branch used to build `papers.db`. Regular `search query`, `search bib`, and `search version` commands do not contact the network. Run `search update` when you want to check the remote data version against `main` from:
 
 ```text
 https://github.com/dududuguo/topaperlist.git
 ```
 
-Every installed command except `search update` goes through a lightweight update check first. The wrapper checks the remote data version with `git ls-remote`; when a newer version is available, it prompts with three choices:
-
-- `update`: fetch the managed local repo, replace installed `PAPERS/`, rebuild `papers.db`, and write the new version to both SQLite metadata and `db.version`.
-- `skip this version`: write the remote version to `skipped.version` and do not prompt again until a newer remote version appears.
-- `cancel`: do not update now, then continue the original command. The same version may be offered again next time.
+`search update` checks the remote data version with `git ls-remote`. If the installed data is current, it prints an already-up-to-date message. If a newer version is available, it fetches the managed local repo, replaces installed `PAPERS/`, rebuilds `papers.db`, and writes the new version to both SQLite metadata and `db.version`.
 
 Check the installed database version:
 
@@ -204,7 +200,6 @@ TOPAPERLIST_REPO_URL=https://github.com/yourname/topaperlist.git TOPAPERLIST_UPD
 | `PAPERS_DB_PATH` | `<exe>/papers.db` | Path to SQLite database file |
 | `TOPAPERLIST_REPO_URL` | `https://github.com/dududuguo/topaperlist.git` | Git repository used for data update checks |
 | `TOPAPERLIST_UPDATE_BRANCH` | `main` | Git branch used for data update checks |
-| `TOPAPERLIST_SKIP_UPDATE_CHECK` | (off) | Set to `1` to skip the wrapper update check |
 | `RUST_LOG` | (off) | Set to `debug` for debug logging |
 
 ### Development
