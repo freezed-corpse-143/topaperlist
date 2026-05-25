@@ -47,10 +47,22 @@ pub fn create_test_papers(
 }
 
 pub fn run_search(paper_dir: &PathBuf, db_path: &PathBuf, args: &[&str]) -> std::process::Output {
+    run_search_with_env(paper_dir, db_path, args, &[])
+}
+
+pub fn run_search_with_env(
+    paper_dir: &PathBuf,
+    db_path: &PathBuf,
+    args: &[&str],
+    extra_env: &[(&str, &str)],
+) -> std::process::Output {
     let mut cmd = Command::new(binary_path());
     cmd.env("PAPERS_DIR", paper_dir);
     cmd.env("PAPERS_DB_PATH", db_path);
     cmd.env("RUST_LOG", "debug");
+    for (key, value) in extra_env {
+        cmd.env(key, value);
+    }
     cmd.args(args);
     cmd.output().expect("Failed to run search")
 }

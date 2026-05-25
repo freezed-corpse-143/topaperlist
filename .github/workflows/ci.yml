@@ -51,7 +51,7 @@ jobs:
             os: windows-latest
     defaults:
       run:
-        shell: ${{ matrix.os == 'windows-latest' && 'pwsh' || 'bash' }}
+        shell: bash
     steps:
       - uses: actions/checkout@v4
 
@@ -71,6 +71,7 @@ jobs:
 
       - name: Setup env (pwsh)
         if: matrix.os == 'windows-latest'
+        shell: pwsh
         run: |
           "PAPERS_DIR=$pwd\PAPERS" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
           "PAPERS_DB_PATH=$pwd\papers.db" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
@@ -81,20 +82,24 @@ jobs:
 
       # ── Basic query filters ──
       - name: Query — keyword
-        run: search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese" | grep -q "Chinese"
+        run: |
+          OUT=$(search query --conference EMNLP --year 2020 "attention is all you need for {C}hinese")
+          echo "$OUT" | grep "Word Segmentation"
 
       - name: Query — level
         run: |
-          OUT=$(search query --level A --conference EMNLP --year 2020 "attention")
-          echo "$OUT" | grep -q "A"
+          OUT=$(search query --level B --conference EMNLP --year 2020 "attention")
+          echo "$OUT" | grep -q "^B"
 
       - name: Query — conference
         run: |
-          OUT=$(search query --conference ICML --year 2024 diffusion | head -1)
-          echo "$OUT" | grep -qi "icml"
+          OUT=$(search query --conference ICML --year 2024 diffusion)
+          echo "$OUT" | grep -i "icml"
 
       - name: Query — year
-        run: search query --conference NeurIPS --year 2023 | grep -q "2023"
+        run: |
+          OUT=$(search query --conference NeurIPS --year 2023)
+          echo "$OUT" | grep "2023"
 
       - name: Query — combined filters
         run: |
@@ -104,10 +109,15 @@ jobs:
 
       # ── Exclude filters ──
       - name: Query — exclude keyword
-        run: search query --conference ICML --year 2024 --exclude diffusion | grep -vqi "diffusion" || true
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --exclude diffusion)
+          ! echo "$OUT" | grep -i "diffusion"
 
       - name: Query — exclude level
-        run: search query --conference EMNLP --year 2020 "attention" --exclude-level A | grep -vq "A"
+        run: |
+          OUT=$(search query --conference EMNLP --year 2020 "attention" --exclude-level A --columns level)
+          echo "$OUT" | grep -q "^B$"
+          ! echo "$OUT" | grep -q "^A$"
 
       - name: Query — exclude conference
         run: |
@@ -123,74 +133,108 @@ jobs:
 
       # ── Sorting ──
       - name: Query — sort ascending
-        run: search query --conference ICML --year 2024 --sort year:asc diffusion | grep -q "2024"
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --sort year:asc diffusion)
+          echo "$OUT" | grep "2024"
 
       - name: Query — sort descending
         run: |
           OUT=$(search query --conference ICML --year 2023,2024 --sort year:desc diffusion)
-          FIRST=$(echo "$OUT" | head -1)
+          FIRST=$(printf '%s\n' "$OUT" | sed -n '1p')
           echo "$FIRST" | grep -q "2024"
 
       - name: Query — sort multi-field
-        run: search query --sort level:asc --sort conference:asc --sort year:desc --conference ICML,NeurIPS --year 2024 diffusion | grep -q ""
+        run: |
+          OUT=$(search query --sort level:asc --sort conference:asc --sort year:desc --conference ICML,NeurIPS --year 2024 diffusion)
+          test -n "$OUT"
 
       # ── Column selection ──
       - name: Query — columns include
         run: |
-          OUT=$(search query --conference ICML --year 2024 --columns conference,year,title diffusion | head -1)
-          echo "$OUT" | grep -qi "icml"
+          OUT=$(search query --conference ICML --year 2024 --columns conference,year,title diffusion)
+          echo "$OUT" | grep -i "icml"
           echo "$OUT" | grep -q "2024"
 
       - name: Query — columns exclude
-        run: search query --conference ICML --year 2024 --exclude-columns bib,author,url diffusion | grep -q ""
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --exclude-columns bib,author,url diffusion)
+          test -n "$OUT"
 
       - name: Query — columns with bib field
-        run: search query --conference ICML --year 2024 --columns conference,year,title,bib diffusion | grep -q ""
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --columns conference,year,title,bib diffusion)
+          test -n "$OUT"
 
       # ── BibTeX ──
       - name: Bib — default output
-        run: search bib --conference EMNLP --year 2020 "attention" | grep -qi "bibtex"
+        run: |
+          OUT=$(search bib --conference EMNLP --year 2020 "attention")
+          echo "$OUT" | grep -i "@inproceedings"
 
       - name: Bib — custom columns
-        run: search bib --conference ICML --year 2024 --columns title,bib diffusion | grep -qi "diffusion"
+        run: |
+          OUT=$(search bib --conference ICML --year 2024 --columns title,bib diffusion)
+          echo "$OUT" | grep -i "diffusion"
 
       - name: Bib — exclude columns
-        run: search bib --conference ICML --year 2024 --exclude-columns url,author diffusion | grep -q ""
+        run: |
+          OUT=$(search bib --conference ICML --year 2024 --exclude-columns url,author diffusion)
+          test -n "$OUT"
 
       # ── Positional keywords ──
       - name: Query — positional keywords
-        run: search query --conference ICML --year 2024 diffusion model | grep -qi "diffusion"
+        run: |
+          OUT=$(search query --conference ICML --year 2024 diffusion model)
+          echo "$OUT" | grep -i "diffusion"
 
       # ── Comma-separated values ──
       - name: Query — comma separated conferences
-        run: search query --conference ICML,NeurIPS --year 2024 diffusion | grep -qi "icml\|neurips"
+        run: |
+          OUT=$(search query --conference ICML,NeurIPS --year 2024 diffusion)
+          echo "$OUT" | grep -i "icml\|neurips"
 
       - name: Query — comma separated years
-        run: search query --conference ICML --year 2023,2024,2025 diffusion | grep -q ""
+        run: |
+          OUT=$(search query --conference ICML --year 2023,2024,2025 diffusion)
+          test -n "$OUT"
 
       # ── Error handling ──
       - name: Error — no filter
-        run: search query 2>&1 | grep -qi "filter\|help" || exit 0
+        run: |
+          OUT=$(search query 2>&1 || true)
+          echo "$OUT" | grep -i "filter\|help"
 
       - name: Error — columns/exclude-columns conflict
-        run: search query --conference ICML --year 2024 --columns title --exclude-columns bib diffusion 2>&1 | grep -qi "cannot" || exit 0
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --columns title --exclude-columns bib diffusion 2>&1 || true)
+          echo "$OUT" | grep -i "cannot"
 
       - name: Error — unknown column
-        run: search query --conference ICML --year 2024 --columns nonexistent diffusion 2>&1 | grep -qi "unknown" || exit 0
+        run: |
+          OUT=$(search query --conference ICML --year 2024 --columns nonexistent diffusion 2>&1 || true)
+          echo "$OUT" | grep -i "unknown"
 
       - name: Error — missing PAPERS dir
-        run: PAPERS_DIR=/nonexistent search build-db 2>&1 | grep -qi "not found" || exit 0
+        run: |
+          OUT=$(PAPERS_DIR=/nonexistent search build-db 2>&1 || true)
+          echo "$OUT" | grep -i "not found"
 
       # ── Multiple keyword AND logic ──
       - name: Query — multi-keyword AND
-        run: search query --conference ICML --year 2024 diffusion model | grep -qi "diffusion"
+        run: |
+          OUT=$(search query --conference ICML --year 2024 diffusion model)
+          echo "$OUT" | grep -i "diffusion"
 
       # ── Case insensitivity ──
       - name: Query — case insensitive conference
-        run: search query --conference icml --year 2024 diffusion | grep -qi "icml"
+        run: |
+          OUT=$(search query --conference icml --year 2024 diffusion)
+          echo "$OUT" | grep -i "icml"
 
       - name: Query — case insensitive keyword
-        run: search query --conference ICML --year 2024 DIFFUSION | grep -qi "diffusion"
+        run: |
+          OUT=$(search query --conference ICML --year 2024 DIFFUSION)
+          echo "$OUT" | grep -i "diffusion"
 
   # ── install.sh verification ───────────────────────────────────
   install-sh:
@@ -205,6 +249,9 @@ jobs:
 
       - name: Run install.sh
         run: |
+          git branch topaperlist-ci-update HEAD
+          TOPAPERLIST_REPO_URL="$PWD" \
+          TOPAPERLIST_UPDATE_BRANCH=topaperlist-ci-update \
           INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
@@ -232,15 +279,38 @@ jobs:
       - name: Smoke — sort
         run: |
           export PATH="${{ runner.temp }}/bin:$PATH"
-          search query --sort year:desc --conference ICML --year 2023,2024 diffusion | head -1 | grep "2024"
+          OUT=$(search query --sort year:desc --conference ICML --year 2023,2024 diffusion)
+          FIRST=$(printf '%s\n' "$OUT" | sed -n '1p')
+          echo "$FIRST" | grep "2024"
 
       - name: Smoke — exclude filters
         run: |
           export PATH="${{ runner.temp }}/bin:$PATH"
           search query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion | grep -v "2023"
 
+      - name: Smoke - version and update wrapper
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          OUT=$(search version)
+          echo "$OUT" | grep "topaperlist"
+          search update
+
+      - name: Smoke - skip this data version
+        run: |
+          printf 'old-version' > "${{ runner.temp }}/topaperlist/db.version"
+          sh "${{ runner.temp }}/topaperlist/check-update.sh" \
+            --install-root "${{ runner.temp }}/topaperlist" \
+            --repo-url "$PWD" \
+            --branch topaperlist-ci-update \
+            --binary "${{ runner.temp }}/topaperlist/search" \
+            --skip-this-version \
+            --quiet
+          test "$(cat "${{ runner.temp }}/topaperlist/skipped.version")" = "$(git rev-parse topaperlist-ci-update)"
+
       - name: Idempotent re-install
         run: |
+          TOPAPERLIST_REPO_URL="$PWD" \
+          TOPAPERLIST_UPDATE_BRANCH=topaperlist-ci-update \
           INSTALL_ROOT="${{ runner.temp }}/topaperlist" \
           BIN_DIR="${{ runner.temp }}/bin" \
           ./install.sh
@@ -260,48 +330,76 @@ jobs:
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
-          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
+          New-Item -ItemType Directory -Force -Path "$env:InstallRoot\bin" | Out-Null
+          Set-Content -LiteralPath "$env:InstallRoot\bin\search.exe" -Value "legacy placeholder" -NoNewline
+          git branch topaperlist-ci-update HEAD
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath -RepoUrl $pwd -UpdateBranch topaperlist-ci-update
+
+      - name: Legacy bin wrapper
+        shell: pwsh
+        run: |
+          $legacyExe = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          $legacyCmd = "$env:RUNNER_TEMP\topaperlist\bin\search.cmd"
+          Test-Path -LiteralPath $legacyExe | Should -BeFalse
+          Test-Path -LiteralPath $legacyCmd | Should -BeTrue
+          & $legacyCmd version | Should -Contain "topaperlist 1.0.0-dev"
 
       - name: Smoke — keyword query
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 "attention is all you need for {C}hinese"
 
       - name: Smoke — bib export
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin bib --conference EMNLP --year 2020 "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd bib --conference EMNLP --year 2020 "attention"
 
       - name: Smoke — column selection
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 --columns conference,year,title "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 --columns conference,year,title "attention"
 
       - name: Smoke — exclude columns
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          & $bin query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd query --conference EMNLP --year 2020 --exclude-columns bib,url "attention"
 
       - name: Smoke — sort
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          $out = & $bin query --sort year:desc --conference ICML --year 2023,2024 diffusion
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          $out = & $cmd query --sort year:desc --conference ICML --year 2023,2024 diffusion
           ($out -split "`n")[0] | Should -BeLike "*2024*"
 
       - name: Smoke — exclude filters
         shell: pwsh
         run: |
-          $bin = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
-          $out = & $bin query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          $out = & $cmd query --conference ICML --year 2023,2024 --exclude-year 2023 diffusion
           $out | Should -Not -BeLike "*2023*"
+
+      - name: Smoke - version and update wrapper
+        shell: pwsh
+        run: |
+          $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
+          & $cmd version | Should -Contain "topaperlist 1.0.0-dev"
+          & $cmd update
+
+      - name: Smoke - skip this data version
+        shell: pwsh
+        run: |
+          $root = "$env:RUNNER_TEMP\topaperlist"
+          Set-Content -LiteralPath "$root\db.version" -Value "old-version" -NoNewline
+          & "$root\check-update.ps1" -InstallRoot $root -RepoUrl $pwd -Branch topaperlist-ci-update -Binary "$root\search-bin.exe" -SkipThisVersion -Quiet
+          $expected = git rev-parse topaperlist-ci-update
+          Get-Content -LiteralPath "$root\skipped.version" -Raw | Should -Be $expected
 
       - name: Idempotent re-install
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
-          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath
+          .\install.ps1 -InstallRoot $env:InstallRoot -NoPath -RepoUrl $pwd -UpdateBranch topaperlist-ci-update

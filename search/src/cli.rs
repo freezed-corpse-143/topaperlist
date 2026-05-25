@@ -2,6 +2,8 @@ pub const USAGE: &str = r#"Usage:
   search build-db                    Build SQLite database from PAPERS directory
   search query [OPTIONS] [<keywords>] Search papers
   search bib [OPTIONS] [<keywords>]   Output BibTeX entries
+  search update                      Update installed data (installed wrapper command)
+  search version                     Show binary and database versions
   search --help                       Show this help
 
 Query options:
@@ -40,6 +42,8 @@ pub enum Command {
     BuildDb,
     Query(QueryArgs),
     Bib(QueryArgs),
+    UpdateInfo,
+    Version,
     Help,
 }
 
@@ -69,6 +73,8 @@ pub fn parse(args: &[String]) -> Command {
 
     match subcommand.as_str() {
         "build-db" => Command::BuildDb,
+        "update" => Command::UpdateInfo,
+        "version" | "v" => Command::Version,
 
         "query" | "q" | "bib" | "b" => {
             let output_bib = matches!(subcommand.as_str(), "bib" | "b");

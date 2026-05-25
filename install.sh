@@ -14,6 +14,9 @@ INSTALL_ROOT="${INSTALL_ROOT:-$HOME/.local/share/topaperlist}"
 BIN_DIR="${BIN_DIR:-$HOME/.local/bin}"
 COMMAND_NAME="${COMMAND_NAME:-search}"
 CARGO="${CARGO:-cargo}"
+REPO_URL="${TOPAPERLIST_REPO_URL:-https://github.com/dududuguo/topaperlist.git}"
+UPDATE_BRANCH="${TOPAPERLIST_UPDATE_BRANCH:-main}"
+UPDATE_SCRIPT_SOURCE="$ROOT/scripts/check-update.sh"
 
 # ── Safety guards ──────────────────────────────────────────────
 case "$INSTALL_ROOT" in
@@ -27,6 +30,10 @@ if [ ! -d "$ROOT/PAPERS" ]; then
     echo "PAPERS directory was not found at $ROOT/PAPERS" >&2
     exit 1
 fi
+if [ ! -f "$UPDATE_SCRIPT_SOURCE" ]; then
+    echo "Update script was not found at $UPDATE_SCRIPT_SOURCE" >&2
+    exit 1
+fi
 
 # ── Resolve real paths ─────────────────────────────────────────
 mkdir -p "$INSTALL_ROOT" "$BIN_DIR"
@@ -38,6 +45,8 @@ DEST_DB="$INSTALL_ROOT/papers.db"
 LEGACY_DATA="$INSTALL_ROOT/PaperJson"
 WRAPPER="$BIN_DIR/$COMMAND_NAME"
 BINARY="$INSTALL_ROOT/$COMMAND_NAME"
+UPDATE_SCRIPT="$INSTALL_ROOT/check-update.sh"
+VERSION_FILE="$INSTALL_ROOT/db.version"
 
 # ── Detect install mode ────────────────────────────────────────
 HAS_BINARY=false;  [ -f "$BINARY" ] && HAS_BINARY=true
@@ -78,11 +87,16 @@ if ! command -v "$CARGO" >/dev/null 2>&1; then
     exit 1
 fi
 
+SOURCE_VERSION="local"
+if command -v git >/dev/null 2>&1; then
+    SOURCE_VERSION=$(git -C "$ROOT" rev-parse HEAD 2>/dev/null || printf '%s' "local")
+fi
+
 # ── Build ──────────────────────────────────────────────────────
 echo "Building $COMMAND_NAME from source..."
 "$CARGO" build --release --manifest-path "$PROJECT_DIR/Cargo.toml"
 
-BUILT_BINARY="$PROJECT_DIR/target/release/$COMMAND_NAME"
+BUILT_BINARY="$PROJECT_DIR/target/release/search"
 if [ ! -f "$BUILT_BINARY" ]; then
     echo "Binary not found at $BUILT_BINARY after build." >&2
     exit 1
@@ -91,6 +105,10 @@ fi
 # ── Install binary ─────────────────────────────────────────────
 cp "$BUILT_BINARY" "$BINARY"
 echo "Installed binary to $BINARY"
+
+cp "$UPDATE_SCRIPT_SOURCE" "$UPDATE_SCRIPT"
+chmod +x "$UPDATE_SCRIPT"
+echo "Installed update script to $UPDATE_SCRIPT"
 
 # ── Install PAPERS data ────────────────────────────────────────
 if [ -d "$DEST_PAPERS" ]; then
@@ -110,6 +128,16 @@ cat > "$WRAPPER" <<WRAPPEREOF
 #!/usr/bin/env sh
 export PAPERS_DIR="$DEST_PAPERS"
 export PAPERS_DB_PATH="$DEST_DB"
+export TOPAPERLIST_INSTALL_ROOT="$INSTALL_ROOT"
+export TOPAPERLIST_BINARY="$BINARY"
+export TOPAPERLIST_REPO_URL="$REPO_URL"
+export TOPAPERLIST_UPDATE_BRANCH="$UPDATE_BRANCH"
+if [ "\${1:-}" = "update" ]; then
+    exec sh "$UPDATE_SCRIPT" --install-root "$INSTALL_ROOT" --repo-url "$REPO_URL" --branch "$UPDATE_BRANCH" --binary "$BINARY" --yes
+fi
+if [ "\${TOPAPERLIST_SKIP_UPDATE_CHECK:-}" != "1" ]; then
+    sh "$UPDATE_SCRIPT" --install-root "$INSTALL_ROOT" --repo-url "$REPO_URL" --branch "$UPDATE_BRANCH" --binary "$BINARY" --quiet
+fi
 exec "$BINARY" "\$@"
 WRAPPEREOF
 chmod +x "$WRAPPER"
@@ -123,6 +151,8 @@ ENV_BLOCK=$(cat <<EOF
 $SENTINEL_START
 export PAPERS_DIR="$DEST_PAPERS"
 export PAPERS_DB_PATH="$DEST_DB"
+export PAPERS_DB_VERSION="$SOURCE_VERSION"
+export PAPERS_DB_SOURCE="$REPO_URL#$SOURCE_VERSION"
 export PATH="$BIN_DIR:\$PATH"
 $SENTINEL_END
 EOF
@@ -166,6 +196,8 @@ export PAPERS_DB_PATH="$DEST_DB"
 # ── Build database ─────────────────────────────────────────────
 echo "Building paper database..."
 "$BINARY" build-db
+printf '%s' "$SOURCE_VERSION" > "$VERSION_FILE"
+echo "Recorded database version $SOURCE_VERSION"
 
 # ── Smoke test ─────────────────────────────────────────────────
 EXPECTED="Attention Is All You Need for {C}hinese Word Segmentation"
@@ -188,6 +220,7 @@ echo "  Binary   : $BINARY"
 echo "  Wrapper  : $WRAPPER"
 echo "  Data     : $DEST_PAPERS"
 echo "  Database : $DEST_DB"
+echo "  DB ver.  : $SOURCE_VERSION"
 echo ""
 
 case ":$PATH:" in
