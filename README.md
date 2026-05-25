@@ -76,6 +76,7 @@
 
 - The `-` symbol indicates that no file exists for that year.
 - Each line in the txt file is the title of a paper, auto-generated from the corresponding jsonl file.
+- `PAPERS/TEST/UPDATE-SMOKE/2099.*` contains a synthetic record used to validate installed data update flows.
 
 ---
 
