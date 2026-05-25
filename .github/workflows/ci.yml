@@ -330,8 +330,19 @@ jobs:
         shell: pwsh
         run: |
           $env:InstallRoot = "$env:RUNNER_TEMP\topaperlist"
+          New-Item -ItemType Directory -Force -Path "$env:InstallRoot\bin" | Out-Null
+          Set-Content -LiteralPath "$env:InstallRoot\bin\search.exe" -Value "legacy placeholder" -NoNewline
           git branch topaperlist-ci-update HEAD
           .\install.ps1 -InstallRoot $env:InstallRoot -NoPath -RepoUrl $pwd -UpdateBranch topaperlist-ci-update
+
+      - name: Legacy bin wrapper
+        shell: pwsh
+        run: |
+          $legacyExe = "$env:RUNNER_TEMP\topaperlist\bin\search.exe"
+          $legacyCmd = "$env:RUNNER_TEMP\topaperlist\bin\search.cmd"
+          Test-Path -LiteralPath $legacyExe | Should -BeFalse
+          Test-Path -LiteralPath $legacyCmd | Should -BeTrue
+          & $legacyCmd version | Should -Contain "topaperlist 1.0.0-dev"
 
       - name: Smoke — keyword query
         shell: pwsh

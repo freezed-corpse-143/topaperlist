@@ -72,6 +72,9 @@ $installedWrapper = Join-Path $InstallRoot "$CommandName.cmd"
 $installedUpdateScript = Join-Path $InstallRoot "check-update.ps1"
 $versionFile = Join-Path $InstallRoot "db.version"
 $legacyCommandBinary = Join-Path $InstallRoot "$CommandName.exe"
+$legacyBinDir = Join-Path $InstallRoot "bin"
+$legacyBinBinary = Join-Path $legacyBinDir "$CommandName.exe"
+$legacyBinWrapper = Join-Path $legacyBinDir "$CommandName.cmd"
 $legacyDataDir  = Join-Path $InstallRoot "PaperJson"
 
 if ((Test-IsSameOrInside -Path $papersDir -BasePath $sourcePapersDir) -or
@@ -156,6 +159,11 @@ if ((Test-Path -LiteralPath $legacyCommandBinary) -and
     Write-Host "Removed legacy command binary at $legacyCommandBinary"
 }
 
+if (Test-Path -LiteralPath $legacyBinBinary) {
+    Remove-Item -LiteralPath $legacyBinBinary -Force
+    Write-Host "Removed legacy command binary at $legacyBinBinary"
+}
+
 $wrapperContent = @"
 @echo off
 setlocal
@@ -177,6 +185,16 @@ exit /b %ERRORLEVEL%
 "@
 Set-Content -LiteralPath $installedWrapper -Value $wrapperContent -Encoding ASCII
 Write-Host "Installed command wrapper to $installedWrapper"
+
+if (Test-Path -LiteralPath $legacyBinDir) {
+    $legacyWrapperContent = @"
+@echo off
+call "$installedWrapper" %*
+exit /b %ERRORLEVEL%
+"@
+    Set-Content -LiteralPath $legacyBinWrapper -Value $legacyWrapperContent -Encoding ASCII
+    Write-Host "Installed legacy PATH wrapper to $legacyBinWrapper"
+}
 
 # ── Install PAPERS data ────────────────────────────────────────
 
@@ -238,22 +256,66 @@ if (-not $matched) {
 if (-not $NoPath) {
     $userPath = [Environment]::GetEnvironmentVariable("Path", "User")
     $pathItems = @(if ($userPath) { $userPath -split ";" } else { @() })
+    $normalizedInstallRoot = [System.IO.Path]::GetFullPath($InstallRoot).TrimEnd("\")
+    $normalizedLegacyBin = [System.IO.Path]::GetFullPath($legacyBinDir).TrimEnd("\")
+    $updatedPathItems = @()
     $alreadyInPath = $false
+    $pathChanged = $false
     foreach ($item in $pathItems) {
-        if ($item.TrimEnd("\") -ieq $InstallRoot.TrimEnd("\")) {
-            $alreadyInPath = $true
-            break
+        $trimmedItem = $item.Trim()
+        if ($trimmedItem.Length -eq 0) {
+            continue
         }
+        $expandedItem = [Environment]::ExpandEnvironmentVariables($trimmedItem)
+        try {
+            $normalizedItem = [System.IO.Path]::GetFullPath($expandedItem).TrimEnd("\")
+        } catch {
+            $normalizedItem = $trimmedItem.TrimEnd("\")
+        }
+        if ($normalizedItem -ieq $normalizedLegacyBin) {
+            $pathChanged = $true
+            continue
+        }
+        if ($normalizedItem -ieq $normalizedInstallRoot) {
+            $alreadyInPath = $true
+        }
+        $updatedPathItems += $trimmedItem
     }
     if (-not $alreadyInPath) {
-        $newPath = if ($userPath -and $userPath.Trim().Length -gt 0) {
-            "$userPath;$InstallRoot"
-        } else {
-            $InstallRoot
-        }
+        $updatedPathItems += $InstallRoot
+        $pathChanged = $true
+    }
+    if ($pathChanged) {
+        $newPath = $updatedPathItems -join ";"
         [Environment]::SetEnvironmentVariable("Path", $newPath, "User")
-        $env:Path = "$env:Path;$InstallRoot"
-        Write-Host "Added $InstallRoot to the user PATH."
+
+        $envPathItems = @(if ($env:Path) { $env:Path -split ";" } else { @() })
+        $updatedEnvPathItems = @()
+        $installRootInEnvPath = $false
+        foreach ($item in $envPathItems) {
+            $trimmedItem = $item.Trim()
+            if ($trimmedItem.Length -eq 0) {
+                continue
+            }
+            $expandedItem = [Environment]::ExpandEnvironmentVariables($trimmedItem)
+            try {
+                $normalizedItem = [System.IO.Path]::GetFullPath($expandedItem).TrimEnd("\")
+            } catch {
+                $normalizedItem = $trimmedItem.TrimEnd("\")
+            }
+            if ($normalizedItem -ieq $normalizedLegacyBin) {
+                continue
+            }
+            if ($normalizedItem -ieq $normalizedInstallRoot) {
+                $installRootInEnvPath = $true
+            }
+            $updatedEnvPathItems += $trimmedItem
+        }
+        if (-not $installRootInEnvPath) {
+            $updatedEnvPathItems += $InstallRoot
+        }
+        $env:Path = $updatedEnvPathItems -join ";"
+        Write-Host "Updated user PATH to use $InstallRoot."
     }
 }
 
