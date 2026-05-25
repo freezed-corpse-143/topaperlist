@@ -293,7 +293,16 @@ jobs:
           export PATH="${{ runner.temp }}/bin:$PATH"
           OUT=$(search version)
           echo "$OUT" | grep "topaperlist"
-          search update
+          UPDATE_OUT=$(search update)
+          echo "$UPDATE_OUT" | grep -i "already up to date"
+
+      - name: Smoke - explicit update output
+        run: |
+          export PATH="${{ runner.temp }}/bin:$PATH"
+          printf 'old-version' > "${{ runner.temp }}/topaperlist/db.version"
+          UPDATE_OUT=$(search update)
+          echo "$UPDATE_OUT" | grep -i "update available"
+          echo "$UPDATE_OUT" | grep -i "updated to"
 
       - name: Smoke - skip this data version
         run: |
@@ -387,7 +396,18 @@ jobs:
         run: |
           $cmd = "$env:RUNNER_TEMP\topaperlist\search.cmd"
           & $cmd version | Should -Contain "topaperlist 1.0.0-dev"
-          & $cmd update
+          $updateOut = & $cmd update
+          $updateOut | Should -Match "already up to date"
+
+      - name: Smoke - explicit update output
+        shell: pwsh
+        run: |
+          $root = "$env:RUNNER_TEMP\topaperlist"
+          $cmd = "$root\search.cmd"
+          Set-Content -LiteralPath "$root\db.version" -Value "old-version" -NoNewline
+          $updateOut = & $cmd update
+          $updateOut | Should -Match "update available"
+          $updateOut | Should -Match "updated to"
 
       - name: Smoke - skip this data version
         shell: pwsh

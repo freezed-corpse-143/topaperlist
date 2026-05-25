@@ -152,7 +152,11 @@ if (Test-Path -LiteralPath $versionFile) {
     }
 }
 
+$localShort = Short-Sha $localVersion
+$remoteShort = Short-Sha $remoteVersion
+
 if ($localVersion -eq $remoteVersion) {
+    Write-Info "topaperlist data already up to date ($remoteShort)."
     exit 0
 }
 
@@ -169,9 +173,6 @@ if ((-not $Yes) -and (Test-Path -LiteralPath $skippedVersionFile)) {
         exit 0
     }
 }
-
-$localShort = Short-Sha $localVersion
-$remoteShort = Short-Sha $remoteVersion
 
 if (-not $Yes) {
     if (-not [Environment]::UserInteractive) {
@@ -202,6 +203,8 @@ if (-not $Yes) {
             }
         }
     }
+} else {
+    Write-Info "topaperlist data update available: $localShort -> $remoteShort"
 }
 
 Ensure-InstallRoot
