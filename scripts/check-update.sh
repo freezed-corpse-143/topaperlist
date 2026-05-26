@@ -111,7 +111,11 @@ elif [ -d "$REPO_DIR/.git" ]; then
     local_version=$(git -C "$REPO_DIR" rev-parse HEAD 2>/dev/null || true)
 fi
 
+local_short=$(short_sha "$local_version")
+remote_short=$(short_sha "$remote_version")
+
 if [ "$local_version" = "$remote_version" ]; then
+    info "topaperlist data already up to date ($remote_short)."
     exit 0
 fi
 
@@ -135,7 +139,7 @@ if [ "$YES" != "true" ]; then
     fi
 
     printf 'topaperlist data update available: %s -> %s\n' \
-        "$(short_sha "$local_version")" "$(short_sha "$remote_version")"
+        "$local_short" "$remote_short"
     while :; do
         printf 'Choose: [u]pdate / [s]kip this version / [c]ancel '
         IFS= read -r answer || answer=""
@@ -159,6 +163,8 @@ if [ "$YES" != "true" ]; then
                 ;;
         esac
     done
+else
+    info "topaperlist data update available: $local_short -> $remote_short"
 fi
 
 mkdir -p "$INSTALL_ROOT"

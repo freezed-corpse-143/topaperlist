@@ -135,9 +135,6 @@ export TOPAPERLIST_UPDATE_BRANCH="$UPDATE_BRANCH"
 if [ "\${1:-}" = "update" ]; then
     exec sh "$UPDATE_SCRIPT" --install-root "$INSTALL_ROOT" --repo-url "$REPO_URL" --branch "$UPDATE_BRANCH" --binary "$BINARY" --yes
 fi
-if [ "\${TOPAPERLIST_SKIP_UPDATE_CHECK:-}" != "1" ]; then
-    sh "$UPDATE_SCRIPT" --install-root "$INSTALL_ROOT" --repo-url "$REPO_URL" --branch "$UPDATE_BRANCH" --binary "$BINARY" --quiet
-fi
 exec "$BINARY" "\$@"
 WRAPPEREOF
 chmod +x "$WRAPPER"
