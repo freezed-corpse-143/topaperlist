@@ -1,5 +1,9 @@
 mod test_utils;
 
+use std::collections::{BTreeMap, HashSet};
+use std::io::BufRead;
+use std::path::{Path, PathBuf};
+
 use test_utils::*;
 
 // ── build-db tests ──
@@ -248,6 +252,237 @@ fn setup_query_test() -> (std::path::PathBuf, std::path::PathBuf, std::path::Pat
     (dir, paper_dir, db_path)
 }
 
+#[derive(Clone, Debug)]
+struct SampledPaper {
+    level: String,
+    conference: String,
+    year: String,
+    title: String,
+    author: String,
+    bib: String,
+    url: String,
+}
+
+fn read_dir_sorted(path: &Path) -> Vec<PathBuf> {
+    let mut entries: Vec<PathBuf> = std::fs::read_dir(path)
+        .unwrap_or_else(|e| panic!("Failed to read {}: {e}", path.display()))
+        .map(|entry| {
+            entry
+                .unwrap_or_else(|e| panic!("Failed to read entry under {}: {e}", path.display()))
+                .path()
+        })
+        .collect();
+    entries.sort();
+    entries
+}
+
+fn sample_real_papers(count: usize) -> Vec<SampledPaper> {
+    let papers_dir = PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+        .parent()
+        .expect("search crate should have a project root")
+        .join("PAPERS");
+
+    let mut candidates = Vec::new();
+    for level_path in read_dir_sorted(&papers_dir) {
+        if !level_path.is_dir() {
+            continue;
+        }
+
+        let level = level_path
+            .file_name()
+            .unwrap()
+            .to_string_lossy()
+            .to_string();
+        if level == "TEST" {
+            continue;
+        }
+
+        for conference_path in read_dir_sorted(&level_path) {
+            if !conference_path.is_dir() {
+                continue;
+            }
+            let conference = conference_path
+                .file_name()
+                .unwrap()
+                .to_string_lossy()
+                .to_string();
+
+            for jsonl_path in read_dir_sorted(&conference_path) {
+                if jsonl_path.extension().and_then(|s| s.to_str()) != Some("jsonl") {
+                    continue;
+                }
+                let year = jsonl_path
+                    .file_stem()
+                    .unwrap()
+                    .to_string_lossy()
+                    .to_string();
+                let file = std::fs::File::open(&jsonl_path)
+                    .unwrap_or_else(|e| panic!("Failed to open {}: {e}", jsonl_path.display()));
+                let reader = std::io::BufReader::new(file);
+
+                for line in reader.lines() {
+                    let line = line
+                        .unwrap_or_else(|e| panic!("Failed to read {}: {e}", jsonl_path.display()));
+                    if line.trim().is_empty() {
+                        continue;
+                    }
+                    let value: serde_json::Value =
+                        serde_json::from_str(&line).unwrap_or_else(|e| {
+                            panic!("Failed to parse {}: {e}", jsonl_path.display())
+                        });
+                    let title = value
+                        .get("title")
+                        .and_then(|v| v.as_str())
+                        .unwrap_or("")
+                        .trim()
+                        .to_string();
+                    let bib = value
+                        .get("bib")
+                        .and_then(|v| v.as_str())
+                        .unwrap_or("")
+                        .trim()
+                        .to_string();
+
+                    if title.is_empty()
+                        || bib.is_empty()
+                        || title.contains('\t')
+                        || title.contains('\n')
+                        || title.contains('\r')
+                    {
+                        continue;
+                    }
+
+                    candidates.push(SampledPaper {
+                        level: level.clone(),
+                        conference: conference.clone(),
+                        year: year.clone(),
+                        title,
+                        author: value
+                            .get("author")
+                            .and_then(|v| v.as_str())
+                            .unwrap_or("")
+                            .to_string(),
+                        bib,
+                        url: value
+                            .get("url")
+                            .and_then(|v| v.as_str())
+                            .unwrap_or("")
+                            .to_string(),
+                    });
+                }
+            }
+        }
+    }
+
+    assert!(
+        candidates.len() >= count,
+        "Need at least {count} real paper candidates, got {}",
+        candidates.len()
+    );
+
+    let mut seed = 0x5eed_cafe_d00d_f00du64;
+    let mut selected = Vec::new();
+    let mut seen_titles = HashSet::new();
+    while selected.len() < count {
+        seed = seed
+            .wrapping_mul(6364136223846793005)
+            .wrapping_add(1442695040888963407);
+        let candidate = candidates[(seed as usize) % candidates.len()].clone();
+        if seen_titles.insert(candidate.title.to_ascii_lowercase()) {
+            selected.push(candidate);
+        }
+    }
+
+    selected
+}
+
+fn write_sampled_papers(root: &Path, samples: &[SampledPaper]) {
+    let mut grouped: BTreeMap<(String, String, String), Vec<SampledPaper>> = BTreeMap::new();
+    for sample in samples {
+        grouped
+            .entry((
+                sample.level.clone(),
+                sample.conference.clone(),
+                sample.year.clone(),
+            ))
+            .or_default()
+            .push(sample.clone());
+    }
+
+    for ((level, conference, year), records) in grouped {
+        let conf_dir = root.join(level).join(conference);
+        std::fs::create_dir_all(&conf_dir).unwrap();
+
+        let jsonl_content = records
+            .iter()
+            .map(|sample| {
+                serde_json::json!({
+                    "author": sample.author.as_str(),
+                    "bib": sample.bib.as_str(),
+                    "title": sample.title.as_str(),
+                    "url": sample.url.as_str(),
+                })
+                .to_string()
+            })
+            .collect::<Vec<_>>()
+            .join("\n");
+        std::fs::write(conf_dir.join(format!("{year}.jsonl")), jsonl_content + "\n").unwrap();
+
+        let txt_content = records
+            .iter()
+            .map(|sample| sample.title.as_str())
+            .collect::<Vec<_>>()
+            .join("\n");
+        std::fs::write(conf_dir.join(format!("{year}.txt")), txt_content + "\n").unwrap();
+    }
+}
+
+fn assert_table_row(stdout: &str, field: &str, value: &str) {
+    assert!(
+        stdout.lines().any(|line| {
+            let parts: Vec<&str> = line.split('|').collect();
+            parts.len() >= 4 && parts[1].trim() == field && parts[2].trim() == value
+        }),
+        "Expected terminal table row `{field}: {value}` in output:\n{stdout}"
+    );
+}
+
+fn assert_no_table_row(stdout: &str, field: &str) {
+    assert!(
+        !stdout.lines().any(|line| {
+            let parts: Vec<&str> = line.split('|').collect();
+            parts.len() >= 4 && parts[1].trim() == field
+        }),
+        "Did not expect terminal table row `{field}` in output:\n{stdout}"
+    );
+}
+
+fn assert_terminal_table_header(stdout: &str) {
+    assert!(
+        stdout
+            .lines()
+            .any(|line| line.starts_with('+') && line.ends_with('+')),
+        "Expected terminal table border in output:\n{stdout}"
+    );
+    assert_table_row(stdout, "Field", "Value");
+    assert!(
+        !stdout.contains("| --- | --- |"),
+        "Title query output should be a terminal table, not a Markdown table:\n{stdout}"
+    );
+}
+
+fn assert_author_display(stdout: &str, author: &str) {
+    if author.chars().count() > 80 {
+        let table_stdout = stdout.split("\n\n").next().unwrap_or("");
+        assert!(
+            table_stdout.contains(".etc"),
+            "Long author display should be abbreviated:\n{stdout}"
+        );
+    } else {
+        assert_table_row(stdout, "author", author);
+    }
+}
+
 #[test]
 fn query_with_keyword_filter() {
     let (dir, paper_dir, db_path) = setup_query_test();
@@ -291,6 +526,312 @@ fn bib_command_outputs_single_paper_bibtex() {
     assert!(stdout.contains("@inproceedings{fastdrivevla2026"));
     assert!(stdout.contains("FastDriveVLA: Efficient End-to-End Driving"));
     assert!(!stdout.contains("@inproceedings{other2026"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn query_with_exact_title_filter() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"Exact Paper, With Comma","author":"Alice","bib":"@inproceedings{exact2026}","url":"https://example.com/exact"}
+{"title":"Exact Paper, With Comma Extended","author":"Bob","bib":"@inproceedings{extended2026}","url":"https://example.com/extended"}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--title", "exact paper, with comma"],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_terminal_table_header(&stdout);
+    assert_table_row(&stdout, "level", "A");
+    assert_table_row(&stdout, "conference", "AAAI");
+    assert_table_row(&stdout, "year", "2026");
+    assert_table_row(&stdout, "title", "Exact Paper, With Comma");
+    assert_table_row(&stdout, "author", "Alice");
+    assert_table_row(&stdout, "url", "https://example.com/exact");
+    assert!(stdout.contains("\n\n@inproceedings{exact2026}"));
+    assert_no_table_row(&stdout, "bib");
+    assert!(!stdout.contains("@inproceedings{extended2026}"));
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--title",
+            "exact paper, with comma",
+            "--columns",
+            "title",
+            "--exclude-columns",
+            "bib",
+        ],
+    );
+    assert_success(&output);
+    let columns_stdout = String::from_utf8(output.stdout).unwrap();
+    assert_eq!(
+        columns_stdout, stdout,
+        "column selection flags should be ignored for exact title lookup"
+    );
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--title",
+            "exact paper, with comma",
+            "--clumn",
+            "xxx",
+        ],
+    );
+    assert_success(&output);
+    let unknown_stdout = String::from_utf8(output.stdout.clone()).unwrap();
+    assert_eq!(
+        unknown_stdout, stdout,
+        "unknown options and their values should be ignored for exact title lookup"
+    );
+    assert!(
+        !stderr_str(&output).contains("unsupported option"),
+        "unsupported options should not warn for exact title lookup"
+    );
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn query_with_exact_title_outputs_all_dynamic_fields() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("ICML");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"Full Metadata Paper","author":"Carol","bib":"@inproceedings{fullmeta2026}","doi":"10.5555/fullmeta","topic":"metadata lookup","url":"https://example.com/fullmeta"}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--title", "Full Metadata Paper"],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_table_row(&stdout, "level", "A");
+    assert_table_row(&stdout, "conference", "ICML");
+    assert_table_row(&stdout, "year", "2026");
+    assert_table_row(&stdout, "title", "Full Metadata Paper");
+    assert_table_row(&stdout, "author", "Carol");
+    assert_table_row(&stdout, "doi", "10.5555/fullmeta");
+    assert_table_row(&stdout, "topic", "metadata lookup");
+    assert_table_row(&stdout, "url", "https://example.com/fullmeta");
+    assert!(stdout.contains("\n\n@inproceedings{fullmeta2026}"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn query_with_exact_title_ignores_bibtex_case_protection_braces() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("B").join("EMNLP");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2020.jsonl"),
+        r#"{"title":"Attention Is All You Need for {C}hinese Word Segmentation","author":"Duan, Sufeng; Zhao, Hai","bib":"@inproceedings{EMNLP2020_15349}","url":"https://aclanthology.org/2020.emnlp-main.317/"}
+{"title":"Attention Is All You Need for Chinese Parsing","author":"Other","bib":"@inproceedings{other2020}","url":""}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "query",
+            "--title",
+            "Attention Is All You Need for Chinese Word Segmentation",
+        ],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_table_row(&stdout, "level", "B");
+    assert_table_row(&stdout, "conference", "EMNLP");
+    assert_table_row(&stdout, "year", "2020");
+    assert_table_row(
+        &stdout,
+        "title",
+        "Attention Is All You Need for {C}hinese Word Segmentation",
+    );
+    assert!(stdout.contains("\n\n@inproceedings{EMNLP2020_15349}"));
+    assert!(!stdout.contains("@inproceedings{other2020}"));
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &[
+            "bib",
+            "--title",
+            "Attention Is All You Need for Chinese Word Segmentation",
+        ],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_eq!(stdout.trim(), "@inproceedings{EMNLP2020_15349}");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn query_with_exact_title_ignores_trailing_terminal_punctuation() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("NeurIPS");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2020.jsonl"),
+        r#"{"title":"Language Models are Few-Shot Learners.","author":"Tom B Brown; Benjamin Mann; Nick Ryder; Melanie Subbiah; Jared Kaplan; Prafulla Dhariwal; Arvind Neelakantan","bib":"@inproceedings{NeurIPS2020_8146}","url":"https://example.com/gpt3"}
+{"title":"Language Models are Few-Shot Learners Extended","author":"Other","bib":"@inproceedings{other2020}","url":""}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["query", "--title", "Language Models are Few-Shot Learners"],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_terminal_table_header(&stdout);
+    assert_table_row(&stdout, "level", "A");
+    assert_table_row(&stdout, "conference", "NeurIPS");
+    assert_table_row(&stdout, "year", "2020");
+    assert_table_row(&stdout, "title", "Language Models are Few-Shot Learners.");
+    let table_stdout = stdout.split("\n\n").next().unwrap_or("");
+    assert!(
+        table_stdout.contains(".etc"),
+        "Long author display should be abbreviated:\n{stdout}"
+    );
+    assert!(
+        !table_stdout.contains("Arvind Neelakantan"),
+        "Long author display should not print the full author list:\n{stdout}"
+    );
+    assert!(stdout.contains("\n\n@inproceedings{NeurIPS2020_8146}"));
+    assert!(!stdout.contains("@inproceedings{other2020}"));
+
+    let output = run_search(
+        &paper_dir,
+        &db_path,
+        &["bib", "--title", "Language Models are Few-Shot Learners"],
+    );
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert_eq!(stdout.trim(), "@inproceedings{NeurIPS2020_8146}");
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn bib_command_accepts_exact_title_filter() {
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    let conf_dir = paper_dir.join("A").join("AAAI");
+    std::fs::create_dir_all(&conf_dir).unwrap();
+    std::fs::write(
+        conf_dir.join("2026.jsonl"),
+        r#"{"title":"FastDriveVLA","author":"Alice","bib":"@inproceedings{fastdrivevla2026}","url":""}
+{"title":"FastDriveVLA Extended","author":"Bob","bib":"@inproceedings{fastdrivevlaextended2026}","url":""}
+"#,
+    )
+    .unwrap();
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    let output = run_search(&paper_dir, &db_path, &["bib", "--title", "fastdrivevla"]);
+    assert_success(&output);
+    let stdout = String::from_utf8(output.stdout).unwrap();
+    assert!(stdout.contains("@inproceedings{fastdrivevla2026}"));
+    assert!(!stdout.contains("@inproceedings{fastdrivevlaextended2026}"));
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn exact_title_lookup_matches_random_real_paper_samples() {
+    let samples = sample_real_papers(6);
+    let dir = temp_test_dir();
+    let paper_dir = dir.join("PAPERS");
+    let db_path = dir.join("test.db");
+    write_sampled_papers(&paper_dir, &samples);
+
+    let output = run_search(&paper_dir, &db_path, &["build-db"]);
+    assert_success(&output);
+
+    for sample in &samples {
+        let output = run_search(
+            &paper_dir,
+            &db_path,
+            &["query", "--title", sample.title.as_str()],
+        );
+        assert_success(&output);
+        let stdout = String::from_utf8(output.stdout).unwrap();
+        assert_table_row(&stdout, "level", &sample.level);
+        assert_table_row(&stdout, "conference", &sample.conference);
+        assert_table_row(&stdout, "year", &sample.year);
+        assert_table_row(&stdout, "title", &sample.title);
+        if !sample.author.trim().is_empty() {
+            assert_author_display(&stdout, sample.author.trim());
+        }
+        assert!(
+            stdout.contains(&format!("\n\n{}", sample.bib.trim())),
+            "Exact title lookup should append sampled BibTeX after the table:\n{stdout}"
+        );
+        if !sample.url.trim().is_empty() {
+            assert_table_row(&stdout, "url", sample.url.trim());
+        }
+
+        let output = run_search(
+            &paper_dir,
+            &db_path,
+            &["bib", "--title", sample.title.as_str()],
+        );
+        assert_success(&output);
+        let stdout = String::from_utf8(output.stdout).unwrap();
+        assert_eq!(
+            stdout.trim(),
+            sample.bib.trim(),
+            "BibTeX lookup should match sampled paper"
+        );
+    }
 
     let _ = std::fs::remove_dir_all(&dir);
 }
@@ -488,6 +1029,28 @@ fn query_requires_at_least_one_filter() {
 }
 
 #[test]
+fn query_unknown_option_without_title_warns_and_ignores_value() {
+    let (dir, paper_dir, db_path) = setup_query_test();
+
+    let output = run_search(&paper_dir, &db_path, &["query", "--clumn", "diffusion"]);
+    assert!(
+        !output.status.success(),
+        "Unknown option value should not become a positional keyword"
+    );
+    let stderr = stderr_str(&output);
+    assert!(
+        stderr.contains("unsupported option: --clumn"),
+        "Should warn about unsupported option: {stderr}"
+    );
+    assert!(
+        stderr.contains("filter is required"),
+        "Should fail because no valid filter remains: {stderr}"
+    );
+
+    let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
 fn query_positional_keywords_work_like_explicit() {
     let (dir, paper_dir, db_path) = setup_query_test();
 
@@ -594,6 +1157,22 @@ fn help_prints_usage() {
     assert!(stdout.contains("Usage"), "Should show usage");
 
     let _ = std::fs::remove_dir_all(&dir);
+}
+
+#[test]
+fn english_readme_links_to_chinese_readme_near_top() {
+    let readme_path = PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+        .parent()
+        .expect("search crate should have a project root")
+        .join("README.md");
+    let readme = std::fs::read_to_string(&readme_path)
+        .unwrap_or_else(|e| panic!("Failed to read {}: {e}", readme_path.display()));
+    let top_lines = readme.lines().take(5).collect::<Vec<_>>().join("\n");
+
+    assert!(
+        top_lines.contains("[简体中文](README.zh.md)"),
+        "English README should link to README.zh.md near the top"
+    );
 }
 
 // ── standalone exclude filter tests ──

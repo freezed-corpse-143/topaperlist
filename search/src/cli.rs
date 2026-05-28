@@ -7,6 +7,7 @@ pub const USAGE: &str = r#"Usage:
   search --help                       Show this help
 
 Query options:
+      --title <title>                Exact title filter (case-insensitive, ignores BibTeX braces/trailing .!? punctuation, repeatable)
   -k, --keyword <keyword>            Title include keywords (repeatable, comma-separated)
   -x, --exclude <keyword>            Title exclude keywords (repeatable, comma-separated)
       --exclude-keyword <keyword>    Alias for --exclude
@@ -16,8 +17,7 @@ Query options:
       --exclude-conference <name>    Conference exclude (repeatable, comma-separated)
   -y, --year <year>                  Year filter (repeatable, comma-separated)
       --exclude-year <year>          Year exclude (repeatable, comma-separated)
-  -s, --sort <field:order>           Sort spec (repeatable) fields: level, conference, year, title
-                                      order: asc, desc
+  -s, --sort <field:order>           Sort spec (repeatable) fields: level, conference, year, title order: asc, desc
   -c, --columns <list>               Columns to show (comma-separated): level, conference, year, title, bib, author, url, etc.
   -X, --exclude-columns <list>       Columns to hide (comma-separated) — show all columns except these
       --db-path <path>               Database file path (overrides PAPERS_DB_PATH env var)
@@ -30,11 +30,12 @@ Environment variables:
 Examples:
   search build-db
   search query diffusion model
+  search query --title "Paper Title"
   search query --level A --conference AAAI --year 2024
   search query --level A,B --conference AAAI,ICML --year 2024,2025 diffusion
   search query --exclude-level B --exclude-year 2024
   search query --sort year:desc --columns conference,year,title diffusion
-  search bib --keyword vla
+  search bib --title "Paper Title"
 "#;
 
 #[derive(Debug)]
@@ -49,6 +50,7 @@ pub enum Command {
 
 #[derive(Debug, Default)]
 pub struct QueryArgs {
+    pub title: Vec<String>,
     pub keyword: Vec<String>,
     pub positional_keywords: Vec<String>,
     pub exclude: Vec<String>,
@@ -79,12 +81,19 @@ pub fn parse(args: &[String]) -> Command {
         "query" | "q" | "bib" | "b" => {
             let output_bib = matches!(subcommand.as_str(), "bib" | "b");
             let mut qargs = QueryArgs::default();
+            let mut unsupported_options = Vec::new();
             let mut i = 2;
 
             while i < args.len() {
                 let arg = &args[i];
 
                 match arg.as_str() {
+                    "--title" => {
+                        i += 1;
+                        if let Some(val) = args.get(i) {
+                            push_value(&mut qargs.title, val);
+                        }
+                    }
                     "-k" | "--keyword" => {
                         i += 1;
                         if let Some(val) = args.get(i) {
@@ -173,6 +182,10 @@ pub fn parse(args: &[String]) -> Command {
                         eprintln!("Note: --paper-dir is deprecated, set the PAPERS_DIR environment variable instead");
                     }
                     "-h" | "--help" => return Command::Help,
+                    _ if arg.starts_with("--title=") => {
+                        let val = arg.trim_start_matches("--title=");
+                        push_value(&mut qargs.title, val);
+                    }
                     _ if arg.starts_with("--keyword=") => {
                         let val = arg.trim_start_matches("--keyword=");
                         push_csv(&mut qargs.keyword, val);
@@ -232,8 +245,11 @@ pub fn parse(args: &[String]) -> Command {
                         qargs.db_path_override = Some(val.to_string());
                     }
                     _ if arg.starts_with('-') => {
-                        eprintln!("Warning: unsupported option: {arg}");
+                        unsupported_options.push(arg.clone());
                         i += 1;
+                        if args.get(i).is_some_and(|next| !next.starts_with('-')) {
+                            i += 1;
+                        }
                         continue;
                     }
                     _ => {
@@ -241,6 +257,12 @@ pub fn parse(args: &[String]) -> Command {
                     }
                 }
                 i += 1;
+            }
+
+            if qargs.title.is_empty() {
+                for option in unsupported_options {
+                    eprintln!("Warning: unsupported option: {option}");
+                }
             }
 
             if output_bib {
@@ -256,6 +278,14 @@ pub fn parse(args: &[String]) -> Command {
             eprintln!("Unknown command: {subcommand}\n");
             Command::Help
         }
+    }
+}
+
+/// Normalize and push a single value, deduplicating case-insensitively.
+fn push_value(target: &mut Vec<String>, raw: &str) {
+    let trimmed = raw.trim();
+    if !trimmed.is_empty() && !target.iter().any(|v| v.eq_ignore_ascii_case(trimmed)) {
+        target.push(trimmed.to_string());
     }
 }
 

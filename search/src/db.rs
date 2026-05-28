@@ -175,7 +175,7 @@ pub fn clear_db(conn: &rusqlite::Connection) -> Result<()> {
     Ok(())
 }
 
-/// Apply a set membership filter (IN / NOT IN).
+/// Apply an exact-value membership filter (IN / NOT IN).
 /// See sql/filter_set.sql for the corresponding SQL template.
 fn apply_set_filter(
     inner: &mut String,
@@ -207,6 +207,29 @@ fn apply_set_filter(
         placeholders.join(",")
     );
     debug!("Applying filter_set ({tag}): [{}]", values.join(", "));
+}
+
+fn apply_title_exact_filter(inner: &mut String, bind_values: &mut Vec<String>, values: &[String]) {
+    if values.is_empty() {
+        return;
+    }
+
+    let placeholders: Vec<String> = values
+        .iter()
+        .map(|v| {
+            bind_values.push(v.clone());
+            format!("?{}", bind_values.len())
+        })
+        .collect();
+    let title_expr = "LOWER(RTRIM(REPLACE(REPLACE(title, '{', ''), '}', ''), ' .!?'))";
+    *inner = format!(
+        "SELECT * FROM ({inner}) WHERE {title_expr} IN ({})",
+        placeholders.join(",")
+    );
+    debug!(
+        "Applying filter_set (title_exact_normalized): [{}]",
+        values.join(", ")
+    );
 }
 
 /// Apply a substring match filter (LIKE / NOT LIKE).
@@ -245,6 +268,7 @@ fn apply_like_filter(
 ///     SELECT {columns} FROM ({inner}) {order_by}
 pub fn query_records(
     conn: &rusqlite::Connection,
+    title_exact: &[String],
     title_include: &[String],
     title_exclude: &[String],
     level_include: &[String],
@@ -259,7 +283,8 @@ pub fn query_records(
     let mut bind_values: Vec<String> = Vec::new();
     let mut inner = "papers".to_string();
 
-    // ── Title filters (see sql/filter_substring.sql) ──
+    // ── Title filters (see sql/filter_set.sql and sql/filter_substring.sql) ──
+    apply_title_exact_filter(&mut inner, &mut bind_values, title_exact);
     apply_like_filter(
         &mut inner,
         &mut bind_values,
