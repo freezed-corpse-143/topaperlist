@@ -2,6 +2,9 @@
 
 ## v2.2.0-dev (Unreleased)
 
+- **Exact title lookup**: add `--title <title>` for case-insensitive exact-title filtering across `search query` and `search bib`, ignoring BibTeX case-protection braces such as `{C}` and trailing `.!?` punctuation. `search query --title ...` prints metadata as a terminal table, abbreviates author lists longer than 80 characters with `.etc`, appends raw BibTeX after a blank line, and ignores column selection/unknown flags.
+- **Title lookup coverage**: add deterministic random real-paper sample tests and GitHub Actions smoke checks for exact-title query/BibTeX lookup.
+- **README language link**: add a Simplified Chinese README link at the top of the English README.
 - **Flat install layout**: remove `bin/` subdirectory — binary, `papers.db`, and `PAPERS/` now sit side-by-side in the install root. Default DB/PAPERS resolution prioritizes `<exe>/papers.db` and `<exe>/PAPERS` (same-directory layout), with cwd and parent-directory fallbacks for legacy compat. (build_db.rs, install.ps1, install.sh)
 - **Post-build auto-copy via `cargo-post`**: add `post_build.rs` — after `cargo post build --release` the binary is automatically copied to the repo root. Removes the need for manual copy or separate build scripts. (Cargo.toml, post_build.rs)
 

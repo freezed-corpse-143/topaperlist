@@ -187,22 +187,58 @@ level	conference	year	title
 
 默认列顺序：`level -> conference -> year -> title`
 
+### 完整标题查询示例
+
+使用完整标题可以一次拿到论文的全部元数据。例如：
+
+```bash
+search query --title "Self-Training With Noisy Student Improves ImageNet Classification."
+```
+
+```text
++------------+--------------------------------------------------------------------+
+| Field      | Value                                                              |
++------------+--------------------------------------------------------------------+
+| level      | A                                                                  |
+| conference | CVPR                                                               |
+| year       | 2020                                                               |
+| title      | Self-Training With Noisy Student Improves ImageNet Classification. |
+| author     | Qizhe Xie; Minh-Thang Luong; Eduard H. Hovy; Quoc V. Le            |
+| url        | https://doi.org/10.1109/CVPR42600.2020.01070                       |
++------------+--------------------------------------------------------------------+
+
+@inproceedings{DBLP:conf/cvpr/XieLHL20,
+  author       = {Qizhe Xie and Minh-Thang Luong and Eduard H. Hovy and Quoc V. Le},
+  title        = {Self-Training With Noisy Student Improves ImageNet Classification.},
+  booktitle    = {CVPR 2020: Virtual Event / Seattle, WA, USA},
+  pages        = {10684--10695},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/CVPR42600.2020.01070},
+  doi          = {10.1109/CVPR42600.2020.01070},
+  biburl       = {https://dblp.org/rec/conf/cvpr/XieLHL20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ### 查询规则
 
 - 至少需要一个筛选条件。
 - 所有筛选条件大小写不敏感。
 - `--keyword` 和位置参数等价。
 - 重复值自动去重。
-- 逗号分隔值可用于所有可重复筛选。
+- 除 `--title` 外，逗号分隔值可用于可重复筛选；`--title` 会保留逗号作为标题内容。
 - `level`、`conference`、`year` 为精确匹配（大小写不敏感）。
+- `--title` 为完整标题精确匹配（大小写不敏感，并忽略 `{C}` 这类 BibTeX 大小写保护花括号和末尾 `.!?` 标点）。
+- `search query --title ...` 默认把元数据输出为命令行表格，超过 80 字符的作者列表会用 `.etc` 省略，并在空行后追加原始 BibTeX；完整标题查询会忽略列选择参数和未知参数。
 - 标题关键词为子串匹配：标题字符串包含关键词即命中（非按空格分词匹配）。
 - 排除筛选在包含筛选之后应用。
 - 多个标题关键词为 AND 关系（标题必须同时包含所有关键词）。
 
 ### 支持的筛选
 
-所有选项均可重复使用，也支持逗号分隔：
+所有选项均可重复使用。大多数选项支持逗号分隔；`--title` 会保留逗号作为标题内容。
 
+- 完整标题精确匹配: `--title`
 - 标题包含关键词: `-k`, `--keyword` 或位置参数
 - 标题排除关键词: `-x`, `--exclude`, `--exclude-keyword`
 - 等级包含: `-l`, `--level`
@@ -240,7 +276,7 @@ search query --columns conference,year,title,bib diffusion
 search query --conference AAAI --exclude-columns url
 ```
 
-默认（未指定 `--columns` 或 `--exclude-columns`）：显示四个规范列。
+默认（未指定 `--columns` 或 `--exclude-columns`）：显示四个规范列。`search query --title ...` 默认把元数据输出为命令行表格，并在下方追加 BibTeX。
 
 ### BibTeX 导出
 
@@ -248,6 +284,7 @@ search query --conference AAAI --exclude-columns url
 
 ```bash
 search bib --keyword vla
+search bib --title "Paper Title"
 search bib --conference ICML --year 2024
 ```
 
@@ -255,6 +292,7 @@ search bib --conference ICML --year 2024
 
 ```bash
 search bib --keyword vla --columns title,bib
+search query --title "Paper Title"
 ```
 
 ### SQL 模板

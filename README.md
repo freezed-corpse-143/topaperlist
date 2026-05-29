@@ -1,5 +1,7 @@
 # Top Conferences Paper List
 
+[简体中文](README.zh.md)
+
 ## A
 | Conference | 2019                           | 2020                           | 2021                           | 2022                           | 2023                           | 2024                           | 2025                       | 2026                   |
 | ---------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ---------- |
@@ -230,24 +232,60 @@ level	conference	year	title
 
 Default column order: `level → conference → year → title`.
 
+### Exact Title Lookup Example
+
+Use a complete title to fetch all metadata for a paper. For example:
+
+```bash
+search query --title "Self-Training With Noisy Student Improves ImageNet Classification."
+```
+
+```text
++------------+--------------------------------------------------------------------+
+| Field      | Value                                                              |
++------------+--------------------------------------------------------------------+
+| level      | A                                                                  |
+| conference | CVPR                                                               |
+| year       | 2020                                                               |
+| title      | Self-Training With Noisy Student Improves ImageNet Classification. |
+| author     | Qizhe Xie; Minh-Thang Luong; Eduard H. Hovy; Quoc V. Le            |
+| url        | https://doi.org/10.1109/CVPR42600.2020.01070                       |
++------------+--------------------------------------------------------------------+
+
+@inproceedings{DBLP:conf/cvpr/XieLHL20,
+  author       = {Qizhe Xie and Minh-Thang Luong and Eduard H. Hovy and Quoc V. Le},
+  title        = {Self-Training With Noisy Student Improves ImageNet Classification.},
+  booktitle    = {CVPR 2020: Virtual Event / Seattle, WA, USA},
+  pages        = {10684--10695},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/CVPR42600.2020.01070},
+  doi          = {10.1109/CVPR42600.2020.01070},
+  biburl       = {https://dblp.org/rec/conf/cvpr/XieLHL20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ### Query Rules
 
 - At least one filter is required.
 - All filters are case-insensitive.
 - `--keyword` and positional arguments are equivalent.
 - Duplicate values are automatically deduplicated.
-- Comma-separated values work for all repeatable flags.
+- Comma-separated values work for repeatable flags except `--title`, which preserves commas as part of the title.
 - `level`, `conference`, `year` use exact matching (case-insensitive).
+- `--title` uses exact title matching (case-insensitive, ignoring BibTeX case-protection braces such as `{C}` and trailing `.!?` punctuation).
+- `search query --title ...` prints metadata as a terminal table, abbreviates author lists longer than 80 characters with `.etc`, then appends the raw BibTeX entry after a blank line; column selection and unknown flags are ignored for exact title lookup.
 - Title keywords use substring matching (the title string must contain the keyword).
 - Exclude filters are applied after include filters.
 - Multiple title keywords use AND logic (the title must contain ALL keywords).
 
 ### Supported Filters
 
-All options are repeatable and accept comma-separated values:
+All options are repeatable. Most accept comma-separated values; `--title` preserves commas as part of the title.
 
 | Filter | Include flag | Exclude flag |
 |--------|-------------|--------------|
+| Exact title | `--title` | - |
 | Title keyword | `-k`, `--keyword`, positional | `-x`, `--exclude`, `--exclude-keyword` |
 | Level | `-l`, `--level` | `--exclude-level` |
 | Conference | `-n`, `--conference` | `--exclude-conference` |
@@ -283,7 +321,7 @@ Canonical columns appear first in fixed order (`level → conference → year �
 search query --conference AAAI --exclude-columns url
 ```
 
-Default (no `--columns` or `--exclude-columns`): the four canonical fields.
+Default (no `--columns` or `--exclude-columns`): the four canonical fields. For `search query --title ...`, metadata is printed as a terminal table and the BibTeX entry is appended below it.
 
 ### BibTeX Export
 
@@ -291,6 +329,7 @@ Use `search bib` to print BibTeX entries using the same filters:
 
 ```bash
 search bib --keyword vla
+search bib --title "Paper Title"
 search bib --conference ICML --year 2024
 ```
 
@@ -298,6 +337,7 @@ The `bib` subcommand defaults to showing only the `bib` column. You can customiz
 
 ```bash
 search bib --keyword vla --columns title,bib
+search query --title "Paper Title"
 ```
 
 ### SQL Templates
