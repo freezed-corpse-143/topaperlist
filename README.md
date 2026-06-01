@@ -118,7 +118,7 @@ Install Rust/Cargo from https://rustup.rs/, then run the install script. The scr
 **Windows / PowerShell:**
 
 ```powershell
-.\install.ps1
+powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
 Installs to `%LOCALAPPDATA%\topaperlist` by default. Skip PATH modification:
