@@ -1,0 +1,137 @@
+Analysis for Better Resilience
+Strata: Hierarchical Context Caching for Long Context Language Model Serving
+ECHO: Efficient KV Cache Offloading with Lossless Prefetching for Serving Native Sparse Attention LLMs
+No Buffer, No Bottleneck: Efficient Zero-Copy KV Cache Offloading for Long-Context LLMs
+Simple Is Better: Multiplication May Be All You Need for LLM Request Scheduling
+Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning
+Break On Through to the Other Side: Pooling Memory Elastically with RamRyder
+MAC: Metadata Acceleration for Sustainable Performance in Big-Data Systems with CXL DRAM
+Finding NEMO: Nimble and Expressive Memory Observability
+OBASE: Object-Based Address-Space Engineering to Improve Memory Tiering
+MDK: Rethinking the Data Center Memory Reclamation Problem
+USEC: A User-Requirement-Driven Mandatory Access Control Framework for Operating Systems (Operational Systems)
+Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine
+Ichnaea: A Framework for Precise Tracking of Memory Objects
+Extracting Database Access-Control Policies from Web Applications
+iLand: An Instruction-Level Dynamic Binary Instrumentation Framework for iOS
+Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training (Operational Systems)
+Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations
+Syncopate: Efficient Multi-GPU AI Kernels via Automatic Chunk-Centric Compute-Communication Overlap
+Teaching the Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-Training (Operational Systems)
+Cocoon: A System Architecture for Differentially Private Training with Correlated Noises
+ValScope: Value-Semantics-Aware Metamorphic Testing for Detecting Logical Bugs in DBMSs
+The Abstention Protocol: RCA for Clos Fabrics (Operational Systems)
+When Sampling Lies: Trustworthy Performance Profiling for Flat Workloads with Blink (Operational Systems)
+Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration
+Controlling Opaque-Component Effects with Semisolates and Try
+SBB: Eliminating Centralized Bottlenecks in Userspace Network Runtime
+Rakaia: Scalable In-Kernel Scheduling for TCP-Based RPCs
+kSTEP: Characterization and Deterministic Testing of Linux CPU Scheduler Bugs
+What Are You (M)Waiting For: The Hidden Cost of Idle in the Hyperscale Cloud (Operational Systems)
+Xkernel: Principled Performance Tunability of Operating System Kernels
+Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms
+ECO: An AI-Driven Code Efficiency Optimizer for Warehouse Scale Computers (Operational Systems)
+StriaTrace: Efficient Tracing and Diagnosis for Online LLM Inference (Operational Systems)
+Diagnosing Performance Issues in Application-Defined Resources
+hS: Speculative Script Reordering at Subprocess Granularity
+Incr: Faster Re-Execution via Bolt-On Incrementalization
+A Compilation-Based Under-Constrained Execution Engine
+Aletheia: Automated Detection of Data Integrity Violations in Microservices
+Arctic: A Practical Lock-Free Adaptive Radix Tree
+Efficient and Scalable Synchronization via Generalized Cache Coherence
+Shaving the Peaks: Taming Tail Latency for Managed Workloads via Disaggregated Garbage Collection
+DeLFS: A Decentralized Log-Structured File System for Manycores
+Weave: Efficient Co-Scheduling for Disaggregated RL Post-Training
+RLinf: Flexible and Efficient Large-Scale Reinforcement Learning via Macro-to-Micro Flow Transformation
+DynaRL: Flexible and Dynamic Scheduling of Large-Scale Reinforcement Learning Training
+RollArt: Disaggregated Multi-Task Agentic RL Training at Scale
+Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning
+Harvesting Sub-Microsecond CXL Memory Stalls with LiteSwitch
+Duhu: Shared Disaggregated Memory for Distributed Data Processing Frameworks
+Blowfish: Elastic Virtual Machine Memory for Disaggregated Memory
+Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD Computing Resource Sharing
+FORGE: Mitigating Synchronization Amplification for Memory-Disaggregated Caching Systems
+Accelerating Confidential Databases with Crypto-Free Mappings
+JANUS: Cross-World, Cooperative Nested Virtualization for Secure Containers
+Osprey: Transparent and Efficient Virtual Memory for Secure Computation
+Nested SEV: Secure and Generic SEV Support for Nested Virtualization
+μUSB: Practical and Safe USB Driver Reuse for Arm TrustZone
+Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU–GPU Hybrid Design
+UEP: Portable Expert-Parallel Communication
+BatchGen: An Architecture for Scalable and Efficient Batch Inference
+UCCL-Tran: An Extensible Software Transport Layer for GPU Networking
+Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters (Operational Systems)
+Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training
+SPADE: Signal-Aware DAG Scheduling and Dynamic Provisioning for Data Processing Clusters
+Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources
+Bodega: Localized Linearizable Reads at Anywhere Anytime via Roster Leases
+Equal Opportunity: A Correctness Condition for Ordered Consensus
+Jetpack: Consensus Made Generally Fast
+Ambulance: Saving BFT through Racing
+SDCs in the Wild: Characterizing and Diagnosing SDC-Defective GPUs in Production LLM Training (Operational Systems)
+Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours
+OpGuard: Bitwise Alignment for Precise and General Debugging of Production LLM Training
+RobustRL: Role-Based Fault Tolerance System for RL Post-Training
+Oxbow: A Coordinated Architecture for Multi-Component File Systems
+Scaling the IO Wall with Declarative IO
+Umap: Revisiting Memory-Mapped I/O on Distributed File Systems for Efficient Matrix Access (Operational Systems)
+CoPilotIO: CPU as a Co-Pilot for GPU I/O to Free GPU Compute
+RoCE BALBOA: Service-Enhanced RDMA Offload Engine for Data Center SmartNICs
+DPA-Store: An Ordered Network Data Path Key-Value Store
+FARLock: Asymmetric RDMA Locking Made Fair
+When DDIO Meets Page Coloring: Revisiting DDIO Performance with Sepia
+Disentangling Graph Dependencies for Efficient Billion-Scale GPU Vector Search
+Efficient GPU-Centric Evolving Graph Processing at Scale
+Pluto: High-Performance, Memory-Efficient Distributed Graph Analytics through Advanced Mirroring
+The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman (Operational Systems)
+WiseCode: Breaking the Scalability Barriers of Wide-Stripe Vector Codes
+The LogDrive: Composable Durability for Cloud-Based Shared Logs
+Timelock Drive: Isolated Time-Based Defense for Storage Systems
+High Fidelity Models for Large Scale Stateful Services (Operational Systems)
+M3U: Scalable Kernel Memory Management for Efficient Post-Copy Live Migration of High-End Virtual Machines
+Compaction-Free Memory Defragmentation for Virtualization via Infinite Guest Physical Address Space
+Inside Out: A Paradigm Shift in VM Introspection
+vBOIDs: Taming Chaos via Coarse-Grained Scheduling Abstraction for Containers
+Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration
+Revisiting Pipeline Parallelism for LLM Serving
+OpenTela: Unifying Decentralized Computing Resources for Heterogeneous LLM Serving (Operational Systems)
+Kairox: Adaptive GPU-CPU Hybrid LLM Inference via Online Neuron Balancing
+ADAngel: Accelerating Arbitrary-Precision Quantized LLMs with Adaptive Computing Mapping
+Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs
+TileLoom: Automatic Dataflow Planning for Tile-Based Languages on Spatial Dataflow Accelerators
+MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs
+GraCE: Unlocking CUDA Graphs with Compiler Support for ML Workloads
+VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination
+Stop Pretending to Be Busy: A Case for Serverless Paradigms in Co-Located Batch Workloads (Operational Systems)
+Continuation-Centric Computing with Arca
+Rethinking Process Snapshots for Near-Warm Serverless Cold Starts
+Distributed Speculative Execution for Resilient Cloud Applications
+TrainMover: An Interruption-Resilient Runtime for ML Training
+MoonBright: A GPU Memory Allocator with Device-Side Page Table Materialization and Deferred TLB Coherence
+Nixie: Efficient, Transparent Temporal Multiplexing for Consumer GPUs
+μShell: A Microkernel-based FPGA Shell Architecture
+Virtualizing eBPF with Late-Binding
+DVLA: Dynamic VM Lifetime Aware Scheduling for Drifting Lifetime Distributions and Long-Lived VM Placement Debt (Operational Systems)
+PIMS: Fleet-Wide Datacenter Maintenance with Minimal Capacity Buffer and Predictable Latency (Operational Systems)
+Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba (Operational Systems)
+Mimesys: Generating Realistic Executable Testing Environments from Resource Usage Traces
+Merlin: An Efficient Adaptive Cache Eviction Algorithm via Fine-Grained Characterization
+Learning-Augmented Heuristics: Simple Yet Smart, Robust and Interpretable Cache Eviction
+WriteGuards: Distributed Storage Support for Strongly Consistent Caches
+MEGALON: Efficient Data Sharing for Partly Coherent CXL Memory
+Inference in the Shadows: Taming Memory Bandwidth Contention in Mobile LLM Inference with Sereno
+LifeLine: An Object-Page Lifetime Alignment GC Enabling Minimal Memory Copying for Mobile Devices
+Unleash All Cores: Asymmetry-Aware Scalable DNN Inference on Mobile CPUs
+Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems)
+qTPU: Hybrid Tensor Networks for Quantum-Classical Acceleration
+Acumen: A Platform for Encrypted and Accountable Collaborative Editing
+Drs.NAS: Ultra-Efficient Neural Architecture Search for Recommendation Systems
+SMARTTalk: Teaching SMART Logs to Talk to LLMs
+Svalinn: Overload Control in Large-Scale Servers with Multiple Resource Bottlenecks
+PeeR: First-Class Scheduling for Latency-Critical eBPF Applications
+TypeCraft: A Lightweight Data Type Profiler with High Resolution
+All Along the Watchtower: Achieving the Trinity of Observability in Cloud with DiTing
+jwmalloc: A Verified Memory Allocator for Mobile Devices
+Neuro-Symbolic Proof Generation for Scaling Systems Software Verification
+Spain: Succinct Proofs for Numerical Computations
+RT: Regular Types for the Streaming Shell

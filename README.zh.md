@@ -4,10 +4,10 @@
 | Conference | 2019                           | 2020                           | 2021                           | 2022                           | 2023                           | 2024                           | 2025                       | 2026                   |
 | ---------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ | ---------- |
 | AAAI       | [2019](PAPERS/A/AAAI/2019.txt)    | [2020](PAPERS/A/AAAI/2020.txt)    | [2021](PAPERS/A/AAAI/2021.txt)    | [2022](PAPERS/A/AAAI/2022.txt)    | [2023](PAPERS/A/AAAI/2023.txt)    | [2024](PAPERS/A/AAAI/2024.txt)    | [2025](PAPERS/A/AAAI/2025.txt) | [2026](PAPERS/A/AAAI/2026.txt) |
-| ACL        | [2019](PAPERS/A/ACL/2019.txt)     | [2020](PAPERS/A/ACL/2020.txt)     | [2021](PAPERS/A/ACL/2021.txt)     | [2022](PAPERS/A/ACL/2022.txt)     | [2023](PAPERS/A/ACL/2023.txt)     | [2024](PAPERS/A/ACL/2024.txt)     | [2025](PAPERS/A/ACL/2025.txt) | - |
+| ACL        | [2019](PAPERS/A/ACL/2019.txt)     | [2020](PAPERS/A/ACL/2020.txt)     | [2021](PAPERS/A/ACL/2021.txt)     | [2022](PAPERS/A/ACL/2022.txt)     | [2023](PAPERS/A/ACL/2023.txt)     | [2024](PAPERS/A/ACL/2024.txt)     | [2025](PAPERS/A/ACL/2025.txt) | [2026](PAPERS/A/ACL/2026.txt) |
 | CVPR       | [2019](PAPERS/A/CVPR/2019.txt)    | [2020](PAPERS/A/CVPR/2020.txt)    | [2021](PAPERS/A/CVPR/2021.txt)    | [2022](PAPERS/A/CVPR/2022.txt)    | [2023](PAPERS/A/CVPR/2023.txt)    | [2024](PAPERS/A/CVPR/2024.txt)    | [2025](PAPERS/A/CVPR/2025.txt) | [2026](PAPERS/A/CVPR/2026.txt) |
 | ICCV       | [2019](PAPERS/A/ICCV/2019.txt)    | -                              | [2021](PAPERS/A/ICCV/2021.txt)    | -                              | [2023](PAPERS/A/ICCV/2023.txt)    | -                              | [2025](PAPERS/A/ICCV/2025.txt) | - |
-| ICDE       | [2019](PAPERS/A/ICDE/2019.txt)    | [2020](PAPERS/A/ICDE/2020.txt)    | [2021](PAPERS/A/ICDE/2021.txt)    | [2022](PAPERS/A/ICDE/2022.txt)    | [2023](PAPERS/A/ICDE/2023.txt)    | [2024](PAPERS/A/ICDE/2024.txt)    | [2025](PAPERS/A/ICDE/2025.txt) | - |
+| ICDE       | [2019](PAPERS/A/ICDE/2019.txt)    | [2020](PAPERS/A/ICDE/2020.txt)    | [2021](PAPERS/A/ICDE/2021.txt)    | [2022](PAPERS/A/ICDE/2022.txt)    | [2023](PAPERS/A/ICDE/2023.txt)    | [2024](PAPERS/A/ICDE/2024.txt)    | [2025](PAPERS/A/ICDE/2025.txt) | [2026 ~](PAPERS/A/ICDE/2026.txt) |
 | ICML       | [2019](PAPERS/A/ICML/2019.txt)    | [2020](PAPERS/A/ICML/2020.txt)    | [2021](PAPERS/A/ICML/2021.txt)    | [2022](PAPERS/A/ICML/2022.txt)    | [2023](PAPERS/A/ICML/2023.txt)    | [2024](PAPERS/A/ICML/2024.txt)    | [2025](PAPERS/A/ICML/2025.txt) | [2026](PAPERS/A/ICML/2026.txt) |
 | NeurIPS    | [2019](PAPERS/A/NeurIPS/2019.txt) | [2020](PAPERS/A/NeurIPS/2020.txt) | [2021](PAPERS/A/NeurIPS/2021.txt) | [2022](PAPERS/A/NeurIPS/2022.txt) | [2023](PAPERS/A/NeurIPS/2023.txt) | [2024](PAPERS/A/NeurIPS/2024.txt) | [2025](PAPERS/A/NeurIPS/2025.txt) | - |
 | SIGKDD     | [2019](PAPERS/A/SIGKDD/2019.txt)  | [2020](PAPERS/A/SIGKDD/2020.txt)  | [2021](PAPERS/A/SIGKDD/2021.txt)  | [2022](PAPERS/A/SIGKDD/2022.txt)  | [2023](PAPERS/A/SIGKDD/2023.txt)  | [2024](PAPERS/A/SIGKDD/2024.txt)  | [2025](PAPERS/A/SIGKDD/2025.txt) | - |
@@ -16,27 +16,27 @@
 | ICLR | [2019](PAPERS/A/ICLR/2019.txt) | [2020](PAPERS/A/ICLR/2020.txt) | [2021](PAPERS/A/ICLR/2021.txt) | [2022](PAPERS/A/ICLR/2022.txt) | [2023](PAPERS/A/ICLR/2023.txt) | [2024](PAPERS/A/ICLR/2024.txt) | [2025](PAPERS/A/ICLR/2025.txt) | [2026](PAPERS/A/ICLR/2026.txt) |
 | ICSE | [2019](PAPERS/A/ICSE/2019.txt) | [2020](PAPERS/A/ICSE/2020.txt) | [2021](PAPERS/A/ICSE/2021.txt) | [2022](PAPERS/A/ICSE/2022.txt) | [2023](PAPERS/A/ICSE/2023.txt) | [2024](PAPERS/A/ICSE/2024.txt) | [2025](PAPERS/A/ICSE/2025.txt) | [2026](PAPERS/A/ICSE/2026.txt) |
 | ASE | [2019](PAPERS/A/ASE/2019.txt) | [2020](PAPERS/A/ASE/2020.txt) | [2021](PAPERS/A/ASE/2021.txt) | [2022](PAPERS/A/ASE/2022.txt) | [2023](PAPERS/A/ASE/2023.txt) | [2024](PAPERS/A/ASE/2024.txt) | [2025](PAPERS/A/ASE/2025.txt) | - |
-| OSDI | - | [2020](PAPERS/A/OSDI/2020.txt) | [2021](PAPERS/A/OSDI/2021.txt) | [2022](PAPERS/A/OSDI/2022.txt) | [2023](PAPERS/A/OSDI/2023.txt) | [2024](PAPERS/A/OSDI/2024.txt) | [2025](PAPERS/A/OSDI/2025.txt) | - |
+| OSDI | - | [2020](PAPERS/A/OSDI/2020.txt) | [2021](PAPERS/A/OSDI/2021.txt) | [2022](PAPERS/A/OSDI/2022.txt) | [2023](PAPERS/A/OSDI/2023.txt) | [2024](PAPERS/A/OSDI/2024.txt) | [2025](PAPERS/A/OSDI/2025.txt) | [2026 ~](PAPERS/A/OSDI/2026.txt) |
 | PPoPP | |  | [2021](PAPERS/A/PPoPP/2021.txt) | [2022](PAPERS/A/PPoPP/2022.txt) | [2023](PAPERS/A/PPoPP/2023.txt) | [2024](PAPERS/A/PPoPP/2024.txt) | [2025](PAPERS/A/PPoPP/2025.txt) | [2026](PAPERS/A/PPoPP/2026.txt) |
 | FAST | |  | [2021](PAPERS/A/FAST/2021.txt) | [2022](PAPERS/A/FAST/2022.txt) | [2023](PAPERS/A/FAST/2023.txt) | [2024](PAPERS/A/FAST/2024.txt) | [2025](PAPERS/A/FAST/2025.txt) | [2026](PAPERS/A/FAST/2026.txt) |
 | DAC | |  | [2021](PAPERS/A/DAC/2021.txt) | [2022](PAPERS/A/DAC/2022.txt) | [2023](PAPERS/A/DAC/2023.txt) | [2024](PAPERS/A/DAC/2024.txt) | [2025](PAPERS/A/DAC/2025.txt) | [2026](PAPERS/A/DAC/2026.txt) |
 | HPCA | |  | [2021](PAPERS/A/HPCA/2021.txt) | [2022](PAPERS/A/HPCA/2022.txt) | [2023](PAPERS/A/HPCA/2023.txt) | [2024](PAPERS/A/HPCA/2024.txt) | [2025](PAPERS/A/HPCA/2025.txt) | [2026](PAPERS/A/HPCA/2026.txt) |
 | SC | |  | [2021](PAPERS/A/SC/2021.txt) | [2022](PAPERS/A/SC/2022.txt) | [2023](PAPERS/A/SC/2023.txt) | [2024](PAPERS/A/SC/2024.txt) | [2025](PAPERS/A/SC/2025.txt) | - |
 | ASPLOS | |  | [2021](PAPERS/A/ASPLOS/2021.txt) | [2022](PAPERS/A/ASPLOS/2022.txt) | [2023](PAPERS/A/ASPLOS/2023.txt) | [2024](PAPERS/A/ASPLOS/2024.txt) | [2025](PAPERS/A/ASPLOS/2025.txt) | [2026](PAPERS/A/ASPLOS/2026.txt) |
-| ISCA | |  | [2021](PAPERS/A/ISCA/2021.txt) | [2022](PAPERS/A/ISCA/2022.txt) | [2023](PAPERS/A/ISCA/2023.txt) | [2024](PAPERS/A/ISCA/2024.txt) | [2025](PAPERS/A/ISCA/2025.txt) | - |
+| ISCA | |  | [2021](PAPERS/A/ISCA/2021.txt) | [2022](PAPERS/A/ISCA/2022.txt) | [2023](PAPERS/A/ISCA/2023.txt) | [2024](PAPERS/A/ISCA/2024.txt) | [2025](PAPERS/A/ISCA/2025.txt) | [2026 ~](PAPERS/A/ISCA/2026.txt) |
 | USENIX-ATC | |  | [2021](PAPERS/A/USENIX-ATC/2021.txt) | [2022](PAPERS/A/USENIX-ATC/2022.txt) | [2023](PAPERS/A/USENIX-ATC/2023.txt) | [2024](PAPERS/A/USENIX-ATC/2024.txt) | [2025](PAPERS/A/USENIX-ATC/2025.txt) | - |
 | EuroSys | |  | [2021](PAPERS/A/EuroSys/2021.txt) | [2022](PAPERS/A/EuroSys/2022.txt) | [2023](PAPERS/A/EuroSys/2023.txt) | [2024](PAPERS/A/EuroSys/2024.txt) | [2025](PAPERS/A/EuroSys/2025.txt) | [2026](PAPERS/A/EuroSys/2026.txt) |
-| HPDC | |  | [2021](PAPERS/A/HPDC/2021.txt) | [2022](PAPERS/A/HPDC/2022.txt) | [2023](PAPERS/A/HPDC/2023.txt) | [2024](PAPERS/A/HPDC/2024.txt) | [2025](PAPERS/A/HPDC/2025.txt) | - |
-| SIGCOMM | |  | [2021](PAPERS/A/SIGCOMM/2021.txt) | [2022](PAPERS/A/SIGCOMM/2022.txt) | [2023](PAPERS/A/SIGCOMM/2023.txt) | [2024](PAPERS/A/SIGCOMM/2024.txt) | [2025](PAPERS/A/SIGCOMM/2025.txt) | - |
+| HPDC | |  | [2021](PAPERS/A/HPDC/2021.txt) | [2022](PAPERS/A/HPDC/2022.txt) | [2023](PAPERS/A/HPDC/2023.txt) | [2024](PAPERS/A/HPDC/2024.txt) | [2025](PAPERS/A/HPDC/2025.txt) | [2026 ~](PAPERS/A/HPDC/2026.txt) |
+| SIGCOMM | |  | [2021](PAPERS/A/SIGCOMM/2021.txt) | [2022](PAPERS/A/SIGCOMM/2022.txt) | [2023](PAPERS/A/SIGCOMM/2023.txt) | [2024](PAPERS/A/SIGCOMM/2024.txt) | [2025](PAPERS/A/SIGCOMM/2025.txt) | [2026 ~](PAPERS/A/SIGCOMM/2026.txt) |
 | MobiCom | |  | [2021](PAPERS/A/MobiCom/2021.txt) | [2022](PAPERS/A/MobiCom/2022.txt) | [2023](PAPERS/A/MobiCom/2023.txt) | [2024](PAPERS/A/MobiCom/2024.txt) | [2025](PAPERS/A/MobiCom/2025.txt) | - |
-| INFOCOM | |  | [2021](PAPERS/A/INFOCOM/2021.txt) | [2022](PAPERS/A/INFOCOM/2022.txt) | [2023](PAPERS/A/INFOCOM/2023.txt) | [2024](PAPERS/A/INFOCOM/2024.txt) | [2025](PAPERS/A/INFOCOM/2025.txt) | - |
-| NSDI | |  | [2021](PAPERS/A/NSDI/2021.txt) | [2022](PAPERS/A/NSDI/2022.txt) | [2023](PAPERS/A/NSDI/2023.txt) | [2024](PAPERS/A/NSDI/2024.txt) | [2025](PAPERS/A/NSDI/2025.txt) | - |
+| INFOCOM | |  | [2021](PAPERS/A/INFOCOM/2021.txt) | [2022](PAPERS/A/INFOCOM/2022.txt) | [2023](PAPERS/A/INFOCOM/2023.txt) | [2024](PAPERS/A/INFOCOM/2024.txt) | [2025](PAPERS/A/INFOCOM/2025.txt) | [2026 ~](PAPERS/A/INFOCOM/2026.txt) |
+| NSDI | |  | [2021](PAPERS/A/NSDI/2021.txt) | [2022](PAPERS/A/NSDI/2022.txt) | [2023](PAPERS/A/NSDI/2023.txt) | [2024](PAPERS/A/NSDI/2024.txt) | [2025](PAPERS/A/NSDI/2025.txt) | [2026 ~](PAPERS/A/NSDI/2026.txt) |
 | CSS | |  | [2021](PAPERS/A/CSS/2021.txt) | [2022](PAPERS/A/CSS/2022.txt) | [2023](PAPERS/A/CSS/2023.txt) | [2024](PAPERS/A/CSS/2024.txt) | [2025](PAPERS/A/CSS/2025.txt) | - |
 | EUROCRYPT | |  | [2021](PAPERS/A/EUROCRYPT/2021.txt) | [2022](PAPERS/A/EUROCRYPT/2022.txt) | [2023](PAPERS/A/EUROCRYPT/2023.txt) | [2024](PAPERS/A/EUROCRYPT/2024.txt) | [2025](PAPERS/A/EUROCRYPT/2025.txt) | [2026](PAPERS/A/EUROCRYPT/2026.txt) |
-| S&P | |  | [2021](PAPERS/A/S&P/2021.txt) | [2022](PAPERS/A/S&P/2022.txt) | [2023](PAPERS/A/S&P/2023.txt) | [2024](PAPERS/A/S&P/2024.txt) | [2025](PAPERS/A/S&P/2025.txt) | - |
+| S&P | |  | [2021](PAPERS/A/S&P/2021.txt) | [2022](PAPERS/A/S&P/2022.txt) | [2023](PAPERS/A/S&P/2023.txt) | [2024](PAPERS/A/S&P/2024.txt) | [2025](PAPERS/A/S&P/2025.txt) | [2026 ~](PAPERS/A/S&P/2026.txt) |
 | CRYPTO | |  | [2021](PAPERS/A/CRYPTO/2021.txt) | [2022](PAPERS/A/CRYPTO/2022.txt) | [2023](PAPERS/A/CRYPTO/2023.txt) | [2024](PAPERS/A/CRYPTO/2024.txt) | - | - |
-| USENIX-Security | |  | [2021](PAPERS/A/USENIX-Security/2021.txt) | [2022](PAPERS/A/USENIX-Security/2022.txt) | [2023](PAPERS/A/USENIX-Security/2023.txt) | [2024](PAPERS/A/USENIX-Security/2024.txt) | [2025](PAPERS/A/USENIX-Security/2025.txt) | - |
-| NDSS | |  | [2021](PAPERS/A/NDSS/2021.txt) | [2022](PAPERS/A/NDSS/2022.txt) | [2023](PAPERS/A/NDSS/2023.txt) | [2024](PAPERS/A/NDSS/2024.txt) | [2025](PAPERS/A/NDSS/2025.txt) | - |
+| USENIX-Security | |  | [2021](PAPERS/A/USENIX-Security/2021.txt) | [2022](PAPERS/A/USENIX-Security/2022.txt) | [2023](PAPERS/A/USENIX-Security/2023.txt) | [2024](PAPERS/A/USENIX-Security/2024.txt) | [2025](PAPERS/A/USENIX-Security/2025.txt) | [2026 ~](PAPERS/A/USENIX-Security/2026.txt) |
+| NDSS | |  | [2021](PAPERS/A/NDSS/2021.txt) | [2022](PAPERS/A/NDSS/2022.txt) | [2023](PAPERS/A/NDSS/2023.txt) | [2024](PAPERS/A/NDSS/2024.txt) | [2025](PAPERS/A/NDSS/2025.txt) | [2026 ~](PAPERS/A/NDSS/2026.txt) |
 | PLDI | |  | [2021](PAPERS/A/PLDI/2021.txt) | [2022](PAPERS/A/PLDI/2022.txt) | [2023](PAPERS/A/PLDI/2023.txt) | [2024](PAPERS/A/PLDI/2024.txt) | [2025](PAPERS/A/PLDI/2025.txt) | [2026](PAPERS/A/PLDI/2026.txt) |
 | POPL | |  | [2021](PAPERS/A/POPL/2021.txt) | [2022](PAPERS/A/POPL/2022.txt) | [2023](PAPERS/A/POPL/2023.txt) | [2024](PAPERS/A/POPL/2024.txt) | [2025](PAPERS/A/POPL/2025.txt) | [2026](PAPERS/A/POPL/2026.txt) |
 | FSE | |  | [2021](PAPERS/A/FSE/2021.txt) | [2022](PAPERS/A/FSE/2022.txt) | [2023](PAPERS/A/FSE/2023.txt) | [2024](PAPERS/A/FSE/2024.txt) | [2025](PAPERS/A/FSE/2025.txt) | [2026](PAPERS/A/FSE/2026.txt) |
@@ -45,13 +45,13 @@
 | ISSTA | |  | [2021](PAPERS/A/ISSTA/2021.txt) | [2022](PAPERS/A/ISSTA/2022.txt) | [2023](PAPERS/A/ISSTA/2023.txt) | [2024](PAPERS/A/ISSTA/2024.txt) | [2025](PAPERS/A/ISSTA/2025.txt) | - |
 | FM | |  | [2021](PAPERS/A/FM/2021.txt) | - | [2023](PAPERS/A/FM/2023.txt) | [2024](PAPERS/A/FM/2024.txt) | - | - |
 | VLDB |                                  |                                  | [2021](PAPERS/A/VLDB/2021.txt) | [2022](PAPERS/A/VLDB/2022.txt) | [2023](PAPERS/A/VLDB/2023.txt) | [2024](PAPERS/A/VLDB/2024.txt) | [2025](PAPERS/A/VLDB/2025.txt) | [2026](PAPERS/A/VLDB/2026.txt) |
-| STOC | |  | [2021](PAPERS/A/STOC/2021.txt) | [2022](PAPERS/A/STOC/2022.txt) | [2023](PAPERS/A/STOC/2023.txt) | [2024](PAPERS/A/STOC/2024.txt) | [2025](PAPERS/A/STOC/2025.txt) | - |
+| STOC | |  | [2021](PAPERS/A/STOC/2021.txt) | [2022](PAPERS/A/STOC/2022.txt) | [2023](PAPERS/A/STOC/2023.txt) | [2024](PAPERS/A/STOC/2024.txt) | [2025](PAPERS/A/STOC/2025.txt) | [2026 ~](PAPERS/A/STOC/2026.txt) |
 | SODA | |  | [2021](PAPERS/A/SODA/2021.txt) | [2022](PAPERS/A/SODA/2022.txt) | [2023](PAPERS/A/SODA/2023.txt) | [2024](PAPERS/A/SODA/2024.txt) | [2025](PAPERS/A/SODA/2025.txt) | [2026](PAPERS/A/SODA/2026.txt) |
-| CAV | |  | [2021](PAPERS/A/CAV/2021.txt) | [2022](PAPERS/A/CAV/2022.txt) | [2023](PAPERS/A/CAV/2023.txt) | [2024](PAPERS/A/CAV/2024.txt) | [2025](PAPERS/A/CAV/2025.txt) | - |
+| CAV | |  | [2021](PAPERS/A/CAV/2021.txt) | [2022](PAPERS/A/CAV/2022.txt) | [2023](PAPERS/A/CAV/2023.txt) | [2024](PAPERS/A/CAV/2024.txt) | [2025](PAPERS/A/CAV/2025.txt) | [2026 ~](PAPERS/A/CAV/2026.txt) |
 | FOCS | |  | [2021](PAPERS/A/FOCS/2021.txt) | [2022](PAPERS/A/FOCS/2022.txt) | [2023](PAPERS/A/FOCS/2023.txt) | [2024](PAPERS/A/FOCS/2024.txt) | [2025](PAPERS/A/FOCS/2025.txt) | - |
 | LICS | |  | [2021](PAPERS/A/LICS/2021.txt) | [2022](PAPERS/A/LICS/2022.txt) | [2023](PAPERS/A/LICS/2023.txt) | [2024](PAPERS/A/LICS/2024.txt) | [2025](PAPERS/A/LICS/2025.txt) | - |
 | ACM MM | |  | [2021](PAPERS/A/ACMMM/2021.txt) | [2022](PAPERS/A/ACMMM/2022.txt) | [2023](PAPERS/A/ACMMM/2023.txt) | [2024](PAPERS/A/ACMMM/2024.txt) | [2025](PAPERS/A/ACMMM/2025.txt) | - |
-| SIGGRAPH | |  | [2021](PAPERS/A/SIGGRAPH/2021.txt) | [2022](PAPERS/A/SIGGRAPH/2022.txt) | [2023](PAPERS/A/SIGGRAPH/2023.txt) | [2024](PAPERS/A/SIGGRAPH/2024.txt) | [2025](PAPERS/A/SIGGRAPH/2025.txt) | - |
+| SIGGRAPH | |  | [2021](PAPERS/A/SIGGRAPH/2021.txt) | [2022](PAPERS/A/SIGGRAPH/2022.txt) | [2023](PAPERS/A/SIGGRAPH/2023.txt) | [2024](PAPERS/A/SIGGRAPH/2024.txt) | [2025](PAPERS/A/SIGGRAPH/2025.txt) | [2026 ~](PAPERS/A/SIGGRAPH/2026.txt) |
 | VR | |  | [2021](PAPERS/A/VR/2021.txt) | [2022](PAPERS/A/VR/2022.txt) | [2023](PAPERS/A/VR/2023.txt) | [2024](PAPERS/A/VR/2024.txt) | [2025](PAPERS/A/VR/2025.txt) | - |
 | IEEE VIS | |  | [2021](PAPERS/A/VIS/2021.txt) | [2022](PAPERS/A/VIS/2022.txt) | [2023](PAPERS/A/VIS/2023.txt) | [2024](PAPERS/A/VIS/2024.txt) | [2025](PAPERS/A/VIS/2025.txt) | - |
 | CSCW | |  | [2021](PAPERS/A/CSCW/2021.txt) | [2022](PAPERS/A/CSCW/2022.txt) | [2023](PAPERS/A/CSCW/2023.txt) | [2024](PAPERS/A/CSCW/2024.txt) | [2025](PAPERS/A/CSCW/2025.txt) | - |
@@ -68,21 +68,22 @@
 | EMNLP      | [2019](PAPERS/B/EMNLP/2019.txt) | [2020](PAPERS/B/EMNLP/2020.txt) | [2021](PAPERS/B/EMNLP/2021.txt) | [2022](PAPERS/B/EMNLP/2022.txt) | [2023](PAPERS/B/EMNLP/2023.txt) | [2024](PAPERS/B/EMNLP/2024.txt) | [2025](PAPERS/B/EMNLP/2025.txt) | - |
 | NAACL | [2019](PAPERS/B/NAACL/2019.txt) | - | [2021](PAPERS/B/NAACL/2021.txt) | [2022](PAPERS/B/NAACL/2022.txt) | - | [2024](PAPERS/B/NAACL/2024.txt) | [2025](PAPERS/B/NAACL/2025.txt) | - |
 | COLING | - | [2020](PAPERS/B/COLING/2020.txt) | - | [2022](PAPERS/B/COLING/2022.txt) | - | - | [2025](PAPERS/B/COLING/2025.txt) | - |
-| IJCAI | [2019](PAPERS/A/IJCAI/2019.txt) | [2020](PAPERS/A/IJCAI/2020.txt) | [2021](PAPERS/A/IJCAI/2021.txt) | [2022](PAPERS/A/IJCAI/2022.txt) | [2023](PAPERS/A/IJCAI/2023.txt) | [2024](PAPERS/A/IJCAI/2024.txt) | [2025](PAPERS/A/IJCAI/2025.txt) | - |
+| IJCAI | [2019](PAPERS/A/IJCAI/2019.txt) | [2020](PAPERS/A/IJCAI/2020.txt) | [2021](PAPERS/A/IJCAI/2021.txt) | [2022](PAPERS/A/IJCAI/2022.txt) | [2023](PAPERS/A/IJCAI/2023.txt) | [2024](PAPERS/A/IJCAI/2024.txt) | [2025](PAPERS/A/IJCAI/2025.txt) | [2026 ~](PAPERS/A/IJCAI/2026.txt) |
 
 ---
 
-**Notes**:
+**说明**：
 
-- The `-` symbol indicates that no file exists for that year.
-- Each line in the txt file is the title of a paper, auto-generated from the corresponding jsonl file.
+- `-` 表示该年份尚无文件。
+- `~` 表示文件存在但仅包含基本信息（标题 + 作者），尚未完善 BibTeX/DOI。
+- txt 文件每行为一篇论文的标题，由对应的 jsonl 文件自动生成。
 
 
-## How to Search?
+## 搜索工具
 
-The `search` CLI tool reads paper metadata from a SQLite database, built from JSONL files under the `PAPERS/` directory.
+`search` CLI 工具从 SQLite 数据库中查询论文元数据，数据库由 `PAPERS/` 目录下的 JSONL 文件构建。
 
-### Data layout
+### 数据布局
 
 ```text
 PAPERS/<level>/<conference>/<year>.txt    ← 论文标题（从 jsonl 生成，一行一篇）
@@ -177,7 +178,7 @@ RUST_LOG=debug cargo run -- query --conference ICML diffusion
 | `PAPERS_DB_PATH` | `<exe>/papers.db` | SQLite 数据库文件路径 |
 | `RUST_LOG` | (关闭) | 设为 `debug` 启用调试日志 |
 
-### Output format
+### 输出格式
 
 每条匹配记录以 tab 分隔输出：
 
@@ -185,7 +186,7 @@ RUST_LOG=debug cargo run -- query --conference ICML diffusion
 level	conference	year	title
 ```
 
-默认列顺序：`level -> conference -> year -> title`
+默认列顺序：`level → conference → year → title`
 
 ### 完整标题查询示例
 
@@ -307,7 +308,7 @@ search query --title "Paper Title"
 
 筛选条件通过嵌套子查询组合，示例见 `search/sql/query.sql`。
 
-### Examples
+### 使用示例
 
 ```bash
 search build-db

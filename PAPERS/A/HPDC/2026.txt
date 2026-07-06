@@ -1,0 +1,40 @@
+STAR: Decode-Phase Rescheduling for LLM Inference
+PKAS: Predictive KVCache-Aware Scheduling
+Omnia: RAG Serving through Speculative Scheduling
+Scaling Attention Beyond GPUs for LLM Inference
+Accelerating Block Low-Rank Foundation Model Inference on Memory-Constrained GPUs
+MoE-Lens: High-Throughput MoE LLM Inference at the Hardware Limit
+UniEP: Unified Expert-Parallel MoE MegaKernel for Training
+ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism
+TACO: Communication Compression for Tensor-Parallel LLM Training
+SYCL++: Unified Programming for Heterogeneous Supercomputers at Scale
+Floating Point Virtualization With Tiny Numbers
+FAME: Framework for Multi-Agent RL on Heterogeneous Platforms
+CARBS: Compiler Autotuning via Randomized Biased Search (Best paper nominee)
+POLAR-PIC: Matrixized PIC for Plasma Physics
+A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States
+Full-Core Fluid-Structure-Interaction Simulation of Nuclear Reactor
+Endeavor: PairHMM for DNA Variant Detection at Genome Scale
+OPAL: On-demand Progressive Accelerated Scientific Lossy Compression
+TZ: High-Ratio Scientific Data Compression on GPUs
+QProR: An Efficient Framework for Quantity-of-Interest Based Progressive Retrieval with Guaranteed Error Control
+Bridging Information Theory and Practice for Scientific Lossy Compression
+SAGA: State-Aware Graph Analytics for Combinatorial Optimization on Dynamic Graphs
+Efficient Tracking of Communities on Evolving Graphs with Leiden
+νMG-LPA and νBM-LPA: Memory Efficient GPU-based Label Propagation Algorithms (LPA) for Community Detection
+A High-Performance Persistent Transactional Memory System via Cooperative Concurrency
+GLANCED-IO: Taming I/O Optimization for Deep Learning at Scale
+Merkle-Tree Weight Snapshot Deduplication for NN Training Provenance
+Pome: Parallelizing I/Os and Computations for LSM-tree Storage (Best paper nominee)
+Enabling High-Utilization and Low-Contention FaaS: A Request-Level Resource Provisioning Approach
+Cremes: Cost-Efficient Microservice Execution on Spot Instances
+Krysha: Cost-Efficient Geo-Distributed Serverless Microservices
+SIVF: GPU-Resident IVF Index for Streaming Vector Analytics
+BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale
+ATLAS: Out-of-Core Inference for Billion-Scale GNNs
+GICC: GPU-Initiated Communication and Coordination Runtime
+When RDMA Goes Long-Haul: Characterization, Modeling, and Verbs-Level Emulation with Implications for Federated Learning
+JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient
+PowerQuant: Architecture-Agnostic GPU Power Estimation via Quantile Regression (Best paper nominee)
+DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse
+Dynamo-MoE: Accelerating Sparse Large Model Inference
