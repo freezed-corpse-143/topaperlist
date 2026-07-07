@@ -1,0 +1,125 @@
+Computing Asymptotic Bounds for Small Roots in Coppersmith's Method via Sumset Theory
+New Results on the φ-Hiding Assumption and Factoring Related RSA Moduli
+PEGASIS: Practical Effective Class Group Action using 4-Dimensional Isogenies
+Deterministic Algorithms for Class Group Actions
+More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials
+KLPT2: Algebraic Pathfinding in Dimension Two and Applications
+Sample Efficient Search to Decision for kLIN
+Error Floor Prediction with Markov Models for QC-MDPC Codes
+Highway to Hull: An Algorithm for Solving the General Matrix Code Equivalence Problem
+Stationary Syndrome Decoding for Improved PCGs
+On Gaussian Sampling for q-ary Lattices and Linear Codes with Lee Weight
+Wagner's Algorithm Provably Runs in Subexponential Time for rmSIS∞
+Refined Attack on LWE with Hints: Constructing Lattice via Gaussian Elimination
+Uncompressing Dilithium's Public Key
+Assessing the Impact of a Variant of MATZOV's Dual Attack on Kyber
+Improved Lattice Blind Signatures from Recycled Entropy
+Compact Lattice Signatures via Iterative Rejection Sampling
+The Algebraic One-More MISIS Problem and Applications to Threshold Signatures
+Uniform Black-Box Separations via Non-malleable Extractors
+Hardness Along the Boundary: Towards One-Way Functions from the Worst-Case Hardness of Time-Bounded Kolmogorov Complexity
+Pseudorandomness Properties of Random Reversible Circuits
+Efficient Randomized Strong 2-Source Non-malleable Extractor for Any Linear Min-Entropy
+State Machine Replication Among Strangers, Fast and Self-sufficient
+Leader Election with Poly-Logarithmic Communication Per Party
+High-Throughput Permissionless Blockchain Consensus Under Realistic Network Assumptions
+Nearly Optimal Parallel Broadcast in the Plain Public Key Model
+Foundations of Platform-Assisted Auctions
+Merkle Mountain Ranges are Optimal: On Witness Update Frequency for Cryptographic Accumulators
+Traceable Verifiable Random Functions
+How to Model Unitary Oracles
+Translating Between the Common Haar Random State Model and the Unitary Model
+Pseudorandom Unitaries in the Haar Random Oracle Model
+Quantum One-Time Protection of Any Randomized Algorithm
+On One-Shot Signatures, Quantum vs. Classical Binding, and Obfuscating Permutations
+Reducing the Number of Qubits in Quantum Factoring
+A Quasi-polynomial Time Algorithm for the Extrapolated Dihedral Coset Problem over Power-of-Two Moduli
+Quantum State Group Actions
+Quantum Lifting for Invertible Permutations and Ideal Ciphers
+LWE with Quantum Amplitudes: Algorithm, Hardness, and Oblivious Sampling
+Quantum Cryptography and Meta-Complexity
+On the Power of Oblivious State Preparation
+Succinct Arguments for BatchQMA and Friends Under 8 Rounds
+Compiled Nonlocal Games from any Trapdoor Claw-Free Function
+Registered ABE and Adaptively-Secure Broadcast Encryption from Succinct LWE
+PKE and ABE with Collusion-Resistant Secure Key Leasing
+Efficiently-Thresholdizable Batched Identity Based Encryption, with Applications
+A Note on Adaptive Security in Hierarchical Identity-Based Encryption
+Dynamic Bounded-Collusion Streaming Functional Encryption from Minimal Assumptions
+Tightly Secure Inner-Product Functional Encryption Revisited: Compact, Lattice-Based, and More
+Unbounded Distributed Broadcast Encryption and Registered ABE from Succinct LWE
+Key-Homomorphic Computations for RAM: Fully Succinct Randomised Encodings and More
+Resolving the Efficiency-Utility Dilemma of Threshold Linearly Homomorphic Encryption via Message-Space Adapter
+General Functional Bootstrapping Using CKKS
+Homomorphic Encryption for Large Integers from Nested Residue Number Systems
+Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE
+Sometimes-Decryptable Homomorphic Encryption from Sub-exponential DDH
+Anamorphic-Resistant Encryption; Or Why the Encryption Debate is Still Alive
+Anamorphic Resistant Encryption: the Good, the Bad and the Ugly
+A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications
+Verifiable Decapsulation: Recognizing Faulty Implementations of Post-quantum KEMs
+Hybrid Obfuscated Key Exchange and KEMs
+How to Tolerate Typos in Strong Asymmetric PAKE
+Asymptotically Optimal Adaptive Asynchronous Common Coin and DKG with Silent Setup
+The Round Complexity of Black-Box Post-quantum Secure Computation
+Constant-Round Asynchronous MPC with Optimal Resilience and Linear Communication
+Towards Building Scalable Constant-Round MPC from Minimal Assumptions via Round Collapsing
+Actively Secure MPC in the Dishonest Majority Setting
+Multiparty Distributed Point Functions
+Computationally Differentially Private Inner-Product Protocols Imply Oblivious Transfer
+Efficient Pseudorandom Correlation Generators over Z/p^k Z
+Additive Randomized Encodings from Public Key Encryption
+Computationally Efficient Asynchronous MPC with Linear Communication and Low Additive Overhead
+Strong Secret Sharing with Snitching
+How to Make Any Computational Secret Sharing Scheme Adaptively Secure
+Fully Anonymous Secret Sharing
+A Unified Framework for Succinct Garbling from Homomorphic Secret Sharing
+Silent Circuit Relinearisation: Sublinear-Size (Boolean and Arithmetic) Garbled Circuits from DCR
+Bitwise Garbling Schemes - A Model with 3/2 lambda-Bit Lower Bound of Ciphertexts
+Omega(1/lambda)-Rate Boolean Garbling Scheme from Generic Groups
+Row Reduction Techniques for n-Party Garbling
+Multiparty Garbling from OT with Linear Scaling and RAM Support
+Lower Bounds for Garbled Circuits from Shannon-Type Information Inequalities
+Rerandomizable Garbling, Revisited
+Authenticated BitGC for Actively Secure Rate-One 2PC
+Finding and Protecting the Weakest Link - On Side-Channel Attacks on y in Masked ML-DSA
+Leakage-Resilient Circuits Against NC1, Revisited
+Key Recovery from Side-Channel Power Analysis Attacks on Non-SIMD HQC Decryption
+Crowhammer: Full Key Recovery Attack on Falcon with a Single Rowhammer Bit Flip
+Guess-and-Determine Rebound: Applications to Key Collisions on AES
+Breaking the IEEE Encryption Standard XCB-AES in Two Queries
+New Collision Attacks on Round-Reduced SHA-512
+How to Recover the Full Plaintext of XCB
+Triangulating Meet-in-the-Middle Attack
+Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks
+Improved Resultant Attack Against Arithmetization-Oriented Primitives
+Cryptographic Treatment of Key Control Security - In Light of NIST SP 800-108
+The Exact Multi-User Security of Key-Alternating Feistel Ciphers with a Single Permutation
+Tweakable Permutation-Based Luby-Rackoff Constructions
+Enhancing Provable Security and Efficiency of Permutation-Based DRBGs
+Integral Resistance of Block Ciphers with Key Whitening by Modular Addition
+Transistor: a TFHE-Friendly Stream Cipher
+A Fully-Adaptive Threshold Partially-Oblivious PRF
+Adaptive Security for Constrained PRFs
+Succinct PPRFs via Memory-Tight Reductions
+Pseudorandom Obfuscation and Applications
+How to Prove False Statements: Practical Attacks on Fiat-Shamir
+Towards a White-Box Secure Fiat-Shamir Transformation
+Exclusive Ownership of Fiat-Shamir Signatures: ML-DSA, SQIsign, LESS, and More
+At the Top of the Hypercube - Better Size-Time Tradeoffs for Hash-Based Signatures
+Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis for VOLE-in-the-Head Signatures
+Blind Signatures from Proofs of Inequality
+A Complete Security Proof of SQIsign
+Schnorr Signatures are Tightly Secure in the ROM Under a Non-interactive Assumption
+T-Spoon: Tightly Secure Two-Round Multi-signatures with Key Aggregation
+Server-Aided Anonymous Credentials
+Multi-Holder Anonymous Credentials from BBS Signatures
+Improved Attacks for SNOVA by Exploiting Stability Under a Group Action
+Adaptively Secure Three-Round Threshold Schnorr Signatures from DDH
+Unmasking TRaccoon: A Lattice-Based Threshold Signature with An Efficient Identifiable Abort Protocol
+A Plausible Attack on the Adaptive Security of Threshold Schnorr Signatures
+On the Adaptive Security of FROST
+Polynomial Commitments for Galois Rings and Applications to SNARKs Over Z_{2^k}
+DewTwo: A Transparent PCS with Quasi-Linear Prover, Logarithmic Verifier and 4.5KB Proofs from Falsifiable Assumptions
+On Extractability of the KZG Family of Polynomial Commitment Schemes
+Functional Commitments and SNARGs for P/poly from SIS
